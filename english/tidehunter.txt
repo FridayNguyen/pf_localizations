@@ -47,6 +47,7 @@
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_health"                                                          "Bonus Max Health per Stack: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_magic_resist"                                                    "%Bonus Magic Resistance per Stack: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_speed_reduction"                                                 "Movespeed Reduction per Stack: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_as_reduction"                                                    "Attack Speed Reduction per Stack: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_regen"                                                           "Bonus Health Regen per Stack: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_status_resist"                                                   "%Status Resistance per Stack: "
 
@@ -187,7 +188,7 @@
 "DOTA_Tooltip_modifier_tidehunter_ravage_pf_puddle_effect_Description"                              "Kraken Shell's damage block is currently being amplified"
 
 "DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff"                                                   "Salt-Water Cereal"
-"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff_Description"                                       "Receiving bonus armor, magic resistance, status resistance, regeneration, and bonus health while losing movement speed. Half of all stacks are lost on death"
+"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff_Description"                                       "Receiving bonus armor, magic resistance, status resistance, regeneration, and bonus health while losing movement speed and attack speed. Half of all stacks are lost on death"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------
