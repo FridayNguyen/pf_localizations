@@ -6,6 +6,11 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
 
+"DOTA_Tooltip_Ability_ascension_pathfinder_dilation"                        "Dilation Field"
+"DOTA_Tooltip_Ability_ascension_pathfinder_dilation_Description"            "Enemy Captains occasionally cause the cooldown of nearby heroes to tick backward at an increased rate"
+
+"DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                        "Dilation Field"
+"DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"            "Cooldowns ticking backward at an increased rate"
 
 "DOTA_Tooltip_Ability_item_feet_of_midas"			            "Feet of Sadim"         // Midas name and description
 "DOTA_Tooltip_Ability_item_feet_of_midas_Lore"			        "A Constellation of Midaeum is touched by the noble spirit of the solo adventurer, and had bestowed unto the lone hero their blessing."
