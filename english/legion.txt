@@ -1,0 +1,191 @@
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-LEGION START---------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_dummy"		                                	"Blot out the Sun"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_dummy_Description"		                    	"Legion Commander gains the Overwhelmingly Overhelming Odds ability, allowing her to channel for up to 8 seconds to call down the current level of Overwhelming Odds unto a random visible enemy within global range every 0.8 seconds."
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows"		                                        	"Just don't lead 'em so much"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows_Description"	                            		"While under the effect of Duel, Legion Commander's opponent is hit with the current level of Overwhelming Odds every second"
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion"		                                        	"Tonight, Dine in Hell"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"Upon casting Duel, Legion Commander summons the Ashen Legion to battle all other nearby enemy units within a large 1000 radius. These Ashen warriors possess %stat_percent%%  of Legion Commander's attack damage, and would last for the duration of the ability."
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge"		                                            	"So You're Finally Awake"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"While dueling an enemy, Legion Commander will cast the current level of Press the Attack on all friendly heroes within a %radius% radius. Each cast will additionally heal the affected units for %max_health_heal%%  of Legion Commander's max health"
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_meteor"		                                        	"Fight in the Shade"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_meteor_Description"	                            		"Overwhelming Odds now launches an additional volley of meteors, dealing an additional instance of the ability's base damage and stunning any affect enemy unit for %stun_duration% seconds"
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_reset"		                                        	"Are You Not Entertained?"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_reset_Description"	                            		"Upon killing an enemy unit with Overwhelming Odds, Legion Commander resets the cooldowns of all of her abilities"
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe"		                                            	"Born to Kill"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe_Description"	                                		"Moment of Courage now also causes Legion Commander to attacks all enemy units within melee range. These instant attacks fully benefit from all of Legion Commander's abilities and items"
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail"		                                    	"Et tu, Tresdin?"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"Press the Attack now also grants the affected unit a lesser blademail effect, causing %percent%%  of all damage they receive to be sent back unto the attackers"
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb"		                                            	"Give Them Nothing"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"Units affected by Press the Attack will also receive complete Spell Immunity for the duration of the buff, rendering them 100% resistance to non-piercing magic damage"
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura"		                                        	"War Never Changes"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura_Description"			                            "Moment of Courage becomes an aura ability that passively grants its effect to all friendly heroes within a %radius% radius"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows"		                                                        	"Overwhelming Odds"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_Description"		                                            	"Turns the enemies' numbers against them, dealing damage and granting you bonus movement speed per unit hit by the ability. Legion Commander ignores the maximum movement speed limit while the bonus movespeed bonus is active."
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_Lore"		                                                	"'Now, hold on,' you might be thinking. 'My archers are certainly strong, but no one could throw an arrow that hard.' Introducing the longbow, which solves that age-old throwing problem."
+
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_radius"		                                        	"Radius:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_range"		                                        	"Range:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_base_damage"		                                    	"Base Damage:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_damage_per_unit"		                                	"Bonus Damage Per Unit:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_movespeed_per_unit"		                            	"Bonus Movespeed Per Unit:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_movespeed_duration"		                            	"Bonus Movespeed Duration:"
+
+
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows"	                                        		"Overwhelmingly Overwhelming Odds"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Description"	                            		"Channel for up to %channel_time% seconds to call down the current level of Overwhelming Odds unto a random visible enemy within global range every %interval% seconds."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Lore"		                                    	"Any experienced archer will tell you how irritating it is when your targets keep moving around. The question is how to stop these wankers from magically wind-sprinting around like they own the place. And the answer is to pin them to the grounds. How? With arrows! How many arrows? Yes."
+
+
+
+"DOTA_Tooltip_Ability_pathfinder_lc_press"		                                                        	"Press the Attack"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_Description"		                                            	"Removes debuffs and disables from the target friendly unit, and grants bonus attack speed and health regen for a short time."
+"DOTA_Tooltip_Ability_pathfinder_lc_press_Lore"		                                                    	"You cannot burn me! I'm already ablaze with passion FOR WAR (and shiny cosmetics, but mostly WAR!)"
+
+"DOTA_Tooltip_Ability_pathfinder_lc_press_press_range"		                                            	"Range:"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_press_regen"		                                            	"Bonus Health Regeneration:"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_press_attack"	                                            		"Bonus Attack Speed:"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_press_duration"	                                            	"Duration:"
+
+
+
+"DOTA_Tooltip_Ability_pathfinder_lc_moment"		                                                        	"Moment of Courage"
+"DOTA_Tooltip_Ability_pathfinder_lc_moment_Description"	                                            		"When attacked, Legion Commander has a chance to immediately counterattack with bonus lifesteal. This attack can not miss."
+"DOTA_Tooltip_Ability_pathfinder_lc_moment_Lore"		                                                	"Aww, am I too violent for you, cupcake?"
+
+"DOTA_Tooltip_Ability_pathfinder_lc_moment_moment_chance"		                                        	"%Proc Chance:"
+"DOTA_Tooltip_Ability_pathfinder_lc_moment_moment_lifesteal"	                                    		"%Lifesteal:"
+
+
+
+"DOTA_Tooltip_Ability_pathfinder_lc_duel"		                                                        	"Duel"
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_Description"	                                            		"Legion Commander and the target enemy unit are forced to attack each other for a short duration. Neither opponent can use items nor abilities. If the target dies during the duration, Legion Command gains bonus damage and receives a free Press the Attack buff. 40% of this bonus damage is lost upon death."
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_Lore"		                                                    	"Do you have a deep concerning invincibility complex? Are you crying for a fashion statement that just screams 'Oh please stab me!'? Then Tresdin can provide just the right service if you're looking to get yourself plugged full of blades! Reservation required."
+
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_range"		                                            	"Range:"
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_duration"		                                            	"Duration:"		"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_creep_damage"			"Damage From Non-Captains:"
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_hero_damage"			                                        "Damage From Captains:"	
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+
+"pathfinder_lc_arrows_arrows_radius"                                                                            "+{s:value} Effect Radius"
+"pathfinder_lc_arrows_arrows_base_damage"                                                                       "+{s:value} {s:ability_name} Base Damage"
+"pathfinder_lc_arrows_arrows_damage_per_unit"                                                                   "+{s:value} {s:ability_name} Damage Per Unit Affected"
+"pathfinder_lc_arrows_arrows_movespeed_duration"                                                                "+{s:value}s Movespeed Bonus Duration"
+"pathfinder_lc_arrows_cooldown"                                                                                 "-{s:value}% {s:ability_name} Cooldown"
+
+"pathfinder_lc_press_press_regen"                                                                               "+{s:value} {s:ability_name} Health Regeneration Bonus"
+"pathfinder_lc_press_press_attack"                                                                              "+{s:value} {s:ability_name} Attack Speed Bonus"
+"pathfinder_lc_press_press_duration"                                                                            "+{s:value}s {s:ability_name} Bonus Duration"   		
+"pathfinder_lc_press_cooldown"                                                                                  "-{s:value}% {s:ability_name} Cooldown"
+
+"pathfinder_lc_moment_moment_chance"                                                                            "+{s:value}% {s:ability_name} Proc Chance"
+"pathfinder_lc_moment_moment_lifesteal"                                                                         "+{s:value}% {s:ability_name} Lifesteal"
+
+"pathfinder_lc_duel_duel_duration"                                                                              "+{s:value}s {s:ability_name} Duration"
+"pathfinder_lc_duel_duel_hero_damage"		                                                                	"+{s:value} {s:ability_name} Damage Reward from Captains"   		
+"pathfinder_lc_duel_cooldown"			                                                                        "-{s:value}% {s:ability_name} Cooldown"
+
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_radius"                                                  "Overwhelming Odds: Radius"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_radius_Description"                                      "<h1>Common Scepter Fragment</h1>Increases radius by %value% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_base_damage"                                             "Overwhelming Odds: Base Damage"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_base_damage_Description"                                 "<h1>Common Scepter Fragment</h1>Increases base damage by %value% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_damage_per_unit"                                         "Overwhelming Odds: Damage per Unit"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_damage_per_unit_Description"                             "<h1>Common Scepter Fragment</h1>Increases bonus damage per unit by %value% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_movespeed_duration"                                      "Overwhelming Odds: Movespeed Bonus Duration"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_movespeed_duration_Description"			                "<h1>Common Scepter Fragment</h1>Increases movespeed bonus duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_cooldown"                                                       "Overwhelming Odds: Cooldown"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_cooldown_Description"		                                	"<h1>Common Scepter Fragment</h1>Decreases cooldown by %value%% ."
+
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_regen"                                                     "Press The Attack: Bonus Health Regeneration"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_regen_Description"                                         "<h1>Common Scepter Fragment</h1>Increases bonus health regeneration by %value% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_attack"                                                    "Press The Attack: Bonus Attack Speed"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_attack_Description"                                        "<h1>Common Scepter Fragment</h1>Increases bonus attack speed by %value% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_cooldown"                                                        "Press The Attack: Cooldown"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_cooldown_Description"                                            "<h1>Common Scepter Fragment</h1>Decreases cooldown by %value%% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_duration"			                                        "Press The Attack: Duration"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_duration_Description"	                            		"<h1>Common Scepter Fragment</h1>Increases duration by %value% seconds."
+
+"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_chance"                                                  "Moment of Courage: Proc Chance"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_chance_Description"			                            "<h1>Common Scepter Fragment</h1>Increases proc chance by %value%% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_lifesteal"			                                    "Moment of Courage: Lifesteal"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_lifesteal_Description"			                        "<h1>Common Scepter Fragment</h1>Increases lifesteal by %value%% ."
+
+
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_duration"			                                        "Duel: Duration"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_duration_Description"			                            "<h1>Common Scepter Fragment</h1>Increases duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_hero_damage"			                                        "Duel: Damage from Captains"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_hero_damage_Description"			                            "<h1>Common Scepter Fragment</h1>Increases damage gained from Captains by %value% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_cooldown"			                                                "Duel: Cooldown"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_cooldown_Description"			                                    "<h1>Common Scepter Fragment</h1>Decreases cooldown by %value%% ."
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_arrows+arrows_movespeed_duration"	                "+{s:arrows_movespeed_duration}s Overwhelming Odds Movespeed Duration"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_moment+moment_chance"	                            "+{s:moment_chance}% Moment Proc Chance"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_press+press_regen"                                 "+{s:press_regen} Press the Attack HP Regen"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_arrows+arrows_base_damage"	                        "+{s:arrows_base_damage} Overwhelming Odds Base Damage"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_pathfinder_lc_arrows_movespeed"			                                                "Overwhelming Odds Movement Speed Bonus"
+"DOTA_Tooltip_modifier_pathfinder_lc_press"			                                                            "Press The Attack"
+"DOTA_Tooltip_modifier_pathfinder_lc_press_Description"			                                                "Gaining bonus attack speed and health regeneration from Press The Attack"
+"DOTA_Tooltip_modifier_pathfinder_lc_duel_bonus"			                                                    "Duel Bonus Damage"
+"DOTA_Tooltip_modifier_pathfinder_lc_duel_bonus_Description"		                                        	"40%% of this amount is lost upon death"
+"DOTA_Tooltip_modifier_ascension_pathfinder_blademail"	                                                    	"You've got mail!"
+
+"DOTA_Tooltip_modifier_pathfinder_lc_moment"		                                                        	"Moment of Courage"
+"DOTA_Tooltip_modifier_pathfinder_lc_moment_Description"	                                            		"Benefitting from Legion Commander's Moment of Courage Passive Ability"
+
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-LEGION END-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

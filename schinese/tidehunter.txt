@@ -1,0 +1,197 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-TIDEHUNTER START-----------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_bounce"	                                                        "一起沉江"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_bounce_Description"	                                            "巨浪命中后会折射至 %radius% 范围内最远的敌方目标，最多折射 %bounce%次。"
+
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_ravage"	                                                        "启示"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_ravage_Description"	                                            "巨浪命中目标后会召唤一个毁灭触角，造成当前等级毁灭 %damage_percent%% 的伤害并眩晕。"
+
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_miss"                                                              "浊流"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_miss_Description"                                                  "被巨浪击中的敌人攻击有 %miss_percent%% 几率落空。"
+
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_gush"	                                                    "背海一战"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_gush_Description"	                                        "海妖外壳触发驱散时，对周围的敌人释放 %targets% 股巨浪。"
+
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_heal"	                                                    "克苏鲁的爱"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_heal_Description"	                                        "海妖外壳触发驱散时，同时对 %radius% 范围内友方英雄施加强驱散，并治疗 %heal_percent%% 伤害临界值的生命。"
+
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_ravage_cdr"	                                            "麦尔朗恩的叹息"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_ravage_cdr_Description"	                                "每次触发海妖外壳驱散减少 %cdr_percent%%  毁灭冷却。"
+
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_allies"                                                    "安全港"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_allies_Description"                                        "潮汐猎人使用锚击时，%radius% 范围内的友方英雄会一同释放潮汐猎人当前等级的锚击。"
+
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_karate"                                                    "渔人空手道"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_karate_Description"                                        "潮汐猎人的攻速降至最低，但锚击冷却时间减少一半且不需要消耗魔法。"
+
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_whack"                                                     "海妖浩劫"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_whack_Description"                                         "锚击击退周围的敌人，并有 %root_chance%% 的几率缠绕被击中的敌人 %root_duration% 秒。"
+
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_puddle"                                                          "赤潮领域"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_puddle_Description"                                              "潮汐猎人释放毁灭会召唤一片赤潮红海，红海中海妖外壳的伤害格挡提升%block_amp%%，进入红海的敌人每秒有 %stun_chance%% 的几率遭受一次当前等级的毁灭。红海在潮汐猎人离开后消失。"
+
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch"                                                                 "吞食鱼"
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_Description"                                                     "潮汐猎人吞噬一个首领，每秒损失 %pct_damage%% 最大生命对目标造成等量的神圣伤害。如果成功消化目标，潮汐猎人将获得额外的生命，生命回复，魔法抗性，状态抗性，和护甲，但会减少移动速度。增益和减速效果可以叠加，但所有的增益和减速将在潮汐猎人死亡后重置。"
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_duration"                                                        "最长消化时间: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_pct_damage"                                                      "每秒最大生命值损失/伤害: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_armor"                                                           "额外护甲: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_health"                                                          "额外生命: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_magic_resist"                                                    "额外魔法抗性: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_speed_reduction"                                                 "移动速度减缓: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_regen"                                                           "额外生命回复: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_status_resist"                                                   "额外状态抗性: "
+
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_tidehunter_gush_pf"	                                                        "巨浪"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_Description"	                                            "召唤一股巨浪攻击范围内的敌方单位，减速并削弱护甲。"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_gush_damage"	                                            "伤害:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_movement_speed_reduction"	                                "移动速度减缓百分比:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_negative_armor"	                                        "护甲降低:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_radius"	                                                "波浪范围:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_cast_range"	                                            "施法距离:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_debuff_duration"	                                        "持续时间:"
+
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf"	                                                "海妖外壳"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_Description"	                                    "加厚潮汐猎人的外皮，可以被动格挡物理伤害，当受到的伤害达到临界值时外皮还将移除绝大多数负面效果。不与带有伤害格挡的物品叠加。"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_damage_reduction"	                                "伤害格挡:"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_damage_cleanse"	                                "伤害阈限:"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_damage_reset_interval"	                            "伤害阈限重置时间:"
+
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf"	                                                "锚击"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_Description"	                                    "潮汐猎人挥动他巨大的锚，攻击附近敌人并造成额外攻击伤害，同时降低他们的攻击力。开启自动施法后在附近存在敌人时自动释放。"
+// "DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_attack_damage"	                                    "攻击伤害加成:"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_damage_reduction"	                                "攻击力降低百分比:"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_reduction_duration"	                            "持续时间:"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_radius"	                                        "范围:"
+
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf"	                                                        "毁灭"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_Description"	                                            "猛击地面，触手向各个方向穿出，伤害并眩晕附近所有敌方单位。"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_radius"                                                  "范围:"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_duration"                                                "眩晕时间:"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_damage"                                                  "伤害:"
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"tidehunter_gush_pf_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
+"tidehunter_gush_pf_gush_damage"			                                                        "+{s:value} {s:ability_name} 伤害"
+"tidehunter_gush_pf_movement_speed_reduction"			                                            "+{s:value}% {s:ability_name} 移动速度减缓"
+"tidehunter_gush_pf_negative_armor"			                                                        "+{s:value} {s:ability_name} 护甲降低"
+"tidehunter_gush_pf_radius"			                                                                "+{s:value} {s:ability_name} 作用范围"
+"tidehunter_gush_pf_cast_range"			                                                            "+{s:value} {s:ability_name} 施法距离"
+"tidehunter_gush_pf_debuff_duration"			                                                    "+{s:value}s {s:ability_name} 效果持续时间"
+
+"tidehunter_kraken_shell_pf_damage_reduction"			                                            "+{s:value} {s:ability_name} 伤害格挡"
+"tidehunter_kraken_shell_pf_damage_cleanse"			                                                "-{s:value} {s:ability_name} 伤害阈限"
+
+"tidehunter_anchor_smash_pf_pct_cooldown"			                                                "-{s:value}% {s:ability_name} 冷却时间"
+"tidehunter_anchor_smash_pf_attack_damage"			                                                "+{s:value} {s:ability_name} 攻击伤害加成"
+"tidehunter_anchor_smash_pf_damage_reduction"			                                            "+{s:value} {s:ability_name} 敌人攻击力降低"
+"tidehunter_anchor_smash_pf_radius"			                                                        "+{s:value} {s:ability_name} 作用范围"
+
+"tidehunter_ravage_pf_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
+"tidehunter_ravage_pf_duration"			                                                            "+{s:value}s {s:ability_name} 眩晕时间"
+"tidehunter_ravage_pf_damage"			                                                            "+{s:value} {s:ability_name} 伤害"
+"tidehunter_ravage_pf_radius"			                                                            "+{s:value} {s:ability_name} 作用范围"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_pct_cooldown"			                                    "巨浪 - 冷却时间"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_gush_damage"			                                    "巨浪 - 伤害"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_movement_speed_reduction"			                        "巨浪 - 移动速度减缓"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_negative_armor"			                                "巨浪 - 护甲降低"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_radius"			                                        "巨浪 - 作用范围"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_cast_range"			                                    "巨浪 - 施法距离"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_debuff_duration"			                                "巨浪 - 效果持续时间"
+
+"DOTA_Tooltip_Ability_item_tidehunter_kraken_shell_pf_damage_reduction"			                        "海妖外壳 - 伤害格挡"
+"DOTA_Tooltip_Ability_item_tidehunter_kraken_shell_pf_damage_cleanse"			                        "海妖外壳 - 伤害阈限"
+
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_pct_cooldown"			                            "锚击 - 冷却时间"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_attack_damage"			                        "锚击 - 攻击伤害加成"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_damage_reduction"			                        "锚击 - 敌人攻击力降低"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_radius"			                                "锚击 - 作用范围"
+
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_pct_cooldown"			                                "毁灭 - 冷却时间"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_duration"			                                    "毁灭 - 眩晕时间"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_damage"			                                        "毁灭 - 伤害"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_radius"			                                        "毁灭 - 范围"
+
+
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_pct_cooldown_Description"			                        "<h1>普通神杖碎片</h1> - %value%% 巨浪冷却时间"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_gush_damage_Description"			                        "<h1>普通神杖碎片</h1> + %value% 巨浪伤害"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_movement_speed_reduction_Description"			            "<h1>普通神杖碎片</h1> + %value% 巨浪移动速度减缓"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_negative_armor_Description"			                    "<h1>普通神杖碎片</h1> + %value% 巨浪护甲降低"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_radius_Description"			                            "<h1>普通神杖碎片</h1> + %value% 巨浪作用范围"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_cast_range_Description"			                        "<h1>普通神杖碎片</h1> + %value% 巨浪施法距离"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_debuff_duration_Description"			                    "<h1>普通神杖碎片</h1> + %value%s 巨浪效果持续时间"
+
+"DOTA_Tooltip_Ability_item_tidehunter_kraken_shell_pf_damage_reduction_Description"			            "<h1>普通神杖碎片</h1> + %value% 海妖外壳伤害格挡"
+"DOTA_Tooltip_Ability_item_tidehunter_kraken_shell_pf_damage_cleanse_Description"			            "<h1>普通神杖碎片</h1> - %value% 海妖外壳伤害阈限"
+
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_pct_cooldown_Description"			                "<h1>普通神杖碎片</h1> - %value%% 锚击冷却时间"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_attack_damage_Description"			            "<h1>普通神杖碎片</h1> + %value% 锚击攻击伤害加成"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_damage_reduction_Description"			            "<h1>普通神杖碎片</h1> + %value% 锚击敌人攻击力降低"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_radius_Description"			                    "<h1>普通神杖碎片</h1> + %value% 锚击作用范围"
+
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_pct_cooldown_Description"			                    "<h1>普通神杖碎片</h1> - %value%% 毁灭冷却时间"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_duration_Description"			                        "<h1>普通神杖碎片</h1> + %value%s 毁灭眩晕时间"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_damage_Description"			                            "<h1>普通神杖碎片</h1> + %value% 毁灭伤害"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_radius_Description"			                            "<h1>普通神杖碎片</h1> + %value% 毁灭范围"
+
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_tidehunter_gush_pf+gush_damage"                      "+{s:gush_damage} 巨浪伤害"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_tidehunter_anchor_smash_pf+damage_reduction"         "+{s:damage_reduction}% 锚击攻击降低效果"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_tidehunter_kraken_shell_pf+damage_reduction"         "+{s:damage_reduction} 海妖外壳伤害格挡"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_tidehunter_gush_pf+negative_armor"                   "+{s:negative_armor} 巨浪护甲降低"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_tidehunter_gush_pf"                                                          "浪催的"
+"DOTA_Tooltip_modifier_tidehunter_gush_pf_Description"                                              "移动速度和护甲降低"
+
+"DOTA_Tooltip_modifier_tidehunter_kraken_shell_pf"                                                  "海妖外壳"
+"DOTA_Tooltip_modifier_tidehunter_kraken_shell_pf_Description"                                      "承受伤害超过临界值时被施加强驱散"
+
+"DOTA_Tooltip_modifier_tidehunter_anchor_smash_pf"                                                  "锚砸的"
+"DOTA_Tooltip_modifier_tidehunter_anchor_smash_pf_Description"                                      "攻击力降低"
+
+"DOTA_Tooltip_modifier_tidehunter_ravage_pf_puddle_effect"                                          "红海"
+"DOTA_Tooltip_modifier_tidehunter_ravage_pf_puddle_effect_Description"                              "海妖外壳格挡提升"
+
+"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff"                                                   "吃了！"
+"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff_Description"                                       "获得额外的生命，生命回复，魔法抗性，状态抗性，和护甲。移动速度降低。死亡后消失"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-TIDEHUNTER END-------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

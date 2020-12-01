@@ -1,0 +1,197 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-TIDEHUNTER START-----------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_bounce"	                                                        "Together Unto The Depth"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_bounce_Description"	                                            "Upon hitting a target, Gush projectile will bounce up to %bounce% times to the furthest enemy unit within an %radius% radius"
+
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_ravage"	                                                        "Tentacular Fondling"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_ravage_Description"	                                            "Gush also summons a single Ravage tentacle of the current level unto the primary targeted unit, which deals %damage_percent%%  damage and stuns for the full duration of the Ultimate ability"
+
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_miss"                                                              "Salt Water Face Wash"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_miss_Description"                                                  "Enemy units affected by Gush's debuff will also have a %miss_percent%%  chance to miss their attack"
+
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_gush"	                                                    "Razor Shore"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_gush_Description"	                                        "Upon triggering the cleanse effect, Kraken Shell will automatically launches %targets% Gush projectiles of the current level unto nearby enemy units"
+
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_heal"	                                                    "Lovecraftian Romance"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_heal_Description"	                                        "Kraken Shell's cleanse effect also dispels and heals any friendly hero within a %radius% radius for %heal_percent%%  of the trigger threshold"
+
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_ravage_cdr"	                                            "Maelrawn's Lament"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_ravage_cdr_Description"	                                "Each proc of Kraken Shell's cleanse effect also lowers the cooldown of Ravage by %cdr_percent%% "
+
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_allies"                                                    "Safe Harbours"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_allies_Description"                                        "Casting Anchor Smash will also apply the effect unto any friendly hero with a %radius% radius, dealing damage and reducing the attack capability of any enemy unit around them"
+
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_karate"                                                    "Fish-man Karate"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_karate_Description"                                        "Tidehunter's attack speed is reduced to the absolute minimum, but the cooldown of Anchor Smash is reduced by half and its mana cost is removed"
+
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_whack"                                                     "Anchor Whack"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_whack_Description"                                         "Anchor Smash now also knocks back any affected enemy unit and has a %root_chance%%  chance to root them for %root_duration% seconds"
+
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_puddle"                                                          "Red Sea's Clamour"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_puddle_Description"                                              "Casting Ravage will leave behind a puddle that amplifies Kraken Shell's damage block by %block_amp%%.. Any enemy unit within the radius has a %stun_chance%%  chance of being affected by the current level of Ravage every single second. The puddle will never expire as long as Tidehunter remains inside it"
+
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch"                                                                 "Cap'n Crunch"
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_Description"                                                     "Tidehunter swallows up an enemy captain, dealing %pct_damage%%  of his max health as pure damage to both himself and the victim every second. If the target dies under this effect, Tidehunter gains a stacking bonus that increases his max health, regeneration, status resistance, armor, magic resistance and... weight. Half of the stacks are lost on death"
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_duration"                                                        "Max Duration: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_pct_damage"                                                      "%Self Max Health as Damage: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_armor"                                                           "Bonus Armour per Stack: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_health"                                                          "Bonus Max Health per Stack: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_magic_resist"                                                    "%Bonus Magic Resistance per Stack: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_speed_reduction"                                                 "Movespeed Reduction per Stack: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_regen"                                                           "Bonus Health Regen per Stack: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_status_resist"                                                   "%Status Resistance per Stack: "
+
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_tidehunter_gush_pf"	                                                        "Gush"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_Description"	                                            "Summons a gush of water to damage all enemy units in an area, reducing their movement speed and armor."
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_gush_damage"	                                            "Damage:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_movement_speed_reduction"	                                "%Movespeed Reduction:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_negative_armor"	                                        "Armour Reduction:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_radius"	                                                "Effect Radius:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_cast_range"	                                            "Cast Range:"
+"DOTA_Tooltip_Ability_tidehunter_gush_pf_debuff_duration"	                                        "Debuff Duration:"
+
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf"	                                                "Kraken Shell"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_Description"	                                    "Thickens Tidehunter's hide to passively block a portion of any incoming physical attack damage. The hide also removes negative status effects if the damage taken crosses a threshold. Does not stack with items that provide Damage Block."
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_damage_reduction"	                                "Damage Block:"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_damage_cleanse"	                                "Cleanse Threshold:"
+"DOTA_Tooltip_Ability_tidehunter_kraken_shell_pf_damage_reset_interval"	                            "Threshold Reset Time:"
+
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf"	                                                "Anchor Smash"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_Description"	                                    "Tidehunter swings his mighty anchor to attack all nearby enemies and reduce their attack damage. Autocast can be toggled to automatically cast the ability when enemies are nearby."
+// "DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_attack_damage"	                                    "Bonus Attack Damage:"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_damage_reduction"	                                "%Attack Damage Reduction:"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_reduction_duration"	                            "Debuff Duration:"
+"DOTA_Tooltip_Ability_tidehunter_anchor_smash_pf_radius"	                                        "Radius:"
+
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf"	                                                        "Ravage"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_Description"	                                            "Slams the ground, causing tentacles to erupt in all directions, damaging and stunning all nearby enemy units."
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_radius"                                                  "Radius"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_duration"                                                "Stun Duration"
+"DOTA_Tooltip_Ability_tidehunter_ravage_pf_damage"                                                  "Damage"
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"tidehunter_gush_pf_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+"tidehunter_gush_pf_gush_damage"			                                                        "+{s:value} {s:ability_name} Damage"
+"tidehunter_gush_pf_movement_speed_reduction"			                                            "+{s:value}% {s:ability_name} Movespeed Reduction"
+"tidehunter_gush_pf_negative_armor"			                                                        "+{s:value} {s:ability_name} Armor Reduction"
+"tidehunter_gush_pf_radius"			                                                                "+{s:value} {s:ability_name} Effect Radius"
+"tidehunter_gush_pf_cast_range"			                                                            "+{s:value} {s:ability_name} Cast Range"
+"tidehunter_gush_pf_debuff_duration"			                                                    "+{s:value}s {s:ability_name} Debuff Duration"
+
+"tidehunter_kraken_shell_pf_damage_reduction"			                                            "+{s:value} {s:ability_name} Damage Block"
+"tidehunter_kraken_shell_pf_damage_cleanse"			                                                "{s:value} {s:ability_name} Cleanse Threshold"
+
+"tidehunter_anchor_smash_pf_pct_cooldown"			                                                "-{s:value}% {s:ability_name} Cooldown"
+"tidehunter_anchor_smash_pf_attack_damage"			                                                "+{s:value} {s:ability_name} Bonus Attack Damage"
+"tidehunter_anchor_smash_pf_damage_reduction"			                                            "+{s:value} {s:ability_name} Attack Damage Reduction"
+"tidehunter_anchor_smash_pf_radius"			                                                        "+{s:value} {s:ability_name} Effect Radius"
+
+"tidehunter_ravage_pf_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+"tidehunter_ravage_pf_duration"			                                                            "+{s:value}s {s:ability_name} Stun Duration"
+"tidehunter_ravage_pf_damage"			                                                            "+{s:value} {s:ability_name} Damage"
+"tidehunter_ravage_pf_radius"			                                                            "+{s:value} {s:ability_name} Radius"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_pct_cooldown"			                                    "Gush - Cooldown"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_gush_damage"			                                    "Gush - Damage"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_movement_speed_reduction"			                        "Gush - Movespeed Reduction"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_negative_armor"			                                "Gush - Armor Reduction"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_radius"			                                        "Gush - Effect Radius"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_cast_range"			                                    "Gush - Cast Range"
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_debuff_duration"			                                "Gush - Debuff Duration"
+
+"DOTA_Tooltip_Ability_item_tidehunter_kraken_shell_pf_damage_reduction"			                        "Kraken Shell - Damage Block"
+"DOTA_Tooltip_Ability_item_tidehunter_kraken_shell_pf_damage_cleanse"			                        "Kraken SHell - Cleanse Threshold"
+
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_pct_cooldown"			                            "Anchor Smash - Cooldown"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_attack_damage"			                        "Anchor Smash - Bonus Attack Damage"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_damage_reduction"			                        "Anchor Smash - Attack Damage Reduction"
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_radius"			                                "Anchor Smash - Effect Radius"
+
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_pct_cooldown"			                                "Ravage - Cooldown"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_duration"			                                    "Ravage - Stun Duration"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_damage"			                                        "Ravage - Damage"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_radius"			                                        "Ravage - Radius"
+
+
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_pct_cooldown_Description"			                        "<h1>Common Scepter Fragment</h1> Decreases Gush Cooldown by %value%% "
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_gush_damage_Description"			                        "<h1>Common Scepter Fragment</h1> Increases Gush Damage by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_movement_speed_reduction_Description"			            "<h1>Common Scepter Fragment</h1> Increases Gush Movespeed Reduction by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_negative_armor_Description"			                    "<h1>Common Scepter Fragment</h1> Increases Gush Armor Reduction by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_radius_Description"			                            "<h1>Common Scepter Fragment</h1> Increases Gush Effect Radius by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_cast_range_Description"			                        "<h1>Common Scepter Fragment</h1> Increases Gush Cast Range by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_gush_pf_debuff_duration_Description"			                    "<h1>Common Scepter Fragment</h1> Increases Gush Debuff Duration by %value%s"
+
+"DOTA_Tooltip_Ability_item_tidehunter_kraken_shell_pf_damage_reduction_Description"			            "<h1>Common Scepter Fragment</h1> Increases Kraken Shell Damage Block by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_kraken_shell_pf_damage_cleanse_Description"			            "<h1>Common Scepter Fragment</h1> Decreases Kraken Shell Cleanse Threshold by %value% "
+
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_pct_cooldown_Description"			                "<h1>Common Scepter Fragment</h1> Decreases Anchor Smash Cooldown by %value%% "
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_attack_damage_Description"			            "<h1>Common Scepter Fragment</h1> Increases Anchor Smash Bonus Attack Damage by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_damage_reduction_Description"			            "<h1>Common Scepter Fragment</h1> Increases Anchor Smash Attack Damage Reduction by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_anchor_smash_pf_radius_Description"			                    "<h1>Common Scepter Fragment</h1> Increases Anchor Smash Effect Radius by %value% "
+
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_pct_cooldown_Description"			                    "<h1>Common Scepter Fragment</h1> Decreases Ravage Cooldown by %value%% "
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_duration_Description"			                        "<h1>Common Scepter Fragment</h1> Increases Ravage Stun Duration by %value%s"
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_damage_Description"			                            "<h1>Common Scepter Fragment</h1> Increases Ravage Damage by %value% "
+"DOTA_Tooltip_Ability_item_tidehunter_ravage_pf_radius_Description"			                            "<h1>Common Scepter Fragment</h1> Increases Ravage Radius by %value% "
+
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_tidehunter_gush_pf+gush_damage"                      "+{s:gush_damage} Gush Damage"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_tidehunter_anchor_smash_pf+damage_reduction"         "+{s:damage_reduction}% Anchor Smash Attack Damage Reduction"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_tidehunter_kraken_shell_pf+damage_reduction"         "+{s:damage_reduction} Shell Damage Block"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_tidehunter_gush_pf+negative_armor"                   "+{s:negative_armor} Gush Armour Reduction"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_tidehunter_gush_pf"                                                          "Gushed"
+"DOTA_Tooltip_modifier_tidehunter_gush_pf_Description"                                              "Armour and Movespeed reduced by watermelon juice"
+
+"DOTA_Tooltip_modifier_tidehunter_kraken_shell_pf"                                                  "Kraken Shell"
+"DOTA_Tooltip_modifier_tidehunter_kraken_shell_pf_Description"                                      "Receives a strong dispel once damage taken pass the threshold"
+
+"DOTA_Tooltip_modifier_tidehunter_anchor_smash_pf"                                                  "Anchor Smashed"
+"DOTA_Tooltip_modifier_tidehunter_anchor_smash_pf_Description"                                      "Attack Damage reduced"
+
+"DOTA_Tooltip_modifier_tidehunter_ravage_pf_puddle_effect"                                          "Red Sea's Clamour"
+"DOTA_Tooltip_modifier_tidehunter_ravage_pf_puddle_effect_Description"                              "Kraken Shell's damage block is currently being amplified"
+
+"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff"                                                   "Salt-Water Cereal"
+"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff_Description"                                       "Receiving bonus armor, magic resistance, status resistance, regeneration, and bonus health while losing movement speed. Half of all stacks are lost on death"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-TIDEHUNTER END-------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,218 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-JAKIRO START---------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart"                           "彩虹屁"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart_Description"	            "杰奇洛每秒有 %chance%% 的几率向身后释放冰霜吐息或火焰吐息。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_liquid_fire"	                "凤仙火"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_liquid_fire_Description"	    "冰火交加的火焰吐息有 %chance%% 的概率对所有命中的敌人释放当前等级的液态火。凤仙火触发时刷新液态火冷却。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_ice_blob"	                    "静脉结晶"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_ice_blob_Description"	        "冰火交加的冰霜吐息有 %chance%% 的几率在所有命中的敌人脚下产生一个小型的冰封路径。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier"	                        "冰柜冷藏"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier_Description"	            "释放冰封路径时会在路径两侧产生两道冰墙，持续时间为冰封路径的 %duration_mult%% ."
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast"	                            "滑冰场"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast_Description"	                "友方英雄接触冰封路径时驱散所有异常状态并获得 %move_speed% 移动速度加成。加成持续时间内无视地形，不可被减速并获得相位转移状态。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_repeat"	                        "冰晶生长"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_repeat_Description"	            "敌人在冰封路径的冰冻状态下死亡时，会朝前方释放一个额外的冰封路径。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_armour"	                        "老冰棍雪糕"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_armour_Description"	            "友方英雄接触冰封路径时获得冰霜护甲，每次受到攻击时反复冰冻攻击来源 %freeze_duration% 秒。冰霜护甲的持续时间为冰封路径的 %buff_duration_mult% 倍。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction"           	"炎与火之歌"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction_Description"	"被烈焰焚身焚烧的敌人死亡时会减少烈焰焚身 %cd_percent%% 冷却时间。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies"	                        "融核熔炉"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"液态火可以对友方英雄释放，治疗友军液态火伤害量的200%，并提供额外的攻击速度。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre"                  	"火毒术"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre_Description"      	"被液态火灼烧的敌人死亡时有 %chance%% 的几率在身后释放一个小范围的烈焰焚身，持续时间为烈焰焚身的一半。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_burst"	                        "焰流星"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_burst_Description"	            "液态火额外造成爆裂伤害，伤害量为当前等级液态火伤害量的一半。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_burning_man"	                    "礼花弹"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_burning_man_Description"      	"释放烈焰焚身时在目标周围额外释放5个小型的烈焰焚身"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal"	                            "拔火罐"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal_Description"             	"烈焰焚身治疗路径上的友方英雄，治疗量为烈焰焚身伤害量的 %heal_percent%%。"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal"	                        "火中做自己"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "杰奇洛身处烈焰焚身路径中时，烈焰焚身路径不会消失，但每秒延长 %cd_increase%s 烈焰焚身的剩余冷却时间。"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua"	                                    "冰火交加"
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_Description"	                        "杰奇洛对面前的敌人先后喷出寒冰和火焰。寒冰吐息减速敌人，火焰吐息对敌人造成持续伤害。"
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_start_radius"		                    "前端范围："
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_end_radius"		                    "末端范围："
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_range"		                            "移动距离："		
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_slow_movement_speed_pct"		        "移动速度减缓："
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_slow_attack_speed_pct"		            "攻击速度降低："
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_burn_damage"		                    "每秒伤害："
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_duration"		                        "持续时间:"
+
+
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua"	                                        "冰封路径"
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_Description"	                            "在杰奇洛前方制造一条冰封路径，对触及到的敌人造成伤害并眩晕。"
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_range"		                            "路径距离："
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_damage"		                            "伤害："	
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_duration"		                            "持续时间:"	
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_path_radius"		                        "路径范围："				
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_path_delay"		                        "冻结延迟："		
+
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua"	                                    "液态火"
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_Description"	                        "杰奇洛的火焰燃烧效果范围内的敌人，并降低他们的攻击速度。"
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_slow_attack_speed_pct"		            "攻击速度降低："
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_radius"		                        "作用范围:"
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_damage"		                        "每秒燃烧伤害："		
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_duration"		                        "燃烧时间:"
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_range"		                            "施法距离："
+
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua"	                                        "烈焰焚身"
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_Description"	                            "杰奇洛释放出烈焰风暴，烈焰风暴作用范围很宽，并持续数秒。烈焰风暴每秒都会对作用范围内的敌人造成伤害。"
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_damage"		                            "每秒伤害："
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_cast_range"		                        "路径距离："
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_path_radius"		                        "路径范围："
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_duration"		                        "持续时间:"				
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_linger_duration"		                    "伤害延滞时间:"				
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"jakiro_dual_breath_lua_range"			                                            "+{s:value} {s:ability_name} 冰火移动距离"
+"jakiro_dual_breath_lua_burn_damage"			                                    "+{s:value} {s:ability_name} 每秒燃烧伤害"
+"jakiro_dual_breath_lua_slow_movement_speed_pct"			                        "+{s:value}% {s:ability_name} 移动速度减缓"
+"jakiro_dual_breath_lua_slow_attack_speed_pct"			                            "+{s:value} {s:ability_name} 攻击速度降低"
+"jakiro_dual_breath_lua_duration"			                                        "+{s:value}s {s:ability_name} 持续时间"
+"jakiro_dual_breath_lua_pct_cooldown"			                                    "-{s:value}% {s:ability_name} 冷却时间"
+
+"jakiro_ice_path_lua_duration"			                                            "+{s:value}s {s:ability_name} 持续时间"
+"jakiro_ice_path_lua_damage"			                                            "+{s:value} {s:ability_name} 初始伤害"
+"jakiro_ice_path_lua_range"			                                                "+{s:value} {s:ability_name} 路径距离"
+"jakiro_ice_path_lua_pct_cooldown"			                                        "-{s:value}% {s:ability_name} 冷却时间"
+
+"jakiro_liquid_fire_lua_slow_attack_speed_pct"			                            "+{s:value} {s:ability_name} 攻击速度降低"
+"jakiro_liquid_fire_lua_radius"			                                            "+{s:value} {s:ability_name} 作用范围"
+"jakiro_liquid_fire_lua_damage"			                                            "+{s:value} {s:ability_name} 每秒伤害"
+"jakiro_liquid_fire_lua_duration"			                                        "+{s:value}s {s:ability_name} 燃烧持续时间"		
+"jakiro_liquid_fire_lua_range"			                                            "+{s:value} {s:ability_name} 施法距离"
+
+"jakiro_macropyre_lua_duration"			                                            "+{s:value}s {s:ability_name} 持续时间"
+"jakiro_macropyre_lua_damage"			                                            "+{s:value} {s:ability_name} 每秒伤害"
+"jakiro_macropyre_lua_cast_range"			                                        "+{s:value} {s:ability_name} 作用范围"
+"jakiro_macropyre_lua_pct_cooldown"			                                        "-{s:value}% {s:ability_name} 冷却时间"
+
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_range"				            "冰火交加 - 冰火移动距离"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_burn_damage"				        "冰火交加 - 每秒燃烧伤害"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_slow_movement_speed_pct"		    "冰火交加 - 移动速度减缓"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_slow_attack_speed_pct"			"冰火交加 - 攻击速度降低"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_duration"				            "冰火交加 - 持续时间"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_pct_cooldown"				        "冰火交加 - 冷却时间"
+
+
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_duration"				            "冰封路径 - 路径持续时间"
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_damage"				                "冰封路径 - 初始伤害"
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_range"				                "冰封路径 - 路径距离"
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_pct_cooldown"				        "冰封路径 - 冷却时间"
+
+
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_slow_attack_speed_pct"			"液态火 - 攻击速度降低"
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_radius"				            "液态火 - 液态火作用范围"
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_damage"				            "液态火 - 每秒伤害"
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_duration"				            "液态火 - 燃烧持续时间"
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_range"				            "液态火 - 冷却时间"
+
+
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_damage"				                "烈焰焚身 - 每秒伤害"
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_cast_range"				            "烈焰焚身 - 作用范围"
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_duration"				            "烈焰焚身 - 持续时间"
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_pct_cooldown"				        "烈焰焚身 - 冷却时间"
+
+
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_range_Description"				        "<h1>普通神杖碎片</h1>+ %value% 冰火交加移动距离."
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_burn_damage_Description"				    "<h1>普通神杖碎片</h1>+ %value% 冰火交加每秒燃烧伤害."
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_slow_movement_speed_pct_Description"		"<h1>普通神杖碎片</h1>+ %value%% 冰火交加移动速度减缓."
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_slow_attack_speed_pct_Description"	    "<h1>普通神杖碎片</h1>+ %value% 冰火交加攻击速度降低."	
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_duration_Description"				        "<h1>普通神杖碎片</h1>+ %value% s冰火交加Debuff持续时间."
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_pct_cooldown_Description"			        "<h1>普通神杖碎片</h1>- %value%% 冰火交加冷却时间."
+
+
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_duration_Description"	            "<h1>普通神杖碎片</h1>+ %value% s冰封路径持续时间."
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_damage_Description"		            "<h1>普通神杖碎片</h1>+ %value% 冰封路径伤害."
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_range_Description"		            "<h1>普通神杖碎片</h1>+ %value% 冰封路径距离."
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_pct_cooldown_Description"            "<h1>普通神杖碎片</h1>- %value%% 冰封路径冷却时间."
+
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_slow_attack_speed_pct_Description"	    "<h1>普通神杖碎片</h1>+ %value% 液态火攻击速度降低."
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_radius_Description"	                    "<h1>普通神杖碎片</h1>+ %value% 液态火溅射范围."			
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_damage_Description"	                    "<h1>普通神杖碎片</h1>+ %value% 液态火每秒燃烧伤害."			
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_duration_Description"	                    "<h1>普通神杖碎片</h1>+ %value% s液态火持续时间."			
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_range_Description"		                "<h1>普通神杖碎片</h1>- %value%% 液态火冷却时间."	
+
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_damage_Description"				    "<h1>普通神杖碎片</h1>+ %value% 烈焰焚身每秒伤害."			
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_cast_range_Description"			    "<h1>普通神杖碎片</h1>+ %value% 烈焰焚身作用范围."			
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_duration_Description"			    "<h1>普通神杖碎片</h1>+ %value% s烈焰焚身持续时间."			
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_pct_cooldown_Description"		    "<h1>普通神杖碎片</h1>- %value%% 烈焰焚身冷却时间."	
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_dual_breath_lua+burn_damage"	            "+{s:burn_damage} 冰火交加燃烧伤害"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_dual_breath_lua+range"	                "+{s:range} 冰火交加移动距离"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_liquid_fire_lua+slow_attack_speed_pct"	"+{s:slow_attack_speed_pct} 液态火攻击速度降低"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_ice_path_lua+duration"	                "+{s:duration} 冰封路径持续时间"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_macropyre_lua+cast_range"	                "+{s:cast_range} 烈焰焚身距离"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_jakiro_dual_breath_lua_ice"                                  "杰奇洛冰霜吐息"
+"DOTA_Tooltip_modifier_jakiro_dual_breath_lua_ice_Description"                      "正受到冰火交加作用，攻击速度和移动速度降低"
+
+"DOTA_Tooltip_modifier_jakiro_dual_breath_lua_fire"                                 "杰奇洛火焰吐息"
+"DOTA_Tooltip_modifier_jakiro_dual_breath_lua_fire_Description"                     "正受到冰火交加的伤害"
+
+"DOTA_Tooltip_modifier_jakiro_sepcial_ice_path_armour"                              "香草棒冰"
+"DOTA_Tooltip_modifier_jakiro_sepcial_ice_path_armour_Description"                  "获得减伤并在受到攻击时冰冻攻击者"
+
+"DOTA_Tooltip_modifier_jakiro_ice_path_lua"                                         "冰封路径"
+"DOTA_Tooltip_modifier_jakiro_ice_path_lua_Description"                             "被杰奇洛的冰封路径冻住了"
+
+"DOTA_Tooltip_modifier_jakiro_liquid_fire_lua"                                      "液态火"
+"DOTA_Tooltip_modifier_jakiro_liquid_fire_lua_Description"                          "正受到杰奇洛液态火的伤害，并被减速"
+
+"DOTA_Tooltip_modifier_jakiro_macropyre_lua"                                        "烈焰焚身"
+"DOTA_Tooltip_modifier_jakiro_macropyre_lua_Description"                            "正受到杰奇洛烈焰焚身的作用，每秒受到伤害"
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-JAKIRO END-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

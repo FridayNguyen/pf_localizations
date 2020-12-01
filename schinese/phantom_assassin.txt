@@ -1,0 +1,182 @@
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO START---------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing"			                            "黄金眼"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing_Description"		                	"窒碍短匕命中目标时会在 %range% 范围内弹射 %bounces% 次。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze"		                                	"雷霆杀机"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze_Description"	                    		"窒碍短匕会将击中的目标变成小动物，持续 %duration% 秒。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blink_illusion"		                                	"量子危机"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blink_illusion_Description"	                    		"幻影突袭在原地制造一个无敌但不受控制的量子幻象，具有 %speed% 基础移动速度，继承幻影刺客 %damage_dealt%% 的攻击力，并享受幻影刺客的被动技能加成和大部分物品效果。量子幻象会在周围400范围内没有敌人时消失，场上最多存在一个量子幻象。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blink_aoe"			                                    "威胁潜伏"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blink_aoe_Description"		                        	"幻影突袭在目标处留下一个脉冲环。脉冲环会对 %radius% 范围内的敌人释放最多 %pulse% 道脉冲。每道脉冲对环内的敌人造成幻影刺客的攻击伤害，脉冲克敌机先并继承物品和技能的攻击效果。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_aoe"		                                    	"最高机密"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_aoe_Description"		                        	"释放魅影无形时为 %radius% 范围内的友军提供相同的加成效果。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_block"		                                    	"择日而亡"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_block_Description"		                        	"打破魅影无形的隐身状态时，获得一个持续 %duration% 秒的法术护盾。法术护盾可以抵挡所有指向性技能。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_fear"		                                    	"我的天啊！"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_fear_Description"		                        	"恩赐解脱的致命一击震慑目标周围 %radius% 范围内的敌人，使他们在 %duration% 内愣在原地。<font color='#70EA72'>主目标不受影响。</font>"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_lifesteal"			                                "生死关头"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_lifesteal_Description"			                    "恩赐解脱触发时提供 %percent%% 吸血。"
+
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global"			                                    "黑天鹅之舞"
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global_Description"			                        "经过短暂的吟唱，幻影刺客可以对全图敌人释放一次窒碍短匕。短匕具有100%吸血。"
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global_Note1"	                                        "全 地 图"
+
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global_dummy"			                                "纵横天下"
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global_dummy_Description"			                    "幻影刺客得到全新的技能，黑天鹅之舞。黑天鹅之舞可以对全图敌人释放一次具有100%吸血的窒碍短匕。（请勿在飞禽盛宴关使用）冷却时间：40秒"
+
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_dagger"			                                "杀人执照"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_dagger_Description"			                    "当恩赐解脱触发时，若敌方单位处于窒碍短匕的减速状态，则随机对周围 %amount% 个敌人释放窒碍短匕。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_regen"			                                    "黎明生机"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_regen_Description"			                        "幻影刺客处于魅影无形的隐身状态时，获得 %bonus_movespeed_percentage%% 移动速度加成和 %max_health_regen%% 生命恢复加成，同时移除移速上限。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_cdr"                                               "罗德兰的低语"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_cdr_Description"                                   "幻影刺客周围 %radius% 范围内每个死亡的敌人为魅影无形减少 %reduce_percent%% 冷却。"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua"			                                "窒碍短匕"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_Description"			                    "对敌方单位掷出一把匕首，减缓其移动速度，并根据幻影刺客的攻击力造成物理伤害，同时继承物品和技能的攻击效果。"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_Lore"			                        "魅影之纱成员学习到的第一个技能，中招就意味着下一次攻击要来了。"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_move_slow"			                    "移动速度减缓:"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_duration"			                    "减速持续时间:"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_tooltip_range"		                	"施法距离:"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_attack_factor"		                	"攻击伤害百分比:"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_base_damage"			                    "基础伤害:"
+
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua"		                                	"恩赐解脱"
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua_Description"	                    		"幻影刺客的战斗技巧得到精进，有一定概率对敌方单位造成毁灭性的致命一击。致命一击的效果对窒碍短匕同样有效。"
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua_Lore"	                            		"神圣的一击，茉崔蒂通过赐予对手死亡来向他们致以敬意。"
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua_crit_chance"	                    		"触发概率:"
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua_crit_bonus"	                    		"致命一击伤害百分比:"
+
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua"		                                	"幻影突袭"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_Description"                  			"闪烁到一个友方或敌方单位身边，并立刻对 %radius% 范围内的敌人攻击一次，如果闪烁目标是敌方单位则在攻击该目标时获得攻击速度加成。"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_Lore"	                            		"茉崔蒂的真丝面纱是她倒霉的目标临终所见之物。"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_bonus_attack_speed"	            		"攻击速度加成:"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_range"	                        		"施法距离:"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_duration"	                        		"持续时间:"	
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_radius"	                        		"攻击范围:"	
+
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua"			                                        "魅影无形"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_Description"		                            	"幻影刺客专注一心，闪避敌人攻击的技艺得到提升。可以主动施放，<font color='#70EA72'>对自己施加一个弱驱散</font>并模糊自己的身形，她在附近没有<font color='#70EA72'>敌方单位</font>时无法被看到。进入隐身2秒后才会开始判定。"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_Lore"		                                    	"长期的冥想使得魅影之纱的成员能够谨慎的预知到敌人的到来。"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_bonus_evasion"                          			"闪避:"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_radius"		                                    	"显形所需敌人距离:"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_duration"	                                		"持续时间:"	
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+"phantom_assassin_stifling_dagger_lua_attack_factor"			                                    "+{s:value}% 攻击伤害"
+"phantom_assassin_stifling_dagger_lua_duration"			                                            "+{s:value} {s:ability_name}s 减速持续时间"
+"phantom_assassin_stifling_dagger_lua_base_damage"		                                        	"+{s:value} {s:ability_name} 基础伤害"
+"phantom_assassin_coup_de_grace_lua_crit_chance"					                            	"+{s:value}% {s:ability_name} 触发概率"
+"phantom_assassin_coup_de_grace_lua_crit_bonus"		                                            	"+{s:value}% {s:ability_name} 致命一击伤害"
+"phantom_assassin_phantom_strike_lua_bonus_attack_speed"	                                		"+{s:value} {s:ability_name} 攻击速度加成"
+"phantom_assassin_phantom_strike_lua_duration"	                                                	"+{s:value}s {s:ability_name} 持续时间"
+"phantom_assassin_phantom_strike_lua_range"					                                        "+{s:value} {s:ability_name} 施法距离"
+"phantom_assassin_blur_lua_bonus_evasion"						                                    "+{s:value}% {s:ability_name} 闪避"
+"phantom_assassin_blur_lua_radius"				                                                    "-{s:value}% {s:ability_name} 显形所需敌人距离"
+"phantom_assassin_blur_lua_duration"					                                            "+{s:value}s {s:ability_name} 持续时间"
+"phantom_assassin_blur_lua_cooldown"				                                                "-{s:value}% {s:ability_name} 冷却时间"	
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_attack_factor"		            	"窒碍短匕: 攻击伤害"
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_attack_factor_Description"			"<h1>普通神杖碎片</h1>+ %value%% 继承攻击伤害。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_duration"			                "窒碍短匕: 减速持续时间"
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_duration_Description"		    	"<h1>普通神杖碎片</h1>+ %value% 秒减速持续时间。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_base_damage"			            "窒碍短匕: 基础伤害"
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_base_damage_Description"			"<h1>普通神杖碎片</h1>+ %value% 基础伤害。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_coup_de_grace_lua_crit_chance"			                "恩赐解脱: 触发概率"
+"DOTA_Tooltip_Ability_item_phantom_assassin_coup_de_grace_lua_crit_chance_Description"		    	"<h1>普通神杖碎片</h1>+ %value%% 触发概率。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_coup_de_grace_lua_crit_bonus"			                "恩赐解脱: 致命一击伤害"
+"DOTA_Tooltip_Ability_item_phantom_assassin_coup_de_grace_lua_crit_bonus_Description"			    "<h1>普通神杖碎片</h1>+ %value%% 致命一击伤害。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_bonus_attack_speed"		        	"幻影突袭: 攻击速度加成"
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_bonus_attack_speed_Description"	    "<h1>普通神杖碎片</h1>+ %value% 攻速提升。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_duration"		                	"幻影突袭: 持续时间"
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_duration_Description"		    	"<h1>普通神杖碎片</h1>+  %value% 秒攻速提升持续时间。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_range"		                    	"幻影突袭: 施法距离"
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_range_Description"		        	"<h1>普通神杖碎片</h1>+ %value% 幻影突袭施法距离。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_bonus_evasion"		                        	"魅影无形: 闪避"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_bonus_evasion_Description"		            	"<h1>普通神杖碎片</h1>+ %value% 魅影无形闪避。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_radius"		                            	"魅影无形: 显形所需敌人距离"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_radius_Description"			                "<h1>普通神杖碎片</h1>- %value% 显形所需敌人距离。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_duration"			                            "魅影无形: 持续时间"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_duration_Description"			                "<h1>普通神杖碎片</h1>+ %value% 秒主动释放时魅影无形持续时间。"
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_cooldown"			                            "魅影无形: 冷却时间"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_cooldown_Description"			                "<h1>普通神杖碎片</h1>- %value% 秒冷却时间。"
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_stifling_dagger_lua+move_slow"	    "+{s:move_slow}% 窒碍短匕减速"		
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_phantom_strike_lua+duration"		"+{s:duration}s 幻影突袭加成持续时间"		
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_phantom_strike_lua+range"		    "全图幻影突袭"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_blur_lua+bonus_evasion"			    "+{s:bonus_evasion}% 魅影无形闪避"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_coup_de_grace_lua+crit_bonus"	    "+{s:crit_bonus}% 恩赐解脱致命一击伤害"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_phantom_assassin_coup_de_grace_lua"				                            "恩赐解脱"	
+"DOTA_Tooltip_modifier_phantom_assassin_coup_de_grace_lua_Description"				                "人被杀就会死"
+
+"DOTA_Tooltip_modifier_phantom_assassin_blur_lua"				                                    "魅影无形"	
+"DOTA_Tooltip_modifier_phantom_assassin_blur_lua_Description"				                        "隐身等于无敌！"
+
+"DOTA_Tooltip_modifier_phantom_assassin_phantom_strike_lua"				                            "幻影突袭攻速提升"	
+"DOTA_Tooltip_modifier_phantom_assassin_phantom_strike_lua_Description"				                "是时候展现真正的技术了！"
+
+"DOTA_Tooltip_modifier_phantom_assassin_stifling_dagger_lua"				                        "减速"	
+"DOTA_Tooltip_modifier_phantom_assassin_stifling_dagger_lua_Description"				            "短匕深深刺入伤口..."
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO END-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

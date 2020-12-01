@@ -1,0 +1,179 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-OGRE START-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_multi_multicast"			                        "Casino Royale"
+"DOTA_Tooltip_Ability_pathfinder_special_om_multi_multicast_Description"			            "The last cast of Multicast has a %chance%%  chance to be Multicasted again. There is no limit on how many time this can occur"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast"			                            "It's All Ogre Now"
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast_Description"			                "Multicast passively grants Ogre Magi a %chance%%  chance every second to automatically cast a random single-targeted ability or item unto an enemy unit within a %radius% radius. This effect can proc Multicast, and fully ignores any cooldown or cast range limitation. Ogre Magi does not need to be alive for this effect to proc"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust"			                        "Hymn of the Giants"
+"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust_Description"			            "Bloodlust now also grants the affected unit %status_resistant%%  status resistant and causes each of their attacks to stun the target unit for %stun_duration% seconds."
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming"			                                "That'll do Donkey, that'll do"
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_Description"			                    "Ogre Magi can now channel for up to %channel_time% seconds to continuously summon explosive donkeys that last up to %lifetime% seconds. These innocent creatures will automatically seek out nearby enemies and cast the current level of Fireblast unto all nearby hostile units when killed"
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_interval"			                        "Summon Interval: "
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_channel_time"			                    "Max Channel Time: "
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_lifetime"			                        "Donkey lifespan in seconds: "
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast"		                            	"Get Outta My Swamp"
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "If Ogre Magi himself casts Fireblast, the effect also applies unto every single enemy unit within the cast range."
+
+"DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite"			                            "Ogre is Love, Ogre is Life"
+"DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite_Description"			                "After hitting their target, Ignite projectiles will additionally bounce to a nearby friendly hero, healing them and increasing their movement speed for the value of the ability"
+
+"DOTA_Tooltip_Ability_pathfinder_special_stunned_ignite"			                            "Too Hot to Handle"
+"DOTA_Tooltip_Ability_pathfinder_special_stunned_ignite_Description"			                "While a unit is stunned, silenced, or rooted while under the effect of Ignite, it will continuously cast Ogre Magi's current level of ignite unto another random unit within the range of the ability"
+
+"DOTA_Tooltip_Ability_pathfinder_special_ignite_fireblast"			                            "Concussion Therapy"
+"DOTA_Tooltip_Ability_pathfinder_special_ignite_fireblast_Description"			                "Enemy units struck by Ignite projectiles also have a %chance%%  chance to be smited by Ogre Magi's current level of Fireblast. This effect can proc Multicast"
+
+
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua"                                      			"Fireblast"
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua_Description"		                            	"Blasts an enemy unit with a wave of fire, dealing damage and stunning the target."
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua_Lore"		                                    	"Somebody once told me the world is gonna roll me\nI ain't the sharpest tool in the shed\nShe was looking kind of dumb with her finger and her thumb\nIn the shape of an 'L' on her forehead"
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua_stun_duration"		                        	"Stun Duration:"
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua_fireblast_damage"		                        	"Damage:"
+
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua"			                                            "Ignite"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_Description"	                                		"Drenches the target and another random unit in volatile chemicals, causing it to burst into flames. The target is in immense pain, taking damage and moving more slowly."
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_Lore"		                                    	"Well, the years start coming and they don't stop coming\nFed to the rules and I hit the ground running\nDidn't make sense not to live for fun\nYour brain gets smart but your head gets dumb"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_duration"		                                	"Duration:"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_burn_damage"			                                "Damage Per Second:"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_slow_movement_speed_pct"			                    "%Movespeed Slow:"		
+
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua"	                                        		"Bloodlust"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_Description"                          			"Incites a frenzy in a friendly unit, increasing its movement speed and attack speed. Gives bonus attack speed if cast on Ogre himself."
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_Lore"		                                    	"So much to do, so much to see\nSo what's wrong with taking the backstreets?\nYou'll never know if you don't go\nYou'll never shine if you don't glow"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_movement_speed"		                    	"%Move Speed Bonus:"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_attack_speed"		                    	"Allies Attack Speed Bonus:"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_self_bonus"		                                "Self Attack Speed Bonus:"		
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_duration"			                                "Duration:"	
+
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua"			                                        "Multicast"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_Description"			                            "Enables Ogre Magi to cast his single-targeted abilities and items multiple times with each use. Also passively provides bonus cast range."
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_Lore"			                                    "Hey now, you're an all star\nGet your game on, go play\nHey now, you're a rock star\nGet the show on, get paid\nAnd all that glitters is gold\nOnly shooting stars break the mold"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_multicast_2_times"			                    "%2x Multicast Chance:"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_multicast_3_times"			                    "%3x Multicast Chance:"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_multicast_4_times"			                    "%4x Multicast Chance:"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_bonus_cast_range"			                        "Bonus Cast Range:"					
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"ogre_magi_fireblast_lua_pct_cooldown"			                                                "-{s:value}% {s:ability_name} Cooldown"
+"ogre_magi_fireblast_lua_stun_duration"			                                                "+{s:value}s {s:ability_name} Stun Duration"
+"ogre_magi_fireblast_lua_fireblast_damage"			                                            "+{s:value} {s:ability_name} Damage"
+
+"ogre_magi_ignite_lua_pct_cooldown"		                                                    	"-{s:value}% {s:ability_name} Cooldown"
+"ogre_magi_ignite_lua_duration"		                                                        	"+{s:value}s {s:ability_name} Effect Duration"
+"ogre_magi_ignite_lua_burn_damage"	                                                    		"+{s:value} {s:ability_name} Damage per Second"
+"ogre_magi_ignite_lua_slow_movement_speed_pct"		                                        	"{s:value}% {s:ability_name} Movement Speed Slow"
+
+"ogre_magi_bloodlust_lua_pct_cooldown"	                                                		"-{s:value}% {s:ability_name} Cooldown"  
+"ogre_magi_bloodlust_lua_bonus_movement_speed"		                                        	"+{s:value}% {s:ability_name} Bonus Movement Speed"
+"ogre_magi_bloodlust_lua_bonus_attack_speed"	                                        		"+{s:value} {s:ability_name} Bonus Allies Attack Speed"
+"ogre_magi_bloodlust_lua_self_bonus"	                                                		"+{s:value} {s:ability_name} Bonus Self Attack Speed"
+"ogre_magi_bloodlust_lua_duration"	                                                    		"+{s:value}s {s:ability_name} Duration"
+
+"ogre_magi_multicast_lua_multicast_2_times"	                                            		"+{s:value}% 2x Multicast Chance"
+"ogre_magi_multicast_lua_multicast_3_times"		                                            	"+{s:value}% Triple Multicast Chance"
+"ogre_magi_multicast_lua_multicast_4_times"	                                            		"+{s:value}% Quadruple Multicast Chance"
+"ogre_magi_multicast_lua_bonus_cast_range"		                                            	"+{s:value} Passive Bonus Cast Range"
+
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_pct_cooldown"                                "Fireblast: Cooldown"
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_stun_duration"                               "Fireblast: Stun Duration"
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_fireblast_damage"                            "Fireblast: Damage"
+
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_pct_cooldown"                                   "Ignite: Cooldown"
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_burn_damage"                                    "Ignite: Burn Damage"
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_slow_movement_speed_pct"                        "Ignite: Movement Speed Slow"
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_duration"                                       "Ignite: Debuff Duration"
+
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_pct_cooldown"                                "Bloodlust: Cooldown"
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_movement_speed"                        "Bloodlust: Bonus Movement Speed"
+
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_attack_speed"                          "Bloodlust: Allies Bonus Attack Speed"
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_self_bonus"                                  "Bloodlust: Self Bonus Attack Speed"
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_duration"                                    "Bloodlust: Buff Duration"
+
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_multicast_3_times"                           "Multicast: 3X Chance"
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_multicast_4_times"                           "Multicast: 4X Chance"
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_bonus_cast_range"                            "Multicast: Passive Bonus Cast Range"
+
+
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_pct_cooldown_Description"                    "<h1>Common Scepter Fragment</h1>Reduces Fireblast cooldown by %value%%."
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_stun_duration_Description"                   "<h1>Common Scepter Fragment</h1>Increases stun duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_fireblast_damage_Description"                "<h1>Common Scepter Fragment</h1>Increases Fireblast damage by %value%."
+
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_pct_cooldown_Description"                       "<h1>Common Scepter Fragment</h1>Reduces Ignite cooldown by %value%%."
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_burn_damage_Description"                        "<h1>Common Scepter Fragment</h1>Increases Ignite Damage per Second by %value%."
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_slow_movement_speed_pct_Description"            "<h1>Common Scepter Fragment</h1>Increases Ignite Movement Speed Slow by %value%%."
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_duration_Description"                           "<h1>Common Scepter Fragment</h1>Increases Ignite duration by %value% seconds."
+
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_pct_cooldown_Description"                    "<h1>Common Scepter Fragment</h1>Reduces Bloodlust cooldown by %value%%." 
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_movement_speed_Description"            "<h1>Common Scepter Fragment</h1>Increases Bloodlust Bonus Movement Speed by %value%%."
+
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_attack_speed_Description"              "<h1>Common Scepter Fragment</h1>Increases Bloodlust Allies Bonus Attack Speed by %value%."
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_self_bonus_Description"                      "<h1>Common Scepter Fragment</h1>Increases Bloodlust Self Bonus Attack Speed by %value%."
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_duration_Description"                        "<h1>Common Scepter Fragment</h1>Increases Bloodlust duration by %value% seconds."
+
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_multicast_3_times_Description"               "<h1>Common Scepter Fragment</h1>Increases 3x Multicast chance by %value%%." 
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_multicast_4_times_Description"               "<h1>Common Scepter Fragment</h1>Increases 4x Multicast chance by %value%%." 
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_bonus_cast_range_Description"                "<h1>Common Scepter Fragment</h1>Increases Multicast Passive Cast Range Bonus %value%."
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_ogre_magi_bloodlust_lua+bonus_movement_speed"	"+{s:bonus_movement_speed}% Bloodlust Movespeed"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_ogre_magi_fireblast_lua+fireblast_damage"	    "+{s:fireblast_damage} Fireblast Damage"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_ogre_magi_ignite_lua+burn_damage"	            "+{s:burn_damage} Ignite DPS"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_ogre_magi_bloodlust_lua_buff"		                                    "Bloodlust"
+"DOTA_Tooltip_modifier_ogre_magi_bloodlust_lua_buff_Description"	                        	"Like regular lust, but more bloody"
+
+"DOTA_Tooltip_modifier_ogre_magi_ignite_lua"	                                            	"Ignited"
+"DOTA_Tooltip_modifier_ogre_magi_ignite_lua_Description"                                		"This is fine"
+
+"DOTA_Tooltip_modifier_ogre_magi_multicast_lua"	                                            	"Somebody Once Told Me"
+"DOTA_Tooltip_modifier_ogre_magi_multicast_lua_Description"	                                	"that the world is gonna roll me\nI ain't the sharpest tool in the shed\nShe was looking kind of dumb with her finger and her thumb\nIn the shape of an 'L' on her forehead\n\nWell, the years start coming and they don't stop coming\nFed to the rules and I hit the ground running\nDidn't make sense not to live for fun\nYour brain gets smart but your head gets dumb\n\nSo much to do, so much to see\nSo what's wrong with taking the back streets?\nYou'll never know if you don't go\nYou'll never shine if you don't glow\n\nHey, now, you're an all-star, get your game on, go play\nHey, now, you're a rock star, get the show on, get paid\nAnd all that glitters is gold\nOnly shooting stars break the mold"
+
+"DOTA_Tooltip_modifier_ogre_magi_multicast_lua_proc"                                       		"Multicasting"
+"DOTA_Tooltip_modifier_ogre_magi_multicast_lua_proc_Description"                        		"And another!"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-OGRE END-------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

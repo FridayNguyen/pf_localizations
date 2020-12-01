@@ -1,0 +1,209 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-AXE START------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_leap"	                                    "Workplace Axe-cidents"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_leap_Description"	                        "Culling Blade allows Axe to leap onto any enemy unit within 1200 range. Upon landing, he stuns all units within a %stun_radius% radius for %stun_duration% seconds, and applies Culling Blade's Failure Damage unto all secondary targets"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_omnislash"	                                "Omnidirectional Axe-travaganza"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_omnislash_Description"	                    "Upon killing an enemy with his Ultimate, Axe instantly blinks away and and casts Culling Blade onto the lowest-health enemy within a %search_radius% radius"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_heal"	                                    "Back in Axe-tion"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_heal_Description"	                        "Killing an enemy unit with Culling Blade instantly heals Axe for %health_pct%%  of the target's max health. Additionally, Culling Blade refunds %mana_mult% times its mana cost upon getting a kill"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_delay"	                                    "Unforgettable Axe-periences"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_delay_Description"	                        "Culling Blade now has a grace period of %duration% seconds, during which the damaged unit will instantly die if its health falls below the kill threshold"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_reduce_damage"	                            "Low Axe-pectation"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_reduce_damage_Description"	                "Enemy units damaged by Counter Helix deal %percent%%  precent less damage for %duration% seconds"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_allies"	                                    "Axe-ceptional Influences"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_allies_Description"	                        "Counter Helix becomes an aura ability that grants its benefit to all allied heroes within a %radius% radius"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury"	                                    "Huge Pain in the Axe"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury_Description"	                        "Counter Helix can now be toggled, causing Axe to continously deals the ability's damage to nearby enemies every second. This effect does not require mana, but drain 45 health per second, and is fully independent from the ability's passive components"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal"	                                "Axe-cellent Camaraderie"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal_Description"	                    "Battle Hunger now heals all nearby allied heroes within a %radius% radius for %percent%%  of its damage"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr"	                                "Axe-citing Developments"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr_Description"	                    "Each time an enemy unit afflicted with Battle Hunger is attacked, the cooldown of Culling Blade is reduced by %cdr% seconds. These attacks do not need to come from Axe himself"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh"	                                    "Axe-quisite Allure"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "Each time a unit afflicted with Battle Hunger attacks Axe, the duration of the debuff is fully refreshed"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health"	                                    "Cardiovascular Axercises"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health_Description"	                        "Axe gains %stack_health% bonus max health every time an enemy unit dies while affected by Berserker's Call. This bonus is lost on death"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger"	                            "Axe-troverted Personality"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "Berserker's Call also automatically applies Battle Hunger unto all affected enemy units"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies"	                                    "Come Axe Me A Question"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies_Description"	                        "Berserker's Call also triggers on allied heroes, granting them the armour bonus and drawing the aggro of nearby enemy units unto Axe instead"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_axe_culling_blade_lua"	                                                        "Culling Blade"
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_Description"	                                            "Axe spots a weakness and strikes, instantly killing an enemy unit with low health, or dealing moderate damage otherwise. When an enemy hero is killed with Culling Blade, its cooldown is reset, and Axe and nearby allied units gain bonus movement speed."
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_kill_threshold"		                                        "Kill Threshold:"
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_damage"		                                                "Failure Damage:"
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_speed_bonus"		                                        "%Speed Bonus:"
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_atk_speed_bonus_tooltip"		                            "Attack Speed Bonus:"
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_speed_duration"		                                        "Bonus Duration:"
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_speed_aoe"		                                            "Bonus Radius:"
+
+"DOTA_Tooltip_Ability_axe_counter_helix_lua"	                                                        "Counter Helix"
+"DOTA_Tooltip_Ability_axe_counter_helix_lua_Description"	                                            "When attacked, Axe has a chance to perform a helix counter attack, dealing pure damage to all nearby enemies."
+"DOTA_Tooltip_Ability_axe_counter_helix_lua_radius"		                                                "Radius:"
+"DOTA_Tooltip_Ability_axe_counter_helix_lua_trigger_chance"		                                        "%Proc Chance:"
+"DOTA_Tooltip_Ability_axe_counter_helix_lua_damage"		                                                "Damage:"
+
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua"	                                                        "Berserker's Call"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_Description"	                                            "Axe taunts nearby enemy units, forcing them to attack him, while he gains bonus armor during the duration."
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_radius"		                                            "Radius:"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_bonus_armor"		                                        "Bonus Armour:"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_duration"	                                                "Duration:"
+
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua"	                                                        "Battle Hunger"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_Description"	                                            "Enrages enemy units within an area, causing them to be slowed and take damage over time until they kills another unit or the duration ends. Axe gains movement speed for each unit affected with Battle Hunger."
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_radius"		                                                "Radius:"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_damage_per_second"		                                    "Damage per Second:"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_duration"		                                            "Duration:"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_speed_bonus"		                                        "%Speed Bonus per Unit Affected:"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_slow"		                                                "%Move Speed Slow:"		
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"axe_battle_hunger_lua_duration"			                                                            "+{s:value}s {s:ability_name} Duration"
+"axe_battle_hunger_lua_slow"			                                                                "+{s:value}% {s:ability_name} Slow"
+"axe_battle_hunger_lua_speed_bonus"			                                                            "+{s:value}% {s:ability_name} Movespeed Bonus per Enemy Affected"
+"axe_battle_hunger_lua_damage_per_second"			                                                    "+{s:value} {s:ability_name} Damage per Second"
+"axe_battle_hunger_lua_radius"			                                                                "+{s:value} {s:ability_name} Area of Effect Radius"
+"axe_battle_hunger_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+
+"axe_berserkers_call_lua_radius"			                                                            "+{s:value} {s:ability_name} Radius"
+"axe_berserkers_call_lua_bonus_armor"			                                                        "+{s:value} {s:ability_name} Bonus Armour"
+"axe_berserkers_call_lua_duration"			                                                            "+{s:value}s {s:ability_name} Duration"		
+"axe_berserkers_call_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+
+"axe_counter_helix_lua_trigger_chance"			                                                        "+{s:value}% {s:ability_name} Proc Chance"
+"axe_counter_helix_lua_damage"			                                                                "+{s:value} {s:ability_name} Damage"	
+
+
+"axe_culling_blade_lua_kill_threshold"			                                                        "+{s:value} {s:ability_name} Kill Threshold"
+"axe_culling_blade_lua_damage"			                                                                "+{s:value} {s:ability_name} Failure Damage"
+"axe_culling_blade_lua_speed_bonus"			                                                            "+{s:value}% {s:ability_name} Movespeed Bonus"
+"axe_culling_blade_lua_atk_speed_bonus_tooltip"			                                                "+{s:value} {s:ability_name} Attack Speed Bonus"
+"axe_culling_blade_lua_speed_duration"			                                                        "+{s:value}s {s:ability_name} Bonus Duration"
+"axe_culling_blade_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"	
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_duration"				                                "Battle Hunger - Duration"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_slow"					                                "Battle Hunger - Movespeed Slow"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_speed_bonus"			                                "Battle Hunger - Movespeed Bonus per Unit Affected"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_damage_per_second"		                                "Battle Hunger - Damage per Second"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_radius"				                                "Battle Hunger - Radius"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_pct_cooldown"			                                "Battle Hunger - Cooldown"
+
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_duration_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Battle Hunger Duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_slow_Description"					                    "<h1>Common Scepter Fragment</h1>Increases Battle Hunger Slow by %value%%."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_speed_bonus_Description"			                    "<h1>Common Scepter Fragment</h1>Increases Battle Hunger Movespeed Bonus per Unit Affected by %value%%."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_damage_per_second_Description"		                    "<h1>Common Scepter Fragment</h1>Increases Battle Hunger Damage per Second by %value%."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_radius_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Battle Hunger Area of Effect Radius by %value%."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_pct_cooldown_Description"			                    "<h1>Common Scepter Fragment</h1>Decreases Battle Hunger Cooldown by %value%%."
+
+
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_radius"		                                        "Berserker's Call - Radius"
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor"		                                    "Berserker's Call - Bonus Armour"
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_duration"		                                    "Berserker's Call - Duration"
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_pct_cooldown"		                                "Berserker's Call - Cooldown"
+
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_radius_Description"		                            "<h1>Common Scepter Fragment</h1>Increases Berserker's Call Radius by %value%."
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor_Description"		                        "<h1>Common Scepter Fragment</h1>Increases Berserker's Call Bonus Armour by %value%."
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_duration_Description"		                        "<h1>Common Scepter Fragment</h1>Increases Berserker's Call Duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_pct_cooldown_Description"		                    "<h1>Common Scepter Fragment</h1>Decreases Berserker's Call Cooldown by %value%%."
+
+
+"DOTA_Tooltip_Ability_item_axe_counter_helix_lua_trigger_chance"		                                "Counter Helix - Proc Chance"
+"DOTA_Tooltip_Ability_item_axe_counter_helix_lua_damage"		                                        "Counter Helix - Damage"
+
+"DOTA_Tooltip_Ability_item_axe_counter_helix_lua_trigger_chance_Description"		                    "<h1>Common Scepter Fragment</h1>Increases Counter Helix Proc Chance by %value%%."
+"DOTA_Tooltip_Ability_item_axe_counter_helix_lua_damage_Description"		                            "<h1>Common Scepter Fragment</h1>Increases Counter Helix Damage by %value%."
+
+
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_kill_threshold"		                                "Culling Blade - Kill Threshold"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_damage"		                                        "Culling Blade - Failure Damage"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_speed_bonus"		                                    "Culling Blade - Move Speed Bonus"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_atk_speed_bonus_tooltip"		                        "Culling Blade - Attack Speed Bonus"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_speed_duration"		                                "Culling Blade - Bonus Duration"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_pct_cooldown"		                                    "Culling Blade - Cooldown"
+
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_kill_threshold_Description"		                    "<h1>Common Scepter Fragment</h1>Increases Culling Blade Kill Threshold by %value%."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_damage_Description"		                            "<h1>Common Scepter Fragment</h1>Increases Culling Blade Magical Damage by %value%."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_speed_bonus_Description"		                        "<h1>Common Scepter Fragment</h1>Increases Culling Blade Movespeed Bonus by %value%%."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_atk_speed_bonus_tooltip_Description"		            "<h1>Common Scepter Fragment</h1>Increases Culling Blade Attack Speed Bonus by %value%."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_speed_duration_Description"		                    "<h1>Common Scepter Fragment</h1>Increases Culling Blade Bonus Duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_pct_cooldown_Description"		                        "<h1>Common Scepter Fragment</h1>Decreases Culling Blade Cooldown by %value%%."
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_unique_counter_helix_attack"	                                    "Attacking Proc Counter Helix"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_axe_culling_blade_lua+kill_threshold"                    "+{s:kill_threshold} Culling Blade Kill Threshold"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_axe_berserkers_call_lua+radius"	                        "+{s:radius} Berseker's Call Radius"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_axe_battle_hunger_lua+damage_per_second"	                "+{s:damage_per_second} Battle Hunger DPS"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_axe_berserkers_call_special_health"                                              "Cardiovascular Axercises"
+"DOTA_Tooltip_modifier_axe_berserkers_call_special_health_Description"                                  "Gaining bonus max health per stack. All stacks are lost on death."
+
+"DOTA_Tooltip_modifier_axe_battle_hunger_lua_debuff"                                                    "Battle Hunger"
+"DOTA_Tooltip_modifier_axe_battle_hunger_lua_debuff_Description"                                        "Slowed and taking damage over time."
+
+
+"DOTA_Tooltip_modifier_axe_battle_hunger_lua"		                                                    "Battle Hunger"
+"DOTA_Tooltip_modifier_axe_battle_hunger_lua_Description"		                                        "Gaining bonus movespeed for each unit affected by Battle Hunger"
+
+
+"DOTA_Tooltip_modifier_axe_berserkers_call_lua_debuff"		                                            "Berserker's Called"
+"DOTA_Tooltip_modifier_axe_berserkers_call_lua_debuff_Description"		                                "Who want a piece of Axe? This fella!"
+
+"DOTA_Tooltip_modifier_axe_berserkers_call_lua"		                                                    "Berserker's Calling"
+"DOTA_Tooltip_modifier_axe_berserkers_call_lua_Description"		                                        "Ain't no voice mail is going to save ya from this!"
+
+"DOTA_Tooltip_modifier_axe_counter_helix_special_reduce_damage"                                         "Low Axe-pectation"
+"DOTA_Tooltip_modifier_axe_counter_helix_special_reduce_damage_description"                             "Dealing less damage"
+
+"DOTA_Tooltip_modifier_axe_culling_blade_lua"	                                                        "Culling Blade Bonus"
+"DOTA_Tooltip_modifier_axe_culling_blade_lua_Description"	                                            "Temporary gaining bonus attack speed and movespeed"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-AXE END--------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

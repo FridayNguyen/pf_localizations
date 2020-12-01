@@ -1,0 +1,179 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-OGRE START-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_multi_multicast"			                        "皇家赌场"
+"DOTA_Tooltip_Ability_pathfinder_special_om_multi_multicast_Description"			            "多重施法触发完毕时，有 %chance%% 的概率重复触发。重复触发无上限。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast"			                            "洪流爆轰"
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast_Description"			                "多重施法具有额外的被动效果，使食人魔法师每秒有 %chance%% 的概率，对周围 %radius% 范围内的一个敌方单位随机释放一个指向性技能，或使用一个指向性的物品。通过此天赋随机释放的技能/使用的物品无视冷却时间和施法距离，且可以触发多重施法。食人魔法师死后也可以触发。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust"			                        "血色狂暴"
+"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust_Description"			            "嗜血术额外提供 %status_resistant%% 的状态抗性，%physical_armor% 点护甲。受嗜血术影响的单位的普通攻击可以眩晕目标 %stun_duration% 秒。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming"			                                "玉（驴）碎"
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_Description"			                    "食人魔法师可以吟唱至多 %channel_time% 秒，期间持续召唤能追踪敌人的自爆小驴。小驴持续 %lifetime% 秒，死亡时会对周围的敌人释放一次当前等级的火焰爆轰。"
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_interval"			                        "召唤间隔: "
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_channel_time"			                    "最大吟唱时间: "
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_lifetime"			                        "小驴持续时间: "
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast"		                            	"群体轰炸"
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "火焰爆轰会在施放时同时轰炸施法距离内的所有敌方单位。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite"			                            "吞噬火焰"
+"DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite_Description"			                "引燃命中时会折射给目标周围的一个友方英雄，提供与伤害量相同的治疗，并且以相同的减速数值提供移动速度加成。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_stunned_ignite"			                            "火焰穿行"
+"DOTA_Tooltip_Ability_pathfinder_special_stunned_ignite_Description"			                "当引燃效果作用于被眩晕，沉默，或缠绕的单位时，有 %chance%% 的概率对周围随机敌方单位连续释放当前等级的引燃"
+
+"DOTA_Tooltip_Ability_pathfinder_special_ignite_fireblast"			                            "爆轰突袭"
+"DOTA_Tooltip_Ability_pathfinder_special_ignite_fireblast_Description"			                "敌方单位处于引燃的弹道中时，有 %chance%% 的概率遭受一次当前等级的火焰爆轰。该天赋触发的火焰爆轰亦可以触发多重施法。"
+
+
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua"                                      			"火焰爆轰"
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua_Description"		                            	"以一波火焰轰击一个敌方单位，造成伤害并使目标眩晕。"
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua_Lore"		                                    	"食人魔魔法师很容易就能被逗乐，玩火就能玩上几个小时。"
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua_stun_duration"		                        	"眩晕时间:"
+"DOTA_Tooltip_Ability_ogre_magi_fireblast_lua_fireblast_damage"		                        	"伤害:"
+
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua"			                                            "引燃"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_Description"	                                		"使目标和另一个随机单位浸透在挥发性化学物质中，导致其瞬间被火焰吞噬。目标处在极度痛苦之中，受到伤害并且被减速。"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_Lore"		                                    	"准备好！"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_duration"		                                	"持续时间:"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_burn_damage"			                                "每秒伤害:"
+"DOTA_Tooltip_Ability_ogre_magi_ignite_lua_slow_movement_speed_pct"			                    "移动速度减缓百分比:"		
+
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua"	                                        		"嗜血术"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_Description"                          			"激起一个友方单位的狂暴，增加其移动和攻击速度。对食人魔魔法师自身施放的攻击速度加成更多。"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_Lore"		                                    	"跑来跑去可没有打人爽……太无聊了。"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_movement_speed"		                    	"移动速度减缓百分比:"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_attack_speed"		                    	"队友攻击速度加成:"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_self_bonus"		                                "自身攻击速度加成:"		
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_duration"			                                "持续时间:"	
+
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua"			                                        "多重施法"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_Description"			                            "使食人魔魔法师可以迅速施法，有一定概率在一次施法中多次施放同一法术或物品，同时获得施法距离加成。"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_Lore"			                                    "尽管很大程度上受到智商的制约，食人魔魔法师仍能依靠纯熟的技巧在战斗中取胜。"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_multicast_2_times"			                    "2x 多重施法几率:"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_multicast_3_times"			                    "3x 多重施法几率:"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_multicast_4_times"			                    "4x 多重施法几率:"
+"DOTA_Tooltip_Ability_ogre_magi_multicast_lua_bonus_cast_range"			                        "额外施法距离:"					
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"ogre_magi_fireblast_lua_pct_cooldown"			                                                "-{s:value}% {s:ability_name} 冷却时间"
+"ogre_magi_fireblast_lua_stun_duration"			                                                "+{s:value}s {s:ability_name} 眩晕时间"
+"ogre_magi_fireblast_lua_fireblast_damage"			                                            "+{s:value} {s:ability_name} 伤害"
+
+"ogre_magi_ignite_lua_pct_cooldown"		                                                    	"-{s:value}% {s:ability_name} 冷却时间"
+"ogre_magi_ignite_lua_duration"		                                                        	"+{s:value}s {s:ability_name} 持续时间"
+"ogre_magi_ignite_lua_burn_damage"	                                                    		"+{s:value} {s:ability_name} 每秒伤害"
+"ogre_magi_ignite_lua_slow_movement_speed_pct"		                                        	"{s:value}% {s:ability_name} 移动速度减缓"
+
+"ogre_magi_bloodlust_lua_pct_cooldown"	                                                		"-{s:value}% {s:ability_name} 冷却时间"  
+"ogre_magi_bloodlust_lua_bonus_movement_speed"		                                        	"+{s:value}% {s:ability_name} 移动速度加成"
+"ogre_magi_bloodlust_lua_bonus_attack_speed"	                                        		"+{s:value} {s:ability_name} 队友攻击速度加成"
+"ogre_magi_bloodlust_lua_self_bonus"	                                                		"+{s:value} {s:ability_name} 自身攻击速度加成"
+"ogre_magi_bloodlust_lua_duration"	                                                    		"+{s:value}s {s:ability_name} 持续时间"
+
+"ogre_magi_multicast_lua_multicast_2_times"	                                            		"+{s:value}% 2x 多重施法几率"
+"ogre_magi_multicast_lua_multicast_3_times"		                                            	"+{s:value}% 3x 多重施法几率"
+"ogre_magi_multicast_lua_multicast_4_times"	                                            		"+{s:value}% 4x 多重施法几率"
+"ogre_magi_multicast_lua_bonus_cast_range"		                                            	"+{s:value} 施法距离加成"
+
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_pct_cooldown"                                "火焰爆轰: 冷却时间"
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_stun_duration"                               "火焰爆轰: 眩晕时间"
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_fireblast_damage"                            "火焰爆轰: 伤害"
+
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_pct_cooldown"                                   "引燃: 冷却时间"
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_burn_damage"                                    "引燃: 燃烧伤害"
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_slow_movement_speed_pct"                        "引燃: 移动速度减缓"
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_duration"                                       "引燃: 持续时间"
+
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_pct_cooldown"                                "嗜血术: 冷却时间"
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_movement_speed"                        "嗜血术: 移动速度加成"
+
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_attack_speed"                          "嗜血术: 队友攻击速度加成"
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_self_bonus"                                  "嗜血术: 自身攻击速度加成"
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_duration"                                    "嗜血术: 持续时间"
+
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_multicast_3_times"                           "多重施法: 3X 几率"
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_multicast_4_times"                           "多重施法: 4X 几率"
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_bonus_cast_range"                            "多重施法: 施法距离加成"
+
+
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_pct_cooldown_Description"                    "<h1>普通神杖碎片</h1>- %value%% 火焰爆轰冷却时间."
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_stun_duration_Description"                   "<h1>普通神杖碎片</h1>+ %value% 火焰爆轰眩晕时间"
+"DOTA_Tooltip_Ability_item_ogre_magi_fireblast_lua_fireblast_damage_Description"                "<h1>普通神杖碎片</h1>+ %value% 火焰爆轰伤害."
+
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_pct_cooldown_Description"                       "<h1>普通神杖碎片</h1>- %value%% 引燃冷却时间."
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_burn_damage_Description"                        "<h1>普通神杖碎片</h1>+ %value% 引燃的燃烧伤害."
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_slow_movement_speed_pct_Description"            "<h1>普通神杖碎片</h1>+ %value%% 引燃移动速度减缓."
+"DOTA_Tooltip_Ability_item_ogre_magi_ignite_lua_duration_Description"                           "<h1>普通神杖碎片</h1>+ %value% s引燃持续时间."
+
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_pct_cooldown_Description"                    "<h1>普通神杖碎片</h1>- %value%% 嗜血术冷却时间." 
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_movement_speed_Description"            "<h1>普通神杖碎片</h1>+ %value%% 嗜血术移动速度加成."
+
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_attack_speed_Description"              "<h1>普通神杖碎片</h1>+ %value% 嗜血术额外攻击速度."
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_self_bonus_Description"                      "<h1>普通神杖碎片</h1>+ %value% 嗜血术对己攻击速度加成."
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_duration_Description"                        "<h1>普通神杖碎片</h1>+ %value% s嗜血术持续时间."
+
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_multicast_3_times_Description"               "<h1>普通神杖碎片</h1>+ %value%% 3x多重施法概率." 
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_multicast_4_times_Description"               "<h1>普通神杖碎片</h1>+ %value%% 4x多重施法概率." 
+"DOTA_Tooltip_Ability_item_ogre_magi_multicast_lua_bonus_cast_range_Description"                "<h1>普通神杖碎片</h1>+ %value% 多重施法的施法距离加成."
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_ogre_magi_bloodlust_lua+bonus_movement_speed"	"+{s:bonus_movement_speed}% 嗜血术移动速度加成"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_ogre_magi_fireblast_lua+fireblast_damage"	    "+{s:fireblast_damage} 火焰爆轰伤害"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_ogre_magi_ignite_lua+burn_damage"	            "+{s:burn_damage} 引燃每秒伤害"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_ogre_magi_bloodlust_lua_buff"		                                    "嗜血术"
+"DOTA_Tooltip_modifier_ogre_magi_bloodlust_lua_buff_Description"	                        	"激活内心的渴望"
+
+"DOTA_Tooltip_modifier_ogre_magi_ignite_lua"	                                            	"点燃"
+"DOTA_Tooltip_modifier_ogre_magi_ignite_lua_Description"                                		"别慌，小场面"
+
+"DOTA_Tooltip_modifier_ogre_magi_multicast_lua"	                                            	"有人曾对我说"
+"DOTA_Tooltip_modifier_ogre_magi_multicast_lua_Description"	                                	"这世界会磨平我的棱角\n奇怪，我又不是屋子里最尖锐的人\n她看起来笨手笨脚\n额头还有个L字纹\n\n岁月开始侵袭，一如既往\n我依照规则，开始奔跑\n但人活着就是为了快乐\n这就是成长，一个人知道得越多，他所知道的无知也就越多\n\n每天有很多事要做，很多风景要看\n试试旁门又如何\n不走走看又怎么能知道呢\n如果你不愿发光，便永远不会闪耀\n\n嘿，就是现在，你就是主角，打开游戏，尽情玩乐\n嘿，就是现在，你就是天王巨星，开始秀吧，是表演的时候了\n是金子总会发光的\n只不过需要流星打碎遮住你的青苔"
+
+"DOTA_Tooltip_modifier_ogre_magi_multicast_lua_proc"                                       		"多重施法"
+"DOTA_Tooltip_modifier_ogre_magi_multicast_lua_proc_Description"                        		"再来!"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-OGRE END-------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,182 @@
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-VENOMANCER START-----------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack"		                                        "Global Epidemic"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "Plague Wards gain global attack range, but can no longer be controlled."
+
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal"			                                        "Rotten Delicacy"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal_Description"			                            "Plague Ward attacks provide Venomancer with %lifesteal_percentage%%  lifesteal. The heal amount does not includes damage over time effects."
+
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova"		                                                "Airborne Parasites"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova_Description"                                  		"Each time a unit is damaged by Poison Nova, it has a %spawn_chance%%  chance to spawn a Plague Ward at its current location"
+
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_bkb"		                                                "Herd Immunity"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_bkb_Description"		                                    "Each enemy unit hit by Venomous Gale grants Venomancer %duration% seconds of Spell Immunity, up to a maximum of %max_duration% seconds"
+
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse"		                                            "Fertile Soil"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse_Description"		                                "Venomancer's attacks now hit up to %additional_shots% additional enemies. Enemy units killed by Venomancer have a %spawn_chance%%  chance to spawn a Plague Ward at their location. The last hit must come from Venomancer himself."
+
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy"	                                        	"Terror of Jidi Isles"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy_Description"		                            "Venomancer gains the ability to summon a massive Fire-Breathing Plague Ward, who will also continuously spawn Venomancer's current level of Plague Ward near its location every 7 seconds. Fire Breath Damage is equals to 3 times of Venomancer's Attack Damage"
+
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack"		                                            "Seasonal Allergy"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack_Description"		                                "Venomancer's attacks have a %proc_chance%%  chance to also launch the current level of Venomous Gale in all directions."
+
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb" 	                                                "Bananamancer"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "Venomancer's Venomous Gale now summons a banana for each target hit. After a brief delay, these bananas will release Venomancer's current level of Poison Nova in a fixed 175 radius. Happy bananamancing!"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven"                                                            "Poison Nova"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_Lore"			                                            "The infamously deadly poisonous gas released by the Venomancer is made possible through a diet consisting solely of Tacos."
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_Description"                                                "A spreading ring of poison that does damage over time to enemy units around Venomancer. Poison Nova cannot deal lethal damage; targets will be left with at least 1 health."
+
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven"                                                          "Venomous Gale"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_Lore"                                                     "Transmission of bodily fluids through various orifices is one of Venomancer's favorite activities."
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_Description"                                              "Launches a ball of venom in a line, poisoning enemy units so that they take both initial damage and damage over time, as well as suffering slowed movement. Venomous Gale deals damage every 3 seconds over its duration."
+
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven"                                                           "Poison Sting"
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_Lore"                                                      "Never bring swords to an acid fight"
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_Description"                                               "Adds poison damage to Venomancer's normal attacks and slowing movement speed."
+
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven"                                                            "Plague Ward"
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_Lore"                                                       "One spitty boi coming right up!"
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_Description"                                                "Summons a plague ward to attack enemy units and structures. The ward is immune to magic. Wards gain the Poison Sting level from Venomancer, dealing 50% of the full damage."
+
+
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_tick_damage"						                        "Strike Damage:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_tick_damage"						                        "Damage Over Time:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_distance"						                            "Travel Distance:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_movement_slow"					                    	"%Movement Slow:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_cooldown"                                                 "Cooldown:"
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_duration"                                                   "Duration:"
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_attack_speed"                                               "Current Bonus Ward Attack Speed:"		
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_health"                                                     "Health:"
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_damage"                                                    "Damage per Second:"		
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_movement_speed"                                            "%Movement Slow:"		
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_duration"                                                  "Duration:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_duration"                                                 "Duration:"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_radius"                                                     "Radius:"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_duration"                                                   "Duration:"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_damage"                                                     "Damage Over Time:"
+
+"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward"		                                                    "Summon Lil Terry"
+"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "Summons the Terror of Jidi Isles, a massive Fire-Breathing Plague Ward, who will also continuously spawn Venomancer's current level of Plague Ward near its location every 10 seconds. Fire Breath Damage is equals to 3 times of Venomancer's Attack Damage"
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+"venomancer_venomous_gale_datadriven_tick_damage" 				                                	"+{s:value} {s:ability_name} Tick Damage"
+"venomancer_venomous_gale_datadriven_distance" 					                                    "+{s:value} {s:ability_name} Travel Distance"
+"venomancer_venomous_gale_datadriven_movement_slow" 		                            			"{s:value}% {s:ability_name} Movement Slow"
+"venomancer_venomous_gale_datadriven_cooldown" 			                                        	"-{s:value}% {s:ability_name} Cooldown"
+"venomancer_plague_ward_datadriven_duration" 			                                    		"+{s:value}s {s:ability_name} Duration"
+"venomancer_plague_ward_datadriven_health" 			                                            	"+{s:value} {s:ability_name} Health"
+"venomancer_plague_ward_datadriven_attack_speed" 		                                        	"+{s:value} {s:ability_name} Attack Speed"
+"venomancer_poison_sting_datadriven_damage" 				                                        "+{s:value} {s:ability_name} Damage Over Time"
+"venomancer_poison_sting_datadriven_movement_speed" 		                                		"{s:value}% {s:ability_name} Movement Slow"
+"venomancer_poison_nova_datadriven_duration" 				                                        "+{s:value}s {s:ability_name} Effect Duration"
+"venomancer_poison_nova_datadriven_cooldown" 				                                        "-{s:value}% {s:ability_name} Cooldown"
+"venomancer_poison_nova_datadriven_radius" 			                                            	"+{s:value} {s:ability_name} Effect Radius"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage"		                                    "Venomous Gale: Damage Over Time"
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage_Description"		                    	"<h1>Common Scepter Fragment</h1>Increases Venomous Gale Damage Over Time by %value% ."
+
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance"	                                    	"Venomous Gale: Distance"
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance_Description"	                    		"<h1>Common Scepter Fragment</h1>Increases Venomous Gale Travel Distance by %value% ."
+
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow"                                   	"Venomous Gale: Movement Slow"
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow_Description"               			"<h1>Common Scepter Fragment</h1>Increases Venomous Gale Movement Slow by %value% ."
+
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown"	                                    	"Venomous Gale: Cooldown"
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown_Description"		                    	"<h1>Common Scepter Fragment</h1>Decreases Venomous Gale Cooldown by %value%% ."
+
+
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health"		                                    	"Plague Ward: Ward Health"
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health_Description"	                        		"<h1>Common Scepter Fragment</h1>Increases Plague Ward Health Pool by %value% ."
+
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration"			                                    "Plague Ward: Duration"
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration_Description"	                        		"<h1>Common Scepter Fragment</h1>Increases Plague Ward Duration by %value% ."
+
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed"		                                    "Plague Ward: Attack Speed"
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed_Description"		                    	"<h1>Common Scepter Fragment</h1>Increases Plague Ward Attack Speed by %value% ."
+
+
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage"			                                    "Poison Sting: Damage Over Time"
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage_Description"	                        		"<h1>Common Scepter Fragment</h1>Increases Poison Sting Damage Over Time by %value% ."
+
+
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed"	                                    "Poison Sting: Movement Slow"
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed_Description"		                	"<h1>Common Scepter Fragment</h1>Increases Poison Sting Movement Slow by %value% ."
+
+
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration"			                                    "Poison Sting: Debuff Duration"
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration_Description"		                        	"<h1>Common Scepter Fragment</h1>Increases Poison Sting Debuff Duration by %value% ."
+
+
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration"		                                    	"Poison Nova: Debuff Duration"
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration_Description"			                        "<h1>Common Scepter Fragment</h1>Increases Poison Nova Debuff Duration by %value% ."
+
+
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown"			                                    "Poison Nova: Cooldown"
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown_Description"		                        	"<h1>Common Scepter Fragment</h1>Reduces Poison Nova Cooldown by %value%% ."
+
+
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius"			                                    "Poison Nova: Radius"
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius_Description"			                        "<h1>Common Scepter Fragment</h1>Increases Poison Nova Radius by %value% ."
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_split_shot"			                                    "Plague Ward gains Split Shot"
+"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_true_strike"			                                    "Plague Ward gains True Strike"
+"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_duration"		                                    	"+{s:value} Plague Ward Duration"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_modifier_venomancer_poison_nova_debuff_datadriven"                                                    "Poison Nova Debuff"
+"DOTA_Tooltip_modifier_venomancer_venomous_gale_debuff_datadriven"                                                  "Venomous Debuff"
+"DOTA_Tooltip_modifier_venomancer_poison_sting_debuff_datadriven"                                                   "Poison Sting Debuff"
+
+
+"plague_ward_2_datadriven"				                                                                            "Spitty Boi"
+"plague_ward_1_datadriven"				                                                                            "Spitty Boi"
+"plague_ward_3_datadriven"			                                                                            	"Spitty Boi"
+"plague_ward_4_datadriven"				                                                                            "Spitty Boi"
+
+"pathfinder_venomancer_big_ward"		                                                                            "Little Terry"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-VENOMANCER END-------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

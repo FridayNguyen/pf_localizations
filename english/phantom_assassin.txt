@@ -1,0 +1,182 @@
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO START---------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing"			                            "Golden Eye"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing_Description"		                	"Upon hitting an enemy, Stifling Dagger will bounce up to %bounces% times to other enemy unit within a %range% radius"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze"		                                	"A View To A Kill"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze_Description"	                    		"Enemy units struck by Stifling Dagger are hexed into a harmless critter for up to %duration% seconds"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blink_illusion"		                                	"Quantum Of  Solace"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blink_illusion_Description"	                    		"Phantom Strike summons a near-perfect copy of Phantom Assassin at her initial location. This illusion deals %damage_dealt%%  damage, is magic-immune, and benefits from most of her passives and items. The illusion will never expire as long as there is an enemy unit within a 400 radius"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blink_aoe"			                                    "Spectre"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blink_aoe_Description"		                        	"Phantom Strike leaves a pulsing circular area at its destination. Each pulse applies Phantom Assassin's attack unto every single enemy unit caught within the %radius% radius. These attacks can never miss and benefits from Phantom Assassin's abilities and items. Maximum of %pulse% pulses"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_aoe"		                                    	"For Your Eyes Only"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_aoe_Description"		                        	"Blur also applies its effect to all friendly heroes within a %radius% radius. Allies benefit from both active and passive components of Blur"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_block"		                                    	"Die Another Day"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_block_Description"		                        	"Upon activating Blur, Phantom Assassin gains %duration% seconds of persistent spell block, allowing her to absorb the effects of all single targeted spells"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_fear"		                                    	"Oh My God She Killed Kenny"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_fear_Description"		                        	"Coup de Grace's critical strikes causes enemy units within %radius% radius to be frozen with terror, rendering them unable to act for %duration% seconds. <font color='#70EA72'>The main attack target is unaffected by this effect.</font>"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_lifesteal"			                                "Live And Let Die"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_lifesteal_Description"			                    "Coup de Grace's critical strikes also lifesteal for %percent%%  damage"
+
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global"			                                    "Black Swan Pirouette"
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global_Description"			                        "Unleash the current level of Stifling Dagger unto every enemy unit within GLOBAL range. Also passively grants all Stiffling Daggers 100% lifesteal"
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global_Note1"	                                        "G L O B A L   R A N G E"
+
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global_dummy"			                                "The World Is Not Enough"
+"DOTA_Tooltip_Ability_phantom_assassin_dagger_global_dummy_Description"			                    "Phantom Assassin gains the Black Swan Pirouette ability, allowing her to unleash the current level of Stifling Dagger unto every enemy unit within GLOBAL range. Also passively grants all Stiffling Daggers 100% lifesteal. 40 seconds cooldown"
+
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_dagger"			                                "Licence to Kill"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_crit_dagger_Description"			                    "Coup de Grâce Critical Strikes cause any enemy unit affected by the Stifling Dagger debuff to release %amount% Stifling Dagger toward another units within the range of the ability"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_regen"			                                    "The Living Daylights"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_regen_Description"			                        "While under the effect of Blur's invisibility, Phantom Assassin passively gain %bonus_movespeed_percentage%%  movement speed and %max_health_regen%%  health regeneration. Also passively unlocks Phantom Assassin's maximum movement speed limit"
+
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_cdr"                                               "Whispers from Lordran"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_blur_cdr_Description"                                   "Any enemy unit that dies within a %radius% radius of Phantom Assassin reduces Blur's cooldown by %reduce_percent%%"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua"			                                "Stifling Dagger"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_Description"			                    "Throws a dagger slowing the enemy unit's movement speed, dealing a percentage of Phantom Assassin's attack damage as physical damage and applying attack effects from items and abilities."
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_Lore"			                        "They're just giving an acupuncture license to anyone these day..."
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_move_slow"			                    "%Movement Slow:"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_duration"			                    "Debuff Duration:"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_tooltip_range"		                	"Range:"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_attack_factor"		                	"%Attack Damage:"
+"DOTA_Tooltip_Ability_phantom_assassin_stifling_dagger_lua_base_damage"			                    "Base Damage:"
+
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua"		                                	"Coup de Grâce"
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua_Description"	                    		"Phantom Ass refines her combat abilities, gaining a chance of delivering a devastating critical strike to enemy units. Stifling Dagger shares the same critical strike chance."
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua_Lore"	                            		"There are two sorts of heroes in this world: the sort with blood pouring out of a stab wound on their gut, and the sort holding the knife."
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua_crit_chance"	                    		"%Critical Chance:"
+"DOTA_Tooltip_Ability_phantom_assassin_coup_de_grace_lua_crit_bonus"	                    		"%Critical Bonus:"
+
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua"		                                	"Phantom Strike"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_Description"                  			"Teleports to a unit, friendly or enemy, and perform instant attacks on all enemy units within a %radius% radius. Grants bonus attack speed if the target's an enemy unit."
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_Lore"	                            		"Scientists in the future have studied your ass for centuries - and sent me back in time to kick it!"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_bonus_attack_speed"	            		"Bonus Attack Speed:"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_range"	                        		"Cast Range:"
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_duration"	                        		"Buff Duration:"	
+"DOTA_Tooltip_Ability_phantom_assassin_phantom_strike_lua_radius"	                        		"Attack Radius:"	
+
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua"			                                        "Blur"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_Description"		                            	"Passively increases Phantom Assassin's ability to evade enemy attacks. Can be activated to <font color='#70EA72'>apply a basic dispel</font> and blur her body, causing her to become invisible until near <font color='#70EA72'>enemy units</font>. Phantom Assassin is immune to detection for 2 seconds after casting blur"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_Lore"		                                    	"All historians agree that George Washington's greatest regret was not being permanently invisible. Now Mortred shall succeed where the man who invented America failed!"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_bonus_evasion"                          			"%Bonus Evasion:"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_radius"		                                    	"Invisibilty Break Distance:"
+"DOTA_Tooltip_Ability_phantom_assassin_blur_lua_duration"	                                		"Invisibility Duration:"	
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+"phantom_assassin_stifling_dagger_lua_attack_factor"			                                    "+{s:value}% Attack Damage as Bonus Damage"
+"phantom_assassin_stifling_dagger_lua_duration"			                                            "+{s:value} {s:ability_name}s Slow Duration"
+"phantom_assassin_stifling_dagger_lua_base_damage"		                                        	"+{s:value} {s:ability_name} Base Damage"
+"phantom_assassin_coup_de_grace_lua_crit_chance"					                            	"+{s:value}% {s:ability_name} Critical Strike Chance"
+"phantom_assassin_coup_de_grace_lua_crit_bonus"		                                            	"+{s:value}% {s:ability_name} Critical Strike Damage"
+"phantom_assassin_phantom_strike_lua_bonus_attack_speed"	                                		"+{s:value} {s:ability_name} Bonus Attack Speed"
+"phantom_assassin_phantom_strike_lua_duration"	                                                	"+{s:value}s {s:ability_name} Buff Duration"
+"phantom_assassin_phantom_strike_lua_range"					                                        "+{s:value} {s:ability_name} Cast Range"
+"phantom_assassin_blur_lua_bonus_evasion"						                                    "+{s:value}% {s:ability_name} Bonus Evasion"
+"phantom_assassin_blur_lua_radius"				                                                    "-{s:value}% {s:ability_name} Invisiblity Break Distance"
+"phantom_assassin_blur_lua_duration"					                                            "+{s:value}s {s:ability_name} Invisibility Duration"
+"phantom_assassin_blur_lua_cooldown"				                                                "-{s:value}% {s:ability_name} Cooldown"	
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_attack_factor"		            	"Stifling Dagger: Bonus Attack Damage"
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_attack_factor_Description"			"<h1>Common Scepter Fragment</h1>Increase Attack Damage Bonus Percentage by %value%% ."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_duration"			                "Stifling Dagger: Slow Duration"
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_duration_Description"		    	"<h1>Common Scepter Fragment</h1>Increase Slow Duration by %value% seconds."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_base_damage"			            "Stifling Dagger: Base Damage"
+"DOTA_Tooltip_Ability_item_phantom_assassin_stifling_dagger_lua_base_damage_Description"			"<h1>Common Scepter Fragment</h1>Increase Base Damage by %value% ."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_coup_de_grace_lua_crit_chance"			                "Coup de Grâce: Critical Strike Chance"
+"DOTA_Tooltip_Ability_item_phantom_assassin_coup_de_grace_lua_crit_chance_Description"		    	"<h1>Common Scepter Fragment</h1>Increase Critical Strike Chance by %value%% ."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_coup_de_grace_lua_crit_bonus"			                "Coup de Grâce: Critical Strike Damage"
+"DOTA_Tooltip_Ability_item_phantom_assassin_coup_de_grace_lua_crit_bonus_Description"			    "<h1>Common Scepter Fragment</h1>Increase Critical Strike Damage by %value%% ."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_bonus_attack_speed"		        	"Phantom Strike: Bonus Attack Speed"
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_bonus_attack_speed_Description"	    "<h1>Common Scepter Fragment</h1>Increase Attack Speed Bonus by %value% ."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_duration"		                	"Phantom Strike: Buff Duration"
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_duration_Description"		    	"<h1>Common Scepter Fragment</h1>Increase the Duration of the Attack Speed Bonus by %value% seconds."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_range"		                    	"Phantom Strike: Range"
+"DOTA_Tooltip_Ability_item_phantom_assassin_phantom_strike_lua_range_Description"		        	"<h1>Common Scepter Fragment</h1>Increase the targeting range by %value% ."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_bonus_evasion"		                        	"Blur: Evasion"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_bonus_evasion_Description"		            	"<h1>Common Scepter Fragment</h1>Increase the Evasion Bonus by %value% ."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_radius"		                            	"Blur: Invisibility Break Distance"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_radius_Description"			                "<h1>Common Scepter Fragment</h1>Decrease the Invisibility Break Distance by %value% ."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_duration"			                            "Blur: Invisibility Duration"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_duration_Description"			                "<h1>Common Scepter Fragment</h1>Increase the Invisibility Duration by %value% seconds."
+
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_cooldown"			                            "Blur: Cooldown"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_cooldown_Description"			                "<h1>Common Scepter Fragment</h1>Decrease the Cooldown by %value% ."
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_stifling_dagger_lua+move_slow"	    "+{s:move_slow}% Stiffling Dagger Slow"		
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_phantom_strike_lua+duration"		"+{s:duration}s Phantom Strike Buff Duration"		
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_phantom_strike_lua+range"		    "Global Phantom Strike Range"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_blur_lua+bonus_evasion"			    "+{s:bonus_evasion}% Blur Evasion"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_coup_de_grace_lua+crit_bonus"	    "+{s:crit_bonus}% Coup De Grace Crit Damage"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_phantom_assassin_coup_de_grace_lua"				                            "Coup de Grâce"	
+"DOTA_Tooltip_modifier_phantom_assassin_coup_de_grace_lua_Description"				                "There are two sorts of heroes in this world: the sort with blood pouring out of a stab wound on their gut, and the sort holding the knife."
+
+"DOTA_Tooltip_modifier_phantom_assassin_blur_lua"				                                    "Blur"	
+"DOTA_Tooltip_modifier_phantom_assassin_blur_lua_Description"				                        "All historians agree that George Washington's greatest regret was not being permanently invisible. Now Mortred shall succeed where the man who invented America failed!"
+
+"DOTA_Tooltip_modifier_phantom_assassin_phantom_strike_lua"				                            "Phantom Strike Attack Speed Bonus"	
+"DOTA_Tooltip_modifier_phantom_assassin_phantom_strike_lua_Description"				                "Scientists in the future have studied your ass for centuries - and sent me back in time to kick it!"
+
+"DOTA_Tooltip_modifier_phantom_assassin_stifling_dagger_lua"				                        "Slowed"	
+"DOTA_Tooltip_modifier_phantom_assassin_stifling_dagger_lua_Description"				            "by a sucking stab wound"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO END-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

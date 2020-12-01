@@ -1,0 +1,218 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-JAKIRO START---------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart"                           "Tacobellian Indigestion"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart_Description"	            "Every second, Jakiro has a %chance%%  chance of releasing either component of Dual Breath in a cone directly behind itself"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_liquid_fire"	                "Through the Fire and Flames"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_liquid_fire_Description"	    "The fire component of Dual Breath has a %chance%%  chance of also launching a Liquid Fire projectile of the current level unto each enemy hit. Liquid Fire will always has its cooldown refreshed when this effect ocurrs"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_ice_blob"	                    "Crystalized Veins"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_ice_blob_Description"	        "The ice component of Dual Breath has a %chance%%  chance of creates a blob of Ice Path directly underneath each enemy hit, dealing damage and stunning for Ice Path's current values"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier"	                        "Ice-solation Protocol"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier_Description"	            "Casting Ice Path also creates two walls of Ice Shards of equal lengths on either side of the path. The ice wall remains for %duration_add% additional seconds after ice path has melted"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast"	                            "On Thin Ice"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast_Description"	                "Friendly heroes coming into contact with Ice Path is dispelled of all debuffs and gain %move_speed%  bonus movement speed. While the bonus is active, the affected heroes have flying movement, is phased, and cannot be slowed"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_repeat"	                        "Let It Go"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_repeat_Description"	            "Any enemy units that dies while affected by Ice Path will unleash the current level of Ice Path in the direction they are facing"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_armour"	                        "Vanilla Ice"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_armour_Description"	            "Friendly heroes coming into contact with Ice Path receive an ice coating that repeatedly freeze their attackers for up to %freeze_duration% seconds per attack. The duration of this buff equals to %buff_duration_mult% times the lifetime of Ice Path"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction"           	"A Song of Fire and more Fire"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction_Description"	"Any enemy units that dies while affected by Macropyre will reduce the cooldown of the ability by %cd_percent%%"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies"	                        "Molten Blood Transfusion"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"Liquid Fire can now target and affect allied heroes, healing them for 200% of the ability's damage as well as granting them bonus attack speed"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre"                  	"Warm Personality"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre_Description"      	"Any enemy units that dies while affected by Liquid Fire has a %chance%%  chance to leave behind a Macropyre puddle of the current level. The puddle's lifetime equals to half the duration of the Ultimate ability"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_burst"	                        "Drachen Flammenwerfer"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_burst_Description"	            "In addition to its regular effect, Liquid Fire immediately deals bonus burst damage equals to half of the total damage it would have dealt normally"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_burning_man"	                    "Festivity of the Burning Man"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_burning_man_Description"      	"Casting Macropyre now also creates 5 additional smaller Macropyres around the targeted area"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal"	                            "Lavatherapy"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal_Description"             	"Macropyre now also heals all friendly heroes within its area of effect for %heal_percent%%  of its full damage"
+
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal"	                        "Darling It's Cold Outside"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "Macropyre will never expire as long as Jakiro remains inside it, but the remaining cooldown of the ability is increased by %cd_increase%s per second while this effect is active"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua"	                                    "Dual Breath"
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_Description"	                        "An icy blast followed by a wave of fire launches out in a path in front of Jakiro. The ice slows enemies' movement and attack speed, while the fire delivers damage over time."
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_start_radius"		                    "Start Width:"
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_end_radius"		                    "End Width:"
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_range"		                            "Travel Distance:"		
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_slow_movement_speed_pct"		        "%Movespeed Slow:"
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_slow_attack_speed_pct"		            "Attack Speed Reduction:"
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_burn_damage"		                    "Damage per Second:"
+"DOTA_Tooltip_Ability_jakiro_dual_breath_lua_duration"		                        "Debuff Duration:"
+
+
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua"	                                        "Ice Path"
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_Description"	                            "Creates a path of ice that stuns and damages enemies that touch it."
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_range"		                            "Path Length:"
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_damage"		                            "Initial Damage:"	
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_duration"		                            "Path Duration:"	
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_path_radius"		                        "Path Width:"				
+"DOTA_Tooltip_Ability_jakiro_ice_path_lua_path_delay"		                        "Effect Delay:"		
+
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua"	                                    "Liquid Fire"
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_Description"	                        "Jakiro burns his enemies in an area of effect with fire added to his attack, while slowing their attacks."
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_slow_attack_speed_pct"		            "Attack Speed Reduction:"
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_radius"		                        "Splash Radius:"
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_damage"		                        "Damage per Second:"		
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_duration"		                        "Debuff Duration:"
+"DOTA_Tooltip_Ability_jakiro_liquid_fire_lua_range"		                            "Cast Range:"
+
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua"	                                        "Macropyre"
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_Description"	                            "Jakiro exhales a wide line of lasting flames, which deals damage per second to any enemy units caught in the fire."
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_damage"		                            "Damage per Second:"
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_cast_range"		                        "Effect Range:"
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_path_radius"		                        "Effect Width:"
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_duration"		                        "Effect Duration:"				
+"DOTA_Tooltip_Ability_jakiro_macropyre_lua_linger_duration"		                    "Burn Linger Duration:"				
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"jakiro_dual_breath_lua_range"			                                            "+{s:value} {s:ability_name} Travel Distance"
+"jakiro_dual_breath_lua_burn_damage"			                                    "+{s:value} {s:ability_name} Burn Damage per Second"
+"jakiro_dual_breath_lua_slow_movement_speed_pct"			                        "+{s:value}% {s:ability_name} Movespeed Reduction"
+"jakiro_dual_breath_lua_slow_attack_speed_pct"			                            "+{s:value} {s:ability_name} Attack Speed Reduction"
+"jakiro_dual_breath_lua_duration"			                                        "+{s:value}s {s:ability_name} Debuff Duration"
+"jakiro_dual_breath_lua_pct_cooldown"			                                    "-{s:value}% {s:ability_name} Cooldown"
+
+"jakiro_ice_path_lua_duration"			                                            "+{s:value}s {s:ability_name} Lifetime"
+"jakiro_ice_path_lua_damage"			                                            "+{s:value} {s:ability_name} Initial Damage"
+"jakiro_ice_path_lua_range"			                                                "+{s:value} {s:ability_name} Path Length"
+"jakiro_ice_path_lua_pct_cooldown"			                                        "-{s:value}% {s:ability_name} Cooldown"
+
+"jakiro_liquid_fire_lua_slow_attack_speed_pct"			                            "+{s:value} {s:ability_name} Attack Speed Reduction"
+"jakiro_liquid_fire_lua_radius"			                                            "+{s:value} {s:ability_name} Area of Effect Radius"
+"jakiro_liquid_fire_lua_damage"			                                            "+{s:value} {s:ability_name} Damage per Second"
+"jakiro_liquid_fire_lua_duration"			                                        "+{s:value}s {s:ability_name} Debuff Duration"		
+"jakiro_liquid_fire_lua_range"			                                            "+{s:value} {s:ability_name} Cast Range"
+
+"jakiro_macropyre_lua_duration"			                                            "+{s:value}s {s:ability_name} Effect Duration"
+"jakiro_macropyre_lua_damage"			                                            "+{s:value} {s:ability_name} Damage per Second"
+"jakiro_macropyre_lua_cast_range"			                                        "+{s:value} {s:ability_name} Effect Range"
+"jakiro_macropyre_lua_pct_cooldown"			                                        "-{s:value}% {s:ability_name} Cooldown"
+
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_range"				            "Dual Breath - Travel Distance"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_burn_damage"				        "Dual Breath - Damage per Second"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_slow_movement_speed_pct"		    "Dual Breath - Movespeed Reduction"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_slow_attack_speed_pct"			"Dual Breath - Attack Speed Reduction"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_duration"				            "Dual Breath - Debuff Duration"
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_pct_cooldown"				        "Dual Breath - Cooldown"
+
+
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_duration"				            "Ice Path - Path Lifetime"
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_damage"				                "Ice Path - Initial Damage"
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_range"				                "Ice Path - Path Length"
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_pct_cooldown"				        "Ice Path - Cooldown"
+
+
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_slow_attack_speed_pct"			"Liquid Fire - Attack Speed Reduction"
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_radius"				            "Liquid Fire - Splash Radius"
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_damage"				            "Liquid Fire - Damage per Second"
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_duration"				            "Liquid Fire - Debuff Duration"
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_range"				            "Liquid Fire - Cast Range"
+
+
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_damage"				                "Macropyre - Damage per Second"
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_cast_range"				            "Macropyre - Effect Range"
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_duration"				            "Macropyre - Duration"
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_pct_cooldown"				        "Macropyre - Cooldown"
+
+
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_range_Description"				        "<h1>Common Scepter Fragment</h1>Increases Dual Breath Travel Distance by %value%."
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_burn_damage_Description"				    "<h1>Common Scepter Fragment</h1>Increases Dual Breath Damage per Second by %value%."
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_slow_movement_speed_pct_Description"		"<h1>Common Scepter Fragment</h1>Increases Dual Breath Movespeed Reduction by %value%%."
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_slow_attack_speed_pct_Description"	    "<h1>Common Scepter Fragment</h1>Increases Dual Breath Attack Speed Reduction by %value%."	
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_duration_Description"				        "<h1>Common Scepter Fragment</h1>Increases Dual Breath Debuff Duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_jakiro_dual_breath_lua_pct_cooldown_Description"			        "<h1>Common Scepter Fragment</h1>Decreases Dual Breath Cooldown by %value%%."
+
+
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_duration_Description"	            "<h1>Common Scepter Fragment</h1>Increases Ice Path Lifetime by %value% seconds."
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_damage_Description"		            "<h1>Common Scepter Fragment</h1>Increases Ice Path Damage by %value%."
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_range_Description"		            "<h1>Common Scepter Fragment</h1>Increases Ice Path Length by %value%."
+"DOTA_Tooltip_Ability_item_jakiro_ice_path_lua_pct_cooldown_Description"            "<h1>Common Scepter Fragment</h1>Decreases Ice Path Cooldown by %value%%."
+
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_slow_attack_speed_pct_Description"	    "<h1>Common Scepter Fragment</h1>Increases Liquid Fire Attack Speed Reduction by %value%."
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_radius_Description"	                    "<h1>Common Scepter Fragment</h1>Increases Liquid Fire Splash Radius by %value%."			
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_damage_Description"	                    "<h1>Common Scepter Fragment</h1>Increases Liquid Fire Damage per Second by %value%."			
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_duration_Description"	                    "<h1>Common Scepter Fragment</h1>Increases Liquid Fire Debuff Duration by %value% seconds."			
+"DOTA_Tooltip_Ability_item_jakiro_liquid_fire_lua_range_Description"		                "<h1>Common Scepter Fragment</h1>Increases Liquid Fire Cast Range by %value%."	
+
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_damage_Description"				    "<h1>Common Scepter Fragment</h1>Increases Macropyre Damage per Second by %value%."			
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_cast_range_Description"			    "<h1>Common Scepter Fragment</h1>Increases Macropyre Effect Range by %value%."			
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_duration_Description"			    "<h1>Common Scepter Fragment</h1>Increases Macropyre Duration by %value% seconds."			
+"DOTA_Tooltip_Ability_item_jakiro_macropyre_lua_pct_cooldown_Description"		    "<h1>Common Scepter Fragment</h1>Decreases Macropyre Cooldown by %value%%."	
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_dual_breath_lua+burn_damage"	            "+{s:burn_damage} Dual Breath Burn Damage"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_dual_breath_lua+range"	                "+{s:range} Dual Breath Travel Distance"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_liquid_fire_lua+slow_attack_speed_pct"	"+{s:slow_attack_speed_pct} Liquid Fire Attack Slow"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_ice_path_lua+duration"	                "+{s:duration} Ice Path Lifetime"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_jakiro_macropyre_lua+cast_range"	                "+{s:cast_range} Macropyre Length"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_jakiro_dual_breath_lua_ice"                                  "Jakiro's Ice Breath"
+"DOTA_Tooltip_modifier_jakiro_dual_breath_lua_ice_Description"                      "Movement and Attack Speed reduced"
+
+"DOTA_Tooltip_modifier_jakiro_dual_breath_lua_fire"                                 "Jakiro's Fire Breath"
+"DOTA_Tooltip_modifier_jakiro_dual_breath_lua_fire_Description"                     "Receiving Damage over Time"
+
+"DOTA_Tooltip_modifier_jakiro_sepcial_ice_path_armour"                              "Vanilla Ice"
+"DOTA_Tooltip_modifier_jakiro_sepcial_ice_path_armour_Description"                  "Receiving damage reduction and freezing attackers on hit"
+
+"DOTA_Tooltip_modifier_jakiro_ice_path_lua"                                         "Ice Path"
+"DOTA_Tooltip_modifier_jakiro_ice_path_lua_Description"                             "Baby It's Cold Outside"
+
+"DOTA_Tooltip_modifier_jakiro_liquid_fire_lua"                                      "Liquid Fire"
+"DOTA_Tooltip_modifier_jakiro_liquid_fire_lua_Description"                          "Fire is, by definition, not liquid"
+
+"DOTA_Tooltip_modifier_jakiro_macropyre_lua"                                        "Macropyre"
+"DOTA_Tooltip_modifier_jakiro_macropyre_lua_Description"                            "The floor is LITERALLY lava"
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-JAKIRO END-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

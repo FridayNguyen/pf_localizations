@@ -1,0 +1,209 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-AXE START------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_leap"	                                    "天崩斧"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_leap_Description"	                        "淘汰之刃施法距离提升至1200，释放时斧王会瞬间降临至目标处，眩晕 %stun_radius% 范围内的敌人 %stun_duration% 秒，并对范围内目标以外的敌人施加淘汰之刃的失败伤害"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_omnislash"	                                "无敌砍"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_omnislash_Description"	                    "淘汰之刃斩杀敌人后，斧王会闪烁至 %search_radius% 范围内血量最低的敌人身边并对其释放一次淘汰之刃。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_heal"	                                    "茹毛饮血"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_heal_Description"	                        "淘汰之刃斩杀敌人后为斧王回复目标 %health_pct%% 的最大生命值以及 %mana_mult% 倍淘汰之刃的魔法消耗。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_delay"	                                    "冰斧爆轰"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_culling_blade_delay_Description"	                        "淘汰之刃会诅咒目标 %duration% 秒，诅咒持续期间若目标生命值低于斩杀线则会立刻死亡。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_reduce_damage"	                            "弱化螺旋"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_reduce_damage_Description"	                "被反击螺旋命中的敌人伤害输出降低 %percent%% ，持续 %duration% 秒。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_allies"	                                    "红雾效应"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_allies_Description"	                        "反击螺旋成为光环技能，斧王周围 %radius% 范围内的友方英雄会同时获得反击螺旋的效果。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury"	                                    "飞斧风暴"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury_Description"	                        "反击螺旋成为开关技能，开启时每秒消耗45点生命并强制触发反击螺旋。强制触发的反击螺旋不影响技能本身的反击螺旋触发。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal"	                                "战斗激素"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal_Description"	                    "战斗饥渴以 %percent%% 的伤害量治疗 %radius% 范围内的友方英雄。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr"	                                "残暴"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr_Description"	                    "每当战斗饥渴状态下的敌方单位受到攻击，淘汰之刃的冷却时间减少 %cdr% 秒。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh"	                                    "欲壑难填"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "战斗饥渴状态下的敌方单位攻击斧王时，刷新其身上战斗饥渴状态的持续时间。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health"	                                    "叠加原理"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health_Description"	                        "每个在狂战士之吼状态下死亡的敌方单位会为斧王额外提供 %stack_health% 最大生命，斧王死亡时额外生命消失。"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger"	                            "寻衅滋事"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "狂战士之吼对受影响的敌方单位施加当前等级的战斗饥渴"
+
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies"	                                    "红雾冲锋"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies_Description"	                        "狂战士之吼同时在友方英雄身上触发，给予他们额外的护甲并将附近敌方单位的仇恨转移至斧王身上。"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_axe_culling_blade_lua"	                                                        "淘汰之刃"
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_Description"	                                            "斧王寻找弱点来出击，直接秒杀低血量的敌方单位，血量如果过高则只造成一定伤害。当秒杀的是敌方英雄时，本技能不会进入冷却时间。同时斧王和附近友军单位获得移动速度和攻击速度加成。"
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_kill_threshold"		                                        "击杀生命值阈限："
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_damage"		                                                "伤害："
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_speed_bonus"		                                        "击杀移动速度加成："
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_atk_speed_bonus_tooltip"		                            "击杀攻击速度加成："
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_speed_duration"		                                        "击杀加成持续时间："
+"DOTA_Tooltip_Ability_axe_culling_blade_lua_speed_aoe"		                                            "击杀速度加成范围："
+
+"DOTA_Tooltip_Ability_axe_counter_helix_lua"	                                                        "反击螺旋"
+"DOTA_Tooltip_Ability_axe_counter_helix_lua_Description"	                                            "受攻击时，斧王有几率做出螺旋反击，对附近所有敌方单位造成纯粹伤害。"
+"DOTA_Tooltip_Ability_axe_counter_helix_lua_radius"		                                                "范围："
+"DOTA_Tooltip_Ability_axe_counter_helix_lua_trigger_chance"		                                        "触发几率："
+"DOTA_Tooltip_Ability_axe_counter_helix_lua_damage"		                                                "伤害："
+
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua"	                                                        "狂战士之吼"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_Description"	                                            "斧王嘲讽附近的敌方单位，强迫他们攻击自己，同时获得额外护甲"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_radius"		                                            "范围:"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_bonus_armor"		                                        "护甲加成:"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_duration"	                                                "持续时间:"
+
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua"	                                                        "战斗饥渴"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_Description"	                                            "激怒一定范围内的敌方单位，使他受到减速和持续伤害，直到他杀死一个单位或者持续时间结束。斧王从每个受战斗饥渴影响的敌人身上获得移动速度加成。"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_radius"		                                                "范围:"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_damage_per_second"		                                    "每秒伤害:"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_duration"		                                            "持续时间:"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_speed_bonus"		                                        "自身移动速度加成:"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_slow"		                                                "移动速度减缓:"		
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"axe_battle_hunger_lua_duration"			                                                            "+{s:value}s {s:ability_name} 持续时间"
+"axe_battle_hunger_lua_slow"			                                                                "+{s:value}% {s:ability_name} 移动速度减缓"
+"axe_battle_hunger_lua_speed_bonus"			                                                            "+{s:value}% {s:ability_name} 自身移动速度加成"
+"axe_battle_hunger_lua_damage_per_second"			                                                    "+{s:value} {s:ability_name} 每秒伤害"
+"axe_battle_hunger_lua_radius"			                                                                "+{s:value} {s:ability_name} 作用范围"
+"axe_battle_hunger_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
+
+"axe_berserkers_call_lua_radius"			                                                            "+{s:value} {s:ability_name} 范围"
+"axe_berserkers_call_lua_bonus_armor"			                                                        "+{s:value} {s:ability_name} 护甲加成"
+"axe_berserkers_call_lua_duration"			                                                            "+{s:value}s {s:ability_name} 持续时间"		
+"axe_berserkers_call_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
+
+"axe_counter_helix_lua_trigger_chance"			                                                        "+{s:value}% {s:ability_name} 触发几率"
+"axe_counter_helix_lua_damage"			                                                                "+{s:value} {s:ability_name} 伤害"	
+
+
+"axe_culling_blade_lua_kill_threshold"			                                                        "+{s:value} {s:ability_name} 击杀生命值阈限"
+"axe_culling_blade_lua_damage"			                                                                "+{s:value} {s:ability_name} 伤害"
+"axe_culling_blade_lua_speed_bonus"			                                                            "+{s:value}% {s:ability_name} 移动速度加成"
+"axe_culling_blade_lua_atk_speed_bonus_tooltip"			                                                "+{s:value} {s:ability_name} 攻击速度加成"
+"axe_culling_blade_lua_speed_duration"			                                                        "+{s:value}s {s:ability_name} 加成持续时间"
+"axe_culling_blade_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"	
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_duration"				                                "战斗饥渴 - 持续时间"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_slow"					                                "战斗饥渴 - 移动速度减缓"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_speed_bonus"			                                "战斗饥渴 - 移动速度加成"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_damage_per_second"		                                "战斗饥渴 - 每秒伤害"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_radius"				                                "战斗饥渴 - 范围"
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_pct_cooldown"			                                "战斗饥渴 - 冷却时间"
+
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_duration_Description"				                    "<h1>普通神杖碎片</h1>+ %value% s战斗饥渴持续时间."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_slow_Description"					                    "<h1>普通神杖碎片</h1>+ %value%% 战斗饥渴 移动速度减缓."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_speed_bonus_Description"			                    "<h1>普通神杖碎片</h1>+ %value%% 战斗饥渴 移动速度加成."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_damage_per_second_Description"		                    "<h1>普通神杖碎片</h1>+ %value% 战斗饥渴 每秒伤害."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_radius_Description"				                    "<h1>普通神杖碎片</h1>+ %value% 战斗饥渴作用范围."
+"DOTA_Tooltip_Ability_item_axe_battle_hunger_lua_pct_cooldown_Description"			                    "<h1>普通神杖碎片</h1>- %value%% 战斗饥渴 冷却时间."
+
+
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_radius"		                                        "狂战士之吼 - 范围"
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor"		                                    "狂战士之吼 - 护甲加成"
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_duration"		                                    "狂战士之吼 - 持续时间"
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_pct_cooldown"		                                "狂战士之吼 - 冷却时间"
+
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_radius_Description"		                            "<h1>普通神杖碎片</h1>+ %value% 狂战士之吼范围."
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor_Description"		                        "<h1>普通神杖碎片</h1>+ %value% 狂战士之吼护甲加成."
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_duration_Description"		                        "<h1>普通神杖碎片</h1>+ %value% s 狂战士之吼持续时间."
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_pct_cooldown_Description"		                    "<h1>普通神杖碎片</h1>- %value%% 狂战士之吼冷却时间."
+
+
+"DOTA_Tooltip_Ability_item_axe_counter_helix_lua_trigger_chance"		                                "反击螺旋 - 触发几率"
+"DOTA_Tooltip_Ability_item_axe_counter_helix_lua_damage"		                                        "反击螺旋 - 伤害"
+
+"DOTA_Tooltip_Ability_item_axe_counter_helix_lua_trigger_chance_Description"		                    "<h1>普通神杖碎片</h1>+ %value%% 反击螺旋触发几率."
+"DOTA_Tooltip_Ability_item_axe_counter_helix_lua_damage_Description"		                            "<h1>普通神杖碎片</h1>+ %value% 反击螺旋伤害."
+
+
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_kill_threshold"		                                "淘汰之刃 - 击杀生命值阈限"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_damage"		                                        "淘汰之刃 - 伤害"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_speed_bonus"		                                    "淘汰之刃 - 移动速度加成"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_atk_speed_bonus_tooltip"		                        "淘汰之刃 - 攻击速度加成"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_speed_duration"		                                "淘汰之刃 - 加成持续时间"
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_pct_cooldown"		                                    "淘汰之刃 - 冷却时间"
+
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_kill_threshold_Description"		                    "<h1>普通神杖碎片</h1>+ %value% 淘汰之刃击杀生命值阈限."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_damage_Description"		                            "<h1>普通神杖碎片</h1>+ %value% 淘汰之刃伤害."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_speed_bonus_Description"		                        "<h1>普通神杖碎片</h1>+ %value%% 淘汰之刃移动速度加成."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_atk_speed_bonus_tooltip_Description"		            "<h1>普通神杖碎片</h1>+ %value% 淘汰之刃攻击速度加成."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_speed_duration_Description"		                    "<h1>普通神杖碎片</h1>+ %value% 淘汰之刃加成持续时间."
+"DOTA_Tooltip_Ability_item_axe_culling_blade_lua_pct_cooldown_Description"		                        "<h1>普通神杖碎片</h1>- %value%% 淘汰之刃冷却时间."
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_unique_counter_helix_attack"	                                    "攻击触发反击螺旋"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_axe_culling_blade_lua+kill_threshold"                    "+{s:kill_threshold} 淘汰之刃击杀生命值阈限"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_axe_berserkers_call_lua+radius"	                        "+{s:radius} 狂战士之吼范围"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_axe_battle_hunger_lua+damage_per_second"	                "+{s:damage_per_second} 战斗饥渴每秒伤害"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_axe_berserkers_call_special_health"                                              "叠加态"
+"DOTA_Tooltip_modifier_axe_berserkers_call_special_health_Description"                                  "获得额外最大生命，死亡后消失。"
+
+"DOTA_Tooltip_modifier_axe_battle_hunger_lua_debuff"                                                    "战斗饥渴"
+"DOTA_Tooltip_modifier_axe_battle_hunger_lua_debuff_Description"                                        "每秒受到伤害并被减速，直到杀死一个单位"
+
+
+"DOTA_Tooltip_modifier_axe_battle_hunger_lua"		                                                    "战斗饥渴"
+"DOTA_Tooltip_modifier_axe_battle_hunger_lua_Description"		                                        "获得移动速度加成"
+
+
+"DOTA_Tooltip_modifier_axe_berserkers_call_lua_debuff"		                                            "狂战士之吼"
+"DOTA_Tooltip_modifier_axe_berserkers_call_lua_debuff_Description"		                                "被迫攻击斧王"
+
+"DOTA_Tooltip_modifier_axe_berserkers_call_lua"		                                                    "狂战士"
+"DOTA_Tooltip_modifier_axe_berserkers_call_lua_Description"		                                        "斧王获得护甲加成"
+
+"DOTA_Tooltip_modifier_axe_counter_helix_special_reduce_damage"                                         "弱化"
+"DOTA_Tooltip_modifier_axe_counter_helix_special_reduce_damage_description"                             "伤害输出降低"
+
+"DOTA_Tooltip_modifier_axe_culling_blade_lua"	                                                        "战争咆哮"
+"DOTA_Tooltip_modifier_axe_culling_blade_lua_Description"	                                            "获得攻击速度加成和移动速度加成"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-AXE END--------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
