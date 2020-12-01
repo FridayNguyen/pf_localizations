@@ -5,7 +5,11 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
+"DOTA_Tooltip_Ability_ascension_pathfinder_dilation"                        "膨胀力场"
+"DOTA_Tooltip_Ability_ascension_pathfinder_dilation_Description"            "首领偶尔会延长附近英雄的技能冷却时间"
 
+"DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                        "膨胀力场"
+"DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"            "冷却时间延长"
 
 "DOTA_Tooltip_Ability_item_feet_of_midas"			            "Feet of Sadim"         // Midas name and description
 "DOTA_Tooltip_Ability_item_feet_of_midas_Lore"			        "A Constellation of Midaeum is touched by the noble spirit of the solo adventurer, and had bestowed unto the lone hero their blessing."
