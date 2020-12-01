@@ -187,7 +187,7 @@
 "DOTA_Tooltip_modifier_tidehunter_ravage_pf_puddle_effect_Description"                              "海妖外壳格挡提升"
 
 "DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff"                                                   "吃了！"
-"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff_Description"                                       "获得额外的生命，生命回复，魔法抗性，状态抗性，和护甲。移动速度降低。死亡后损一半"
+"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff_Description"                                       "获得额外的生命，生命回复，魔法抗性，状态抗性，和护甲。移动速度降低。死亡后损失一半"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------
