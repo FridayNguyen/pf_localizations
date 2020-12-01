@@ -11,34 +11,34 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone"				        	"Windward Haze"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone_Description"				"While under the effect of Windrun, Windranger automatically launch the current level of Shackleshot toward the closest nearby enemy unit every %duration% seconds"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone_Description"				"Под действием Windrun герой автоматически применяет способность Shackleshot на ближайшего врага каждые %duration% сек."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "Kentucky Windage"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "Any enemy unit stunned by Shackleshot also has their armour reduced by 10"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "Броня любого врага, оглушенного Shackleshot, снижается на 10."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep"					        "Autumn Chill"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "Enemy units stunned by Shackleshot are put to sleep for up to %duration% seconds once the effect wears off"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "Враги погружаются в сон на %duration% сек. после окончания оглушения от Shackleshot."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot"				        "Sweeping Gale"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot_Description"			"Powershot now fires 3 separate projectiles, each dealing the full damage of the ability"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot_Description"			"Теперь Powershot выпускает три стрелы, каждая из которых наносит полный урон способности."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet"				            "Unhealthy Fixation"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet_Description"				"Upon hitting an enemy unit, Powershot ricochets toward the furthest enemy within a %search_radius% radius. This effect can occur up to %bounce% times"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet_Description"				"Поразив цель, Powershot до %bounce% раз отскакивает в другого врага, который находится дальше всего в радиусе %search_radius%. "
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"Semiautomatic Assault Archery"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"Powershot now fires 17 non-piercing shots, each dealing %damage_percent%%  damage"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"Теперь Powershot выпускает 17 стрел, но каждая из них не пробивает цель насквозь и наносит %damage_percent%% урона."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe"	                            "Picnic in The Park"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "Casting Windrun also grants the effect to friendly heroes within a %radius% radius"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "Использование Windrun также накладывает эффект способности на союзных героев в радиусе %radius%."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe"	                        "Fair-Weather Friends"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "Shackleshot can now affect up to %targets% enemy units"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "Теперь Shackleshot может связать до %targets% врагов."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot"		                    "Feel the Breeze"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "While under the effect of Focus Fire, each of Windranger's attack flash-freezes the targeted enemy unit"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "Под действием Focus Fire каждая атака Windranger замораживает цель."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global"	                        "Arrow Rain"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "While under the effect of Focus Fire, Windranger gains global attack range against the targeted enemy unit. The cast range of Focus Fire remains the same."
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "Windranger может атаковать выбранную цель Focus Fire из любой точки карты. Дальность применения способности при этом остается прежней."
 
 
 
@@ -49,29 +49,29 @@
 
 "DOTA_Tooltip_Ability_windranger_windrun_lua"				                                	"Windrun"
 "DOTA_Tooltip_Ability_windranger_windrun_lua_Lore"			                                    "Float like a butterfly, sting like a bee. Rumble, young girl, rumble!"
-"DOTA_Tooltip_Ability_windranger_windrun_lua_Description"					                    "Increases movement speed and adds evasion from all physical attacks, while slowing movement of nearby enemies."
-"DOTA_Tooltip_Ability_windranger_windrun_lua_movespeed_bonus_pct"		                        "%Movespeed Bonus:"
-"DOTA_Tooltip_Ability_windranger_windrun_lua_enemy_movespeed_bonus_pct"		                    "%Enemy Movement Slow:"
-"DOTA_Tooltip_Ability_windranger_windrun_lua_duration"		                                    "Duration:"
+"DOTA_Tooltip_Ability_windranger_windrun_lua_Description"					                    "Увеличивает скорость передвижения героя и позволяет ему уворачиваться от всех физических атак, при этом замедляя передвижение врагов поблизости."
+"DOTA_Tooltip_Ability_windranger_windrun_lua_movespeed_bonus_pct"		                        "%Доп. скорость передвижения:"
+"DOTA_Tooltip_Ability_windranger_windrun_lua_enemy_movespeed_bonus_pct"		                    "%Замедление врагов:"
+"DOTA_Tooltip_Ability_windranger_windrun_lua_duration"		                                    "Длительность:"
 
 "DOTA_Tooltip_Ability_windranger_shackleshot_lua"					                            "Shackleshot"
 "DOTA_Tooltip_Ability_windranger_shackleshot_lua_Lore"			                                "I am Lyralei, and I speak for the trees!"
-"DOTA_Tooltip_Ability_windranger_shackleshot_lua_Description"					                "Shackles the target to an enemy unit or tree in a line directly behind it. If no unit or tree is present, the stun duration is reduced to 0.75."
-"DOTA_Tooltip_Ability_windranger_shackleshot_lua_stun_duration"			                        "Stun Duration:"
-"DOTA_Tooltip_Ability_windranger_shackleshot_lua_shackle_distance"			                    "Shackle Distance:"
-"DOTA_Tooltip_Ability_windranger_shackleshot_lua_shackle_angle"			                        "Shackle Angle:"
+"DOTA_Tooltip_Ability_windranger_shackleshot_lua_Description"					                "Связывает цель с находящимся позади неё врагом или деревом. Если цель не будет с чем-либо связана, длительность оглушения сократится до 0,75 сек."
+"DOTA_Tooltip_Ability_windranger_shackleshot_lua_stun_duration"			                        "Длительность оглушения:"
+"DOTA_Tooltip_Ability_windranger_shackleshot_lua_shackle_distance"			                    "Дальность связки:"
+"DOTA_Tooltip_Ability_windranger_shackleshot_lua_shackle_angle"			                        "Угол связки:"
 
 "DOTA_Tooltip_Ability_windranger_powershot_lua"					                                "Powershot"
 "DOTA_Tooltip_Ability_windranger_powershot_lua_Lore"			                                "If at first you don't succeed, stand closer, shoot again."
-"DOTA_Tooltip_Ability_windranger_powershot_lua_Description"					                    "Windranger charges her bow for 0.75 second and fires single powerful shot. The arrow deals <font color='#70EA72'>full damage</font> to all enemies along its path. <font color='#70EA72'>Damage is reduced by 60% if Windranger does not finish the channel.</font>"
-"DOTA_Tooltip_Ability_windranger_powershot_lua_powershot_damage"			                    "Damage:"		
-"DOTA_Tooltip_Ability_windranger_powershot_lua_arrow_range"			                            "Range:"
+"DOTA_Tooltip_Ability_windranger_powershot_lua_Description"					                    "Герой заряжает лук в течение 0,75 секунд, чтобы совершить мощный выстрел. Стрела наносит <font color='#70EA72'>полный урон</font> всем врагам на своем пути <font color='#70EA72'>. Урон снижается на 60%, если выстрелить, не зарядив лук полностью.</font>"
+"DOTA_Tooltip_Ability_windranger_powershot_lua_powershot_damage"			                    "Урон:"	
+"DOTA_Tooltip_Ability_windranger_powershot_lua_arrow_range"			                            "Дальность:"	
 
 "DOTA_Tooltip_Ability_windranger_focus_fire_lua"                                                "Focus Fire"
 "DOTA_Tooltip_Ability_windranger_focus_fire_lua_Lore"                                           "Now, hold on, you keep saying. 'Arent bows and arrows primitive and harmless?' Why dont you ask the dinosaurs? Except you cant, because the cavemen bow and arrowed them to death."
-"DOTA_Tooltip_Ability_windranger_focus_fire_lua_Description"					                "Windranger channels the wind to gain additional attack speed against a single enemy unit or structure, though with a reduction to her attack damage. Extra damage from secondary item effects is not reduced. Lasts 13 seconds"
-"DOTA_Tooltip_Ability_windranger_focus_fire_lua_bonus_attack_speed"				            	"Bonus Attack Speed:"
-"DOTA_Tooltip_Ability_windranger_focus_fire_lua_focusfire_damage_reduction"				    	"%Attack Damage Penalty:"					
+"DOTA_Tooltip_Ability_windranger_focus_fire_lua_Description"					                "Герой призывает вихрь, увеличивающий скорость его атаки по выбранному вражескому существу или строению на 13 секунд. Весь урон от этих атак будет уменьшен, за исключением урона от эффектов предметов. "
+"DOTA_Tooltip_Ability_windranger_focus_fire_lua_bonus_attack_speed"				            	"Доп. скорость атаки:"
+"DOTA_Tooltip_Ability_windranger_focus_fire_lua_focusfire_damage_reduction"				    	"%Снижение урона:"		
 
 
 >---------------------------------------
@@ -79,18 +79,18 @@
 >---------------------------------------
 
 
-"windranger_shackleshot_lua_stun_duration"			                                            "+{s:value}s {s:ability_name} Stun Duration"
-"windranger_shackleshot_lua_shackle_distance"		                                        	"+{s:value} {s:ability_name} Latching Distance"
-"windranger_shackleshot_lua_shackle_angle"		                                            	"+{s:value} degrees {s:ability_name} Latching Angle"
-"windranger_windrun_lua_duration"				                                        		"+{s:value}s {s:ability_name} Duration"
-"windranger_windrun_lua_movespeed_bonus_pct"		                                        	"+{s:value}% {s:ability_name} Movespeed Bonus"
-"windranger_powershot_lua_powershot_damage"			                                            "+{s:value} {s:ability_name} Damage"
-"windranger_focus_fire_lua_bonus_attack_speed"		                                            "+{s:value} {s:ability_name} Bonus Attack Speed"
-"windranger_focus_fire_lua_cooldown"				                                        	"-{s:value}% {s:ability_name} Cooldown"
-"windranger_windrun_lua_enemy_slow"					                                        	"{s:value}% {s:ability_name} Enemy Movespeed Slow"
-"windranger_powershot_lua_arrow_range"			                                            	"+{s:value} {s:ability_name} Range"
-"windranger_powershot_lua_cooldown"				                                            	"-{s:value}% {s:ability_name} Cooldown"
-"windranger_shackleshot_lua_cooldown"			                                            	"-{s:value}% {s:ability_name} Cooldown"
+"windranger_shackleshot_lua_stun_duration"			                                            "+{s:value}s к длительности оглушения {s:ability_name}"
+"windranger_shackleshot_lua_shackle_distance"		                                        	"+{s:value} к дальности связки {s:ability_name}"
+"windranger_shackleshot_lua_shackle_angle"		                                            	"+{s:value} градусов к углу связки {s:ability_name}"
+"windranger_windrun_lua_duration"				                                        		"+{s:value}s к длительности {s:ability_name}"
+"windranger_windrun_lua_movespeed_bonus_pct"		                                        	"+{s:value}% к скорости от {s:ability_name}"
+"windranger_powershot_lua_powershot_damage"			                                            "+{s:value} к урону от {s:ability_name}"
+"windranger_focus_fire_lua_bonus_attack_speed"		                                            "+{s:value} к доп. скорости атаки от {s:ability_name}"
+"windranger_focus_fire_lua_cooldown"				                                        	"-{s:value}% перезарядки {s:ability_name}"
+"windranger_windrun_lua_enemy_slow"					                                        	"+{s:value}% к замедлению врагов от {s:ability_name}"
+"windranger_powershot_lua_arrow_range"			                                            	"+{s:value} к дальности {s:ability_name}"
+"windranger_powershot_lua_cooldown"				                                            	"-{s:value}% перезарядки {s:ability_name}"
+"windranger_shackleshot_lua_cooldown"			                                            	"-{s:value}% перезарядки {s:ability_name}"
 
 
 >---------------------------------------
@@ -98,29 +98,29 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_stun_duration"		                    "Shackleshot: Stun Duration"
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_stun_duration_Description"			    "<h1>Common Scepter Fragment</h1>Increases Shackleshot Stun Duration by %value% ."
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_stun_duration"		                    "Shackleshot: длительность оглушения"
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_stun_duration_Description"			    "<h1>Обычный осколок скипетра</h1>Увеличивает длительность оглушения Shackleshot на %value%."
 
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_distance"		                    "Shackleshot: Distance"
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_distance_Description"		    	"<h1>Common Scepter Fragment</h1>Increases Shackleshot Latching Distance by %value% ."
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_distance"		                    "Shackleshot: дальность связки"
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_distance_Description"		    	"<h1>Обычный осколок скипетра</h1>Увеличивает дальность связки Shackleshot на %value%."
 
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle"	                    	"Shackleshot: Angle"
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle_Description"		    	"<h1>Common Scepter Fragment</h1>Increases Shackleshot Latching Angle by %value% ."
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle"	                    	"Shackleshot: угол связки"
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle_Description"		    	"<h1>Обычный осколок скипетра</h1>Увеличивает угол связки Shackleshot на %value%."
 
-"DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration"		                                "Windrune: Duration"
-"DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration_Description"			                "<h1>Common Scepter Fragment</h1>Increases Windrun Duration by %value% ."
+"DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration"		                                "Windrun: длительность"
+"DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration_Description"			                "<h1>Обычный осколок скипетра</h1>Увеличивает длительность Windrun на %value% ."
 
-"DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct"		                    "Windrun: Movespeed Percentage Bonus"
-"DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct_Description"	    		"<h1>Common Scepter Fragment</h1>Increases Windrun Movespeed Percentage Bonus by %value% ."
+"DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct"		                    "Windrun: скорость"
+"DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct_Description"	    		"<h1>Обычный осколок скипетра</h1>Увеличивает доп.скорость от Windrun на %value%%."
 
-"DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage"	                    	"Powershot: Damage"
-"DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage_Description"		    	"<h1>Common Scepter Fragment</h1>Increases Powershot Damage by %value% ."
+"DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage"	                    	"Powershot: урон"
+"DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage_Description"		    	"<h1>Обычный осколок скипетра</h1>Увеличивает урон от Powershot на %value%."
 
-"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_bonus_attack_speed"		                "Focus Fire: Bonus Attack Speed"
-"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_bonus_attack_speed_Description"			"<h1>Common Scepter Fragment</h1>Increases Focus Fire Bonus Attack Speed by %value% ."
+"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_bonus_attack_speed"		                "Focus Fire: доп. скорость атаки"
+"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_bonus_attack_speed_Description"			"<h1>Обычный осколок скипетра</h1>Увеличивает доп. скорость атаки от Focus Fire на %value%."
 
-"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_cooldown"		                            "Focus Fire: Cooldown"
-"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_cooldown_Description"			            "<h1>Common Scepter Fragment</h1>Decreases Focus Fire Cooldown by %value%% ."
+"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_cooldown"		                            "Focus Fire: перезарядка"
+"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_cooldown_Description"			            "<h1>Обычный осколок скипетра</h1>Уменьшает перезарядку Focus Fire на %value%%."
 
 
 >---------------------------------------
@@ -128,10 +128,10 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_windranger_shackleshot_lua+stun_duration"	            "+{s:stun_duration} Shackleshot Stun Duration"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_windranger_powershot_lua+powershot_damage"	            "+{s:powershot_damage} Powershot Damage"	
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_windranger_shackleshot_lua+shackle_count"	            "+{s:shackle_count} Shackleshot Target"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_windranger_focus_fire_lua+focusfire_duration_tooltip"	"+{s:focusfire_duration_tooltip}s Focus Fire Duration"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_windranger_shackleshot_lua+stun_duration"	            "+{s:stun_duration} к длительности Shackleshot"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_windranger_powershot_lua+powershot_damage"	            "+{s:powershot_damage} к урону от Powershot"	
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_windranger_shackleshot_lua+shackle_count"	            "+{s:shackle_count} к числу целей Shackleshot"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_windranger_focus_fire_lua+focusfire_duration_tooltip"	"+{s:focusfire_duration_tooltip}сек. к длительности Focus Fire"
 
 
 >---------------------------------------
