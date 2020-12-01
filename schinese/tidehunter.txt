@@ -40,7 +40,7 @@
 "DOTA_Tooltip_Ability_tidehunter_ravage_pf_puddle_Description"                                              "潮汐猎人释放毁灭会召唤一片赤潮红海，红海中海妖外壳的伤害格挡提升%block_amp%%，进入红海的敌人每秒有 %stun_chance%% 的几率遭受一次当前等级的毁灭。红海在潮汐猎人离开后消失。"
 
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch"                                                                 "吞食鱼"
-"DOTA_Tooltip_Ability_tidehunter_pf_crunch_Description"                                                     "潮汐猎人吞噬一个首领，每秒损失 %pct_damage%% 最大生命对目标造成等量的神圣伤害。如果成功消化目标，潮汐猎人将获得额外的生命，生命回复，魔法抗性，状态抗性，和护甲，但会减少移动速度。增益和减速效果可以叠加，但所有的增益和减速将在潮汐猎人死亡后重置。"
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_Description"                                                     "潮汐猎人吞噬一个首领，每秒损失 %pct_damage%% 最大生命对目标造成等量的神圣伤害。如果成功消化目标，潮汐猎人将获得额外的生命，生命回复，魔法抗性，状态抗性，和护甲，但会减少移动速度。增益和减速效果可以叠加，但所有的增益和减速将在潮汐猎人死亡后减少一半。"
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_duration"                                                        "最长消化时间: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_pct_damage"                                                      "每秒最大生命值损失/伤害: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_armor"                                                           "额外护甲: "
@@ -187,7 +187,7 @@
 "DOTA_Tooltip_modifier_tidehunter_ravage_pf_puddle_effect_Description"                              "海妖外壳格挡提升"
 
 "DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff"                                                   "吃了！"
-"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff_Description"                                       "获得额外的生命，生命回复，魔法抗性，状态抗性，和护甲。移动速度降低。死亡后消失"
+"DOTA_Tooltip_modifier_tidehunter_pf_crunch_buff_Description"                                       "获得额外的生命，生命回复，魔法抗性，状态抗性，和护甲。移动速度降低。死亡后损一半"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------
