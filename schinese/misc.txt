@@ -49,12 +49,12 @@
 "DOTA_FoundNeutralItem_ItemTierCount"                           "i guess"
 
 
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf"                         "Sigil From Cobalt"
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_Description"             "Tusk summon forth a frozen sigil that continously attacks all nearby enemies for %attack_damage_percent%%  of Tusk's total attack damage. Additionally, any attack landed on an enemy unit within the Sigil's aura will cause them to become rooted for %freeze_duration% seconds"
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_duration"                "Sigil Lifetime: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_radius"                  "Effect Radius: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"         "Root Duration: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_attack_damage_percent"   "%Attack Damage Percentage: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf"                         "钴印记"
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_Description"             "巨牙海民召唤一个持续攻击敌人的冰霜印记，攻击造成巨牙海民 %attack_damage_percent%% 的普攻伤害。受冰霜印记影响的敌人被普通攻击命中时会被缠绕 %freeze_duration% 秒。"
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_duration"                "持续时间: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_radius"                  "作用范围: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"         "缠绕时间: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_attack_damage_percent"   "普攻伤害百分比: "
 
 "encounter_pudge_miniboss"		                                "Your Average Hard Support"
 "encounter_mirana"		                                        "Crazy Cat Ladies"
