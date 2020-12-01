@@ -140,13 +140,12 @@
 "defeat_boss_npc_dota_creature_temple_guardian"		"Одолейте защитников храма"
 "defeat_boss_npc_dota_creature_storegga"	"Одолейте Стуреггу"
 "defeat_boss_npc_dota_boss_aghanim"			"Одолейте Аганима"
-"defeat_boss_npc_dota_boss_visage"			"Defeat the Warden of the Narrow Maze"
 "defeat_boss_npc_dota_boss_timbersaw"		"Одолейте древореза Риззрика"
 "kill_waveblasters"							"Одолейте взрывных летунов"
 "kill_wildwings"							"Одолейте злобных пташек"
 "kill_tinies"								"Разрушьте дружбу"
 "defeat_shadow_demons"						"Одолейте демонов мрака"
-"rescue_sheep"								"Спасите овцу"
+"rescue_sheep"								"Спасите овец"
 "save_gary"									"Защитите Гэри"
 "destroy_all_mines"							"Уничтожьте подводные мины"
 "defeat_shadow_shamans"						"Одолейте болотных путальщиков"
@@ -155,7 +154,7 @@
 "objective_select_ascension_level"			"Выберите уровень вознесения"
 "objective_stand_on_buttons"				"Встаньте на кнопки старта"
 "objective_select_aghanims_fragmants"		"Выберите осколки скипетра Аганима"
-"objective_saddle_up_on_morty"				"Оседлайте Мортимуса"
+"objective_saddle_up_on_morty"				"Оседлайте Морти"
 "objective_jump_to_collect_gold"			"Прыгайте и собирайте золото!"
 "objective_saddle_up_on_penguin"			"Оседлайте пингвикрыла"
 "objective_sled_to_collect_gold"			"Катайтесь и собирайте золото!"
@@ -243,7 +242,7 @@
 "npc_dota_creature_pudge_miniboss"			"Обжорка"
 "npc_dota_creature_pudge_miniboss_minion"	"Кадавр"
 "npc_dota_creature_friendly_ogre_tank"		"Гранч"
-"npc_aghsfort_morty"						"Марти"
+"npc_aghsfort_morty"						"Морти"
 "npc_dota_sled_penguin"						"Пингвикрыл"
 "npc_dota_creature_bonus_chicken"			"Золотой гусь"
 "npc_dota_creature_bonus_greevil"			"Жадный грявол"
@@ -257,7 +256,7 @@
 "npc_dota_creature_ice_roshan"				"Ледошан"
 "npc_dota_creature_fire_roshan"				"Жарошан"
 "npc_dota_creature_baby_roshan"				"Рошанёнок"
-"npc_dota_creature_ogre_tank_boss"			"Богдагг"
+"npc_dota_creature_ogre_tank_boss"			"Богдугг"
 "npc_dota_creature_ogre_seer"				"Пророк-костогрыз"
 "npc_dota_creature_phoenix"					"Светило удачливое"
 "npc_dota_creature_ember_spirit"			"Пламеносец"
@@ -525,7 +524,7 @@
 "DOTA_Tooltip_modifier_aghsfort_ascension_magnetic_field_evasion_Description"	"Уклоняется от физических атак извне пузыря."
 
 "DOTA_Tooltip_modifier_ascension_drunken_display"					"Опьянение"
-"DOTA_Tooltip_modifier_ascension_drunken_display_Description"		"Иногда становится пьяным, получая скорость передвижения, а также шанс увернуться и совершить критическую атаку."
+"DOTA_Tooltip_modifier_ascension_drunken_display_Description"		"Иногда пьянеет, получая скорость передвижения, а также шанс увернуться и совершить критическую атаку."
 
 "DOTA_Tooltip_modifier_ascension_damage"							"Смертоносность"
 "DOTA_Tooltip_modifier_ascension_damage_Description"				"Наносит на %dMODIFIER_PROPERTY_TOTALDAMAGEOUTGOING_PERCENTAGE%%% больше урона."
@@ -576,7 +575,7 @@
 "DOTA_Tooltip_modifier_lifestealer_enraged_Description"		"Скорость передвижения и атаки значительно увеличена."
 
 "DOTA_Tooltip_ability_morty_hop"							"Скормить печеньку"
-"DOTA_Tooltip_ability_morty_hop_Description"				"Дайте Марти печеньку! Чем дольше подготовка, тем дальше вы прыгнете!"
+"DOTA_Tooltip_ability_morty_hop_Description"				"Дайте Морти печеньку! Чем дольше подготовка, тем дальше вы прыгнете!"
 
 "DOTA_Tooltip_modifier_urn_upheaval"						"Urn's Grip"
 "DOTA_Tooltip_modifier_urn_upheaval_Description"			"Скорость передвижения существенно снижена."
@@ -622,7 +621,7 @@
 "DOTA_Tooltip_modifier_bandit_archer_arrow_debuff_Description"		"На это существо наложено истощение."
 
 // Artifacts
-"DOTA_Tooltip_Ability_item_life_rune"								"Life Rune"
+"DOTA_Tooltip_Ability_item_life_rune"								"Жизнь"
 
 "DOTA_Tooltip_ability_item_book_of_strength"						"Книга силы"
 "DOTA_Tooltip_ability_item_book_of_strength_Description"			"Использование прибавляет 3 единицы силы."
@@ -672,7 +671,7 @@
 
 "DOTA_Tooltip_ability_item_bogduggs_cudgel"							"Bogdugg's Cudgel"
 "DOTA_Tooltip_ability_item_bogduggs_cudgel_Description"				"<h1>Пассивная: Smash</h1>ТОЛЬКО БЛИЖНИЙ БОЙ — скорость атаки уменьшена вдвое, но каждый удар наносит урон по площади радиусом %damage_radius% вокруг цели и оглушает на %stun_duration% сек.\n"
-"DOTA_Tooltip_ability_item_bogduggs_cudgel_Lore"					"Богдагг подчинил Костяной хребет лишь потому, что его дубина была больше."
+"DOTA_Tooltip_ability_item_bogduggs_cudgel_Lore"					"Богдугг подчинил Костяной хребет лишь потому, что его дубина была больше."
 "DOTA_Tooltip_ability_item_bogduggs_cudgel_bonus_strength"			"ДОП. СИЛА:"
 "DOTA_Tooltip_ability_item_bogduggs_cudgel_bonus_damage"			"ДОП. УРОН:"
 
