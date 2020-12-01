@@ -11,13 +11,13 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone"				        	"Windward Haze"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone_Description"				"While under the effect of Windrun, Windranger automatically launch the current level of Shackleshot toward the closest nearby enemy unit every %duration% seconds"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone_Description"				"Под действием Windrun герой автоматически применяет способность Shackleshot на ближайшего врага каждые %duration% сек."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "Kentucky Windage"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "Any enemy unit stunned by Shackleshot also has their armour reduced by 10"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "Броня любого врага, оглушенного Shackleshot, снижается на 10."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep"					        "Autumn Chill"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "Enemy units stunned by Shackleshot are put to sleep for up to %duration% seconds once the effect wears off"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "Враги погружаются в сон на %duration% сек. после окончания оглушения от Shackleshot."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot"				        "Sweeping Gale"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot_Description"			"Powershot now fires 3 separate projectiles, each dealing the full damage of the ability"
