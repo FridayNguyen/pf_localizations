@@ -5,24 +5,24 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
-"ascension_pathfinder_dilation"                                             "Dilation Field"
-"ascension_pathfinder_dilation_Description"                                 "Enemy Captains occasionally cause the cooldown of nearby heroes to tick backward at an increased rate"
+"ascension_pathfinder_dilation"                                             "Растяжение времени"
+"ascension_pathfinder_dilation_Description"                                 "Иногда вражеские капитаны ускоренно увеличивают перезарядку способностей ближайших к ним героев."
 
-"DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                        "Dilation Field"
-"DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"            "Cooldowns ticking backward at an increased rate"
+"DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                        "Растяжение времени"
+"DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"            "Перезарядка способностей увеличивается с повышенной скоростью."
 
 "DOTA_Tooltip_Ability_item_feet_of_midas"			            "Feet of Sadim"         // Midas name and description
 "DOTA_Tooltip_Ability_item_feet_of_midas_Lore"			        "A Constellation of Midaeum is touched by the noble spirit of the solo adventurer, and had bestowed unto the lone hero their blessing."
-"DOTA_Tooltip_Ability_item_feet_of_midas_Description"			"Magical Fondling\nSummon an innocent birb and proceed to mercilessly murder it, reaping %bonus_gold% gold in the process. Gains one charge after clearing a room."
+"DOTA_Tooltip_Ability_item_feet_of_midas_Description"			"Призовите ни в чем ни повинную пташку и безжалостно прикончите ее, получив в результате %bonus_gold% золота. Предмет получает один заряд при завершении каждой комнаты."
 
 "pfd"	                                                        "DAVE"    //name of the testing dummy, no need to translate this
 
-"pathfinders_smol_bear"					                        "Smol Bear"
-"pathfinders_big_boi_bear"					                    "Mama Bear"
-"Illegally_Smol_Bears"					                        "Illegally Smol Bears"
+"pathfinders_smol_bear"					                        "Мишутка"
+"pathfinders_big_boi_bear"					                    "Мама-медведица"
+"Illegally_Smol_Bears"					                        "Мишутки-малютки"
 
 
-"DOTA_Tooltip_modifier_hexed"		                            "True self"
+"DOTA_Tooltip_modifier_hexed"		                            "Истинная сущность"
 "DOTA_Tooltip_modifier_hexed_Description"	                    "Somebody once told me the world is gonna roll me
                                                                 I ain't the sharpest tool in the shed
                                                                 She was looking kind of dumb with her finger and her thumb
@@ -43,11 +43,11 @@
                                                                 And all that glitters is gold
                                                                 Only shooting stars break the mold"
 
-"tusk_sigil_pf"                                                 "Sir Kelvin"
-"pathfinder_trap_catapult"                                      "Raider of the Lost Cart"
+"tusk_sigil_pf"                                                 "Сэр Кельвин"
+"pathfinder_trap_catapult"                                      "Капут-катапульта"
 
-"DOTA_Tooltip_modifier_pathfinder_patron_lvl4"                  "Warden of the Labyrinth"
-"DOTA_Tooltip_modifier_pathfinder_patron_lvl4_Description"      "A title bestowed only upon the top 10 Patreon supporters of this mod"
+"DOTA_Tooltip_modifier_pathfinder_patron_lvl4"                  "Хранитель Лабиринта"
+"DOTA_Tooltip_modifier_pathfinder_patron_lvl4_Description"      "Этого титула удостаиваются лишь 10 главных покровителей режима на Патреоне."
 
 "DOTA_FoundNeutralItem_ItemTier"                                "Good job"
 "DOTA_FoundNeutralItem_ItemTierCount"                           "i guess"
@@ -60,31 +60,31 @@
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"         "Root Duration: "
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_attack_damage_percent"   "%Attack Damage Percentage: "
 
-"encounter_pudge_miniboss"		                                "Your Average Hard Support"
-"encounter_mirana"		                                        "Crazy Cat Ladies"
-"encounter_temple_guardians"		                            "Omniknight's Family Reunion"
-"encounter_jungle_hijinx"	                                    "What Your Carry Does In The Jungle"
+"encounter_pudge_miniboss"		                                "Безобидный хард-суппорт"
+"encounter_mirana"		                                        "Сумасшедшие кошатницы"
+"encounter_temple_guardians"		                            "Брат за брата"
+"encounter_jungle_hijinx"	                                    "Фантастические керри и где они обитают"
 
 
-"DOTA_Tooltip_modifier_pathfinder_patron"	                    "Generous Patron"
-"DOTA_Tooltip_modifier_pathfinder_patron_Description"	        "Thank you for supporting the development of this mod on Patreon!"
+"DOTA_Tooltip_modifier_pathfinder_patron"	                    "Щедрый покровитель"
+"DOTA_Tooltip_modifier_pathfinder_patron_Description"	        "Спасибо, что поддержали разработку режима на Патреоне!"
 
 
-"DOTA_Subshop_consumables"			                	        "Stuffs Your Team Needs But Probably Nobody Will Buy"
-"DOTA_Subshop_attributes"			                	        "For Memers and Dreamers"
-"DOTA_Subshop_weapons_armor"		                	        "For Those Who Think They Are The Carry"
-"DOTA_Subshop_misc"			                                    "For The Actual Carries"
-"DOTA_Subshop_secretshop"		                    	        "Aghanim is fairly sure no one will need these. Only Heralds would buy them"
+"DOTA_Subshop_consumables"			                	        "Предметы, которые вам нужны, но их вряд ли кто-то купит"
+"DOTA_Subshop_attributes"			                	        "Для мемоделов и мечтателей"
+"DOTA_Subshop_weapons_armor"		                	        "Для тех, кто возомнил себя керри"
+"DOTA_Subshop_misc"			                                    "Для настоящих керри"
+"DOTA_Subshop_secretshop"		                    	        "Аганим уверен, что вам все это не пригодится. Да, определенно."
 
 
 "DOTA_Tooltip_Ability_item_desolator_2"	            	        "Deso-later"
 
 
-"ascension_pathfinder_blademail"					            "You've Got Mail!"
-"ascension_pathfinder_blademail_Description"		            "Enemy captains occasionally activate  B L A D E M A I L S"
+"ascension_pathfinder_blademail"					            "Обратная связь"
+"ascension_pathfinder_blademail_Description"		            "Периодически на вражеских капитанов действует эффект Blade Mail."
 
 
-"DOTA_Chat_NoBattlePoints_WrongLobby"		                    "Welcomes, Pathfinders! Enjoy your stay and please consider supporting the mod on Patreon!"
+"DOTA_Chat_NoBattlePoints_WrongLobby"		                    "Добро пожаловать, Искатели, и приятной вам игры! Вы можете поддержать разработку режима на Патреоне."
 
 		
 "wiki_header"	                                                "Pathfinders Archives"
@@ -144,7 +144,7 @@
 
 
 "DOTA_Tooltip_Ability_item_blink_bootleg"			            "Bootleg Blink"
-"DOTA_Tooltip_Ability_item_blink_bootleg_Description"			"<font color='#70EA72'>Let me out!<\font> \n Encounter a bug? Doors aren't opening? Somehow got stuck? Let me know on the mod's workshop page. In the meantime use this bootleg dagger to get out of your sticky situation :)"
+"DOTA_Tooltip_Ability_item_blink_bootleg_Description"			"<font color='#70EA72'>Выпустите меня!<\font> \n Нашли баг? Где-нибудь застряли? Двери не открываются? Сообщите мне об этом на странице режима в мастерской. А пока что этот контрабандный Blink Dagger поможет вам выбраться из передряги :)"
 
 
 
