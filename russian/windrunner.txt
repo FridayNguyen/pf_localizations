@@ -79,15 +79,15 @@
 >---------------------------------------
 
 
-"windranger_shackleshot_lua_stun_duration"			                                            "+{s:value}s к длительности оглушения {s:ability_name}"
+"windranger_shackleshot_lua_stun_duration"			                                            "+{s:value} сек. к длительности оглушения {s:ability_name}"
 "windranger_shackleshot_lua_shackle_distance"		                                        	"+{s:value} к дальности связки {s:ability_name}"
 "windranger_shackleshot_lua_shackle_angle"		                                            	"+{s:value} градусов к углу связки {s:ability_name}"
-"windranger_windrun_lua_duration"				                                        		"+{s:value}s к длительности {s:ability_name}"
+"windranger_windrun_lua_duration"				                                        		"+{s:value} сек. к длительности {s:ability_name}"
 "windranger_windrun_lua_movespeed_bonus_pct"		                                        	"+{s:value}% к скорости от {s:ability_name}"
 "windranger_powershot_lua_powershot_damage"			                                            "+{s:value} к урону от {s:ability_name}"
 "windranger_focus_fire_lua_bonus_attack_speed"		                                            "+{s:value} к доп. скорости атаки от {s:ability_name}"
 "windranger_focus_fire_lua_cooldown"				                                        	"-{s:value}% перезарядки {s:ability_name}"
-"windranger_windrun_lua_enemy_slow"					                                        	"+{s:value}% к замедлению врагов от {s:ability_name}"
+"windranger_windrun_lua_enemy_slow"					                                        	"{s:value}% к замедлению передвижения врагов от {s:ability_name}"
 "windranger_powershot_lua_arrow_range"			                                            	"+{s:value} к дальности {s:ability_name}"
 "windranger_powershot_lua_cooldown"				                                            	"-{s:value}% перезарядки {s:ability_name}"
 "windranger_shackleshot_lua_cooldown"			                                            	"-{s:value}% перезарядки {s:ability_name}"
