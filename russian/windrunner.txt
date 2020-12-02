@@ -99,28 +99,28 @@
 
 
 "DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_stun_duration"		                    "Shackleshot: длительность оглушения"
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_stun_duration_Description"			    "<h1>Обычный осколок скипетра</h1>Увеличивает длительность оглушения Shackleshot на %value%."
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_stun_duration_Description"			    "<h1>Обычный фрагмент скипетра</h1>Увеличивает длительность оглушения Shackleshot на %value%."
 
 "DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_distance"		                    "Shackleshot: дальность связки"
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_distance_Description"		    	"<h1>Обычный осколок скипетра</h1>Увеличивает дальность связки Shackleshot на %value%."
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_distance_Description"		    	"<h1>Обычный фрагмент скипетра</h1>Увеличивает дальность связки Shackleshot на %value%."
 
 "DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle"	                    	"Shackleshot: угол связки"
-"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle_Description"		    	"<h1>Обычный осколок скипетра</h1>Увеличивает угол связки Shackleshot на %value%."
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle_Description"		    	"<h1>Обычный фрагмент скипетра</h1>Увеличивает угол связки Shackleshot на %value%."
 
 "DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration"		                                "Windrun: длительность"
-"DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration_Description"			                "<h1>Обычный осколок скипетра</h1>Увеличивает длительность Windrun на %value% ."
+"DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration_Description"			                "<h1>Обычный фрагмент скипетра</h1>Увеличивает длительность Windrun на %value% ."
 
 "DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct"		                    "Windrun: скорость"
-"DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct_Description"	    		"<h1>Обычный осколок скипетра</h1>Увеличивает доп.скорость от Windrun на %value%%."
+"DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct_Description"	    		"<h1>Обычный фрагмент скипетра</h1>Увеличивает доп.скорость от Windrun на %value%%."
 
 "DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage"	                    	"Powershot: урон"
-"DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage_Description"		    	"<h1>Обычный осколок скипетра</h1>Увеличивает урон от Powershot на %value%."
+"DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage_Description"		    	"<h1>Обычный фрагмент скипетра</h1>Увеличивает урон от Powershot на %value%."
 
 "DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_bonus_attack_speed"		                "Focus Fire: доп. скорость атаки"
-"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_bonus_attack_speed_Description"			"<h1>Обычный осколок скипетра</h1>Увеличивает доп. скорость атаки от Focus Fire на %value%."
+"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_bonus_attack_speed_Description"			"<h1>Обычный фрагмент скипетра</h1>Увеличивает доп. скорость атаки от Focus Fire на %value%."
 
 "DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_cooldown"		                            "Focus Fire: перезарядка"
-"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_cooldown_Description"			            "<h1>Обычный осколок скипетра</h1>Уменьшает перезарядку Focus Fire на %value%%."
+"DOTA_Tooltip_Ability_item_windranger_focus_fire_lua_cooldown_Description"			            "<h1>Обычный фрагмент скипетра</h1>Уменьшает перезарядку Focus Fire на %value%%."
 
 
 >---------------------------------------
