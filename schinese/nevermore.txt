@@ -195,7 +195,7 @@
 "DOTA_Tooltip_modifier_pathfinder_dark_lord_debuff_Description"	                                            "影魔的出现让护甲发生变化"		
 
 "DOTA_Tooltip_modifier_pathfinder_requiem_attack"	                                                        "颤栗的灵魂"
-"DOTA_Tooltip_modifier_pathfinder_requiem_attack_Description"	                                            "积累到50层时清空颤栗的灵魂并释放魂之挽歌"
+"DOTA_Tooltip_modifier_pathfinder_requiem_attack_Description"	                                            "积累到一定层数时清空颤栗的灵魂并释放魂之挽歌"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------
