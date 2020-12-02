@@ -54,11 +54,11 @@
 
 
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf"                         "Sigil From Cobalt"
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_Description"             "Tusk summon forth a frozen sigil that continously attacks all nearby enemies for %attack_damage_percent%%  of Tusk's total attack damage. Additionally, any attack landed on an enemy unit within the Sigil's aura will cause them to become rooted for %freeze_duration% seconds"
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_duration"                "Sigil Lifetime: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_radius"                  "Effect Radius: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"         "Root Duration: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_attack_damage_percent"   "%Attack Damage Percentage: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_Description"             "Tusk призывает ледяную печать, которая атакует ближайших врагов, нанося %attack_damage_percent%% от общего урона героя. Если атаковать врага в зоне действия ауры печати, он будет заморожен на %freeze_duration% сек."
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_duration"                "Длительность: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_radius"                  "Радиус действия: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"         "Длительность заморозки: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_attack_damage_percent"   "%Процент урона: "
 
 "encounter_pudge_miniboss"		                                "Безобидный хард-суппорт"
 "encounter_mirana"		                                        "Сумасшедшие кошатницы"
