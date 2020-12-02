@@ -10,35 +10,35 @@
 >--- LEGENDARY -------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_revenant"	                                "Oathbound Revenant"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_revenant_Description"	                    "Necromastery becomes a unit-target ability. When activated, Shadowfiend consumes %soul_cost% souls to cast the current level of Shadowraze unto the targeted unit, twice. If it dies, the target will arise once more to fight for Shadowfiend"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_revenant"	                                "亡灵誓约"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_revenant_Description"	                    "支配死灵成为单体指向性技能，使用时消耗 %soul_cost% 灵魂向指定目标施放毁灭阴影。如果该单位死亡时有毁灭阴影的连中效果，该单位将复活为友方单位，但不可控制。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_raze_multi"	                                            "Death of Night"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_raze_multi_Description"	                                "Shadowraze Near/Medium/Far releases 1/2/5 additional razes around Shadowfiend"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_raze_multi"	                                            "死亡之夜"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_raze_multi_Description"	                                "短距离/中距离/长距离毁灭阴影会在额外施放1/2/5道阴影。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_raze"	                                        "Happy Hallowfiend"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_raze_Description"	                            "Presence of the Dark Lord becomes a Toggle ability. When activated, the ability creates a Shadowraze underneath a random nearby enemy every second. Each of these Shadowraze consumes %soul_cost% soul"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_raze"	                                        "万圣魔"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_raze_Description"	                            "魔王降临成为开关技能。激活时每秒消耗 %soul_cost% 灵魂对周围随机一个敌人释放毁灭阴影。周围没有敌人时不触发。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_soul_projectile"	                                "Glutton of the Abyss"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_soul_projectile_Description"	                    "Souls retrieved by Necromastery also launch a Requiem projectile in the opposite direction, damaging and slowing any enemy unit on the way for the value of the ultimate"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_soul_projectile"	                                "暴食深渊"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_soul_projectile_Description"	                    "支配死灵回收灵魂时，会在相反方向释放一道魔能。减速和伤害数值与当前等级魂之挽歌每道魔能的减速和伤害数值相同。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_sleep"	                                        "Requiem for a Dream"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_sleep_Description"	                            "Enemies feared by Requiem of Souls will furthermore put to sleep for up to %duration% seconds once the debuff wears off"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_sleep"	                                        "梦之挽歌"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_sleep_Description"	                            "被魂之挽歌恐惧的敌人在恐惧结束后会陷入睡眠状态，持续 %duration% 秒。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_split_attack"	                                "Injustice for All"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_split_attack_Description"	                    "Each time Shadowfiend attacks, he will also launch up to %target_number% additional attacks toward other enemy units affected by Presence of the Dark Lord. These extra attacks deal %damage_percent%%  less damage but can fully proc any on-hit effect"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_split_attack"	                                "不义联盟"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_split_attack_Description"	                    "影魔的普通攻击会同时攻击受到魔王降临影响的目标，造成 %damage_percent%% 伤害同时继承物品和技能的攻击效果。最多攻击 %target_number% 个目标。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_attack_soul"	                            "Ozkavosh Hospitality"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_attack_soul_Description"	                "Each time Shadowfiend attacks an enemy unit, he has a %chance%%  chance to extract %amount% soul from the target"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_attack_soul"	                            "影惧酒店"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_attack_soul_Description"	                "每次攻击有 %chance%% 几率从目标身上提取 %amount% 道灵魂。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_attack"	                                        "Conductor of the Hellward Express"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_attack_Description"	                            "Shadowfiend gains a stack of Choo Choo Soul every time he attack an enemy unit affected by Presence of the Dark Lord. At %trigger_threshold% stacks, Shadowfiend will reset the stack count and unleash a free Requiem of Souls of the current level"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_attack"	                                        "地狱列车长"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_requiem_attack_Description"	                            "影魔攻击受魔王降临影响的目标时，会从目标身上提取颤栗的灵魂。当收集 %trigger_threshold% 个颤栗的灵魂时，自动释放一次当前等级的魂之挽歌并清空收集的颤栗灵魂。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_friendly"	                                    "Favours of Ristul"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_friendly_Description"	                        "Presence of the Dark Lord now also increases the armour of nearby allies for the ability's value"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_friendly"	                                    "魔廷挚爱"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_friendly_Description"	                        "魔王降临会为周围友方单位提供护甲加成。数值与当前等级魔王降临减少的护甲相同。"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal"	                                "Soul of a Poet"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal_Description"	                    "Each soul collected through Necromastery also grants Shadowfiend +2% lifesteal amplification. This applies to all lifesteal effects regardless of damage type"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal"	                                "诗人之魂"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal_Description"	                    "每个灵魂提供2%吸血增强。"
 
 
 
@@ -46,82 +46,82 @@
 >--- ABILITY ---------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near"			                                        "Shadowraze"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_Description"			                            "Shadow Fiend razes the ground directly in front of him, dealing damage to enemy units in the area. Adds a stacking damage amplifier on the target that causes the enemy to take bonus Shadow Raze damage per stack."
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_Lore"			                                "Ahh! Ahh! We come from the land of the fire and shadow. From the midnight sun where the hot springs flow"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_cooldown"			                            "Cooldown: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_damage"			                                "Damage: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_radius"			                                "Radius: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_stack_damage"			                        "Bonus Damage per Stack: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_stack_duration"			                        "Stack Duration: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near"			                                        "毁灭阴影（短距离）"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_Description"			                            "影魔对其正前方区域释放毁灭能量，对该区域中的敌人造成伤害。在目标身上施加一个连中效果，持续时间内再被毁灭阴影击中将受到额外伤害。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_Lore"			                                "奈文摩尔标志性的灵魂收割手段。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_cooldown"			                            "冷却时间: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_damage"			                                "伤害: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_radius"			                                "范围: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_stack_damage"			                        "叠加伤害增加: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_near_stack_duration"			                        "叠加时间: "
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium"			                                    "Shadowraze"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_Description"			                        "Shadow Fiend razes the ground a short distance away from him, dealing damage to enemy units in the area. Adds a stacking damage amplifier on the target that causes the enemy to take bonus Shadow Raze damage per stack."
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_Lore"			                                "The hammer of doom. Will drive our ships to new lands. To fight for the horde, sing and cry. Valhalla, I am coming"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_cooldown"			                            "Cooldown: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_damage"			                            "Damage: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_radius"			                            "Radius: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_stack_damage"			                        "Bonus Damage per Stack: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_stack_duration"			                    "Stack Duration: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium"			                                    "毁灭阴影（中距离）"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_Description"			                        "影魔对其正前方区域释放毁灭能量，对该区域中的敌人造成伤害。在目标身上施加一个连中效果，持续时间内再被毁灭阴影击中将受到额外伤害。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_Lore"			                                "奈文摩尔标志性的灵魂收割手段。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_cooldown"			                            "冷却时间: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_damage"			                            "伤害: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_radius"			                            "范围: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_stack_damage"			                        "叠加伤害增加: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_medium_stack_duration"			                    "叠加时间: "
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far"			                                        "Shadowraze"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_Description"			                            "Shadow Fiend razes the ground a longer distance away from him, dealing damage to enemy units in the area. Adds a stacking damage amplifier on the target that causes the enemy to take bonus Shadow Raze damage per stack."
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_Lore"			                                    "How soft your fields so green. Can whisper tales of gore. Of how we razed the tides of war. We are your overlords"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_cooldown"			                                "Cooldown: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_damage"			                                "Damage: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_radius"			                                "Radius: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_stack_damage"			                            "Bonus Damage per Stack: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_stack_duration"			                        "Stack Duration: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far"			                                        "毁灭阴影（长距离）"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_Description"			                            "影魔对其正前方区域释放毁灭能量，对该区域中的敌人造成伤害。在目标身上施加一个连中效果，持续时间内再被毁灭阴影击中将受到额外伤害。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_Lore"			                                    "奈文摩尔标志性的灵魂收割手段。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_cooldown"			                                "冷却时间: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_damage"			                                "伤害: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_radius"			                                "范围: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_stack_damage"			                            "叠加伤害增加: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_far_stack_duration"			                        "叠加时间: "
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery"			                                        "Necromastery"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_Description"			                            "Shadow Fiend steals the soul from units he kills, gaining bonus damage. On death, he releases half of them from bondage."
-"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_Lore"			                                    "Just look at those souls of yours! Wasting away in those big, stupid bodies! Oh the things I could do with them! The only thing I can't do is pay off the Japanese Yakuza with them. Ha ha! They made that very explicit...American currency only."
-"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_souls_per_kill"			                            "Souls per Kill: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_damage_per_soul"			                        "Bonus Damage per Souls: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_max_souls"			                                "Max Souls: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_souls_lost_on_death_pct"			                "Percentage Loss on Death: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery"			                                        "支配死灵"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_Description"			                            "影魔每杀死一个单位都会窃取其灵魂，获得额外攻击力。影魔死亡时一半灵魂将逃离他的束缚。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_Lore"			                                    "被收割的亡魂在魂渊内外盘旋，增加了影魔的力量，也方便他扩大自己的灵魂收藏。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_souls_per_kill"			                            "击杀获得灵魂数: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_damage_per_soul"			                        "每个灵魂攻击力加成: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_max_souls"			                                "最大灵魂数: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_necromastery_souls_lost_on_death_pct"			                "死亡时失去的灵魂百分比: "
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord"			                                            "Presence of the Dark Lord"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord_Description"			                                "Shadow Fiend's presence reduces the armor of nearby enemies."
-"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord_Lore"			                                        "Do you think an evil eldritch demon runs on souls? Because it does! But not entirely. Mostly it runs on money. Those Octarine Cores ain't going to buy themselves."
-"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord_aura_radius"			                                "Aura Radius: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord_armor_reduction"			                            "Armour Reduction: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord"			                                            "魔王降临"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord_Description"			                                "影魔的出现使得周围的敌人护甲降低。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord_Lore"			                                        "即使只是在影魔周围游荡，灵魂也会被侵蚀。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord_aura_radius"			                                "范围: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_dark_lord_armor_reduction"			                            "护甲降低: "
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem"			                                                "Requiem of Souls"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_Description"			                                    "Shadow Fiend gathers his captured souls to release them as lines of demonic energy. Units near Shadow Fiend when the souls are released can be damaged by several lines of energy. Any unit damaged by Requiem of Souls will be feared and have its movement speed reduced. Lines of energy are created for every 1 souls captured through Necromastery. Requiem of Souls is automatically cast whenever Shadow Fiend dies, regardless of its cooldown."
-"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_Lore"			                                        "Since demonkind first thought to look up at the sky, there has been the Moon. And with it, the eternal question, 'How do I light the moon on fire?'"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_damage"			                                        "Damage per Line: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_ms_slow_pct"			                                    "%Movespeed Slow: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_travel_distance"			                                "Line Range: "
-"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_requiem_slow_duration"			                        "Debuff Duration per Line: "	
-"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_requiem_slow_duration_max"			                    "Max Debuff Duration: "	
+"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem"			                                                "魂之挽歌"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_Description"			                                    "影魔聚集捕获的灵魂，以多道魔能的形式释放。若距离影魔过近将受到数道魔能的伤害。敌方单位受到魂之挽歌伤害的同时会被恐惧，并且移动速度降低。每1个通过支配死灵收集的灵魂会为魂之挽歌创造一道魔能。死亡时会自动释放魂之挽歌，不占用主动大招的冷却时间。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_Lore"			                                        "那些死者的灵魂被捕获后尽数释放，毁灭他们生前的盟友。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_damage"			                                        "释放时每道魔能伤害: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_ms_slow_pct"			                                    "移动速度减缓%: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_travel_distance"			                                "每道魔能移动距离: "
+"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_requiem_slow_duration"			                        "每道Debuff持续时间: "	
+"DOTA_Tooltip_Ability_pathfinder_nevermore_requiem_requiem_slow_duration_max"			                    "Debuff最大持续时间: "	
 
 
 >---------------------------------------
 >--- MINOR SHARD -----------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_damage"                                               "Shadowraze"  // since minor shard use the unifier name
-"pathfinder_nevermore_shadowraze_damage_value"	                                                            "+{s:value} {s:ability_name} Damage"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_damage"                                               "毁灭阴影"  // since minor shard use the unifier name
+"pathfinder_nevermore_shadowraze_damage_value"	                                                            "+{s:value} {s:ability_name} 伤害"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_stack_damage"                                         "Shadowraze"
-"pathfinder_nevermore_shadowraze_stack_damage_value"	                                                    "+{s:value} {s:ability_name} Bonus Damage Per Stack"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_stack_damage"                                         "毁灭阴影"
+"pathfinder_nevermore_shadowraze_stack_damage_value"	                                                    "+{s:value} {s:ability_name} 叠加伤害"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_cooldown"                                             "Shadowraze"
-"pathfinder_nevermore_shadowraze_cooldown_value"	                                                        "{s:value}% {s:ability_name} Cooldown"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_shadowraze_cooldown"                                             "毁灭阴影"
+"pathfinder_nevermore_shadowraze_cooldown_value"	                                                        "{s:value}% {s:ability_name} 冷却时间"
 
-"pathfinder_nevermore_necromastery_damage_per_soul"			                                                "+{s:value} Bonus Attack Damage Per {s:ability_name} Soul"
-"pathfinder_nevermore_necromastery_max_souls"			                                                    "+{s:value} {s:ability_name} Max Souls"
-"pathfinder_nevermore_necromastery_souls_per_kill"			                                                "+{s:value} {s:ability_name} Souls per Kill"
+"pathfinder_nevermore_necromastery_damage_per_soul"			                                                "+{s:value} 攻击力每 {s:ability_name} 个灵魂"
+"pathfinder_nevermore_necromastery_max_souls"			                                                    "+{s:value} {s:ability_name} 最大灵魂数"
+"pathfinder_nevermore_necromastery_souls_per_kill"			                                                "+{s:value} {s:ability_name} 击杀获得灵魂数"
 
-"pathfinder_nevermore_dark_lord_aura_radius"			                                                    "+{s:value} {s:ability_name} Aura Radius"
-"pathfinder_nevermore_dark_lord_armor_reduction"			                                                "+{s:value} {s:ability_name} Armour Reduction"
+"pathfinder_nevermore_dark_lord_aura_radius"			                                                    "+{s:value} {s:ability_name} 光环范围"
+"pathfinder_nevermore_dark_lord_armor_reduction"			                                                "+{s:value} {s:ability_name} 护甲降低"
 
-"pathfinder_nevermore_requiem_damage"			                                                            "+{s:value} {s:ability_name} Line Damage"
-"pathfinder_nevermore_requiem_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
-"pathfinder_nevermore_requiem_travel_distance"			                                                    "+{s:value} {s:ability_name} Line Travel Distance"
-"pathfinder_nevermore_requiem_ms_slow_pct"			                                                        "+{s:value}% {s:ability_name} Movespeed Slow"
-"pathfinder_nevermore_requiem_requiem_slow_duration"			                                            "+{s:value}s {s:ability_name} Debuff Duration per Line Hit"
+"pathfinder_nevermore_requiem_damage"			                                                            "+{s:value} {s:ability_name} 每道魔能伤害"
+"pathfinder_nevermore_requiem_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
+"pathfinder_nevermore_requiem_travel_distance"			                                                    "+{s:value} {s:ability_name} 每道魔能移动距离"
+"pathfinder_nevermore_requiem_ms_slow_pct"			                                                        "+{s:value}% {s:ability_name} 减速"
+"pathfinder_nevermore_requiem_requiem_slow_duration"			                                            "+{s:value}s {s:ability_name} 每道魔能减速持续时间增加"
 
 
 
@@ -129,73 +129,73 @@
 >--- BRISTLE SHARD ---------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_damage_value"                                    "Shadowraze - Damage"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_damage_value_Description"			            "<h1>Common Scepter Fragment</h1>Increases Shadowraze Damage by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_damage_value"                                    "毁灭阴影 - 伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_damage_value_Description"			            "<h1>普通神杖碎片</h1>+ %value% 毁灭阴影伤害."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_stack_damage_value"                              "Shadowraze - Bonus Damage per Stack"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_stack_damage_value_Description"			        "<h1>Common Scepter Fragment</h1>Increases Shadowraze Bonus Damage per Stack by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_stack_damage_value"                              "毁灭阴影 - 叠加伤害增加"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_stack_damage_value_Description"			        "<h1>普通神杖碎片</h1>+ %value% 毁灭阴影叠加伤害."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_cooldown_value"                                  "Shadowraze - Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_cooldown_value_Description"			            "<h1>Common Scepter Fragment</h1>Reduces Shadowraze Cooldown by %value%%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_cooldown_value"                                  "毁灭阴影 - 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_shadowraze_cooldown_value_Description"			            "<h1>普通神杖碎片</h1>- %value%%  毁灭阴影冷却时间."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_damage_per_soul"                               "Necromastery - Bonus Attack Damage per Soul"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_damage_per_soul_Description"			        "<h1>Common Scepter Fragment</h1>Increases Necromastery Bonus Attack Damage per Soul by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_damage_per_soul"                               "支配死灵 - 灵魂攻击力加成"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_damage_per_soul_Description"			        "<h1>普通神杖碎片</h1>+ %value% 每个灵魂攻击力加成."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_max_souls"                                     "Necromastery - Max Souls"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_max_souls_Description"			                "<h1>Common Scepter Fragment</h1>Increases Necromastery Max Souls Count by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_max_souls"                                     "支配死灵 - 最大灵魂数"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_max_souls_Description"			                "<h1>普通神杖碎片</h1>+ %value% 支配死灵最大灵魂数."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_souls_per_kill"                                "Necromastery - Souls per Kill"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_souls_per_kill_Description"			        "<h1>Common Scepter Fragment</h1>Increases Necromastery Souls per Kill by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_souls_per_kill"                                "支配死灵 - 击杀获得灵魂数"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_necromastery_souls_per_kill_Description"			        "<h1>普通神杖碎片</h1>+ %value% 击杀获得灵魂数."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_dark_lord_aura_radius"                                      "Presence of the Dark Lord - Aura Radius"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_dark_lord_aura_radius_Description"			                "<h1>Common Scepter Fragment</h1>Increases Presence of the Dark Lord Aura Radius by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_dark_lord_aura_radius"                                      "魔王降临 - 光环范围"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_dark_lord_aura_radius_Description"			                "<h1>普通神杖碎片</h1>+ %value% 魔王降临范围."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_dark_lord_armor_reduction"                                  "Presence of the Dark Lord - Armour Reduction"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_dark_lord_armor_reduction_Description"			            "<h1>Common Scepter Fragment</h1>Increases Presence of the Dark Lord Armour Reduction by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_dark_lord_armor_reduction"                                  "魔王降临 - 护甲降低"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_dark_lord_armor_reduction_Description"			            "<h1>普通神杖碎片</h1>+ %value% 魔王降临护甲降低."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_damage"                                             "Requiem of Souls - Damage"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_damage_Description"			                        "<h1>Common Scepter Fragment</h1>Increases Requiem of Souls Damage by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_damage"                                             "魂之挽歌 - 伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_damage_Description"			                        "<h1>普通神杖碎片</h1>+ %value% 每道魔能伤害."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_travel_distance"                                    "Requiem of Souls - Line Travel Distance"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_travel_distance_Description"			            "<h1>Common Scepter Fragment</h1>Increases Requiem of Souls Line Travel Distance by %value%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_travel_distance"                                    "魂之挽歌 - 魔能移动距离"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_travel_distance_Description"			            "<h1>普通神杖碎片</h1>+ %value% 魔能移动距离."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_ms_slow_pct"                                        "Requiem of Souls - Movespeed Percentage Slow"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_ms_slow_pct_Description"			                "<h1>Common Scepter Fragment</h1>Increases Requiem of Souls Movespeed Slow by %value%%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_ms_slow_pct"                                        "魂之挽歌 - 减速"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_ms_slow_pct_Description"			                "<h1>普通神杖碎片</h1>+ %value%% 移动速度减缓."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_requiem_slow_duration"                              "Requiem of Souls - Debuff Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_requiem_slow_duration_Description"			        "<h1>Common Scepter Fragment</h1>Increases Requiem of Souls Debuff Duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_requiem_slow_duration"                              "魂之挽歌 - 持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_requiem_slow_duration_Description"			        "<h1>普通神杖碎片</h1>+ %value% s减速持续时间."
 
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_pct_cooldown"                                       "Requiem of Souls - Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_pct_cooldown_Description"			                "<h1>Common Scepter Fragment</h1>Reduces Requiem of Souls Cooldown by %value%%."
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_pct_cooldown"                                       "魂之挽歌 - 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_nevermore_requiem_pct_cooldown_Description"			                "<h1>普通神杖碎片</h1>- %value%% 冷却时间."
 
 		
 >---------------------------------------
 >--- TALENT TREE -----------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_nevermore_shadowraze_damage+value"		        "+{s:value} Shadowraze Damage"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_nevermore_necromastery+damage_per_soul"		    "+{s:damage_per_soul} Damage per Soul"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_nevermore_dark_lord+aura_radius"	                "Global Dark Lord Aura"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_nevermore_shadowraze_damage+value"		        "+{s:value} 毁灭阴影伤害"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_nevermore_necromastery+damage_per_soul"		    "+{s:damage_per_soul} 灵魂提供攻击力"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_nevermore_dark_lord+aura_radius"	                "全图魔王降临"
 
 
 >---------------------------------------
 >--- MODIFIER --------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_modifier_pathfinder_shadowraze_debuff"	                                                    "Razed"
-"DOTA_Tooltip_modifier_pathfinder_shadowraze_debuff_Description"	                                        "Taking bonus damage from Shadowrazes"
+"DOTA_Tooltip_modifier_pathfinder_shadowraze_debuff"	                                                    "毁灭"
+"DOTA_Tooltip_modifier_pathfinder_shadowraze_debuff_Description"	                                        "每次被毁灭阴影击中获得额外伤害"
 
-"DOTA_Tooltip_modifier_pathfinder_nevermore_requiem_debuff"	                                                "Hauling Ass"
-"DOTA_Tooltip_modifier_pathfinder_nevermore_requiem_debuff_Description"	                                    "Movespeed reduced from being flashed by the Shadowfiend"
+"DOTA_Tooltip_modifier_pathfinder_nevermore_requiem_debuff"	                                                "挽歌"
+"DOTA_Tooltip_modifier_pathfinder_nevermore_requiem_debuff_Description"	                                    "恐惧并被魂之挽歌减速"
 
-"DOTA_Tooltip_modifier_pathfinder_necromastery_souls"	                                                    "Necromastery"
-"DOTA_Tooltip_modifier_pathfinder_necromastery_souls_Description"	                                        "Do you think an evil eldritch demon runs on souls? Because it does! But not entirely. Mostly it runs on money. Those Octarine Cores ain't going to buy themselves."
+"DOTA_Tooltip_modifier_pathfinder_necromastery_souls"	                                                    "支配死灵"
+"DOTA_Tooltip_modifier_pathfinder_necromastery_souls_Description"	                                        "储存的灵魂获得额外攻击力"
 
-"DOTA_Tooltip_modifier_pathfinder_dark_lord_debuff"	                                                        "Presence of the Dark Lord"		
-"DOTA_Tooltip_modifier_pathfinder_dark_lord_debuff_Description"	                                            "Just look at those souls of yours! Wasting away in those big, stupid bodies! Oh the things I could do with them! The only thing I can't do is pay off the Japanese Yakuza with them. Ha ha! They made that very explicit...American currency only."		
+"DOTA_Tooltip_modifier_pathfinder_dark_lord_debuff"	                                                        "降临"		
+"DOTA_Tooltip_modifier_pathfinder_dark_lord_debuff_Description"	                                            "影魔的出现让护甲发生变化"		
 
-"DOTA_Tooltip_modifier_pathfinder_requiem_attack"	                                                        "Choo Choo Soul"
-"DOTA_Tooltip_modifier_pathfinder_requiem_attack_Description"	                                            "At 50 stacks, release a free Requiem of Souls"
+"DOTA_Tooltip_modifier_pathfinder_requiem_attack"	                                                        "颤栗的灵魂"
+"DOTA_Tooltip_modifier_pathfinder_requiem_attack_Description"	                                            "积累到50层时清空颤栗的灵魂并释放魂之挽歌"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------
