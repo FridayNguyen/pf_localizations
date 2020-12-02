@@ -70,11 +70,11 @@
 "DOTA_Tooltip_modifier_pathfinder_patron_Description"	        "Спасибо, что поддержали разработку режима на Патреоне!"
 
 
-"DOTA_Subshop_consumables"			                	        "Предметы, которые вам нужны, но их вряд ли кто-то купит"
+"DOTA_Subshop_consumables"			                	        "Предметы, которые вам нужны, но вряд ли их кто-то купит"
 "DOTA_Subshop_attributes"			                	        "Для мемоделов и мечтателей"
 "DOTA_Subshop_weapons_armor"		                	        "Для тех, кто возомнил себя керри"
 "DOTA_Subshop_misc"			                                    "Для настоящих керри"
-"DOTA_Subshop_secretshop"		                    	        "Аганим уверен, что вам все это не пригодится. Да, определенно."
+"DOTA_Subshop_secretshop"		                    	        "Аганим уверен, что эти предметы вам точно не пригодятся."
 
 
 "DOTA_Tooltip_Ability_item_desolator_2"	            	        "Deso-later"
