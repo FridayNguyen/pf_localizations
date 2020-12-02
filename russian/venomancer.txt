@@ -101,50 +101,50 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage"		                                    "Venomous Gale: периодический урон"
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage_Description"		                    	"<h1>Обычный осколок скипетра</h1>Увеличивает периодический урон Venomous Gale на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage_Description"		                    	"<h1>Обычный фрагмент скипетра</h1>Увеличивает периодический урон Venomous Gale на %value% ."
 
 "DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance"	                                    	"Venomous Gale: дальность"
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance_Description"	                    		"<h1>Обычный осколок скипетра</h1>Увеличивает дальность прохождения Venomous Gale на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance_Description"	                    		"<h1>Обычный фрагмент скипетра</h1>Увеличивает дальность прохождения Venomous Gale на %value% ."
 
 "DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow"                                   	"Venomous Gale: замедление врагов"
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow_Description"               			"<h1>Обычный осколок скипетра</h1>Увеличивает замедление передвижения врагов от Venomous Gale на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow_Description"               			"<h1>Обычный фрагмент скипетра</h1>Увеличивает замедление передвижения врагов от Venomous Gale на %value% ."
 
 "DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown"	                                    	"Venomous Gale: перезарядка"
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown_Description"		                    	"<h1>Обычный осколок скипетра</h1>Уменьшает перезарядку Venomous Gale на %value%% ."
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown_Description"		                    	"<h1>Обычный фрагмент скипетра</h1>Уменьшает перезарядку Venomous Gale на %value%% ."
 
 
 "DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health"		                                    	"Plague Ward: здоровье тотемов"
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health_Description"	                        		"<h1>Обычный осколок скипетра</h1>Увеличивает здоровье тотемов от Plague Ward на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health_Description"	                        		"<h1>Обычный фрагмент скипетра</h1>Увеличивает здоровье тотемов от Plague Ward на %value% ."
 
 "DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration"			                                    "Plague Ward: длительность"
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration_Description"	                        		"<h1>Обычный осколок скипетра</h1>Увеличивает время жизни тотемов от Plague Ward на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration_Description"	                        		"<h1>Обычный фрагмент скипетра</h1>Увеличивает время жизни тотемов от Plague Ward на %value% ."
 
 "DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed"		                                    "Plague Ward: скорость атаки"
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed_Description"		                    	"<h1>Обычный осколок скипетра</h1>Увеличивает скорость атаки тотемов от Plague Ward на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed_Description"		                    	"<h1>Обычный фрагмент скипетра</h1>Увеличивает скорость атаки тотемов от Plague Ward на %value% ."
 
 
 "DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage"			                                    "Poison Sting: периодический урон"
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage_Description"	                        		"<h1>Обычный осколок скипетра</h1>Увеличивает периодический урон от Poison Sting на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage_Description"	                        		"<h1>Обычный фрагмент скипетра</h1>Увеличивает периодический урон от Poison Sting на %value% ."
 
 
 "DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed"	                                    "Poison Sting: замедление передвижения врагов"
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed_Description"		                	"<h1>Обычный осколок скипетра</h1>Увеличивает замедление  передвижения врагов от Poison Sting на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed_Description"		                	"<h1>Обычный фрагмент скипетра</h1>Увеличивает замедление  передвижения врагов от Poison Sting на %value% ."
 
 
 "DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration"			                                    "Poison Sting: длительность эффекта"
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration_Description"		                        	"<h1>Обычный осколок скипетра</h1>Увеличивает длительность эффекта Poison Sting на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration_Description"		                        	"<h1>Обычный фрагмент скипетра</h1>Увеличивает длительность эффекта Poison Sting на %value% ."
 
 
 "DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration"		                                    	"Poison Nova: длительность эффекта"
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration_Description"			                        "<h1>Обычный осколок скипетра</h1>Увеличивает длительность эффекта Poison Nova на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration_Description"			                        "<h1>Обычный фрагмент скипетра</h1>Увеличивает длительность эффекта Poison Nova на %value% ."
 
 
 "DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown"			                                    "Poison Nova: перезарядка"
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown_Description"		                        	"<h1>Обычный осколок скипетра</h1>Уменьшает перезарядку Poison Nova на %value%% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown_Description"		                        	"<h1>Обычный фрагмент скипетра</h1>Уменьшает перезарядку Poison Nova на %value%% ."
 
 
 "DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius"			                                    "Poison Nova: радиус"
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius_Description"			                        "<h1>Обычный осколок скипетра</h1>Увеличивает радиус Poison Nova на %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius_Description"			                        "<h1>Обычный фрагмент скипетра</h1>Увеличивает радиус Poison Nova на %value% ."
 
 
 >---------------------------------------
