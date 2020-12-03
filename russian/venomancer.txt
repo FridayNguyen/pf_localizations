@@ -14,22 +14,22 @@
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "Теперь чумные тотемы героя атакуют врагов по всей карте, но управлять ими нельзя."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal"			                                        "Rotten Delicacy"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal_Description"			                            "Герой восстанавливает здоровье в размере %lifesteal_percentage%% от урона, нанесенного тотемами. Периодический урон при этом не учитывается."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal_Description"			                            "Герой восстанавливает здоровье в размере %lifesteal_percentage%%  от урона, нанесенного тотемами. Периодический урон при этом не учитывается."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova"		                                                "Airborne Parasites"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova_Description"                                  		"Каждый враг, задетый способностью Poison Nova, с вероятностью в %spawn_chance%% может призвать чумной тотем."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova_Description"                                  		"Каждый враг, задетый способностью Poison Nova, с вероятностью в %spawn_chance%%  может призвать чумной тотем."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_bkb"		                                                "Herd Immunity"
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_bkb_Description"		                                    "Каждый враг, задетый Venomous Gale, дарует герою невосприимчивость к магии на %duration% сек., но в целом не более чем на %max_duration% сек."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse"		                                            "Fertile Soil"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse_Description"		                                "Теперь герой атакует дополнительно до %additional_shots% целей. Каждый убитый враг с вероятностью в %spawn_chance%% может призвать на свое место чумной тотем, но только если последний удар нанесет сам Venomancer."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse_Description"		                                "Теперь герой атакует дополнительно до %additional_shots% целей. Каждый убитый враг с вероятностью в %spawn_chance%%  может призвать на свое место чумной тотем, но только если последний удар нанесет сам Venomancer."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy"	                                        	"Terror of Jidi Isles"
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy_Description"		                            "Теперь Venomancer может создать огромный огнедышащий тотем, который будет призывать по одному обычному тотему текущего уровня каждые 7 секунд.  Урон от огненного дыхания равен урону героя, умноженному на 3."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack"		                                            "Seasonal Allergy"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack_Description"		                                "Атаки героя с вероятностью в %proc_chance%% могут запустить во все стороны по шару Venomous Gale текущего уровня."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack_Description"		                                "Атаки героя с вероятностью в %proc_chance%%  могут запустить во все стороны по шару Venomous Gale текущего уровня."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb" 	                                                "Bananamancer"
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "Теперь Venomous Gale призывает по банану за каждого задетого врага. После небольшой задержки все бананы выпускают по облаку Poison Nova текущего уровня в радиусе 175. Happy bananamancing!"
