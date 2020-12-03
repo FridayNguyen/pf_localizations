@@ -34,7 +34,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_reduce_omnislash_cooldown_Description"          	"Каждый критический удар от Blade Dance уменьшает перезарядку Omnislash на %seconds% сек."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep"	                                            "Timmothy the Brave"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep_Description"	                                "Целительный тотем превращается в союзное существо с ближним типом боя и высокой броней, которое наносит %dmg_percent%% общего урона Juggernaut. Также в качестве бонусного здоровья тотем получает %health_multiplier%% максимального здоровья героя."
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep_Description"	                                "Целительный тотем превращается в союзное существо с ближним типом боя и высокой броней, которое наносит %dmg_percent%%  общего урона Juggernaut. Также в качестве бонусного здоровья тотем получает %health_multiplier%%  максимального здоровья героя."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_radiance"	                                    	"Bad Omen"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_radiance_Description"	                            "Теперь аура Healing Ward каждую секунду обжигает врагов в радиусе действия, нанося им урон, соответствующий общему урону Juggernaut."
