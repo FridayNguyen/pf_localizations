@@ -54,7 +54,7 @@
 
 
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf"                         "Sigil From Cobalt"
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_Description"             "Tusk призывает ледяную печать, которая атакует ближайших врагов, нанося %attack_damage_percent%% от общего урона героя. Если атаковать врага в зоне действия ауры печати, он будет заморожен на %freeze_duration% сек."
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_Description"             "Tusk призывает ледяную печать, которая атакует ближайших врагов, нанося %attack_damage_percent%%  от общего урона героя. Если атаковать врага в зоне действия ауры печати, он будет заморожен на %freeze_duration% сек."
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_duration"                "Длительность: "
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_radius"                  "Радиус действия: "
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"         "Длительность заморозки: "
