@@ -10,35 +10,35 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_dummy"		                                	"Blot out the Sun"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_dummy_Description"		                    	"Legion Commander gains the Overwhelmingly Overhelming Odds ability, allowing her to channel for up to 8 seconds to call down the current level of Overwhelming Odds unto a random visible enemy within global range every 0.8 seconds."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_dummy"		                                	"遮天蔽日"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_dummy_Description"		                    	"军团指挥官获得全新技能：箭雨远征。在原地引导石堂城的弓箭手释放箭雨，每0.8秒对全图视野内的随机敌人释放一次压倒性优势，最多引导8秒。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows"		                                        	"Just don't lead 'em so much"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows_Description"	                            		"While under the effect of Duel, Legion Commander's opponent is hit with the current level of Overwhelming Odds every second"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows"		                                        	"清场"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows_Description"	                            		"决斗过程中每秒对决斗目标释放一次当前等级的压倒性优势"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion"		                                        	"Tonight, Dine in Hell"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"Upon casting Duel, Legion Commander summons the Ashen Legion to battle all other nearby enemy units within a large 1000 radius. These Ashen warriors possess %stat_percent%%  of Legion Commander's attack damage, and would last for the duration of the ability."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion"		                                        	"保安在哪？！"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"释放决斗时在目标周围1000范围内的每个敌人脚下召唤一个古铜军团士兵（主目标不受影响）。古铜军团士兵继承军团指挥官 %stat_percent%% 的攻击力，持续时间与当前等级决斗的最大持续时间相同。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge"		                                            	"So You're Finally Awake"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"While dueling an enemy, Legion Commander will cast the current level of Press the Attack on all friendly heroes within a %radius% radius. Each cast will additionally heal the affected units for %max_health_heal%%  of Legion Commander's max health"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge"		                                            	"醒了醒了！"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"决斗时军团指挥官对 %radius% 范围内的友方英雄释放当前等级的强攻。同时强攻会为友方英雄额外回复军团指挥官最大生命值 %max_health_heal%% 的生命。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_meteor"		                                        	"Fight in the Shade"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_meteor_Description"	                            		"Overwhelming Odds now launches an additional volley of meteors, dealing an additional instance of the ability's base damage and stunning any affect enemy unit for %stun_duration% seconds"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_meteor"		                                        	"天碍震星"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_meteor_Description"	                            		"压倒性优势会在释放时召唤一个从天而降的陨石。陨石造成压倒性优势的基础伤害，并眩晕敌人 %stun_duration% 秒。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_reset"		                                        	"Are You Not Entertained?"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_reset_Description"	                            		"Upon killing an enemy unit with Overwhelming Odds, Legion Commander resets the cooldowns of all of her abilities"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_reset"		                                        	"请留步"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_reset_Description"	                            		"压倒性优势击杀敌人时刷新全部技能的冷却时间。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe"		                                            	"Born to Kill"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe_Description"	                                		"Moment of Courage now also causes Legion Commander to attacks all enemy units within melee range. These instant attacks fully benefit from all of Legion Commander's abilities and items"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe"		                                            	"天生杀手"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe_Description"	                                		"触发勇气之霎时攻击 %radius% 范围内的最多%extra_targets%个敌人，攻击继承所有物品和技能的攻击效果。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail"		                                    	"Et tu, Tresdin?"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"Press the Attack now also grants the affected unit a lesser blademail effect, causing %percent%%  of all damage they receive to be sent back unto the attackers"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail"		                                    	"龙门飞甲"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"强攻会赋予目标一个小型的刃甲效果，反弹所受伤害的 %percent%% 给攻击者。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb"		                                            	"Give Them Nothing"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"Units affected by Press the Attack will also receive complete Spell Immunity for the duration of the buff, rendering them 100% resistance to non-piercing magic damage"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb"		                                            	"黑皇龙甲"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"强攻持续时间内目标获得天神下凡状态，免疫大部分魔法伤害。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura"		                                        	"War Never Changes"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura_Description"			                            "Moment of Courage becomes an aura ability that passively grants its effect to all friendly heroes within a %radius% radius"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura"		                                        	"永恒之战"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura_Description"			                            "勇气之霎具有光环效果，使周围 %radius% 范围内的友方英雄获得当前等级的勇气之霎被动效果。"
 
 
 >---------------------------------------
@@ -46,51 +46,51 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows"		                                                        	"Overwhelming Odds"
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows_Description"		                                            	"Turns the enemies' numbers against them, dealing damage and granting you bonus movement speed per unit hit by the ability. Legion Commander ignores the maximum movement speed limit while the bonus movespeed bonus is active."
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows_Lore"		                                                	"'Now, hold on,' you might be thinking. 'My archers are certainly strong, but no one could throw an arrow that hard.' Introducing the longbow, which solves that age-old throwing problem."
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows"		                                                        	"压倒性优势"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_Description"		                                            	"用敌人的数量反抗他们，造成伤害并提升军团指挥官的移动速度。根据作用单位的数量决定造成的伤害数值，以及移速加成的数值。加成无视移速上限。"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_Lore"		                                                	"石堂城的弓箭手就等特蕾丝汀一声令下。"
 
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_radius"		                                        	"Radius:"
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_range"		                                        	"Range:"
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_base_damage"		                                    	"Base Damage:"
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_damage_per_unit"		                                	"Bonus Damage Per Unit:"
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_movespeed_per_unit"		                            	"Bonus Movespeed Per Unit:"
-"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_movespeed_duration"		                            	"Bonus Movespeed Duration:"
-
-
-"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows"	                                        		"Overwhelmingly Overwhelming Odds"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Description"	                            		"Channel for up to %channel_time% seconds to call down the current level of Overwhelming Odds unto a random visible enemy within global range every %interval% seconds."
-"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Lore"		                                    	"Any experienced archer will tell you how irritating it is when your targets keep moving around. The question is how to stop these wankers from magically wind-sprinting around like they own the place. And the answer is to pin them to the grounds. How? With arrows! How many arrows? Yes."
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_radius"		                                        	"作用范围:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_range"		                                        	"施法距离:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_base_damage"		                                    	"基础伤害:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_damage_per_unit"		                                	"每单位伤害:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_movespeed_per_unit"		                            	"每单位移动速度加成:"
+"DOTA_Tooltip_Ability_pathfinder_lc_arrows_arrows_movespeed_duration"		                            	"加速持续时间:"
 
 
-
-"DOTA_Tooltip_Ability_pathfinder_lc_press"		                                                        	"Press the Attack"
-"DOTA_Tooltip_Ability_pathfinder_lc_press_Description"		                                            	"Removes debuffs and disables from the target friendly unit, and grants bonus attack speed and health regen for a short time."
-"DOTA_Tooltip_Ability_pathfinder_lc_press_Lore"		                                                    	"You cannot burn me! I'm already ablaze with passion FOR WAR (and shiny cosmetics, but mostly WAR!)"
-
-"DOTA_Tooltip_Ability_pathfinder_lc_press_press_range"		                                            	"Range:"
-"DOTA_Tooltip_Ability_pathfinder_lc_press_press_regen"		                                            	"Bonus Health Regeneration:"
-"DOTA_Tooltip_Ability_pathfinder_lc_press_press_attack"	                                            		"Bonus Attack Speed:"
-"DOTA_Tooltip_Ability_pathfinder_lc_press_press_duration"	                                            	"Duration:"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows"	                                        		"箭雨远征"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Description"	                            		"向石堂城弓箭手求援，每 %interval% 秒引导弓箭手对视野内的随机敌人释放一次压倒性优势，最多引导 %channel_time% 秒，引导其间不能移动。"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Lore"		                                    	"如何应对丛林中神出鬼没的敌人？一发集束炸弹足矣。如果一发不够，那就再来一发。"
 
 
 
-"DOTA_Tooltip_Ability_pathfinder_lc_moment"		                                                        	"Moment of Courage"
-"DOTA_Tooltip_Ability_pathfinder_lc_moment_Description"	                                            		"When attacked, Legion Commander has a chance to immediately counterattack with bonus lifesteal. This attack can not miss."
-"DOTA_Tooltip_Ability_pathfinder_lc_moment_Lore"		                                                	"Aww, am I too violent for you, cupcake?"
+"DOTA_Tooltip_Ability_pathfinder_lc_press"		                                                        	"强攻"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_Description"		                                            	"解除指定友方单位的一切负面效果和控制技能，并提升其攻击速度和生命恢复，持续一定时间。"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_Lore"		                                                    	"古铜军团的重振号角可以鼓舞人心。"
 
-"DOTA_Tooltip_Ability_pathfinder_lc_moment_moment_chance"		                                        	"%Proc Chance:"
-"DOTA_Tooltip_Ability_pathfinder_lc_moment_moment_lifesteal"	                                    		"%Lifesteal:"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_press_range"		                                            	"施法距离:"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_press_regen"		                                            	"生命恢复加成:"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_press_attack"	                                            		"攻击速度加成:"
+"DOTA_Tooltip_Ability_pathfinder_lc_press_press_duration"	                                            	"持续时间:"
 
 
 
-"DOTA_Tooltip_Ability_pathfinder_lc_duel"		                                                        	"Duel"
-"DOTA_Tooltip_Ability_pathfinder_lc_duel_Description"	                                            		"Legion Commander and the target enemy unit are forced to attack each other for a short duration. Neither opponent can use items nor abilities. If the target dies during the duration, Legion Command gains bonus damage and receives a free Press the Attack buff. 40% of this bonus damage is lost upon death."
-"DOTA_Tooltip_Ability_pathfinder_lc_duel_Lore"		                                                    	"Do you have a deep concerning invincibility complex? Are you crying for a fashion statement that just screams 'Oh please stab me!'? Then Tresdin can provide just the right service if you're looking to get yourself plugged full of blades! Reservation required."
+"DOTA_Tooltip_Ability_pathfinder_lc_moment"		                                                        	"勇气之霎"
+"DOTA_Tooltip_Ability_pathfinder_lc_moment_Description"	                                            		"每当受到攻击，军团指挥官都有几率立即作出反击（此次攻击具有吸血和克敌机先效果）。"
+"DOTA_Tooltip_Ability_pathfinder_lc_moment_Lore"		                                                	"特蕾丝汀知道，敌人出招最狠的时候也是他们最脆弱的时候。"
 
-"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_range"		                                            	"Range:"
-"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_duration"		                                            	"Duration:"		"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_creep_damage"			"Damage From Non-Captains:"
-"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_hero_damage"			                                        "Damage From Captains:"	
+"DOTA_Tooltip_Ability_pathfinder_lc_moment_moment_chance"		                                        	"触发几率:"
+"DOTA_Tooltip_Ability_pathfinder_lc_moment_moment_lifesteal"	                                    		"吸血:"
+
+
+
+"DOTA_Tooltip_Ability_pathfinder_lc_duel"		                                                        	"决斗"
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_Description"	                                            		"军团指挥官强制与目标进行决斗，持续短暂的数秒。决斗开始后双方英雄只能进行物理攻击，不能使用任何物品和技能。如果目标在决斗期间死亡，军团指挥官将获得额外攻击力以及一次当前等级强攻的加成效果。军团指挥官死亡后将失去40%获得的额外攻击力"
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_Lore"		                                                    	"与石堂城的士兵进行单挑是令人无法抗拒的挑战。"
+
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_range"		                                            	"施法距离:"
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_duration"		                                            	"持续时间:"		"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_creep_damage"													"小兵攻击力奖励:"
+"DOTA_Tooltip_Ability_pathfinder_lc_duel_duel_hero_damage"			                                        "首领攻击力奖励:"	
 
 
 >---------------------------------------
@@ -99,23 +99,23 @@
 
 
 
-"pathfinder_lc_arrows_arrows_radius"                                                                            "+{s:value} Effect Radius"
-"pathfinder_lc_arrows_arrows_base_damage"                                                                       "+{s:value} {s:ability_name} Base Damage"
-"pathfinder_lc_arrows_arrows_damage_per_unit"                                                                   "+{s:value} {s:ability_name} Damage Per Unit Affected"
-"pathfinder_lc_arrows_arrows_movespeed_duration"                                                                "+{s:value}s Movespeed Bonus Duration"
-"pathfinder_lc_arrows_cooldown"                                                                                 "-{s:value}% {s:ability_name} Cooldown"
+"pathfinder_lc_arrows_arrows_radius"                                                                            "+{s:value} 作用范围"
+"pathfinder_lc_arrows_arrows_base_damage"                                                                       "+{s:value} {s:ability_name} 基础伤害"
+"pathfinder_lc_arrows_arrows_damage_per_unit"                                                                   "+{s:value} {s:ability_name} 每个单位提供伤害"
+"pathfinder_lc_arrows_arrows_movespeed_duration"                                                                "+{s:value}s 移速加成持续时间"
+"pathfinder_lc_arrows_cooldown"                                                                                 "-{s:value}% {s:ability_name} 冷却时间"
 
-"pathfinder_lc_press_press_regen"                                                                               "+{s:value} {s:ability_name} Health Regeneration Bonus"
-"pathfinder_lc_press_press_attack"                                                                              "+{s:value} {s:ability_name} Attack Speed Bonus"
-"pathfinder_lc_press_press_duration"                                                                            "+{s:value}s {s:ability_name} Bonus Duration"   		
-"pathfinder_lc_press_cooldown"                                                                                  "-{s:value}% {s:ability_name} Cooldown"
+"pathfinder_lc_press_press_regen"                                                                               "+{s:value} {s:ability_name} 生命恢复"
+"pathfinder_lc_press_press_attack"                                                                              "+{s:value} {s:ability_name} 攻击速度加成"
+"pathfinder_lc_press_press_duration"                                                                            "+{s:value}s {s:ability_name}  持续时间"   		
+"pathfinder_lc_press_cooldown"                                                                                  "-{s:value}% {s:ability_name} 冷却时间"
 
-"pathfinder_lc_moment_moment_chance"                                                                            "+{s:value}% {s:ability_name} Proc Chance"
-"pathfinder_lc_moment_moment_lifesteal"                                                                         "+{s:value}% {s:ability_name} Lifesteal"
+"pathfinder_lc_moment_moment_chance"                                                                            "+{s:value}% {s:ability_name} 触发几率"
+"pathfinder_lc_moment_moment_lifesteal"                                                                         "+{s:value}% {s:ability_name} 吸血"
 
-"pathfinder_lc_duel_duel_duration"                                                                              "+{s:value}s {s:ability_name} Duration"
-"pathfinder_lc_duel_duel_hero_damage"		                                                                	"+{s:value} {s:ability_name} Damage Reward from Captains"   		
-"pathfinder_lc_duel_cooldown"			                                                                        "-{s:value}% {s:ability_name} Cooldown"
+"pathfinder_lc_duel_duel_duration"                                                                              "+{s:value}s {s:ability_name} 持续时间"
+"pathfinder_lc_duel_duel_hero_damage"		                                                                	"+{s:value} {s:ability_name} 首领攻击力奖励"   		
+"pathfinder_lc_duel_cooldown"			                                                                        "-{s:value}% {s:ability_name} 冷却时间"
 
 
 
@@ -124,63 +124,63 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_radius"                                                  "Overwhelming Odds: Radius"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_radius_Description"                                      "<h1>Common Scepter Fragment</h1>Increases radius by %value% ."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_base_damage"                                             "Overwhelming Odds: Base Damage"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_base_damage_Description"                                 "<h1>Common Scepter Fragment</h1>Increases base damage by %value% ."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_damage_per_unit"                                         "Overwhelming Odds: Damage per Unit"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_damage_per_unit_Description"                             "<h1>Common Scepter Fragment</h1>Increases bonus damage per unit by %value% ."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_movespeed_duration"                                      "Overwhelming Odds: Movespeed Bonus Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_movespeed_duration_Description"			                "<h1>Common Scepter Fragment</h1>Increases movespeed bonus duration by %value% seconds."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_cooldown"                                                       "Overwhelming Odds: Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_cooldown_Description"		                                	"<h1>Common Scepter Fragment</h1>Decreases cooldown by %value%% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_radius"                                                  "压倒性优势: 作用范围"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_radius_Description"                                      "<h1>普通神杖碎片</h1>+ %value% 作用范围"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_base_damage"                                             "压倒性优势: 基础伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_base_damage_Description"                                 "<h1>普通神杖碎片</h1>+ %value% 基础伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_damage_per_unit"                                         "压倒性优势: 每个单位提供伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_damage_per_unit_Description"                             "<h1>普通神杖碎片</h1>+ %value% 每个单位提供伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_movespeed_duration"                                      "压倒性优势: 移速加成持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_arrows_movespeed_duration_Description"			                "<h1>普通神杖碎片</h1>+ %value% s移速加成持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_cooldown"                                                       "压倒性优势: 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_arrows_cooldown_Description"		                                	"<h1>普通神杖碎片</h1>- %value%% 冷却时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_regen"                                                     "Press The Attack: Bonus Health Regeneration"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_regen_Description"                                         "<h1>Common Scepter Fragment</h1>Increases bonus health regeneration by %value% ."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_attack"                                                    "Press The Attack: Bonus Attack Speed"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_attack_Description"                                        "<h1>Common Scepter Fragment</h1>Increases bonus attack speed by %value% ."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_press_cooldown"                                                        "Press The Attack: Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_press_cooldown_Description"                                            "<h1>Common Scepter Fragment</h1>Decreases cooldown by %value%% ."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_duration"			                                        "Press The Attack: Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_duration_Description"	                            		"<h1>Common Scepter Fragment</h1>Increases duration by %value% seconds."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_regen"                                                     "强攻: 生命恢复加成"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_regen_Description"                                         "<h1>普通神杖碎片</h1>+ %value% 额外生命恢复"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_attack"                                                    "强攻: 攻击速度加成"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_attack_Description"                                        "<h1>普通神杖碎片</h1>+ %value% 攻速"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_cooldown"                                                        "强攻: 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_cooldown_Description"                                            "<h1>普通神杖碎片</h1>- %value%% 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_duration"			                                        "强攻: 持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_press_press_duration_Description"	                            		"<h1>普通神杖碎片</h1>+ %value% s持续时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_chance"                                                  "Moment of Courage: Proc Chance"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_chance_Description"			                            "<h1>Common Scepter Fragment</h1>Increases proc chance by %value%% ."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_lifesteal"			                                    "Moment of Courage: Lifesteal"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_lifesteal_Description"			                        "<h1>Common Scepter Fragment</h1>Increases lifesteal by %value%% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_chance"                                                  "勇气之霎: 触发几率"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_chance_Description"			                            "<h1>普通神杖碎片</h1>+ %value%% 触发概率"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_lifesteal"			                                    "勇气之霎: 吸血"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_moment_moment_lifesteal_Description"			                        "<h1>普通神杖碎片</h1>+ %value%% 吸血"
 
 
-"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_duration"			                                        "Duel: Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_duration_Description"			                            "<h1>Common Scepter Fragment</h1>Increases duration by %value% seconds."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_hero_damage"			                                        "Duel: Damage from Captains"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_hero_damage_Description"			                            "<h1>Common Scepter Fragment</h1>Increases damage gained from Captains by %value% ."
-"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_cooldown"			                                                "Duel: Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_cooldown_Description"			                                    "<h1>Common Scepter Fragment</h1>Decreases cooldown by %value%% ."
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_duration"			                                        "决斗: 持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_duration_Description"			                            "<h1>普通神杖碎片</h1>+ %value% s决斗时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_hero_damage"			                                        "决斗: 首领攻击力奖励"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_duel_hero_damage_Description"			                            "<h1>普通神杖碎片</h1>+ %value% 首领攻击力奖励"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_cooldown"			                                                "决斗: 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_lc_duel_cooldown_Description"			                                    "<h1>普通神杖碎片</h1>- %value%% 冷却时间"
 
 
 >---------------------------------------
 >--- TALENT TREE -----------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_arrows+arrows_movespeed_duration"	                "+{s:arrows_movespeed_duration}s Overwhelming Odds Movespeed Duration"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_moment+moment_chance"	                            "+{s:moment_chance}% Moment Proc Chance"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_press+press_regen"                                 "+{s:press_regen} Press the Attack HP Regen"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_arrows+arrows_base_damage"	                        "+{s:arrows_base_damage} Overwhelming Odds Base Damage"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_arrows+arrows_movespeed_duration"	                "+{s:arrows_movespeed_duration}s 压倒性优势移速加成持续时间"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_moment+moment_chance"	                            "+{s:moment_chance}% 勇气之霎触发几率"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_press+press_regen"                                 "+{s:press_regen} 强攻生命恢复"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_lc_arrows+arrows_base_damage"	                        "+{s:arrows_base_damage} 压倒性优势 基础伤害"
 
 
 >---------------------------------------
 >--- MODIFIER --------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_modifier_pathfinder_lc_arrows_movespeed"			                                                "Overwhelming Odds Movement Speed Bonus"
-"DOTA_Tooltip_modifier_pathfinder_lc_press"			                                                            "Press The Attack"
-"DOTA_Tooltip_modifier_pathfinder_lc_press_Description"			                                                "Gaining bonus attack speed and health regeneration from Press The Attack"
-"DOTA_Tooltip_modifier_pathfinder_lc_duel_bonus"			                                                    "Duel Bonus Damage"
-"DOTA_Tooltip_modifier_pathfinder_lc_duel_bonus_Description"		                                        	"40%% of this amount is lost upon death"
-"DOTA_Tooltip_modifier_ascension_pathfinder_blademail"	                                                    	"You've got mail!"
+"DOTA_Tooltip_modifier_pathfinder_lc_arrows_movespeed"			                                                "压倒性优势"
+"DOTA_Tooltip_modifier_pathfinder_lc_press"			                                                            "强攻"
+"DOTA_Tooltip_modifier_pathfinder_lc_press_Description"			                                                "攻击速度和生命恢复提升"
+"DOTA_Tooltip_modifier_pathfinder_lc_duel_bonus"			                                                    "决斗获胜攻击力加成"
+"DOTA_Tooltip_modifier_pathfinder_lc_duel_bonus_Description"		                                        	"死亡损失四成决斗额外攻击力"
+"DOTA_Tooltip_modifier_ascension_pathfinder_blademail"	                                                    	"以牙还牙"
 
-"DOTA_Tooltip_modifier_pathfinder_lc_moment"		                                                        	"Moment of Courage"
-"DOTA_Tooltip_modifier_pathfinder_lc_moment_Description"	                                            		"Benefitting from Legion Commander's Moment of Courage Passive Ability"
+"DOTA_Tooltip_modifier_pathfinder_lc_moment"		                                                        	"勇气之霎"
+"DOTA_Tooltip_modifier_pathfinder_lc_moment_Description"	                                            		"获得军团指挥官当前等级的被动技能：勇气之霎"
 
 
 
