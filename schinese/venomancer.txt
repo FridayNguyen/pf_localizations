@@ -10,29 +10,29 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack"		                                        "Global Epidemic"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "Plague Wards gain global attack range, but can no longer be controlled."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack"		                                        "大瘟疫"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "瘟疫守卫攻击距离扩展至全图，但从此不可控。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal"			                                        "Rotten Delicacy"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal_Description"			                            "Plague Ward attacks provide Venomancer with %lifesteal_percentage%%  lifesteal. The heal amount does not includes damage over time effects."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal"			                                        "腐食者"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal_Description"			                            "瘟疫守卫每次普通攻击造成伤害的 %lifesteal_percentage%%  治疗剧毒术士。治疗效果仅计算攻击伤害。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova"		                                                "Airborne Parasites"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova_Description"                                  		"Each time a unit is damaged by Poison Nova, it has a %spawn_chance%%  chance to spawn a Plague Ward at its current location"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova"		                                                "寄生孢子"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_nova_Description"                                  		"每次剧毒新星造成伤害时有 %spawn_chance%% 几率召唤一个瘟疫守卫。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_bkb"		                                                "Herd Immunity"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_bkb_Description"		                                    "Each enemy unit hit by Venomous Gale grants Venomancer %duration% seconds of Spell Immunity, up to a maximum of %max_duration% seconds"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_bkb"		                                                "体液免疫"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_bkb_Description"		                                    "瘴气每命中一个敌方单位就能使剧毒术士获得 %duration% 秒的魔法免疫，最多 %max_duration% 秒。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse"		                                            "Fertile Soil"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse_Description"		                                "Venomancer's attacks now hit up to %additional_shots% additional enemies. Enemy units killed by Venomancer have a %spawn_chance%%  chance to spawn a Plague Ward at their location. The last hit must come from Venomancer himself."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse"		                                            "温床"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse_Description"		                                "剧毒术士可以额外攻击 %additional_shots% 个目标。被剧毒术士攻击杀死的敌方单位有 %spawn_chance%% 的几率在原地召唤一个瘟疫守卫。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy"	                                        	"Terror of Jidi Isles"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy_Description"		                            "Venomancer gains the ability to summon a massive Fire-Breathing Plague Ward, who will also continuously spawn Venomancer's current level of Plague Ward near its location every 7 seconds. Fire Breath Damage is equals to 3 times of Venomancer's Attack Damage"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy"	                                        	"洪荒凶兽"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy_Description"		                            "剧毒术士可以从基迪岛召唤四目金蜈蚣。四目金蜈蚣可以释放火焰吐息，造成3倍剧毒术士攻击的范围伤害，每隔一段时间会在周围召唤一个剧毒术士当前等级的瘟疫守卫。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack"		                                            "Seasonal Allergy"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack_Description"		                                "Venomancer's attacks have a %proc_chance%%  chance to also launch the current level of Venomous Gale in all directions."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack"		                                            "花粉热"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack_Description"		                                "剧毒术士的攻击有 %proc_chance%% 几率在周围释放6团瘴气。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb" 	                                                "Bananamancer"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "Venomancer's Venomous Gale now summons a banana for each target hit. After a brief delay, these bananas will release Venomancer's current level of Poison Nova in a fixed 175 radius. Happy bananamancing!"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb" 	                                                "基迪岛特产"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "瘴气命中敌方单位时会在地面产生一个基迪岛香蕉，香蕉将在数秒后爆开并在175范围内释放当前等级的剧毒新星。"
 
 
 >---------------------------------------
@@ -40,41 +40,41 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven"                                                            "Poison Nova"
-"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_Lore"			                                            "The infamously deadly poisonous gas released by the Venomancer is made possible through a diet consisting solely of Tacos."
-"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_Description"                                                "A spreading ring of poison that does damage over time to enemy units around Venomancer. Poison Nova cannot deal lethal damage; targets will be left with at least 1 health."
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven"                                                            "剧毒新星"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_Lore"			                                            "浓酸丛林中的生物通常会对攻击者释放毒性瘴气来保命；而剧毒术士却将这种瘟疫扩散出基迪岛。"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_Description"                                                "施放一个剧毒之环，对剧毒术士周围的敌方单位造成持续伤害。剧毒新星的效果不能致死；目标的生命值最低降至1点。"
 
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven"                                                          "Venomous Gale"
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_Lore"                                                     "Transmission of bodily fluids through various orifices is one of Venomancer's favorite activities."
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_Description"                                              "Launches a ball of venom in a line, poisoning enemy units so that they take both initial damage and damage over time, as well as suffering slowed movement. Venomous Gale deals damage every 3 seconds over its duration."
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven"                                                          "瘴气"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_Lore"                                                     "一种由基迪岛丛林里搜集的各种毒针、毒液和毒素混合而成的药剂，几乎没有人能在沾到它后存活下来。"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_Description"                                              "沿直线射出一个毒液球，碰到的敌人受到初始伤害和持续伤害，并受到减速效果影响。瘴气在持续时间内每3秒造成一次持续伤害。"
 
-"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven"                                                           "Poison Sting"
-"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_Lore"                                                      "Never bring swords to an acid fight"
-"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_Description"                                               "Adds poison damage to Venomancer's normal attacks and slowing movement speed."
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven"                                                           "毒刺"
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_Lore"                                                      "造成了他变异的那个生物的麻痹毒刺，现在属于剧毒术士了。"
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_Description"                                               "在剧毒术士的普通攻击中加入毒性伤害，可以减缓敌人的移动速度。"
 
-"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven"                                                            "Plague Ward"
-"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_Lore"                                                       "One spitty boi coming right up!"
-"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_Description"                                                "Summons a plague ward to attack enemy units and structures. The ward is immune to magic. Wards gain the Poison Sting level from Venomancer, dealing 50% of the full damage."
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven"                                                            "瘟疫守卫"
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_Lore"                                                       "他通过将早先的草药学天赋，和后天获得的毒素专精混合起来，创造出一个活体化瘟疫。"
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_Description"                                                "召唤一个瘟疫守卫来攻击敌方单位和建筑。守卫对魔法免疫。守卫拥有毒刺攻击，效果与毒刺技能的当前等级相同，造成50%的原技能伤害。"
 
 
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_tick_damage"						                        "Strike Damage:"
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_tick_damage"						                        "Damage Over Time:"
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_distance"						                            "Travel Distance:"
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_movement_slow"					                    	"%Movement Slow:"
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_cooldown"                                                 "Cooldown:"
-"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_duration"                                                   "Duration:"
-"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_attack_speed"                                               "Current Bonus Ward Attack Speed:"		
-"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_health"                                                     "Health:"
-"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_damage"                                                    "Damage per Second:"		
-"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_movement_speed"                                            "%Movement Slow:"		
-"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_duration"                                                  "Duration:"
-"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_duration"                                                 "Duration:"
-"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_radius"                                                     "Radius:"
-"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_duration"                                                   "Duration:"
-"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_damage"                                                     "Damage Over Time:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_tick_damage"						                        "初始伤害:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_tick_damage"						                        "持续伤害:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_distance"						                            "移动距离:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_movement_slow"					                    	"移动速度减缓%:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_cooldown"                                                 "冷却时间:"
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_duration"                                                   "持续时间:"
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_attack_speed"                                               "当前瘟疫守卫攻击速度加成:"		
+"DOTA_Tooltip_Ability_venomancer_plague_ward_datadriven_health"                                                     "瘟疫守卫生命:"
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_damage"                                                    "每秒伤害:"		
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_movement_speed"                                            "移动速度减缓%:"		
+"DOTA_Tooltip_Ability_venomancer_poison_sting_datadriven_duration"                                                  "持续时间:"
+"DOTA_Tooltip_Ability_venomancer_venomous_gale_datadriven_duration"                                                 "持续时间:"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_radius"                                                     "作用范围:"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_duration"                                                   "持续时间:"
+"DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_damage"                                                     "每秒伤害:"
 
-"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward"		                                                    "Summon Lil Terry"
-"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "Summons the Terror of Jidi Isles, a massive Fire-Breathing Plague Ward, who will also continuously spawn Venomancer's current level of Plague Ward near its location every 10 seconds. Fire Breath Damage is equals to 3 times of Venomancer's Attack Damage"
+"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward"		                                                    "召唤凶兽"
+"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "可以从基迪岛召唤洪荒凶兽，凶兽可以释放火焰吐息，伤害为剧毒术士攻击力的三倍，并且每10秒召唤一个瘟疫守卫。"
 
 
 >---------------------------------------
@@ -82,69 +82,69 @@
 >---------------------------------------
 
 
-"venomancer_venomous_gale_datadriven_tick_damage" 				                                	"+{s:value} {s:ability_name} Tick Damage"
-"venomancer_venomous_gale_datadriven_distance" 					                                    "+{s:value} {s:ability_name} Travel Distance"
-"venomancer_venomous_gale_datadriven_movement_slow" 		                            			"{s:value}% {s:ability_name} Movement Slow"
-"venomancer_venomous_gale_datadriven_cooldown" 			                                        	"-{s:value}% {s:ability_name} Cooldown"
-"venomancer_plague_ward_datadriven_duration" 			                                    		"+{s:value}s {s:ability_name} Duration"
-"venomancer_plague_ward_datadriven_health" 			                                            	"+{s:value} {s:ability_name} Health"
-"venomancer_plague_ward_datadriven_attack_speed" 		                                        	"+{s:value} {s:ability_name} Attack Speed"
-"venomancer_poison_sting_datadriven_damage" 				                                        "+{s:value} {s:ability_name} Damage Over Time"
-"venomancer_poison_sting_datadriven_movement_speed" 		                                		"{s:value}% {s:ability_name} Movement Slow"
-"venomancer_poison_nova_datadriven_duration" 				                                        "+{s:value}s {s:ability_name} Effect Duration"
-"venomancer_poison_nova_datadriven_cooldown" 				                                        "-{s:value}% {s:ability_name} Cooldown"
-"venomancer_poison_nova_datadriven_radius" 			                                            	"+{s:value} {s:ability_name} Effect Radius"
+"venomancer_venomous_gale_datadriven_tick_damage" 				                                	"+{s:value} {s:ability_name} 每次伤害"
+"venomancer_venomous_gale_datadriven_distance" 					                                    "+{s:value} {s:ability_name} 移动距离"
+"venomancer_venomous_gale_datadriven_movement_slow" 		                            			"{s:value}% {s:ability_name} 移动速度减缓"
+"venomancer_venomous_gale_datadriven_cooldown" 			                                        	"-{s:value}% {s:ability_name} 冷却时间"
+"venomancer_plague_ward_datadriven_duration" 			                                    		"+{s:value}s {s:ability_name} 持续时间"
+"venomancer_plague_ward_datadriven_health" 			                                            	"+{s:value} {s:ability_name} 生命"
+"venomancer_plague_ward_datadriven_attack_speed" 		                                        	"+{s:value} {s:ability_name} 攻击速度"
+"venomancer_poison_sting_datadriven_damage" 				                                        "+{s:value} {s:ability_name} 每秒伤害"
+"venomancer_poison_sting_datadriven_movement_speed" 		                                		"{s:value}% {s:ability_name} 移动速度减缓"
+"venomancer_poison_nova_datadriven_duration" 				                                        "+{s:value}s {s:ability_name} 持续时间"
+"venomancer_poison_nova_datadriven_cooldown" 				                                        "-{s:value}% {s:ability_name} 冷却时间"
+"venomancer_poison_nova_datadriven_radius" 			                                            	"+{s:value} {s:ability_name} 作用范围"
 
 
 >---------------------------------------
 >--- BRISTLE SHARD ---------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage"		                                    "Venomous Gale: Damage Over Time"
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage_Description"		                    	"<h1>Common Scepter Fragment</h1>Increases Venomous Gale Damage Over Time by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage"		                                    "瘴气: 持续伤害"
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_tick_damage_Description"		                    	"<h1>普通神杖碎片</h1>+ %value% 瘴气持续伤害"
 
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance"	                                    	"Venomous Gale: Distance"
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance_Description"	                    		"<h1>Common Scepter Fragment</h1>Increases Venomous Gale Travel Distance by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance"	                                    	"瘴气: 移动距离"
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_distance_Description"	                    		"<h1>普通神杖碎片</h1>+ %value% 瘴气移动距离"
 
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow"                                   	"Venomous Gale: Movement Slow"
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow_Description"               			"<h1>Common Scepter Fragment</h1>Increases Venomous Gale Movement Slow by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow"                                   	"瘴气: 移动速度减缓"
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_movement_slow_Description"               			"<h1>普通神杖碎片</h1>+ %value% 瘴气减速"
 
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown"	                                    	"Venomous Gale: Cooldown"
-"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown_Description"		                    	"<h1>Common Scepter Fragment</h1>Decreases Venomous Gale Cooldown by %value%% ."
-
-
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health"		                                    	"Plague Ward: Ward Health"
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health_Description"	                        		"<h1>Common Scepter Fragment</h1>Increases Plague Ward Health Pool by %value% ."
-
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration"			                                    "Plague Ward: Duration"
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration_Description"	                        		"<h1>Common Scepter Fragment</h1>Increases Plague Ward Duration by %value% ."
-
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed"		                                    "Plague Ward: Attack Speed"
-"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed_Description"		                    	"<h1>Common Scepter Fragment</h1>Increases Plague Ward Attack Speed by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown"	                                    	"瘴气: 冷却时间"
+"DOTA_Tooltip_Ability_item_venomancer_venomous_gale_datadriven_cooldown_Description"		                    	"<h1>普通神杖碎片</h1>- %value%% 瘴气冷却时间"
 
 
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage"			                                    "Poison Sting: Damage Over Time"
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage_Description"	                        		"<h1>Common Scepter Fragment</h1>Increases Poison Sting Damage Over Time by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health"		                                    	"瘟疫守卫: 瘟疫守卫生命"
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_health_Description"	                        		"<h1>普通神杖碎片</h1>+ %value% 瘟疫守卫生命值"
+
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration"			                                    "瘟疫守卫: 持续时间"
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_duration_Description"	                        		"<h1>普通神杖碎片</h1>+ %value% 瘟疫守卫持续时间"
+
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed"		                                    "瘟疫守卫: 攻击速度"
+"DOTA_Tooltip_Ability_item_venomancer_plague_ward_datadriven_attack_speed_Description"		                    	"<h1>普通神杖碎片</h1>+ %value% 瘟疫守卫攻击速度"
 
 
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed"	                                    "Poison Sting: Movement Slow"
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed_Description"		                	"<h1>Common Scepter Fragment</h1>Increases Poison Sting Movement Slow by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage"			                                    "毒刺: 持续伤害"
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_damage_Description"	                        		"<h1>普通神杖碎片</h1>+ %value% 毒刺每秒伤害"
 
 
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration"			                                    "Poison Sting: Debuff Duration"
-"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration_Description"		                        	"<h1>Common Scepter Fragment</h1>Increases Poison Sting Debuff Duration by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed"	                                    "毒刺: 移动速度减缓"
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_movement_speed_Description"		                	"<h1>普通神杖碎片</h1>+ %value% 毒刺减速"
 
 
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration"		                                    	"Poison Nova: Debuff Duration"
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration_Description"			                        "<h1>Common Scepter Fragment</h1>Increases Poison Nova Debuff Duration by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration"			                                    "毒刺: 持续时间"
+"DOTA_Tooltip_Ability_item_venomancer_poison_sting_datadriven_duration_Description"		                        	"<h1>普通神杖碎片</h1>+ %value% 毒刺持续时间"
 
 
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown"			                                    "Poison Nova: Cooldown"
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown_Description"		                        	"<h1>Common Scepter Fragment</h1>Reduces Poison Nova Cooldown by %value%% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration"		                                    	"剧毒新星: 持续时间"
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_duration_Description"			                        "<h1>普通神杖碎片</h1>+ %value% 剧毒新星持续时间"
 
 
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius"			                                    "Poison Nova: Radius"
-"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius_Description"			                        "<h1>Common Scepter Fragment</h1>Increases Poison Nova Radius by %value% ."
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown"			                                    "剧毒新星: 冷却时间"
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_cooldown_Description"		                        	"<h1>普通神杖碎片</h1>- %value%% 剧毒新星冷却时间"
+
+
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius"			                                    "剧毒新星: 作用范围"
+"DOTA_Tooltip_Ability_item_venomancer_poison_nova_datadriven_radius_Description"			                        "<h1>普通神杖碎片</h1>+ %value% 剧毒新星作用范围"
 
 
 >---------------------------------------
@@ -152,9 +152,9 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_split_shot"			                                    "Plague Ward gains Split Shot"
-"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_true_strike"			                                    "Plague Ward gains True Strike"
-"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_duration"		                                    	"+{s:value} Plague Ward Duration"
+"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_split_shot"			                                    "瘟疫守卫具有分裂攻击能力"
+"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_true_strike"			                                    "瘟疫守卫具有克敌机先能力"
+"DOTA_Tooltip_Ability_special_bonus_unique_venomancer_ward_duration"		                                    	"+{s:value} 瘟疫守卫持续时间"
 
 
 >---------------------------------------
@@ -162,17 +162,17 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_modifier_venomancer_poison_nova_debuff_datadriven"                                                    "Poison Nova Debuff"
-"DOTA_Tooltip_modifier_venomancer_venomous_gale_debuff_datadriven"                                                  "Venomous Debuff"
-"DOTA_Tooltip_modifier_venomancer_poison_sting_debuff_datadriven"                                                   "Poison Sting Debuff"
+"DOTA_Tooltip_modifier_venomancer_poison_nova_debuff_datadriven"                                                    "剧毒新星"
+"DOTA_Tooltip_modifier_venomancer_venomous_gale_debuff_datadriven"                                                  "瘴气"
+"DOTA_Tooltip_modifier_venomancer_poison_sting_debuff_datadriven"                                                   "毒刺"
 
 
-"plague_ward_2_datadriven"				                                                                            "Spitty Boi"
-"plague_ward_1_datadriven"				                                                                            "Spitty Boi"
-"plague_ward_3_datadriven"			                                                                            	"Spitty Boi"
-"plague_ward_4_datadriven"				                                                                            "Spitty Boi"
+"plague_ward_2_datadriven"				                                                                            "瘟疫守卫"
+"plague_ward_1_datadriven"				                                                                            "瘟疫守卫"
+"plague_ward_3_datadriven"			                                                                            	"瘟疫守卫"
+"plague_ward_4_datadriven"				                                                                            "瘟疫守卫"
 
-"pathfinder_venomancer_big_ward"		                                                                            "Little Terry"
+"pathfinder_venomancer_big_ward"		                                                                            "四眼魔君"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------
