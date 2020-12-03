@@ -5,9 +5,21 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
+"defeat_boss_pathfinder_frost_boss"		                                     "Defeat The French Kiss Tutor"
+"pathfinder_frost_boss"                                                      "French Kiss Tutor"                      
+"frost_boss_summon"                                                          "Itty Bitty Australian Tick"
 
-"ascension_pathfinder_dilation"                        "Dilation Field"
-"ascension_pathfinder_dilation_Description"            "Enemy Captains occasionally cause the cooldown of nearby heroes to tick backward at an increased rate"
+"encounter_pathfinder_frost_boss"                                            "A Face Only A Mother Could Love"
+
+"DOTA_Tooltip_modifier_frost_boss_nova"                                      "Kiss of Ice"
+"DOTA_Tooltip_modifier_frost_boss_nova_Description"                          "Movement and Attack Speed Reduced"
+
+"DOTA_Tooltip_modifier_frost_boss_creeper_effect"                                      "Ice Cold Snuggling"
+"DOTA_Tooltip_modifier_frost_boss_creeper_effect_Description"                          "Sileced, Movement Speed reduce. Attacks have a chance to miss"
+
+
+"ascension_pathfinder_dilation"                                              "Dilation Field"
+"ascension_pathfinder_dilation_Description"                                  "Enemy Captains occasionally cause the cooldown of nearby heroes to tick backward at an increased rate"
 
 "DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                        "Dilation Field"
 "DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"            "Cooldowns ticking backward at an increased rate"

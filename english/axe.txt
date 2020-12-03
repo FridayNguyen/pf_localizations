@@ -49,6 +49,9 @@
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies"	                                    "Come Axe Me A Question"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies_Description"	                        "Berserker's Call also triggers on allied heroes, granting them the armour bonus and drawing the aggro of nearby enemy units unto Axe instead"
 
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_blink"	                                    "Calls of Ceeeeeeeeeb"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_blink_Description"	                        "Berserker's Call becomes a point-targeted abilities that allows Axe to instantly blink to a position up to 750 units away"     //I have to hard coded this value
+
 
 >---------------------------------------
 >--- ABILITY ---------------------------
@@ -76,7 +79,7 @@
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua_duration"	                                                "Duration:"
 
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua"	                                                        "Battle Hunger"
-"DOTA_Tooltip_Ability_axe_battle_hunger_lua_Description"	                                            "Enrages enemy units within an area, causing them to be slowed and take damage over time until they kills another unit or the duration ends. Axe gains movement speed for each unit affected with Battle Hunger."
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_Description"	                                            "Enrages enemy units within an area, causing them to be slowed and take damage over time until they kills another unit or the duration ends. Axe gains movement speed for each unit affected with Battle Hunger. Stacks up to %max_stacks% times"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_radius"		                                                "Radius:"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_damage_per_second"		                                    "Damage per Second:"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_duration"		                                            "Duration:"

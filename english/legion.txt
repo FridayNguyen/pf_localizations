@@ -29,7 +29,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_reset_Description"	                            		"Upon killing an enemy unit with Overwhelming Odds, Legion Commander resets the cooldowns of all of her abilities"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe"		                                            	"Born to Kill"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe_Description"	                                		"Moment of Courage now also causes Legion Commander to attacks all enemy units within melee range. These instant attacks fully benefit from all of Legion Commander's abilities and items"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe_Description"	                                		"Moment of Courage now also causes Legion Commander to attacks up %extra_targets% additional targets in a %radius% radius. These instant attacks fully benefit from all of Legion Commander's abilities and items"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail"		                                    	"Et tu, Tresdin?"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"Press the Attack now also grants the affected unit a lesser blademail effect, causing %percent%%  of all damage they receive to be sent back unto the attackers"
