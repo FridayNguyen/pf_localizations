@@ -24,9 +24,9 @@
 "DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                        "膨胀力场"
 "DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"            "冷却时间延长"
 
-"DOTA_Tooltip_Ability_item_feet_of_midas"			            "Feet of Sadim"         // Midas name and description
-"DOTA_Tooltip_Ability_item_feet_of_midas_Lore"			        "A Constellation of Midaeum is touched by the noble spirit of the solo adventurer, and had bestowed unto the lone hero their blessing."
-"DOTA_Tooltip_Ability_item_feet_of_midas_Description"			"Magical Fondling\nSummon an innocent birb and proceed to mercilessly murder it, reaping %bonus_gold% gold in the process. Gains one charge after clearing a room."
+"DOTA_Tooltip_Ability_item_feet_of_midas"			            "萨迪姆之爪"         // Midas name and description
+"DOTA_Tooltip_Ability_item_feet_of_midas_Lore"			        "星空中的迈达斯被冒险家崇高的精神感动，并对孤独的英雄致以祝福.。"
+"DOTA_Tooltip_Ability_item_feet_of_midas_Description"			"魔挲\n 召唤一个迈达斯的信使，信使会带来 %bonus_gold% 金币后消失。每层充能一次。"
 
 "pfd"	                                                        "DAVE"    //name of the testing dummy, no need to translate this
 
