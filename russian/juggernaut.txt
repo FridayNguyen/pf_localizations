@@ -31,7 +31,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_illusion_Description"			                	"При каждом критическом ударе от Blade Dance появляется неуязвимая и неуправляемая иллюзия Juggernaut, которая существует %illusion_duration% секунд. Иллюзии наносят 40% урона героя и с помощью собственных критических ударов могут создавать новые иллюзии."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_reduce_omnislash_cooldown"                          "Studied The Blade"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_reduce_omnislash_cooldown_Description"          	"Каждый критический удар от Blade Dance уменьшает перезарядку Omnislash на %seconds% секунд."
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_reduce_omnislash_cooldown_Description"          	"Каждый критический удар от Blade Dance уменьшает перезарядку Omnislash на %seconds% сек."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep"	                                            "Timmothy the Brave"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep_Description"	                                "Целительный тотем превращается в союзное существо с ближним типом боя и высокой броней, которое наносит %dmg_percent%% общего урона Juggernaut. Также в качестве бонусного здоровья тотем получает %health_multiplier%% максимального здоровья героя."
