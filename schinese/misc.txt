@@ -5,6 +5,19 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
+"defeat_boss_pathfinder_frost_boss"		                                     "击败假面骑士巴拉纳"
+"pathfinder_frost_boss"                                                      "巴拉纳"                      
+"frost_boss_summon"                                                          "契约兽：暗之圣甲虫"
+
+"encounter_pathfinder_frost_boss"                                            "假面骑士夜魔"
+
+"DOTA_Tooltip_modifier_frost_boss_nova"                                      "冻结降临"
+"DOTA_Tooltip_modifier_frost_boss_nova_Description"                          "移动速度减缓，攻击速度降低"
+
+"DOTA_Tooltip_modifier_frost_boss_creeper_effect"                                      "暗夜降临"
+"DOTA_Tooltip_modifier_frost_boss_creeper_effect_Description"                          "沉默，减速，攻击有一定几率落空"
+
+
 "ascension_pathfinder_dilation"                        "膨胀力场"
 "ascension_pathfinder_dilation_Description"            "首领偶尔会延长附近英雄的技能冷却时间"
 
