@@ -30,37 +30,19 @@
 
 "pfd"	                                                        "DAVE"    //name of the testing dummy, no need to translate this
 
-"pathfinders_smol_bear"					                        "Smol Bear"
-"pathfinders_big_boi_bear"					                    "Mama Bear"
-"Illegally_Smol_Bears"					                        "Illegally Smol Bears"
+"pathfinders_smol_bear"					                        "熊崽子"
+"pathfinders_big_boi_bear"					                    "黑熊精"
+"Illegally_Smol_Bears"					                        "黑风山的黑风洞"
 
 
-"DOTA_Tooltip_modifier_hexed"		                            "True self"
-"DOTA_Tooltip_modifier_hexed_Description"	                    "Somebody once told me the world is gonna roll me
-                                                                I ain't the sharpest tool in the shed
-                                                                She was looking kind of dumb with her finger and her thumb
-                                                                In the shape of an 'L' on her forehead
+"DOTA_Tooltip_modifier_hexed"		                            "真我"
+"DOTA_Tooltip_modifier_hexed_Description"	                    "有人曾告诉我世界将磨平我的棱角；奇怪，我又不是房子里最尖锐的人。"
 
-                                                                Well, the years start coming and they don't stop coming
-                                                                Fed to the rules and I hit the ground running
-                                                                Didn't make sense not to live for fun
-                                                                Your brain gets smart but your head gets dumb
+"tusk_sigil_pf"                                                 "开尔文爵士"
+"pathfinder_trap_catapult"                                      "失落之车的突击者"
 
-                                                                So much to do, so much to see
-                                                                So what's wrong with taking the back streets?
-                                                                You'll never know if you don't go
-                                                                You'll never shine if you don't glow
-
-                                                                Hey, now, you're an all-star, get your game on, go play
-                                                                Hey, now, you're a rock star, get the show on, get paid
-                                                                And all that glitters is gold
-                                                                Only shooting stars break the mold"
-
-"tusk_sigil_pf"                                                 "Sir Kelvin"
-"pathfinder_trap_catapult"                                      "Raider of the Lost Cart"
-
-"DOTA_Tooltip_modifier_pathfinder_patron_lvl4"                  "Warden of the Labyrinth"
-"DOTA_Tooltip_modifier_pathfinder_patron_lvl4_Description"      "A title bestowed only upon the top 10 Patreon supporters of this mod"
+"DOTA_Tooltip_modifier_pathfinder_patron_lvl4"                  "迷宫守望者"
+"DOTA_Tooltip_modifier_pathfinder_patron_lvl4_Description"      "此头衔仅授予本mod的前10名赞助者"
 
 "DOTA_FoundNeutralItem_ItemTier"                                "Good job"
 "DOTA_FoundNeutralItem_ItemTierCount"                           "i guess"
