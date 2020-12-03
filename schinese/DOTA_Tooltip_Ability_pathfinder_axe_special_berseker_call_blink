@@ -49,6 +49,8 @@
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies"	                                    "红雾冲锋"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies_Description"	                        "狂战士之吼同时在友方英雄身上触发，给予他们额外的护甲并将附近敌方单位的仇恨转移至斧王身上。"
 
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_blink"	                                    "Ceeeeeeeeeeeeeeeeeeeeeeeb!"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_blink_Description"	                        "狂战士之吼成为点目标技能，施法距离为750，使用后斧王瞬移至目标地点并释放狂战士之吼"     //I have to hard coded this value
 
 >---------------------------------------
 >--- ABILITY ---------------------------
@@ -76,7 +78,7 @@
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua_duration"	                                                "持续时间:"
 
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua"	                                                        "战斗饥渴"
-"DOTA_Tooltip_Ability_axe_battle_hunger_lua_Description"	                                            "激怒一定范围内的敌方单位，使他受到减速和持续伤害，直到他杀死一个单位或者持续时间结束。斧王从每个受战斗饥渴影响的敌人身上获得移动速度加成。"
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_Description"	                                            "激怒一定范围内的敌方单位，使他受到减速和持续伤害，直到他杀死一个单位或者持续时间结束。斧王从每个受战斗饥渴影响的敌人身上获得移动速度加成，加成最多叠加 %max_stacks% 次。"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_radius"		                                                "范围:"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_damage_per_second"		                                    "每秒伤害:"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_duration"		                                            "持续时间:"
