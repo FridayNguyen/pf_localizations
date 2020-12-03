@@ -7,7 +7,7 @@
 
 "defeat_boss_pathfinder_frost_boss"		                                     "Одолейте Мастера французских поцелуев"
 "pathfinder_frost_boss"                                                      "Мастер французских поцелуев"                      
-"frost_boss_summon"                                                          "Itty Bitty Australian Tick"
+"frost_boss_summon"                                                          "Крохотный австралийский клещ"
 
 "encounter_pathfinder_frost_boss"                                            "Мамин симпатяга"
 
