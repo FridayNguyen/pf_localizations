@@ -5,99 +5,107 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
-"defeat_boss_pathfinder_frost_boss"		                                     "Defeat The French Kiss Tutor"
-"pathfinder_frost_boss"                                                      "French Kiss Tutor"                      
-"frost_boss_summon"                                                          "Itty Bitty Australian Tick"
+"defeat_boss_pathfinder_frost_boss"		                                "Defeat The French Kiss Tutor"
+"pathfinder_frost_boss"                                                 "French Kiss Tutor"                      
+"frost_boss_summon"                                                     "Itty Bitty Tick"
 
-"encounter_pathfinder_frost_boss"                                            "A Face Only A Mother Could Love"
+"encounter_pathfinder_frost_boss"                                       "A Face Only A Mother Could Love"
 
-"DOTA_Tooltip_modifier_frost_boss_nova"                                      "Kiss of Ice"
-"DOTA_Tooltip_modifier_frost_boss_nova_Description"                          "Movement and Attack Speed Reduced"
+"DOTA_Tooltip_modifier_frost_boss_nova"                                 "Icy Kiss"
+"DOTA_Tooltip_modifier_frost_boss_nova_Description"                     "Movement and Attack Speed Reduced"
 
-"DOTA_Tooltip_modifier_frost_boss_creeper_effect"                                      "Ice Cold Snuggling"
-"DOTA_Tooltip_modifier_frost_boss_creeper_effect_Description"                          "Sileced, Movement Speed reduce. Attacks have a chance to miss"
-
-
-"ascension_pathfinder_dilation"                                              "Dilation Field"
-"ascension_pathfinder_dilation_Description"                                  "Enemy Captains occasionally cause the cooldown of nearby heroes to tick backward at an increased rate"
-
-"DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                        "Dilation Field"
-"DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"            "Cooldowns ticking backward at an increased rate"
-
-"DOTA_Tooltip_Ability_item_feet_of_midas"			            "Feet of Sadim"         // Midas name and description
-"DOTA_Tooltip_Ability_item_feet_of_midas_Lore"			        "A Constellation of Midaeum is touched by the noble spirit of the solo adventurer, and had bestowed unto the lone hero their blessing."
-"DOTA_Tooltip_Ability_item_feet_of_midas_Description"			"Magical Fondling\nSummon an innocent birb and proceed to mercilessly murder it, reaping %bonus_gold% gold in the process. Gains one charge after clearing a room."
-
-"pfd"	                                                        "DAVE"    //name of the testing dummy, no need to translate this
-
-"pathfinders_smol_bear"					                        "Smol Bear"
-"pathfinders_big_boi_bear"					                    "Mama Bear"
-"Illegally_Smol_Bears"					                        "Illegally Smol Bears"
+"DOTA_Tooltip_modifier_frost_boss_creeper_effect"                       "Ice Cold Snuggling"
+"DOTA_Tooltip_modifier_frost_boss_creeper_effect_Description"           "Sileced, Movement Speed reduce. Attacks have a chance to miss"
 
 
-"DOTA_Tooltip_modifier_hexed"		                            "True self"
-"DOTA_Tooltip_modifier_hexed_Description"	                    "Somebody once told me the world is gonna roll me
-                                                                I ain't the sharpest tool in the shed
-                                                                She was looking kind of dumb with her finger and her thumb
-                                                                In the shape of an 'L' on her forehead
+"ascension_pathfinder_dilation"                                         "Dilation Field"
+"ascension_pathfinder_dilation_Description"                             "Enemy Captains occasionally cause the cooldown of nearby heroes to tick backward at an increased rate"
 
-                                                                Well, the years start coming and they don't stop coming
-                                                                Fed to the rules and I hit the ground running
-                                                                Didn't make sense not to live for fun
-                                                                Your brain gets smart but your head gets dumb
+"DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                   "Dilation Field"
+"DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"       "Cooldowns ticking backward at an increased rate"
 
-                                                                So much to do, so much to see
-                                                                So what's wrong with taking the back streets?
-                                                                You'll never know if you don't go
-                                                                You'll never shine if you don't glow
+"DOTA_Tooltip_Ability_item_feet_of_midas"			                    "Feet of Sadim"         // Midas name and description
+"DOTA_Tooltip_Ability_item_feet_of_midas_Lore"			                "A Constellation of Midaeum is touched by the noble spirit of the solo adventurer, and had bestowed unto the lone hero their blessing."
+"DOTA_Tooltip_Ability_item_feet_of_midas_Description"			        "Magical Fondling\nSummon an innocent birb and proceed to mercilessly murder it, reaping %bonus_gold% gold in the process. Gains one charge after clearing a room."
 
-                                                                Hey, now, you're an all-star, get your game on, go play
-                                                                Hey, now, you're a rock star, get the show on, get paid
-                                                                And all that glitters is gold
-                                                                Only shooting stars break the mold"
+"pfd"	                                                                "DAVE"    //name of the testing dummy, no need to translate this
 
-"tusk_sigil_pf"                                                 "Sir Kelvin"
-"pathfinder_trap_catapult"                                      "Raider of the Lost Cart"
-
-"DOTA_Tooltip_modifier_pathfinder_patron_lvl4"                  "Warden of the Labyrinth"
-"DOTA_Tooltip_modifier_pathfinder_patron_lvl4_Description"      "A title bestowed only upon the top 10 Patreon supporters of this mod"
-
-"DOTA_FoundNeutralItem_ItemTier"                                "Good job"
-"DOTA_FoundNeutralItem_ItemTierCount"                           "i guess"
+"pathfinders_smol_bear"					                                "Smol Bear"
+"pathfinders_big_boi_bear"					                            "Mama Bear"
+"Illegally_Smol_Bears"					                                "Illegally Smol Bears"
 
 
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf"                         "Sigil From Cobalt"
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_Description"             "Tusk summon forth a frozen sigil that continously attacks all nearby enemies for %attack_damage_percent%%  of Tusk's total attack damage. Additionally, any attack landed on an enemy unit within the Sigil's aura will cause them to become rooted for %freeze_duration% seconds"
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_duration"                "Sigil Lifetime: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_radius"                  "Effect Radius: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"         "Root Duration: "
-"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_attack_damage_percent"   "%Attack Damage Percentage: "
+"DOTA_Tooltip_modifier_hexed"		                                    "True self"
+"DOTA_Tooltip_modifier_hexed_Description"	                            "Somebody once told me the world is gonna roll me
+                                                                        I ain't the sharpest tool in the shed
+                                                                        She was looking kind of dumb with her finger and her thumb
+                                                                        In the shape of an 'L' on her forehead
 
-"encounter_pudge_miniboss"		                                "Your Average Hard Support"
-"encounter_mirana"		                                        "Crazy Cat Ladies"
-"encounter_temple_guardians"		                            "Omniknight's Family Reunion"
-"encounter_jungle_hijinx"	                                    "What Your Carry Does In The Jungle"
+                                                                        Well, the years start coming and they don't stop coming
+                                                                        Fed to the rules and I hit the ground running
+                                                                        Didn't make sense not to live for fun
+                                                                        Your brain gets smart but your head gets dumb
+
+                                                                        So much to do, so much to see
+                                                                        So what's wrong with taking the back streets?
+                                                                        You'll never know if you don't go
+                                                                        You'll never shine if you don't glow
+
+                                                                        Hey, now, you're an all-star, get your game on, go play
+                                                                        Hey, now, you're a rock star, get the show on, get paid
+                                                                        And all that glitters is gold
+                                                                        Only shooting stars break the mold"
+
+"tusk_sigil_pf"                                                         "Sir Kelvin"
+"pathfinder_trap_catapult"                                              "Raider of the Lost Cart"
+
+"DOTA_Tooltip_modifier_pathfinder_patron_lvl4"                          "Warden of the Labyrinth"
+"DOTA_Tooltip_modifier_pathfinder_patron_lvl4_Description"              "A title bestowed only upon the top 10 Patreon supporters of this mod"
+
+"DOTA_FoundNeutralItem_ItemTier"                                        "Good job"
+"DOTA_FoundNeutralItem_ItemTierCount"                                   "i guess"
 
 
-"DOTA_Tooltip_modifier_pathfinder_patron"	                    "Generous Patron"
-"DOTA_Tooltip_modifier_pathfinder_patron_Description"	        "Thank you for supporting the development of this mod on Patreon!"
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf"                             "Sigil From Cobalt"
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_Description"                 "Tusk summon forth a frozen sigil that continously attacks all nearby enemies for %attack_damage_percent%%  of Tusk's total attack damage. Additionally, any attack landed on an enemy unit within the Sigil's aura will cause them to become rooted for %freeze_duration% seconds"
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_duration"                    "Sigil Lifetime: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_radius"                      "Effect Radius: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"             "Root Duration: "
+"DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_attack_damage_percent"       "%Attack Damage Percentage: "
+
+"encounter_pudge_miniboss"		                                        "Your Average Hard Support"
+"encounter_mirana"		                                                "Crazy Cat Ladies"
+"encounter_temple_guardians"		                                    "Omniknight's Family Reunion"
+"encounter_jungle_hijinx"	                                            "What Your Carry Does In The Jungle"
 
 
-"DOTA_Subshop_consumables"			                	        "Stuffs Your Team Needs But Probably Nobody Will Buy"
-"DOTA_Subshop_attributes"			                	        "For Memers and Dreamers"
-"DOTA_Subshop_weapons_armor"		                	        "For Those Who Think They Are The Carry"
-"DOTA_Subshop_misc"			                                    "For The Actual Carries"
-"DOTA_Subshop_secretshop"		                    	        "Aghanim is fairly sure no one will need these. Only Heralds would buy them"
+"DOTA_Tooltip_modifier_pathfinder_patron"	                            "Generous Patron"
+"DOTA_Tooltip_modifier_pathfinder_patron_Description"	                "Thank you for supporting the development of this mod on Patreon!"
+
+"PATHFINDERS_solo_welcome_message"                                      "A Constellation of Midaeum takes pity upon your feeble party, and had lend you their helping hands— eh... feet."
+
+"DOTA_Shop_Category_Basics"                                             "PATHFINDERS"
+"DOTA_Subshop_consumables"			                	                "Stuffs Your Team Needs But Probably Nobody Will Buy"
+"DOTA_Subshop_attributes"			                	                "For Memers and Dreamers"
+"DOTA_Subshop_weapons_armor"		                	                "For those too lazy to click the next tab"
+"DOTA_Subshop_misc"			                                            "Pathfinders Exclusives"
+"DOTA_Subshop_secretshop"		                    	                "Only Heralds would buy these"
+
+"DOTA_Tooltip_Ability_item_seer_stone_pf"	            	            "Seer Lense"
+"DOTA_Tooltip_Ability_item_seer_stone_pf_Description"			        "Seer Will\nGrants True Sight. Also increases targeted spell and item cast range by %bonus_cast_range% ."
+"DOTA_Tooltip_Ability_item_seer_stone_pf_Note0"			                "Multiple Seer Lenses stack with each other"
+"DOTA_Tooltip_Ability_item_seer_stone_pf_mana"	            	        "+$mana"
+"DOTA_Tooltip_Ability_item_seer_stone_pf_mana_regen"    	            "+$mana_regen"
+"DOTA_Tooltip_Ability_item_seer_stone_pf_radius"           	            "True Sight Radius: "
+
+"DOTA_Tooltip_Ability_item_desolator_2"	            	                "Deso-later"
 
 
-"DOTA_Tooltip_Ability_item_desolator_2"	            	        "Deso-later"
+"ascension_pathfinder_blademail"					                    "You've Got Mail!"
+"ascension_pathfinder_blademail_Description"		                    "Enemy captains occasionally activate  B L A D E M A I L S"
 
 
-"ascension_pathfinder_blademail"					            "You've Got Mail!"
-"ascension_pathfinder_blademail_Description"		            "Enemy captains occasionally activate  B L A D E M A I L S"
-
-
-"DOTA_Chat_NoBattlePoints_WrongLobby"		                    "Welcomes, Pathfinders! Enjoy your stay and please consider supporting the mod on Patreon!"
+"DOTA_Chat_NoBattlePoints_WrongLobby"		                            "Welcomes, Pathfinders! Enjoy your stay and please consider supporting the mod on Patreon!"
 
 		
 "wiki_header"	                                                "Pathfinders Archives"
