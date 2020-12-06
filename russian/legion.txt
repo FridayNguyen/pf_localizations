@@ -20,7 +20,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"На время дуэли Legion Commander призывает легион воинов, которые сражаются с врагами в радиусе 1000. Воины наносят %stat_percent%%  урона героя и существуют до окончания дуэли."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge"		                                            	"So You're Finally Awake"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"Во время дуэли герой применяет Press the Attack текущего уровня на всех союзников в радиусе %radius%. Каждое применение также исцеляет их на %max_health_heal%% максимального здоровья Legion Commander."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"Во время дуэли герой применяет Press the Attack текущего уровня на всех союзников в радиусе %radius%. Каждое применение также исцеляет их на %max_health_heal%%  максимального здоровья Legion Commander."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_meteor"		                                        	"Fight in the Shade"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_meteor_Description"	                            		"Overwhelming Odds также запускает метеоритный дождь, нанося врагам дополнительный урон, равный базовому урону способности, и оглушая их на %stun_duration% сек."
@@ -32,7 +32,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe_Description"	                                		"Теперь при срабатывании Moment of Courage герой атакует всех врагов в радиусе ближнего боя, сохраняя при этом все бонусы от способностей и предметов."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail"		                                    	"Et tu, Tresdin?"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"Press the Attack дает цели ослабленный эффект Blade Mail — врагам возвращается %percent%% нанесенного ими урона."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"Press the Attack дает цели ослабленный эффект Blade Mail — врагам возвращается %percent%%  нанесенного ими урона."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb"		                                            	"Give Them Nothing"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"Под действием Press the Attack цель получает полную невосприимчивость к магии на время действия способности, за исключением заклинаний, которые проходят через магический иммунитет."
