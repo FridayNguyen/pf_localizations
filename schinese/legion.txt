@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"强攻会赋予目标一个小型的刃甲效果，反弹所受伤害的 %percent%% 给攻击者。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb"		                                            	"黑皇龙甲"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"强攻持续时间内目标获得天神下凡状态，免疫大部分魔法伤害。"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"强攻持续时间内目标获得 %magic_resist%% 的魔法抗性和 %status_resist%% 的状态抗性。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura"		                                        	"永恒之战"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura_Description"			                            "勇气之霎具有光环效果，使周围 %radius% 范围内的友方英雄获得当前等级的勇气之霎被动效果。"
