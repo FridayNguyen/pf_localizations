@@ -74,7 +74,7 @@
 "DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_damage"                                                     "Периодический урон:"
 
 "DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward"		                                                    "Малыш Терри"
-"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "Теперь Venomancer может призвать Ужас Островов Джиди — огромный огнедышащий тотем, который будет призывать по одному обычному тотему текущего уровня каждые 10 секунд.  Урон от огненного дыхания равен урону героя, умноженному на 3.
+"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "Теперь Venomancer может призвать Ужас Островов Джиди — огромный огнедышащий тотем, который будет призывать по одному обычному тотему текущего уровня каждые 10 секунд.  Урон от огненного дыхания равен урону героя, умноженному на 3."
 
 
 >---------------------------------------
