@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"Press the Attack дает цели ослабленный эффект Blade Mail — врагам возвращается %percent%%  нанесенного ими урона."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb"		                                            	"Give Them Nothing"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"Под действием Press the Attack цель получает полную невосприимчивость к магии на время действия способности, за исключением заклинаний, которые проходят через магический иммунитет."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"Под действием Press the Attack цель получает %magic_resist%%   невосприимчивости к магии и %status_resist%%   сопротивляемости эффектам."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura"		                                        	"War Never Changes"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura_Description"			                            "Moment of Courage становится аурой, которая пассивно действует на всех союзников в радиусе %radius%."
