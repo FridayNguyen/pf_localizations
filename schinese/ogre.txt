@@ -17,7 +17,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast_Description"			                "多重施法具有额外的被动效果，使食人魔法师每秒有 %chance%% 的概率，对周围 %radius% 范围内的一个敌方单位随机释放一个指向性技能，或使用一个指向性的物品。通过此天赋随机释放的技能/使用的物品无视冷却时间和施法距离，且可以触发多重施法。食人魔法师死后也可以触发。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust"			                        "血色狂暴"
-"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust_Description"			            "嗜血术额外提供 %status_resistant%% 的状态抗性，%physical_armor% 点护甲。受嗜血术影响的单位的普通攻击可以眩晕目标 %stun_duration% 秒。"
+"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust_Description"			            "嗜血术额外提供 %status_resistant%% 的状态抗性和 %physical_armor% 点护甲。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming"			                                "玉（驴）碎"
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_Description"			                    "食人魔法师可以吟唱至多 %channel_time% 秒，期间持续召唤能追踪敌人的自爆小驴。小驴持续 %lifetime% 秒，死亡时会对周围的敌人释放一次当前等级的火焰爆轰。"
