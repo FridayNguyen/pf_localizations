@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "Теперь Shackleshot может связать до %targets% врагов."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot"		                    "Feel the Breeze"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "Под действием Focus Fire каждая атака Windranger замораживает цель."
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "Под действием Focus Fire каждая атака Windranger обездвиживает цель и отключает все ее пассивные способности."
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global"	                        "Arrow Rain"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "Windranger может атаковать выбранную цель Focus Fire из любой точки карты. Дальность применения способности при этом остается прежней."
