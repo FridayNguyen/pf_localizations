@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"Press the Attack now also grants the affected unit a lesser blademail effect, causing %percent%%  of all damage they receive to be sent back unto the attackers"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb"		                                            	"Give Them Nothing"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"Units affected by Press the Attack will also receive complete Spell Immunity for the duration of the buff, rendering them 100% resistance to non-piercing magic damage"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_press_bkb_Description"		                                	"Units affected by Press the Attack will also receive %magic_resist%%  magical resistance and %status_resist%%  status resistance"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura"		                                        	"War Never Changes"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aura_Description"			                            "Moment of Courage becomes an aura ability that passively grants its effect to all friendly heroes within a %radius% radius"

@@ -6,7 +6,7 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
 "defeat_boss_pathfinder_frost_boss"		                                "Defeat The French Kiss Tutor"
-"pathfinder_frost_boss"                                                 "French Kiss Tutor"                      
+"pathfinder_frost_boss"                                                 "Balanar the French Kiss Tutor"                      
 "frost_boss_summon"                                                     "Itty Bitty Tick"
 
 "encounter_pathfinder_frost_boss"                                       "A Face Only A Mother Could Love"
