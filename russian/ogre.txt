@@ -17,7 +17,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast_Description"			                "Multicast passively grants Ogre Magi a %chance%%  chance every second to automatically cast a random single-targeted ability or item unto an enemy unit within a %radius% radius. This effect can proc Multicast, and fully ignores any cooldown or cast range limitation. Ogre Magi does not need to be alive for this effect to proc"
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust"			                        "Hymn of the Giants"
-"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust_Description"			            "Bloodlust now also grants the affected unit %status_resistant%%  status resistant and causes each of their attacks to stun the target unit for %stun_duration% seconds."
+"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust_Description"			            "Bloodlust now also grants the affected unit %status_resistant%%  status resistant and %physical_armor% additional physcial armour."
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming"			                                "That'll do Donkey, that'll do"
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_Description"			                    "Ogre Magi can now channel for up to %channel_time% seconds to continuously summon explosive donkeys that last up to %lifetime% seconds. These innocent creatures will automatically seek out nearby enemies and cast the current level of Fireblast unto all nearby hostile units when killed"
