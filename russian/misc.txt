@@ -7,15 +7,15 @@
 
 "encounter_storegga"                                                         "Стурегга обширная"
 "defeat_boss_pathfinder_frost_boss"		                                     "Одолейте Мастера французских поцелуев"
-"pathfinder_frost_boss"                                                      "Мастер французских поцелуев"                      
-"frost_boss_summon"                                                          "Крохотный австралийский клещ"
+"pathfinder_frost_boss"                                                      "Баланар, мастер французских поцелуев"                      
+"frost_boss_summon"                                                          "Крохотный австралийский клещик"
 
 "encounter_pathfinder_frost_boss"                                            "Мамин симпатяга"
 
-"DOTA_Tooltip_modifier_frost_boss_nova"                                      "Kiss of Ice"
+"DOTA_Tooltip_modifier_frost_boss_nova"                                      "Поцелуй льда"
 "DOTA_Tooltip_modifier_frost_boss_nova_Description"                          "Скорость передвижения и атаки уменьшена"
 
-"DOTA_Tooltip_modifier_frost_boss_creeper_effect"                                      "Ice Cold Snuggling"
+"DOTA_Tooltip_modifier_frost_boss_creeper_effect"                                      "Ледяные обнимашки"
 "DOTA_Tooltip_modifier_frost_boss_creeper_effect_Description"                          "Безмолвие, замедление скорости передвижения, возможны промахи при атаках"
 
 
@@ -63,8 +63,8 @@
 "DOTA_Tooltip_modifier_pathfinder_patron_lvl4"                  "Хранитель Лабиринта"
 "DOTA_Tooltip_modifier_pathfinder_patron_lvl4_Description"      "Этого титула удостаиваются лишь 10 главных покровителей режима на Патреоне."
 
-"DOTA_FoundNeutralItem_ItemTier"                                "Good job"
-"DOTA_FoundNeutralItem_ItemTierCount"                           "i guess"
+"DOTA_FoundNeutralItem_ItemTier"                                "Молодец!"
+"DOTA_FoundNeutralItem_ItemTierCount"                           "Наверное..."
 
 
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf"                         "Sigil From Cobalt"
@@ -98,7 +98,7 @@
 "ascension_pathfinder_blademail_Description"		            "Периодически на вражеских капитанов действует эффект Blade Mail."
 
 
-"DOTA_Chat_NoBattlePoints_WrongLobby"		                    "Добро пожаловать, Искатели, и приятной вам игры! Вы можете поддержать разработку режима на Патреоне."
+"DOTA_Chat_NoBattlePoints_WrongLobby"		                    "Добро пожаловать, Искатели, приятной вам игры! Вы можете поддержать разработку режима на Патреоне."
 
 		
 "wiki_header"	                                                "Pathfinders Archives"
