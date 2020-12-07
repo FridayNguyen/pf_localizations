@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "束缚击最多捆绑 %targets% 个敌方单位。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot"		                    "魅惑之瞳"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "集中火力对目标施加破坏效果，且集中火力持续期间下风行者的攻击会对目标施加一个短暂的眩晕。"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "集中火力对目标施加破坏效果，且集中火力持续期间下风行者的攻击会对目标施加一个短暂的缠绕。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global"	                        "箭雨"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "集中火力攻击不受攻击距离限制。"
