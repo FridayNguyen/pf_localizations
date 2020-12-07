@@ -55,10 +55,10 @@
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_freeze_duration"         "缠绕时间: "
 "DOTA_Tooltip_Ability_tusk_frozen_sigil_pf_attack_damage_percent"   "普攻伤害百分比: "
 
-"encounter_pudge_miniboss"		                                "Your Average Hard Support"
-"encounter_mirana"		                                        "Crazy Cat Ladies"
-"encounter_temple_guardians"		                            "Omniknight's Family Reunion"
-"encounter_jungle_hijinx"	                                    "What Your Carry Does In The Jungle"
+"encounter_pudge_miniboss"		                                "愤怒的酱油"
+"encounter_mirana"		                                        "疯猫小姐"
+"encounter_temple_guardians"		                            "全能骑士的双亲"
+"encounter_jungle_hijinx"	                                    "野区采灵芝"
 
 
 "DOTA_Tooltip_modifier_pathfinder_patron"	                    "Generous Patron"
@@ -75,8 +75,8 @@
 "DOTA_Tooltip_Ability_item_desolator_2"	            	        "Deso-later"
 
 
-"ascension_pathfinder_blademail"					            "You've Got Mail!"
-"ascension_pathfinder_blademail_Description"		            "Enemy captains occasionally activate  B L A D E M A I L S"
+"ascension_pathfinder_blademail"					            "以牙还牙"
+"ascension_pathfinder_blademail_Description"		            "敌方首领在受到攻击时有一定概率触发刃甲"
 
 
 "DOTA_Chat_NoBattlePoints_WrongLobby"		                    "Welcomes, Pathfinders! Enjoy your stay and please consider supporting the mod on Patreon!"
