@@ -92,9 +92,8 @@
 "DOTA_Subshop_misc"			                                            "Уникальные товары для Искателей"
 "DOTA_Subshop_secretshop"		                    	                "Ну а это вам точно не пригодится, это только для Рекрутов"
 
-"DOTA_Tooltip_Ability_item_seer_stone_pf"	            	            "Seer Lense"
-"DOTA_Tooltip_Ability_item_seer_stone_pf_Description"			        "Дарует владельцу Истинное зрение и увеличивает дальность применения заклинаний и предметов на %bonus_cast_range% ."
-"DOTA_Tooltip_Ability_item_seer_stone_pf_Note0"			                "Действие нескольких Seer Lense суммируется."
+"DOTA_Tooltip_Ability_item_seer_stone_pf"	            	            "Seer Lens"
+"DOTA_Tooltip_Ability_item_seer_stone_pf_Description"			        "<h1>Seer Will</h1>дарует владельцу Истинное зрение в радиусе %radius% и увеличивает дальность применения направленных заклинаний и предметов на %bonus_cast_range%.\n\nЭффект нескольких Seer Lens суммируется."
 "DOTA_Tooltip_Ability_item_seer_stone_pf_mana"	            	        "+$mana"
 "DOTA_Tooltip_Ability_item_seer_stone_pf_mana_regen"    	            "+$mana_regen"
 "DOTA_Tooltip_Ability_item_seer_stone_pf_radius"           	            "Радиус истинного зрения: "
