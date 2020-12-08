@@ -29,7 +29,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_arrows_reset_Description"	                            		"Если враг умирает от Overwhelming Odds, перезарядка всех способностей Legion Commander сбрасывается."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe"		                                            	"Born to Kill"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe_Description"	                                		"Теперь при срабатывании Moment of Courage герой атакует всех врагов в радиусе ближнего боя, сохраняя при этом все бонусы от способностей и предметов."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_moment_aoe_Description"	                                		"Теперь при срабатывании Moment of Courage герой атакует до %extra_targets% дополнительных целей в радиусе %radius%, сохраняя при этом все бонусы от способностей и предметов."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail"		                                    	"Et tu, Tresdin?"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_press_blademail_Description"		                        	"Press the Attack дает цели ослабленный эффект Blade Mail — врагам возвращается %percent%%  нанесенного ими урона."
