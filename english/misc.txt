@@ -100,7 +100,7 @@
 
 
 "ascension_pathfinder_blademail"					                    "You've Got Mail!"
-"ascension_pathfinder_blademail_Description"		                    "Enemy captains occasionally activate  B L A D E M A I L S"
+"ascension_pathfinder_blademail_Description"		                    "Enemy captains occasionally activate when players are near, reflecting %percent%%  of all damage received as magical damage"
 
 
 "DOTA_Chat_NoBattlePoints_WrongLobby"		                            "Welcomes, Pathfinders! Enjoy your stay and please consider supporting the mod on Patreon!"
