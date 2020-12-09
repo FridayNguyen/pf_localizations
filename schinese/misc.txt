@@ -71,6 +71,10 @@
 "DOTA_Subshop_misc"			                                    "For The Actual Carries"
 "DOTA_Subshop_secretshop"		                    	        "Aghanim is fairly sure no one will need these. Only Heralds would buy them"
 
+"DOTA_Tooltip_Ability_item_seer_stone_pf"	            	            "贤者镜片"
+"DOTA_Tooltip_Ability_item_seer_stone_pf_Description"			        "<h1>贤者镜片携带者</h1>在 %radius% 范围内真视. 施法距离增加 %bonus_cast_range%."
+"DOTA_Tooltip_Ability_item_seer_stone_pf_mana"	            	        "+$mana"
+"DOTA_Tooltip_Ability_item_seer_stone_pf_mana_regen"    	            "+$mana_regen"
 
 "DOTA_Tooltip_Ability_item_desolator_2"	            	        "Deso-later"
 
