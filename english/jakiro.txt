@@ -50,7 +50,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal_Description"             	"Macropyre now also heals all friendly heroes within its area of effect for %heal_percent%%  of its full damage"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal"	                        "Darling It's Cold Outside"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "Macropyre will never expire as long as Jakiro remains inside it, but the remaining cooldown of the ability is increased by %cd_increase%s per second while this effect is active"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "Macropyre will never expire as long as Jakiro remains inside it, but the cooldown of the ability is paused while this effect is active"
 
 
 >---------------------------------------

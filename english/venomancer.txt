@@ -11,7 +11,7 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack"		                                        "Global Epidemic"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "Plague Wards gain global attack range, but can no longer be controlled."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "Plague Wards gain global attack range, but deal %dmg_penalty%%  less damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal"			                                        "Rotten Delicacy"
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal_Description"			                            "Plague Ward attacks provide Venomancer with %lifesteal_percentage%%  lifesteal. The heal amount does not includes damage over time effects."
@@ -26,13 +26,13 @@
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse_Description"		                                "Venomancer's attacks now hit up to %additional_shots% additional enemies. Enemy units killed by Venomancer have a %spawn_chance%%  chance to spawn a Plague Ward at their location. The last hit must come from Venomancer himself."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy"	                                        	"Terror of Jidi Isles"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy_Description"		                            "Venomancer gains the ability to summon a massive Fire-Breathing Plague Ward, who will also continuously spawn Venomancer's current level of Plague Ward near its location every 7 seconds. Fire Breath Damage is equals to 3 times of Venomancer's Attack Damage"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy_Description"		                            "Venomancer gains the ability to summon a massive Fire-Breathing Plague Ward, who will also continuously spawn Venomancer's current level of Plague Ward near its location every 12 seconds. Fire Breath Damage is equals to 3 times of Venomancer's Total Attack Damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack"		                                            "Seasonal Allergy"
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack_Description"		                                "Venomancer's attacks have a %proc_chance%%  chance to also launch the current level of Venomous Gale in all directions."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb" 	                                                "Bananamancer"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "Venomancer's Venomous Gale now summons a banana for each target hit. After a brief delay, these bananas will release Venomancer's current level of Poison Nova in a fixed 175 radius. Happy bananamancing!"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "Venomancer's Venomous Gale now summons a banana for each target hit. After a brief delay, these bananas will release Venomancer's current level of Poison Nova in a fixed %radius% radius. Happy bananamancing!"
 
 
 >---------------------------------------
@@ -74,7 +74,7 @@
 "DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_damage"                                                     "Damage Over Time:"
 
 "DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward"		                                                    "Summon Lil Terry"
-"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "Summons the Terror of Jidi Isles, a massive Fire-Breathing Plague Ward, who will also continuously spawn Venomancer's current level of Plague Ward near its location every 10 seconds. Fire Breath Damage is equals to 3 times of Venomancer's Attack Damage"
+"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "Summons the Terror of Jidi Isles, a massive Fire-Breathing Plague Ward, who will also continuously spawn Venomancer's current level of Plague Ward near its location every 12 seconds. Fire Breath Damage is equals to 3 times of Venomancer's Total Attack Damage"
 
 
 >---------------------------------------

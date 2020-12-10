@@ -35,10 +35,10 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "Shackleshot can now affect up to %targets% enemy units"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot"		                    "Feel the Breeze"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "While under the effect of Focus Fire, each of Windranger's attack root the targeted enemy unit. Focus Fire also disables all of their passive abilities"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "While under the effect of Focus Fire, each of Windranger's attack mini-root the targeted enemy unit. All of the target's passives are disabled for the duration of the ability"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global"	                        "Arrow Rain"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "While under the effect of Focus Fire, Windranger gains global attack range against the targeted enemy unit. The cast range of Focus Fire remains the same."
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "While under the effect of Focus Fire, Windranger gains %range_mult%%  attack range against the targeted enemy unit. The cast range of Focus Fire remains the same."
 
 
 
