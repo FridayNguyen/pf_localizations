@@ -38,7 +38,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "集中火力对目标施加破坏效果，且集中火力持续期间下风行者的攻击会对目标施加一个短暂的缠绕。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global"	                        "箭雨"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "集中火力攻击不受攻击距离限制。"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "集中火力攻击获得 %range_mult%% 攻击距离加成。"
 
 
 
