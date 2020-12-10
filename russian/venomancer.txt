@@ -26,13 +26,13 @@
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_corpse_Description"		                                "Теперь герой атакует дополнительно до %additional_shots% целей. Каждый убитый враг с вероятностью в %spawn_chance%%  может призвать на свое место чумной тотем, но только если последний удар нанесет сам Venomancer."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy"	                                        	"Terror of Jidi Isles"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy_Description"		                            "Теперь Venomancer может создать огромный огнедышащий тотем, который будет призывать по одному обычному тотему текущего уровня каждые 7 секунд.  Урон от огненного дыхания равен урону героя, умноженному на 3."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_bigass_ward_dummy_Description"		                            "Теперь Venomancer может создать огромный огнедышащий тотем, который будет призывать по одному обычному тотему текущего уровня каждые 12 секунд.  Урон от огненного дыхания равен урону героя, умноженному на 3."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack"		                                            "Seasonal Allergy"
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack_Description"		                                "Атаки героя с вероятностью в %proc_chance%%  могут запустить во все стороны по шару Venomous Gale текущего уровня."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb" 	                                                "Bananamancer"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "Теперь Venomous Gale призывает по банану за каждого задетого врага. После небольшой задержки все бананы выпускают по облаку Poison Nova текущего уровня в радиусе 175. Happy bananamancing!"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "Теперь Venomous Gale призывает по банану за каждого задетого врага. После небольшой задержки все бананы выпускают по облаку Poison Nova текущего уровня в радиусе %radius%. Happy bananamancing!"
 
 
 >---------------------------------------
@@ -74,7 +74,7 @@
 "DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_damage"                                                     "Периодический урон:"
 
 "DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward"		                                                    "Малыш Терри"
-"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "Теперь Venomancer может призвать Ужас Островов Джиди — огромный огнедышащий тотем, который будет призывать по одному обычному тотему текущего уровня каждые 10 секунд.  Урон от огненного дыхания равен урону героя, умноженному на 3."
+"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "Теперь Venomancer может призвать Ужас Островов Джиди — огромный огнедышащий тотем, который будет призывать по одному обычному тотему текущего уровня каждые 12 секунд.  Урон от огненного дыхания равен урону героя, умноженному на 3."
 
 
 >---------------------------------------
