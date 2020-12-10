@@ -11,7 +11,7 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack"		                                        "大瘟疫"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "瘟疫守卫攻击距离扩展至全图，但从此不可控。"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "瘟疫守卫攻击距离扩展至全图，但伤害减少 %dmg_penalty%%。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal"			                                        "腐食者"
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal_Description"			                            "瘟疫守卫每次普通攻击造成伤害的 %lifesteal_percentage%%  治疗剧毒术士。治疗效果仅计算攻击伤害。"
@@ -32,7 +32,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_gale_attack_Description"		                                "剧毒术士的攻击有 %proc_chance%% 几率在周围释放6团瘴气。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb" 	                                                "基迪岛特产"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "瘴气命中敌方单位时会在地面产生一个基迪岛香蕉，香蕉将在数秒后爆开并在175范围内释放当前等级的剧毒新星。"
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_banana_bomb_Description" 	                                    "瘴气命中敌方单位时会在地面产生一个基迪岛香蕉，香蕉将在数秒后爆开并在 %radius% 范围内释放当前等级的剧毒新星。"
 
 
 >---------------------------------------
@@ -74,7 +74,7 @@
 "DOTA_Tooltip_Ability_venomancer_poison_nova_datadriven_damage"                                                     "每秒伤害:"
 
 "DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward"		                                                    "召唤凶兽"
-"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "可以从基迪岛召唤洪荒凶兽，凶兽可以释放火焰吐息，伤害为剧毒术士攻击力的三倍，并且每10秒召唤一个瘟疫守卫。"
+"DOTA_Tooltip_Ability_pathfinder_venomancer_bigass_ward_Description"		                                        "可以从基迪岛召唤洪荒凶兽，凶兽可以释放火焰吐息，伤害为剧毒术士攻击力的三倍，并且每12秒召唤一个瘟疫守卫。"
 
 
 >---------------------------------------
