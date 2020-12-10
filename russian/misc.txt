@@ -93,7 +93,7 @@
 "DOTA_Subshop_secretshop"		                    	                "Ну а это вам точно не пригодится, это только для Рекрутов"
 
 "DOTA_Tooltip_Ability_item_seer_stone_pf"	            	            "Seer Lens"
-"DOTA_Tooltip_Ability_item_seer_stone_pf_Description"			        "<h1>Seer Will</h1>дарует владельцу Истинное зрение в радиусе %radius% и увеличивает дальность применения направленных заклинаний и предметов на %bonus_cast_range%.\n\nЭффект нескольких Seer Lens суммируется."
+"DOTA_Tooltip_Ability_item_seer_stone_pf_Description"			        "<h1>Seer Will</h1>дарует владельцу Истинное зрение в радиусе %radius% и увеличивает дальность применения направленных заклинаний и предметов на %bonus_cast_range%."
 "DOTA_Tooltip_Ability_item_seer_stone_pf_mana"	            	        "+$mana"
 "DOTA_Tooltip_Ability_item_seer_stone_pf_mana_regen"    	            "+$mana_regen"
 
@@ -101,7 +101,7 @@
 
 
 "ascension_pathfinder_blademail"					            "Обратная связь"
-"ascension_pathfinder_blademail_Description"		            "Периодически на вражеских капитанов действует эффект Blade Mail."
+"ascension_pathfinder_blademail_Description"		            "Периодически на вражеских капитанов действует эффект Blade Mail, возвращая игрокам значительную часть нанесенного урона."
 
 
 "DOTA_Chat_NoBattlePoints_WrongLobby"		                    "Добро пожаловать, Искатели, приятной вам игры! Вы можете поддержать разработку режима на Патреоне."
