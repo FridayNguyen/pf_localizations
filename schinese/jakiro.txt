@@ -50,7 +50,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal_Description"             	"烈焰焚身治疗路径上的友方英雄，治疗量为烈焰焚身伤害量的 %heal_percent%%。"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal"	                        "火中做自己"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "杰奇洛身处烈焰焚身路径中时，烈焰焚身路径不会消失，但每秒延长 %cd_increase%s 烈焰焚身的剩余冷却时间。"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "杰奇洛身处烈焰焚身路径中时，烈焰焚身路径不会消失，但剩余冷却时间会暂停计算。"
 
 
 >---------------------------------------
