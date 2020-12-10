@@ -11,7 +11,7 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack"		                                        "Global Epidemic"
-"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "Теперь чумные тотемы героя атакуют врагов по всей карте, но управлять ими нельзя."
+"DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_global_attack_Description"		                            "Теперь чумные тотемы героя атакуют врагов по всей карте, но наносят на %dmg_penalty%%  меньше урона."
 
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal"			                                        "Rotten Delicacy"
 "DOTA_Tooltip_Ability_pathfinder_special_venomancer_ward_lifesteal_Description"			                            "Герой восстанавливает здоровье в размере %lifesteal_percentage%%  от урона, нанесенного тотемами. Периодический урон при этом не учитывается."
