@@ -13,7 +13,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_wind_breathing_dummy_Description"	                            "使主宰领悟风之呼吸。使用风之呼吸可以向一个目标突进并攻击沿途的敌人。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward"                                                "送葬"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward_Description"                                    "释放剑刃风暴时 %radius% 范围内的友方单位也会同时释放一个独立的剑刃风暴"
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward_Description"                                    "释放剑刃风暴时 %radius% 范围内的友方单位也会同时释放一个独立的剑刃旋风。剑刃旋风造成主宰剑刃风暴 %dmg_pct%% 的伤害。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying"	                                        	"直升机"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying_Description"                                  "释放剑刃风暴时主宰获得飞行能力和 %damage_reduction%% 的伤害减免。"
@@ -25,7 +25,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_earthshock_Description"                            "治疗守卫每3秒向周围释放一张地网，地网捕捉治疗半径内的敌人1.5秒。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_allies"                                            "古原草"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_allies_Description"                                "主宰使用治疗守卫时在每个友方英雄身边额外召唤一个治疗守卫。"
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_allies_Description"                                "主宰使用治疗守卫时在 %radius% 范围内的友方英雄身边额外召唤一个持续 %duration_percent%% 秒的治疗守卫。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_illusion"			                            	"遮面之军"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_illusion_Description"			                	"主宰触发剑舞时召唤一个持续 %illusion_duration% 秒的遮面幻象，遮面幻象造成40%的伤害且不受控制。遮面幻象触发剑舞时可以进一步产生幻象。"
