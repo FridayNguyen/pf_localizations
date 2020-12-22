@@ -151,7 +151,7 @@
 >--- TALENT TREE -----------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_stifling_dagger_lua+move_slow"	    "+{s:move_slow}% Stiffling Dagger Slow"		
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_stifling_dagger_lua+move_slow"	    "{s:move_slow}% Stiffling Dagger Slow"		
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_phantom_strike_lua+duration"		"+{s:duration}s Phantom Strike Buff Duration"		
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_phantom_strike_lua+range"		    "Global Phantom Strike Range"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_phantom_assassin_blur_lua+bonus_evasion"			    "+{s:bonus_evasion}% Blur Evasion"

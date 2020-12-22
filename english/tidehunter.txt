@@ -48,6 +48,7 @@
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_magic_resist"                                                    "%Bonus Magic Resistance per Stack: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_speed_reduction"                                                 "Movespeed Reduction per Stack: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_as_reduction"                                                    "Attack Speed Reduction per Stack: "
+"DOTA_Tooltip_Ability_tidehunter_pf_crunch_damage_bonus"                                                    "Attack Damage Bonus per Stack: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_regen"                                                           "Bonus Health Regen per Stack: "
 "DOTA_Tooltip_Ability_tidehunter_pf_crunch_status_resist"                                                   "%Status Resistance per Stack: "
 
