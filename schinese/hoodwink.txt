@@ -12,41 +12,41 @@
 
 
 
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground"                                              "Wookie Doctrine"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground_Description"                                  "Bushwhack now always creates a tree at the target location. If there is no enemy units within the radius, the net trap will remain on the ground for up to %duration% seconds. Any unsuspecting enemy stepping into the trap area will trigger the current level of Bushwhack after a brief delay"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground"                                              "新手道"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground_Description"                                  "野地奇袭将在落点产生一棵橡树，如果落点内没有敌人，陷阱将在橡树周围休眠 %duration% 秒。陷阱休眠期间，任何走入陷阱的敌人都会在短暂延迟后重新激活陷阱，并触发当前等级的野地奇袭。"
 
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack"                                        "Ain't No Fortunate Ones"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "Attacking any unit stunned by Bushwhack also cause Hoodwink to launches additional attacks unto all nearby affected enemy. These extra attacks deal %dmg_percent%%  damage and can fully proc any on-hit effect"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack"                                        "雨露均沾"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "攻击被野地奇袭眩晕的敌人时，森海飞霞的弩箭会溅射至所有受影响的敌人身上，造成 %dmg_percent%% 的伤害并继承所有攻击效果。"
 
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry"                                              "Sapper of Tomo'kan"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "Activating Scurry will create a tree behind Hookwink, and immediate cast the current level of Bushwhack at its location. This effect is repeated again once the buff expires"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry"                                              "托莫干工兵"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "密林奔走激活以及结束时森海飞霞会在原地创造一颗橡树，并立刻在橡树周围释放一次野地奇袭。"
 
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "Smelt of Elderberries"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "Sharpshooter projectils now continuously creates trees in its path. While charging up Sharpshoopter, Hoodwink takes %damage_reduction%%  less damage from all sources"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "接骨木果香"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "一箭穿心会在弹道上持续创造橡树，在一箭穿心充能时，森海飞霞所受伤害减少 %damage_reduction%%。"
 
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce"                                           "Force A' Nature"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "Sharpshooter projectile now pierces through the first enemy captain hit, while dealing half damage and slowing any non-captain unit in the way"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce"                                           "自然之力"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "一箭穿心会对第弹道上的非首领单位造成半额伤害并减速。"
 
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset"                                            "There's A Mouse With A Bow Over There"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy captain, its cooldown will be immediately reset. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset"                                            "森海魅影"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "一箭穿心击杀首领后会立刻刷新冷却，同时森海飞霞立刻获得一次当前等级的密林奔走加成。"
 
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "Get Nutted"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "Each of Hoodwink's attacks now has a %chance%%  chance of launching the current level of Acorn Shot at the targeted unit"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "脑子进橡子"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "森海飞霞的攻击有 %chance%% 几率对目标施放当前等级的爆栗出击。"
 
-"DOTA_Tooltip_Ability_pathfinder_scurry_canadian"                                               "Canandian Heritage"
-"DOTA_Tooltip_Ability_pathfinder_scurry_canadian_Description"                                   "While Scurry is active, Hoodwink will immediately destroys any tree or wooden crate she comes into contact with, healing for %heal_percent%%  of her max health and extend the buff duration by %extend_time% seconds for each tree destroyed. Any natural tree cut down this way will regrow after %regrow_time% seconds"
+"DOTA_Tooltip_Ability_pathfinder_scurry_canadian"                                               "枫国遗物"
+"DOTA_Tooltip_Ability_pathfinder_scurry_canadian_Description"                                   "密林奔走激活时，森海飞霞会摧毁碰到的树木。每摧毁一棵树木治疗 %heal_percent%% 的最大生命，并延长 %extend_time% 秒激活时间。摧毁自然生长的树木时，被摧毁的树木会在 %regrow_time% 秒后重新生长。"
 
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun"                                               "Look At It Go"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "Acorn Shot now intially stuns for %base_stun% seconds and deals %base_damage% magical damage. Each additional bounce increases the stun duration by %base_stun% seconds and the damage by %base_damage%. Hoodwink is healed for 100% of the damage dealt this way"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun"                                               "目送"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "爆栗出击对第一个目标造成 %base_damage% 伤害和 %base_stun% 秒眩晕。在后续的弹射中，每次弹射增加 %base_damage% 魔法伤害，眩晕时间增加 %base_stun% 秒。森海飞霞获得等同于总伤害量的治疗。"
 
-"DOTA_Tooltip_Ability_pathfinder_scurry_allies"                                                 "We’ve Gotta Get Out of this Place"
-"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Casting Scurry grants its active buff to all allies within a %radius% radius. The duration of the buff is extended by %extend_time% seconds for each ally affected"
+"DOTA_Tooltip_Ability_pathfinder_scurry_allies"                                                 "出森林记"
+"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "激活密林奔走时，%radius% 范围内的友军获得相同增益。每个获得增益的友军延长 %extend_time% 秒密林奔走持续时间。"
 
-"DOTA_Tooltip_Ability_pathfinder_scurry_leap"                                                   "Over the River and Through the Woods"
-"DOTA_Tooltip_Ability_pathfinder_scurry_leap_Description"                                       "Casting Scurry now also causes Hoodwink to leap forward %leap_distance% units. Upon landing, Hoodwink immediately attacks any nearby enemy within a %knock_radius% radius, knocking them away and stunning them for %stun_duration% seconds"
+"DOTA_Tooltip_Ability_pathfinder_scurry_leap"                                                   "轻功树上飞"
+"DOTA_Tooltip_Ability_pathfinder_scurry_leap_Description"                                       "密林奔走释放时会向前跳跃 %leap_distance% 距离，落地时对自身 %knock_radius% 范围内的敌方单位施加一次普通攻击，同时击退并眩晕 %stun_duration% 秒。"
 
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree"                                               "And I Speak For The Trees"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "The tree summoned by Acorn Shot becomes imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree has a %acorn_chance%%  chance to be struck with the current level of Acorn Shot every second"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree"                                               "生命之树"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "爆栗出击种出的橡树每秒治疗 %radius% 范围内友军 %heal_percent%% 的最大生命。橡树周围的敌人每秒有 %acorn_chance%% 的几率遭受一次当前等级的爆栗出击。"
 
 
 
@@ -54,72 +54,72 @@
 >--- ABILITY ---------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot"                                                    "Acorn Shot"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Description"                                        "Hoodwink attacks with an acorn at the target unit. The acorn bounces to nearby targets, slowing them and dealing bonus damage. If point targeted, a tree is created at the target position and the acorn will bounce to nearby targets."
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_range"                                        "Bonus Range: "
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_damage"                                       "Bonus Damage: "
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_bounce_count"                                       "Number of Bounces: "
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_bounce_range"                                       "Bounce Distance: "
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_debuff_duration"                                    "Slow Duration: "
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_slow"                                               "Movement Speed Slow: "
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_duration"                                      "Tree Duration: "
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Lore"                                               "Though she'll make do with almost anything, Oak and Ironwood acorns make the most effective projectiles -- and the bulk of Hoodwink's stash."
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot"                                                    "爆栗出击"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Description"                                        "森海飞霞向目标发射一颗橡栗，可以弹射至附近敌人，造成减速和额外伤害。可以对地面施放，种出一棵树，而橡栗会弹射至附近目标。"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_range"                                        "额外攻击距离: "
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_damage"                                       "额外伤害: "
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_bounce_count"                                       "弹射次数: "
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_bounce_range"                                       "弹射范围: "
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_debuff_duration"                                    "减速持续时间: "
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_slow"                                               "移动速度减缓: "
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_duration"                                      "树木持续时间: "
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Lore"                                               "虽然她几乎什么都能凑合着用，不过橡树和铁树之木的栗子是最有效的炮弹--也是森海飞霞大部分的存货来源"
 
 
-"DOTA_Tooltip_Ability_pathfinder_bushwhack"                                                     "Bushwhack"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_Description"                                         "Tosses a net trap that stuns enemy heroes if they are near a tree in the area. Affected enemies take damage and are pulled towards the tree nearest to them, and have their vision reduced to 0 for the duration of the stun."
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_trap_radius"                                         "Radius: "
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_debuff_duration"                                     "Stun Duration: "
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_total_damage"                                        "Damage: "
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_Lore"                                                "Hoodwink favors Ironwood groves for ambushes, but the wary step carefully in all areas of the mistwoods."
+"DOTA_Tooltip_Ability_pathfinder_bushwhack"                                                     "野地奇袭"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_Description"                                         "扔出一张网，若区域内的敌方英雄靠近树木将会被眩晕。敌人会被拖拽到树上，并且眩晕期间视野降低至0。"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_trap_radius"                                         "作用范围: "
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_debuff_duration"                                     "眩晕时间: "
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_total_damage"                                        "伤害: "
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_Lore"                                                "森海飞霞喜欢利用铁树之木的树丛来伏击，但机警的人在永雾林渊的所有地方都会小心行走"
 
 
-"DOTA_Tooltip_Ability_pathfinder_scurry"                                                        "Scurry"
-"DOTA_Tooltip_Ability_pathfinder_scurry_Description"                                            "Hoodwink passively has a chance to evade physical attacks while near trees. When activated, Hoodwink gains bonus movement speed, phased collision, and tree-walking for a brief time. Her maximum movement speed limit is unlocked while this effect is active."
-"DOTA_Tooltip_Ability_pathfinder_scurry_radius"                                                 "Passive Tree Search Radius: "
-"DOTA_Tooltip_Ability_pathfinder_scurry_movement_speed_pct"                                     "%Active Speed Bonus: "
-"DOTA_Tooltip_Ability_pathfinder_scurry_duration"                                               "Active Duration: "
-"DOTA_Tooltip_Ability_pathfinder_scurry_evasion"                                                "%Passive Evasion: "
-"DOTA_Tooltip_Ability_pathfinder_scurry_Lore"                                                   "There's not a nook or cranny in the Wood Tomo'kan out of reach of Hoodwink's paws."
+"DOTA_Tooltip_Ability_pathfinder_scurry"                                                        "密林奔走"
+"DOTA_Tooltip_Ability_pathfinder_scurry_Description"                                            "森海飞霞靠近树木时被动地拥有一定几率闪避物理攻击。主动施放时森海飞霞暂时获得移动速度加成，相位碰撞状态和穿行树木效果，同时移除移速上限。"
+"DOTA_Tooltip_Ability_pathfinder_scurry_radius"                                                 "闪避作用范围: "
+"DOTA_Tooltip_Ability_pathfinder_scurry_movement_speed_pct"                                     "移动速度加成%: "
+"DOTA_Tooltip_Ability_pathfinder_scurry_duration"                                               "加成持续时间: "
+"DOTA_Tooltip_Ability_pathfinder_scurry_evasion"                                                "闪避几率%: "
+"DOTA_Tooltip_Ability_pathfinder_scurry_Lore"                                                   "托莫干森林里没有一处角落或者裂缝里是森海飞霞的爪子够不着的。"
 
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter"                                                  "Sharpshooter"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_Description"                                      "Hoodwink charges up and fires a deadly bolt from her crossbow, dealing heavy damage, slow, and Break to an enemy Captain. The damage and debuff duration scale up to max after %max_charge_time% seconds, and the bolt is fired automatically after %misfire_time% seconds. Hoodwink is knocked backwards for a distance of %recoil_distance% from the force of the shot."
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_arrow_width"                                      "Bolt Collision Radius: "
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_arrow_range"                                      "Max Travel Distance: "
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_max_damage"                                       "Max Damage: "
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_slow_move_pct"                                    "%Movement Speed Slow: "
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_max_slow_debuff_duration"                         "Maximum Slow Duration: "
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_Lore"                                             "Any forest creature will tell you the most frustrating part of hunting is when an enemy simply FALLS DOWN when shot, and doesn't FLY BACKWARD into the forest. Those days are over. Anything this baby hits better PACK A LUNCH, 'cause it is going for a ride!"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter"                                                  "一箭穿心"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_Description"                                      "森海飞霞装载她的弩机，射出致命的一箭，对一名敌方首领造成高额伤害、减速和破坏效果。伤害和负面状态持续时间随着装载时间增加，%max_charge_time% 秒后达到最大效果，弩箭在 %max_charge_time% 秒后自动发射。由于弩箭的威力，森海飞霞后退 %recoil_distance% 距离。"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_arrow_width"                                      "弩箭体积: "
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_arrow_range"                                      "弩箭最大飞行距离: "
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_max_damage"                                       "最高伤害: "
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_slow_move_pct"                                    "移动速度减缓%: "
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_max_slow_debuff_duration"                         "最大负面效果持续时间: "
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_Lore"                                             "虽然森海飞霞的第一把弩机是碰巧发现的，但现在她非常精心地雕刻自己的劲弩，并且做好防护工作。当然，某些必要的部件是顺手牵羊得来的，不然就是通过机智的手段获得。"
 
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_release"                                          "Release Sharpshooter"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_release_Description"                              "Release the charged shot, regain ability to move and attack."
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_release_Lore"                                     "Fire and forget!"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_release"                                          "中止一箭穿心"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_release_Description"                              "释放蓄力的弩箭，重新开始移动和攻击。"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_release_Lore"                                     "发射!"
 
 >---------------------------------------
 >--- MINOR SHARD -----------------------
 >---------------------------------------
 
 
-"pathfinder_acorn_shot_percent_cooldown"			                                            "-{s:value}% {s:ability_name} Cooldown"
-"pathfinder_acorn_shot_bonus_damage"			                                                "+{s:value} {s:ability_name} Bonus Damage"
-"pathfinder_acorn_shot_bounce_count"			                                                "+{s:value} {s:ability_name} Bounce Count"
-"pathfinder_acorn_shot_bounce_range"			                                                "+{s:value} {s:ability_name} Bounce Distance"
-"pathfinder_acorn_shot_debuff_duration"			                                                "+{s:value}s {s:ability_name} Slow Duration"
+"pathfinder_acorn_shot_percent_cooldown"			                                            "-{s:value}% {s:ability_name} 冷却时间"
+"pathfinder_acorn_shot_bonus_damage"			                                                "+{s:value} {s:ability_name} 额外伤害"
+"pathfinder_acorn_shot_bounce_count"			                                                "+{s:value} {s:ability_name} 弹射次数"
+"pathfinder_acorn_shot_bounce_range"			                                                "+{s:value} {s:ability_name} 弹射距离"
+"pathfinder_acorn_shot_debuff_duration"			                                                "+{s:value}s {s:ability_name} 减速持续时间"
 
-"pathfinder_bushwhack_percent_cooldown"			                                                "-{s:value}% {s:ability_name} Cooldown"
-"pathfinder_bushwhack_trap_radius"			                                                    "+{s:value} {s:ability_name} Effect Radius"
-"pathfinder_bushwhack_debuff_duration"			                                                "+{s:value}s {s:ability_name} Stun Duration"
-"pathfinder_bushwhack_total_damage"			                                                    "+{s:value} {s:ability_name} Damage"
+"pathfinder_bushwhack_percent_cooldown"			                                                "-{s:value}% {s:ability_name} 冷却时间"
+"pathfinder_bushwhack_trap_radius"			                                                    "+{s:value} {s:ability_name} 作用范围"
+"pathfinder_bushwhack_debuff_duration"			                                                "+{s:value}s {s:ability_name} 眩晕时间"
+"pathfinder_bushwhack_total_damage"			                                                    "+{s:value} {s:ability_name} 伤害"
 
-"pathfinder_scurry_percent_cooldown"			                                                "-{s:value}% {s:ability_name} Cooldown"
-"pathfinder_scurry_movement_speed_pct"			                                                "+{s:value}% {s:ability_name} Active Speed Bonus"
-"pathfinder_scurry_duration"			                                                        "+{s:value}s {s:ability_name} Duration"
-"pathfinder_scurry_movement_evasion"			                                                "+{s:value}% {s:ability_name} Passive Evasion near Trees"
+"pathfinder_scurry_percent_cooldown"			                                                "-{s:value}% {s:ability_name} 冷却时间"
+"pathfinder_scurry_movement_speed_pct"			                                                "+{s:value}% {s:ability_name} 移动速度加成"
+"pathfinder_scurry_duration"			                                                        "+{s:value}s {s:ability_name} 持续时间"
+"pathfinder_scurry_movement_evasion"			                                                "+{s:value}% {s:ability_name} 闪避几率"
 
-"pathfinder_sharpshooter_percent_cooldown"			                                            "-{s:value}% {s:ability_name} Cooldown"
-"pathfinder_sharpshooter_max_damage"			                                                "+{s:value} {s:ability_name} Max Damage"
-"pathfinder_sharpshooter_arrow_range"			                                                "+{s:value} {s:ability_name} Bolt Travel Distance"
-"pathfinder_sharpshooter_max_slow_debuff_duration"			                                    "+{s:value}s {s:ability_name} Debuff Duration"
+"pathfinder_sharpshooter_percent_cooldown"			                                            "-{s:value}% {s:ability_name} 冷却时间"
+"pathfinder_sharpshooter_max_damage"			                                                "+{s:value} {s:ability_name} 最高伤害"
+"pathfinder_sharpshooter_arrow_range"			                                                "+{s:value} {s:ability_name} 弩箭最大飞行距离"
+"pathfinder_sharpshooter_max_slow_debuff_duration"			                                    "+{s:value}s {s:ability_name} 负面效果持续时间"
 
 
 >---------------------------------------
@@ -128,49 +128,49 @@
 
 
 
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_percent_cooldown"			                    "Acorn Shot - Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bonus_damage"			                        "Acorn Shot - Bonus Damage"
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bounce_count"			                        "Acorn Shot - Bounce Count"
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bounce_range"			                        "Acorn Shot - Bounce Distance"
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_debuff_duration"			                    "Acorn Shot - Slow Duration"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_percent_cooldown"			                    "爆栗出击 - 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bonus_damage"			                        "爆栗出击 - 额外伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bounce_count"			                        "爆栗出击 - 弹射次数"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bounce_range"			                        "爆栗出击 - 弹射距离"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_debuff_duration"			                    "爆栗出击 - 减速持续时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_percent_cooldown"			                    "Bushwhack - Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_trap_radius"			                        "Bushwhack - Effect Radius"
-"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_debuff_duration"			                    "Bushwhack - Stun Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_total_damage"			                        "Bushwhack - Damage"
+"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_percent_cooldown"			                    "野地奇袭 - 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_trap_radius"			                        "野地奇袭 - 作用范围"
+"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_debuff_duration"			                    "野地奇袭 - 眩晕时间"
+"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_total_damage"			                        "野地奇袭 - 伤害"
 
-"DOTA_Tooltip_Ability_item_pathfinder_scurry_percent_cooldown"			                        "Scurry - Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_scurry_movement_speed_pct"			                    "Scurry - Active Speed Bonus"
-"DOTA_Tooltip_Ability_item_pathfinder_scurry_duration"			                                "Scurry - Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_scurry_movement_evasion"			                        "Scurry - Passive Evasion near Trees"
+"DOTA_Tooltip_Ability_item_pathfinder_scurry_percent_cooldown"			                        "密林奔走 - 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_scurry_movement_speed_pct"			                    "密林奔走 - 移动速度加成"
+"DOTA_Tooltip_Ability_item_pathfinder_scurry_duration"			                                "密林奔走 - 持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_scurry_movement_evasion"			                        "密林奔走 - 闪避几率"
 
-"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_percent_cooldown"			                "Sharpshooter - Cooldown"
-"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_max_damage"			                        "Sharpshooter - Max Damage"
-"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_arrow_range"			                        "Sharpshooter - Bolt Travel Distance"
-"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_max_slow_debuff_duration"			        "Sharpshooter - Debuff Duration"
+"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_percent_cooldown"			                "一箭穿心 - 冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_max_damage"			                        "一箭穿心 - 最高伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_arrow_range"			                        "一箭穿心 - 弩箭最大飞行距离"
+"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_max_slow_debuff_duration"			        "一箭穿心 - 负面效果持续时间"
 
 
 
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_percent_cooldown_Description"			        "<h1>Common Scepter Fragment</h1>Decreases Acorn Shot Cooldown by %value%% "
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bonus_damage_Description"			            "<h1>Common Scepter Fragment</h1>Increases Acorn Shot Bonus Damage by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bounce_count_Description"			            "<h1>Common Scepter Fragment</h1>Increases Acorn Shot Bounce Count  by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bounce_range_Description"			            "<h1>Common Scepter Fragment</h1>Increases Acorn Shot Bounce Distance by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_debuff_duration_Description"			        "<h1>Common Scepter Fragment</h1>Increases Acorn Shot Slow Duration by %value% seconds"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_percent_cooldown_Description"			        "<h1>普通神杖碎片</h1>- %value%% 爆栗出击冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bonus_damage_Description"			            "<h1>普通神杖碎片</h1>+ %value% 爆栗出击额外伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bounce_count_Description"			            "<h1>普通神杖碎片</h1>+ %value% 爆栗出击弹射次数"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_bounce_range_Description"			            "<h1>普通神杖碎片</h1>+ %value% 爆栗出击弹射距离"
+"DOTA_Tooltip_Ability_item_pathfinder_acorn_shot_debuff_duration_Description"			        "<h1>普通神杖碎片</h1>+ %value% 秒爆栗出击减速持续时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_percent_cooldown_Description"			        "<h1>Common Scepter Fragment</h1>Decreases Bushwhack Cooldown by %value%% "
-"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_trap_radius_Description"			            "<h1>Common Scepter Fragment</h1>Increases Bushwhack Effect Radius by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_debuff_duration_Description"			        "<h1>Common Scepter Fragment</h1>Increases Bushwhack Stun Duration by %value% seconds"
-"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_total_damage_Description"			            "<h1>Common Scepter Fragment</h1>Increases Bushwhack Damage by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_percent_cooldown_Description"			        "<h1>普通神杖碎片</h1>- %value%% 野地奇袭冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_trap_radius_Description"			            "<h1>普通神杖碎片</h1>+ %value% 野地奇袭作用范围"
+"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_debuff_duration_Description"			        "<h1>普通神杖碎片</h1>+ %value% 秒野地奇袭眩晕时间"
+"DOTA_Tooltip_Ability_item_pathfinder_bushwhack_total_damage_Description"			            "<h1>普通神杖碎片</h1>+ %value% 野地奇袭伤害"
 
-"DOTA_Tooltip_Ability_item_pathfinder_scurry_percent_cooldown_Description"			            "<h1>Common Scepter Fragment</h1>Decreases Scurry Cooldown by %value%% "
-"DOTA_Tooltip_Ability_item_pathfinder_scurry_movement_speed_pct_Description"			        "<h1>Common Scepter Fragment</h1>Increases Scurry Active Speed Bonus by %value%% "
-"DOTA_Tooltip_Ability_item_pathfinder_scurry_duration_Description"			                    "<h1>Common Scepter Fragment</h1>Increases Scurry Duration by %value% seconds"
-"DOTA_Tooltip_Ability_item_pathfinder_scurry_movement_evasion_Description"			            "<h1>Common Scepter Fragment</h1>Increases Scurry Passive Evasion near Trees by %value%% "
+"DOTA_Tooltip_Ability_item_pathfinder_scurry_percent_cooldown_Description"			            "<h1>普通神杖碎片</h1>- %value%% 密林奔走冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_scurry_movement_speed_pct_Description"			        "<h1>普通神杖碎片</h1>+ %value%% 密林奔走激发时移动速度加成"
+"DOTA_Tooltip_Ability_item_pathfinder_scurry_duration_Description"			                    "<h1>普通神杖碎片</h1>+ %value% 秒密林奔走持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_scurry_movement_evasion_Description"			            "<h1>普通神杖碎片</h1>+ %value%% 密林奔走闪避几率"
 
-"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_percent_cooldown_Description"			    "<h1>Common Scepter Fragment</h1>Decreases Sharpshooter Cooldown by %value%% "
-"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_max_damage_Description"			            "<h1>Common Scepter Fragment</h1>Increases Sharpshooter Max Damage by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_arrow_range_Description"			            "<h1>Common Scepter Fragment</h1>Increases Sharpshooter Bolt Travel Distance by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_max_slow_debuff_duration_Description"		"<h1>Common Scepter Fragment</h1>Increases Sharpshooter Debuff Duration by %value% seconds"
+"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_percent_cooldown_Description"			    "<h1>普通神杖碎片</h1>- %value%% 一箭穿心冷却时间"
+"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_max_damage_Description"			            "<h1>普通神杖碎片</h1>+ %value% 一箭穿心最高伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_arrow_range_Description"			            "<h1>普通神杖碎片</h1>+ %value% 一箭穿心弩箭最大飞行距离"
+"DOTA_Tooltip_Ability_item_pathfinder_sharpshooter_max_slow_debuff_duration_Description"		"<h1>普通神杖碎片</h1>+ %value% 秒一箭穿心负面效果持续时间"
 
 
 
@@ -179,9 +179,9 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_bushwhack+cooldown"                   "{s:cooldown}s Bushwhack Cooldown"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_acorn_shot+bounce_count"              "+{s:bounce_count} Acorn Shot Bounces"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_sharpshooter+arrow_range"             "+{s:arrow_range} Sharpshooter Range"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_bushwhack+cooldown"                   "{s:cooldown}s 野地奇袭冷却时间"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_acorn_shot+bounce_count"              "+{s:bounce_count} 爆栗出击弹射次数"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_sharpshooter+arrow_range"             "+{s:arrow_range} 一箭穿心范围"
 
 
 >---------------------------------------
@@ -189,23 +189,23 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_modifier_pathfinder_acorn_shot_debuff"                                                "Nutted"
-"DOTA_Tooltip_modifier_pathfinder_acorn_shot_debuff_Description"                                    "Movement Speed Slowed"
+"DOTA_Tooltip_modifier_pathfinder_acorn_shot_debuff"                                                "爆栗出击"
+"DOTA_Tooltip_modifier_pathfinder_acorn_shot_debuff_Description"                                    "移动速度减缓"
 
-"DOTA_Tooltip_modifier_hoodwink_scurry_lua"                                                         "Scurry"
-"DOTA_Tooltip_modifier_hoodwink_scurry_lua_Description"                                             "Gaining bonus evasion near trees"
+"DOTA_Tooltip_modifier_hoodwink_scurry_lua"                                                         "密林奔走"
+"DOTA_Tooltip_modifier_hoodwink_scurry_lua_Description"                                             "靠近树木时获得额外闪避。"
 
-"DOTA_Tooltip_modifier_hoodwink_scurry_lua_buff"                                                    "Scurry Active"
-"DOTA_Tooltip_modifier_hoodwink_scurry_lua_buff_Description"                                        "Gaining bonus movement speed and tree walking, while having maximum speed limit unlocked"
+"DOTA_Tooltip_modifier_hoodwink_scurry_lua_buff"                                                    "密林奔走激发态"
+"DOTA_Tooltip_modifier_hoodwink_scurry_lua_buff_Description"                                        "获得额外移送速度加成并且可以穿行树木，解除移速限制。"
 
-"DOTA_Tooltip_modifier_pathfinder_sharpshooter"                                                     "Sharpshooter"
-"DOTA_Tooltip_modifier_pathfinder_sharpshooter_Description"                                         "Any forest creature will tell you the most frustrating part of hunting is when an enemy simply FALLS DOWN when shot, and doesn't FLY BACKWARD into the forest. Those days are over. Anything this baby hits better PACK A LUNCH, 'cause it is going for a ride!"
+"DOTA_Tooltip_modifier_pathfinder_sharpshooter"                                                     "一箭穿心"
+"DOTA_Tooltip_modifier_pathfinder_sharpshooter_Description"                                         "一箭穿心蓄力中，将造成额外伤害，负面效果持续时间更久；被缠绕和缴械。"
 
-"DOTA_Tooltip_modifier_pathfinder_sharpshooter_debuff"                                              "Sharpshot!"
-"DOTA_Tooltip_modifier_pathfinder_sharpshooter_debuff_Description"                                  "Movement speed reduced, and passives disabled"
+"DOTA_Tooltip_modifier_pathfinder_sharpshooter_debuff"                                              "一箭穿心!"
+"DOTA_Tooltip_modifier_pathfinder_sharpshooter_debuff_Description"                                  "被动技能禁用，移动速度减缓。"
 
-"DOTA_Tooltip_modifier_pathfinder_bushwhack_debuff"                                                 "Bushwhacked!"
-"DOTA_Tooltip_modifier_pathfinder_bushwhack_debuff_Description"                                     "Tree huggers"
+"DOTA_Tooltip_modifier_pathfinder_bushwhack_debuff"                                                 "野地奇袭!"
+"DOTA_Tooltip_modifier_pathfinder_bushwhack_debuff_Description"                                     "被森海飞霞的野地奇袭眩晕。摧毁挂着陷阱的树可以解救出来。"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------
