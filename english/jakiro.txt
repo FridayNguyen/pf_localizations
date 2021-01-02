@@ -20,7 +20,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_ice_blob_Description"	        "The ice component of Dual Breath has a %chance%%  chance of creates a blob of Ice Path directly underneath each enemy hit, dealing damage and stunning for Ice Path's current values"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier"	                        "Ice-solation Protocol"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier_Description"	            "Casting Ice Path also creates two walls of Ice Shards of equal lengths on either side of the path. The ice wall remains for %duration_add% additional seconds after ice path has melted"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier_Description"	            "Casting Ice Path also creates a barrier of ice shards that trap enemies directly in front of Jakiro. The ice wall remains for %duration_add% additional seconds after ice path has melted"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast"	                            "On Thin Ice"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast_Description"	                "Friendly heroes coming into contact with Ice Path is dispelled of all debuffs and gain %move_speed%  bonus movement speed. While the bonus is active, the affected heroes have flying movement, is phased, and cannot be slowed"

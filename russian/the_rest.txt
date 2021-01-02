@@ -355,12 +355,6 @@
 "DOTA_Tooltip_ability_item_shadow_amulet_Description"					"<h1>Активная: Fade</h1> Накладывает на героя или выбранного союзника невидимость, которая действует, пока цель стоит на месте. <br><br>Цель входит в невидимость за %fade_time% сек. и мгновенно выходит из неё при передвижении. Дальность применения: %abilitycastrange%"
 "DOTA_Tooltip_ability_item_shadow_amulet_fade_duration"		"МАКС. ВРЕМЯ ДО НЕВИДИМОСТИ:"
 
-"DOTA_Tooltip_ability_item_vladmir_Description"							"<h1>Пассивная: Vladmir's Aura</h1>Увеличивает вампиризм союзников на <font color='#F40000'>%lifesteal_aura%%%</font>, их урон на %damage_aura%%% и восстановление маны на %mana_regen_aura%. <br><br>Радиус: %aura_radius%"
-"DOTA_Tooltip_ability_item_vladmir_Lore"								"Жуткая маска, проклятая злобой павшего вампира."
-
-"DOTA_Tooltip_modifier_item_vladmir_aura"				"Vladmir's Aura"
-"DOTA_Tooltip_modifier_item_vladmir_aura_Description"	"Вампиризм увеличен на <font color='#F40000'>%dMODIFIER_PROPERTY_TOOLTIP%%%</font>. Восстановление маны увеличено на %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT%. Броня увеличена на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
-
 "DOTA_Tooltip_ability_item_satanic_Description"			"<h1>Активируемая: Unholy Rage</h1> Увеличивает эффект вампиризма до <font color='#F40000'>%unholy_lifesteal_total_tooltip%%%</font> на %unholy_duration% сек.\n<h1>Пассивная: Lifesteal</h1>Каждая атака восстанавливает владельцу здоровье в размере <font color='#F40000'>%lifesteal_percent%%%</font> от нанесённого урона."
 "DOTA_Tooltip_ability_item_satanic_Lore"				"Колоссальная сила в обмен на вашу душу."
 "DOTA_Tooltip_ability_item_satanic_bonus_strength"		"+$str"

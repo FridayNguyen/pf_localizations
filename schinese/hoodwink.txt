@@ -179,7 +179,7 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_bushwhack+cooldown"                   "{s:cooldown}s 野地奇袭冷却时间"
+"DOTA_Tooltip_Ability_special_bonus_unique_pathfinder_sharpshooter_invis"                       "Sharpshooter grants Invisibility"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_acorn_shot+bounce_count"              "+{s:bounce_count} 爆栗出击弹射次数"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_sharpshooter+arrow_range"             "+{s:arrow_range} 一箭穿心范围"
 

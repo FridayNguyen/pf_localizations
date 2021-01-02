@@ -83,7 +83,7 @@
 "DOTA_Tooltip_Ability_pathfinder_scurry_Lore"                                                   "There's not a nook or cranny in the Wood Tomo'kan out of reach of Hoodwink's paws."
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter"                                                  "Sharpshooter"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_Description"                                      "Hoodwink charges up and fires a deadly bolt from her crossbow, dealing heavy damage, slow, and Break to an enemy Captain. The damage and debuff duration scale up to max after %max_charge_time% seconds, and the bolt is fired automatically after %misfire_time% seconds. Hoodwink is knocked backwards for a distance of %recoil_distance% from the force of the shot."
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_Description"                                      "Hoodwink charges up and fires a deadly bolt from her crossbow, dealing heavy damage, slow, and Break to up to %max_hit% enemy Captains. The damage and debuff duration scale up to max after %max_charge_time% seconds, and the bolt is fired automatically after %misfire_time% seconds. Hoodwink is knocked backwards for a distance of %recoil_distance% from the force of the shot. Any non-captain unit hit by the projectile is dealt half damage."
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_arrow_width"                                      "Bolt Collision Radius: "
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_arrow_range"                                      "Max Travel Distance: "
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_max_damage"                                       "Max Damage: "
@@ -179,7 +179,7 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_bushwhack+cooldown"                   "{s:cooldown}s Bushwhack Cooldown"
+"DOTA_Tooltip_Ability_special_bonus_unique_pathfinder_sharpshooter_invis"                       "Sharpshooter grants Invisibility"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_acorn_shot+bounce_count"              "+{s:bounce_count} Acorn Shot Bounces"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_sharpshooter+arrow_range"             "+{s:arrow_range} Sharpshooter Range"
 

@@ -179,7 +179,7 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_bushwhack+cooldown"                   "{s:cooldown}s Bushwhack Cooldown"
+"DOTA_Tooltip_Ability_special_bonus_unique_pathfinder_sharpshooter_invis"                       "Sharpshooter grants Invisibility"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_acorn_shot+bounce_count"              "+{s:bounce_count} Acorn Shot Bounces"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_sharpshooter+arrow_range"             "+{s:arrow_range} Sharpshooter Range"
 

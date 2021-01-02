@@ -35,16 +35,16 @@
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal_Description"	                    "Battle Hunger now heals all nearby allied heroes within a %radius% radius for %percent%%  of its damage"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr"	                                "Axe-citing Developments"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr_Description"	                    "Each time an enemy unit afflicted with Battle Hunger is attacked, the cooldown of Culling Blade is reduced by %cdr% seconds. These attacks do not need to come from Axe himself"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr_Description"	                    "Each time an enemy unit afflicted with Battle Hunger is attacked, the cooldowns of Axe's abilities are reduced by %cdr% seconds. These attacks do not need to come from Axe himself"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh"	                                    "Axe-quisite Allure"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "Each time a unit afflicted with Battle Hunger attacks Axe, the duration of the debuff is fully refreshed"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "Each time a unit afflicted with Battle Hunger attacks Axe, they gain an additional stack of Battle Hunger. This effect fully ignores the ability's max stack count"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health"	                                    "Cardiovascular Axercises"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health_Description"	                        "Axe gains %stack_health% bonus max health every time an enemy unit dies while affected by Berserker's Call. This bonus is lost on death"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger"	                            "Axe-troverted Personality"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "Berserker's Call also automatically applies Battle Hunger unto all affected enemy units"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "Berserker's Call also automatically applies Battle Hunger unto all affected enemy units. Axe is healed for %heal_pct%%  of his max health for each unit taunted"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies"	                                    "Come Axe Me A Question"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies_Description"	                        "Berserker's Call also triggers on allied heroes, granting them the armour bonus and drawing the aggro of nearby enemy units unto Axe instead"

@@ -365,12 +365,6 @@
 "DOTA_Tooltip_ability_item_shadow_amulet_Description"					"<h1>Active: Fade</h1>Grants invisibility to you or a target allied hero as long as the target unit remains still.  <br><br>Has a %fade_time% second fade time, and breaks instantly upon moving. Range: %abilitycastrange%"
 "DOTA_Tooltip_ability_item_shadow_amulet_fade_duration"		"MAX FADE TIME:"
 
-"DOTA_Tooltip_ability_item_vladmir_Description"							"<h1>Passive: Vladmir's Aura</h1>Grants <font color='#F40000'>%lifesteal_aura%%%</font> lifesteal, %damage_aura%%% bonus damage, and %mana_regen_aura% mana regeneration to nearby allies. <br><br>Radius: %aura_radius%"
-"DOTA_Tooltip_ability_item_vladmir_Lore"								"An eerie mask that is haunted with the malice of a fallen vampire."
-
-"DOTA_Tooltip_modifier_item_vladmir_aura"				"Vladmir's Aura"
-"DOTA_Tooltip_modifier_item_vladmir_aura_Description"	"Gaining <font color='#F40000'>%dMODIFIER_PROPERTY_TOOLTIP%%%</font> lifesteal, as well as %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT% mana regen, and %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% armor."
-
 "DOTA_Tooltip_ability_item_satanic_Description"			"<h1>Active: Unholy Rage</h1>Increases Lifesteal percentage to <font color='#F40000'>%unholy_lifesteal_total_tooltip%%%</font> for %unholy_duration% seconds. \n<h1>Passive: Lifesteal</h1>Heals the attacker for <font color='#F40000'>%lifesteal_percent%%%</font> of attack damage dealt."
 "DOTA_Tooltip_ability_item_satanic_Lore"				"Immense power at the cost of your soul."
 "DOTA_Tooltip_ability_item_satanic_bonus_strength"		"+$str"

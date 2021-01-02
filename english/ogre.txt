@@ -26,7 +26,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_lifetime"			                        "Donkey lifespan in seconds: "
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast"		                            	"Get Outta My Swamp"
-"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "If Ogre Magi himself casts Fireblast, the effect also applies unto every single enemy unit within the cast range."
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "If Ogre Magi himself directly casts Fireblast, the effect also applies unto every single enemy unit within the cast range."
 
 "DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite"			                            "Ogre is Love, Ogre is Life"
 "DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite_Description"			                "After hitting their target, Ignite projectiles will additionally bounce to a nearby friendly hero, healing them and increasing their movement speed for the value of the ability"
