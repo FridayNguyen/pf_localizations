@@ -20,7 +20,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_ice_blob_Description"	        "Ледяная струя Dual Breath с вероятностью в %chance%%  может дополнительно создать под каждым задетым врагом фрагмент Ice Path. Урон и оглушение при этом будут соответствовать текущим показателям способности Ice Path."
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier"	                        "Ice-solation Protocol"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier_Description"	            "Применение Ice Path дополнительно создает две стены Ice Shards с обеих сторон ледяной тропы. После исчезновения тропы стены будут существовать еще %duration_add% сек."
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier_Description"	            "Применение Ice Path дополнительно создает барьер из ледяных осколков прямо перед владельцем. После исчезновения тропы барьер будет существовать еще %duration_add% сек."
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast"	                            "On Thin Ice"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast_Description"	                "Союзные герои, оказавшиеся в зоне действия Ice Path, освобождаются от всех негативных эффектов и получают %move_speed%  дополнительной скорости, беспрепятственное и сквозное передвижение, а также иммунитет к замедлению."
