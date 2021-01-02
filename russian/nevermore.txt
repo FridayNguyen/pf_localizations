@@ -37,8 +37,8 @@
 "DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_friendly"	                                    "Favours of Ristul"
 "DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_friendly_Description"	                        "Presence of the Dark Lord now also increases the armour of nearby allies for the ability's value"
 
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal"	                                "Soul of a Poet"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal_Description"	                    "Each soul collected through Necromastery also grants Shadowfiend +2% lifesteal amplification. This applies to all lifesteal effects regardless of damage type"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal"	                                "Souls of a Poet"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal_Description"	                    "Each soul collected through Necromastery also grants Shadowfiend +1% spell amplification, as well as +2% spell lifesteal and regen amplification"
 
 
 
