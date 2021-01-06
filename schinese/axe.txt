@@ -35,16 +35,16 @@
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal_Description"	                    "战斗饥渴以 %percent%% 的伤害量治疗 %radius% 范围内的友方英雄。"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr"	                                "残暴"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr_Description"	                    "每当战斗饥渴状态下的敌方单位受到攻击，淘汰之刃的冷却时间减少 %cdr% 秒。"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr_Description"	                    "每当战斗饥渴状态下的敌方单位受到攻击，斧王所有技能的冷却时间减少 %cdr% 秒。"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh"	                                    "欲壑难填"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "战斗饥渴状态下的敌方单位攻击斧王时，刷新其身上战斗饥渴状态的持续时间。"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "战斗饥渴状态下的敌方单位攻击斧王时，叠加其身上战斗饥渴状态的层数。"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health"	                                    "叠加原理"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health_Description"	                        "每个在狂战士之吼状态下死亡的敌方单位会为斧王额外提供 %stack_health% 最大生命，斧王死亡时额外生命消失。"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger"	                            "寻衅滋事"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "狂战士之吼对受影响的敌方单位施加当前等级的战斗饥渴"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "狂战士之吼对受影响的敌方单位施加当前等级的战斗饥渴，每影响一个敌方单位，斧王回复 %heal_pct%% 的最大生命值。"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies"	                                    "红雾冲锋"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies_Description"	                        "狂战士之吼同时在友方英雄身上触发，给予他们额外的护甲并将附近敌方单位的仇恨转移至斧王身上。"
