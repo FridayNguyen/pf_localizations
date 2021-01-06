@@ -77,6 +77,11 @@
 "DOTA_Tooltip_Ability_item_seer_stone_pf_mana"	            	        "+$mana"
 "DOTA_Tooltip_Ability_item_seer_stone_pf_mana_regen"    	            "+$mana_regen"
 
+"DOTA_Tooltip_Ability_item_craggy_coat_armor_bonus"    	                "+$armor"
+
+"DOTA_Tooltip_Ability_item_eternal_shroud_hero_lifesteal"    	                "%技能吸血 (对首领): "
+"DOTA_Tooltip_Ability_item_eternal_shroud_creep_lifesteal"    	                "%技能吸血 (对小兵): "
+
 "DOTA_Tooltip_Ability_item_pathfinder_travel_boots"                         "寻路者之靴"
 "DOTA_Tooltip_Ability_item_pathfinder_travel_boots_Description"             "多双不叠加的寻路者之靴提供移动速度加成"
 "DOTA_Tooltip_Ability_item_pathfinder_travel_boots_Lore"                    "很高，很快，很强"
