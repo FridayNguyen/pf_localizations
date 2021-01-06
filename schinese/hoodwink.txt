@@ -83,7 +83,7 @@
 "DOTA_Tooltip_Ability_pathfinder_scurry_Lore"                                                   "托莫干森林里没有一处角落或者裂缝里是森海飞霞的爪子够不着的。"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter"                                                  "一箭穿心"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_Description"                                      "森海飞霞装载她的弩机，射出致命的一箭，对一名敌方首领造成高额伤害、减速和破坏效果。伤害和负面状态持续时间随着装载时间增加，%max_charge_time% 秒后达到最大效果，弩箭在 %max_charge_time% 秒后自动发射。由于弩箭的威力，森海飞霞后退 %recoil_distance% 距离。"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_Description"                                      "森海飞霞装载她的弩机，射出致命的一箭，对最多 %max_hit% 名敌方首领造成高额伤害、减速和破坏效果。伤害和负面状态持续时间随着装载时间增加，%max_charge_time% 秒后达到最大效果，弩箭在 %max_charge_time% 秒后自动发射。由于弩箭的威力，森海飞霞后退 %recoil_distance% 距离。弹道上的非首领单位会受到一半伤害。"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_arrow_width"                                      "弩箭体积: "
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_arrow_range"                                      "弩箭最大飞行距离: "
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_max_damage"                                       "最高伤害: "
@@ -179,7 +179,7 @@
 >---------------------------------------
 
 
-"DOTA_Tooltip_Ability_special_bonus_unique_pathfinder_sharpshooter_invis"                       "Sharpshooter grants Invisibility"
+"DOTA_Tooltip_Ability_special_bonus_unique_pathfinder_sharpshooter_invis"                       "森海飞霞获得隐身"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_acorn_shot+bounce_count"              "+{s:bounce_count} 爆栗出击弹射次数"
 "DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_sharpshooter+arrow_range"             "+{s:arrow_range} 一箭穿心范围"
 
