@@ -38,7 +38,7 @@
 "DOTA_Tooltip_Ability_pathfinder_nevermore_special_dark_lord_friendly_Description"	                        "魔王降临会为周围友方单位提供护甲加成。数值与当前等级魔王降临减少的护甲相同。"
 
 "DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal"	                                "诗人之魂"
-"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal_Description"	                    "每个灵魂提供2%吸血增强。"
+"DOTA_Tooltip_Ability_pathfinder_nevermore_special_necromastery_lifesteal_Description"	                    "每个灵魂提供1%吸血增强和2%生命恢复增强。"
 
 
 
