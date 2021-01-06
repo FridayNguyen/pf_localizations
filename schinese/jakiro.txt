@@ -20,7 +20,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_ice_blob_Description"	        "冰火交加的冰霜吐息有 %chance%% 的几率在所有命中的敌人脚下产生一个小型的冰封路径。"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier"	                        "冰柜冷藏"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier_Description"	            "释放冰封路径时会在路径两侧产生两道冰墙，持续时间为冰封路径的 %duration_mult%% ."
+"DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_barrier_Description"	            "释放冰封路径时会产生一道冰墙，冻结双头龙面前的敌人，冰墙在冰封路径融化后持续存在 %duration_add% 秒。"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast"	                            "滑冰场"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_fast_Description"	                "友方英雄接触冰封路径时驱散所有异常状态并获得 %move_speed% 移动速度加成。加成持续时间内无视地形，不可被减速并获得相位转移状态。"
