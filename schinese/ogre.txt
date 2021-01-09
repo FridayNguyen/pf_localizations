@@ -26,7 +26,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_lifetime"			                        "小驴持续时间: "
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast"		                            	"群体轰炸"
-"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "火焰爆轰会在施放时同时轰炸施法距离内的所有敌方单位，多重施法触发的火焰爆轰会触发该效果。"
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "火焰爆轰会在施放时同时轰炸施法距离内的所有敌方单位，多重施法触发的火焰爆轰不会触发该效果。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite"			                            "吞噬火焰"
 "DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite_Description"			                "引燃命中时会折射给目标周围的一个友方英雄，提供与伤害量相同的治疗，并且以相同的减速数值提供移动速度加成。"
