@@ -32,7 +32,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_ice_path_armour_Description"	            "Friendly heroes coming into contact with Ice Path receive an ice coating that repeatedly freeze their attackers for up to %freeze_duration% seconds per attack. The duration of this buff equals to %buff_duration_mult% times the lifetime of Ice Path"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction"           	"A Song of Fire and more Fire"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction_Description"	"Any enemy units that dies while affected by Macropyre will reduce the cooldown of the ability by %cd_percent%%"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction_Description"	"Any enemy units that dies while affected by Macropyre will reduce the cooldown of the ability by %cd_percent%% "
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies"	                        "Molten Blood Transfusion"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"Liquid Fire can now target and affect allied heroes, healing them for 200% of the ability's damage as well as granting them bonus attack speed"

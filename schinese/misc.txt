@@ -129,7 +129,7 @@
 "npc_dota_hero_axe_full_title"				            		"Mogul Khan, Axe"
 "npc_dota_hero_jakiro_full_title"					            "Jakiro, Twin Head Dragon"
 "npc_dota_hero_tidehunter_full_title"				            "Leviathan, Hunter of the Tide"
-""npc_dota_hero_hoodwink_full_title"				                "Hoodwink, Bandit of Tomo'kan"
+"npc_dota_hero_hoodwink_full_title"				                "Hoodwink, Bandit of Tomo'kan"
 
 "npc_dota_hero_venomancer_full_title_intro"				        "Within the master of Jidi Isles once beat the heart of a herbalist"
 "npc_dota_hero_disruptor_full_title_intro"				        "Within his glowing coils courses the power of Druudian skies"

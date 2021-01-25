@@ -33,7 +33,7 @@
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "Get Nutted"
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "Each of Hoodwink's attacks now has a %chance%%  chance of launching the current level of Acorn Shot at the targeted unit"
 
-"DOTA_Tooltip_Ability_pathfinder_scurry_canadian"                                               "Canandian Heritage"
+"DOTA_Tooltip_Ability_pathfinder_scurry_canadian"                                               "Canadian Heritage"
 "DOTA_Tooltip_Ability_pathfinder_scurry_canadian_Description"                                   "While Scurry is active, Hoodwink will immediately destroys any tree or wooden crate she comes into contact with, healing for %heal_percent%%  of her max health and extend the buff duration by %extend_time% seconds for each tree destroyed. Any natural tree cut down this way will regrow after %regrow_time% seconds"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun"                                               "Look At It Go"

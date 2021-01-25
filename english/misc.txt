@@ -5,10 +5,13 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
+"DOTA_Tooltip_modifier_generic_2_charges"                               "Ability Charges"
+"DOTA_Tooltip_modifier_generic_2_charges_Description"                   "Once a charge is spent, it will passively replenish in the background."
+
 "dota_hud_error_already_has_buff"                                       "BUFF IS ALREADY ACTIVE"
 
-"defeat_boss_pathfinder_frost_boss"		                                "Defeat The French Kiss Tutor"
-"pathfinder_frost_boss"                                                 "Balanar the French Kiss Tutor"                      
+"defeat_boss_pathfinder_frost_boss"		                                "Defeat The Frost Walker"
+"pathfinder_frost_boss"                                                 "Balanar the Frost Walker"                      
 "frost_boss_summon"                                                     "Itty Bitty Tick"
 
 "encounter_pathfinder_frost_boss"                                       "A Face Only A Mother Could Love"

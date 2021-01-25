@@ -1,0 +1,237 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO START-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+
+
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop"									"Loop De Loop"
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop_Description"						"Icarus Dive can loop up to %loop% times. If the ability is cancelled early, its cooldown is reduced by %loop_cdr%%% for each unfinished loop"
+
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby"									"Grass Grows, Bird Flies, Sun Shines"
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby_Description"						"During Icarus Dive, Phoenix continuously attacks all enemies within a %radius% radius every %interval% seconds. These attacks can proc on-hit effects"
+
+
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike"							"Aggressive Tanning"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike_Description"				"Briefly after a Fire Spirit's impact, a sun strike is called down upon the location. Any enemy unit hit is stunned for %stun_duration% seconds and dealt burst damage equals to %burst_mult%%% of Fire Spirits' total damage over time"
+
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell"									"Galileo's Revenge"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell_Description"						"If Phoenix takes more than %threshold% damage, it will receive a strong dispel and automatically launch a free fire spirit of the current level unto a nearby enemy. The damage counter reset after %reset_time% seconds of not taking damage"
+
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_baby"									"Lux Memento Mori"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_baby_Description"						"Allied heroes hit by Fire Spirit are followed by a lesser baby phoenix that heals them for %heal_percent%%% of their max health every second. If the hero takes lethal damage during this time, the baby bird will die instead, stunning nearby enemies for %stun_duration% seconds and healing their host to %survive_threshold%%% health in the process. Bird duration: %duration% seconds"
+
+
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_star"										"Fabulous Fowl"
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_star_Description"							"Sun Ray also produces %side_rays% additional rays in all directions around Phoenix"
+
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite"									"Eternal Sunshine Of The Spotless Mind"
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite_Description"						"Sun Ray can be channeled indefinitely and costs %hp_cost_mult%%% less health to channel. While the ability is active, Phoenix can not be stunned and has massively increased turn rate. However, Phoenix can not move while channeling Sun Ray"
+
+
+	"DOTA_Tooltip_ability_pathfinder_supernova_blackhole"								"Black Hole Sun"
+	"DOTA_Tooltip_ability_pathfinder_supernova_blackhole_Description"					"Supernova also creates a black hole at its location. This black hole stuns any nearby enemy unit, dealing %self_max_hp_dps%%% of Phoenix's max health as damage every second"
+
+	"DOTA_Tooltip_ability_pathfinder_supernova_allies"									"Fortunate Sun"
+	"DOTA_Tooltip_ability_pathfinder_supernova_allies_Description"						"Supernova gains an additional charge and becomes a unit target ability, allowing Phoenix to apply the effect unto an ally instead of itself"
+
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf"										"Icarus Dive"
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_Description"							"Phoenix dives forward in an arc with a fixed distance in the targeted direction, dealing damage over time and slowing the movement speed of any units it comes into contact with, and then orbiting back to its original position. The dive can be cancelled prematurely by casting the ability again while in flight. If Phoenix casts Supernova, the dive ends."
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_Lore"									"Some birds are born made to wave the flag\nThey're red, white and blue\nAnd when the band plays 'Hail to the Chief'\nThey point the cannon at you, Lord"		
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_hp_cost_perc"							"%Current Health as Cost: "
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_dash_length"							"Dive Distance: "
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_burn_duration"							"Debuff Duration:"
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_damage_per_second"						"Damage per Second:"
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_slow_movement_speed_pct"				"%Movement Speed Slow:"
+	
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_stop"									"Stop Icarus Dive"
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_stop_Description"						"Immediately cancels the dive."
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_stop_Lore"								"SCREE!"
+	
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf"										"Summon Fire Spirits"
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_Description"							"Summons 4 fire spirits that circle around Phoenix. Each spirit can be launched independently at a targeted area of effect. Affected enemy units take damage over time and have their attack speed greatly reduced."
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_Lore"									"It ain't me, it ain't me\nI ain't no senator's bird, no\nIt ain't me, it ain't me\nI ain't no fortunate one"
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_hp_cost_perc"							"%Current Health as Cost: "
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_spirit_duration"						"Spirits Duration: "
+	
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf"								"Fire Spirit"
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_Description"					"Each fire spirit can be launched independently at a targeted area of effect. Affected enemy units take damage over time and have their attack speed greatly reduced."
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_Lore"							"It ain't me, it ain't me\nI ain't no senator's bird, no\nIt ain't me, it ain't me\nI ain't no fortunate one"
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_radius"							"Effect Radius: "
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_duration"						"Debuff Duration: "
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_damage_per_second"				"Damage per Second: "
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_attackspeed_slow"				"Attack Speed Reduction: "
+	
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf"											"Sun Ray"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_Description"								"Phoenix expels a beam of light at the cost of its own health. The beam damages enemies and heals allies for a base amount plus a percentage of their health. The percentage increases as the beam continues to fire."
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_Lore"										"Some birds are born silver spoon in hand\nLord, don't they help themselves, kawk!\nBut when the megacreeps comes to the door\nThe ancient look a like a rummage sale"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_hp_cost_perc_per_second"					"%Current Health as Cost per Second: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_base_damage"								"Base Damage per Second: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_base_heal"									"Base Heal per Second: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_hp_perc_heal"								"%Initial Max Health as Heal per Second: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_duration"									"Max Duration: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_beam_range"								"Beam Range: "
+	
+	"DOTA_Tooltip_ability_phoenix_sun_ray_stop_pf"										"Stop Sun Ray"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_stop_pf_Description"							"Immediately stops the Sun Ray."
+	"DOTA_Tooltip_ability_phoenix_sun_ray_stop_pf_Lore"									"Some birds are born silver spoon in hand\nLord, don't they help themselves, kawk!\nBut when the megacreeps comes to the door\nThe ancient look a like a rummage sale"
+	
+	"DOTA_Tooltip_ability_phoenix_sun_ray_toggle_move_pf"								"Toggle Movement"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_toggle_move_pf_Description"					"Toggles slow forward movement during Sun Ray firing."
+	"DOTA_Tooltip_ability_phoenix_sun_ray_toggle_move_pf_Lore"							"It ain't me, it ain't me\nI ain't no millionaire's bird, no, no\nIt ain't me, it ain't me\nI ain't no fortunate one"
+	
+	"DOTA_Tooltip_ability_phoenix_supernova_pf"											"Supernova"
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_Description"								"The Phoenix willingly ends its current life for the chance to be reborn. Transforms into a burning sun that scorches enemies in a huge area. After %abilityduration% seconds the sun explodes, stunning all nearby enemies while restoring Phoenix to full health and mana with refreshed abilities. If the sun is destroyed prematurely, Phoenix dies.\n\nDISPEL TYPE: Strong Dispel"
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_Lore"									"Yeah, some birds inherit star-spangled eyes\nThey send you down to war\nAnd when you ask 'em: 'How much should we give?'\nThey only answer: 'Kawk, Kawk, Kawk!'"
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_aura_radius"								"Effect Radius: "
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_abilityduration"							"Duration: "
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_damage_per_sec"							"Damage per Second: "
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_stun_duration"							"Stun Duration: "
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_max_health_for_egg"						"Max Health as Egg Health: "
+		
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+	"phoenix_icarus_dive_pf_cooldown"													"-{s:value}% {s:ability_name} Cooldown"
+	"phoenix_icarus_dive_pf_dash_length"												"+{s:value} {s:ability_name} Dash Length"
+	"phoenix_icarus_dive_pf_burn_duration"												"+{s:value}s {s:ability_name} Debuff Duration"
+	"phoenix_icarus_dive_pf_damage_per_second"											"+{s:value} {s:ability_name} Damage per Seconds"
+	"phoenix_icarus_dive_pf_slow_movement_speed_pct"									"+{s:value}% {s:ability_name} Movement Speed Slow"
+
+	"phoenix_fire_spirits_pf_cooldown"													"-{s:value}% {s:ability_name} Cooldown"
+	
+	"phoenix_launch_fire_spirit_pf_duration"											"+{s:value}s {s:ability_name} Debuff Duration"
+	"phoenix_launch_fire_spirit_pf_damage_per_second"									"+{s:value} {s:ability_name} Damage per Second"
+	"phoenix_launch_fire_spirit_pf_attackspeed_slow"									"-{s:value} {s:ability_name} Attack Speed Reduction"
+
+	"phoenix_sun_ray_pf_cooldown"														"-{s:value}% {s:ability_name} Cooldown"
+	"phoenix_sun_ray_pf_hp_cost_perc_per_second"										"{s:value}% {s:ability_name} Current Health as Cost per Second"
+	"phoenix_sun_ray_pf_hp_perc_heal"													"+{s:value}% {s:ability_name} Initial Max Health as Heal per Second"
+	"phoenix_sun_ray_pf_base_damage"													"+{s:value} {s:ability_name} Damage per Second"
+	"phoenix_sun_ray_pf_beam_range"														"+{s:value} {s:ability_name} Beam Range"
+
+	"phoenix_supernova_pf_cooldown"														"-{s:value}% {s:ability_name} Cooldown"
+	"phoenix_supernova_pf_damage_per_sec"												"+{s:value} {s:ability_name} Damage per Second"
+	"phoenix_supernova_pf_max_health_for_egg"											"+{s:value}% {s:ability_name} Max Health as Egg Health"
+	"phoenix_supernova_pf_stun_duration"												"+{s:value}s {s:ability_name} Stun Duration"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_cooldown"										"Icarus Dive - Cooldown"
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_dash_length"									"Icarus Dive - Dive Distance"
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_burn_duration"								"Icarus Dive - Debuff Duration"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_damage_per_second"							"Icarus Dive - Damage per Second"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_slow_movement_speed_pct"						"Icarus Dive - Movement Slow"
+
+	"DOTA_Tooltip_Ability_item_phoenix_fire_spirits_pf_cooldown"									"Fire Spirits - Cooldown"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_duration"								"Fire Spirits - Debuff Duration"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_damage_per_second"						"Fire Spirits - Damage per Second"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_attackspeed_slow"						"Fire Spirits - Attack Speed Reduction"
+
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_cooldown"											"Sun Ray - Cooldown"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second"							"Sun Ray - Health Cost"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_base_damage"										"Sun Ray - Damage"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_perc_heal"										"Sun Ray - Heal"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_beam_range"										"Sun Ray - Range"
+
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_cooldown"										"Supernova - Cooldown"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_damage_per_sec"									"Supernova - Damage"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_max_health_for_egg"								"Supernova - Egg Health"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_stun_duration"									"Supernova - Stun Duration"
+
+	
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_cooldown_Description"									"<h1>Common Scepter Fragment</h1>Reduces Icarus Dive Cooldown by %value%%%."
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_dash_length_Description"								"<h1>Common Scepter Fragment</h1>Increases Icarus Dive Length by %value%."
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_burn_duration_Description"							"<h1>Common Scepter Fragment</h1>Increases Icarus Dive Debuff Duration by %value% seconds."
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_damage_per_second_Description"						"<h1>Common Scepter Fragment</h1>Increases Icarus Dive Damage per Second by %value%."
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_slow_movement_speed_pct_Description"					"<h1>Common Scepter Fragment</h1>Increases Icarus Dive Movement Slow by %value%%%."
+
+	"DOTA_Tooltip_Ability_item_phoenix_fire_spirits_pf_cooldown_Description"								"<h1>Common Scepter Fragment</h1>Reduces Fire Spirits Cooldown by %value%%%."
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_duration_Description"							"<h1>Common Scepter Fragment</h1>Increases Fire Spirit Debuff Duration by %value% seconds."
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_damage_per_second_Description"					"<h1>Common Scepter Fragment</h1>Increases Fire Spirits Damage per Second by %value%."
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_attackspeed_slow_Description"					"<h1>Common Scepter Fragment</h1>Increases Fire Spirits Attack Speed Reduction by %value%."
+
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_cooldown_Description"										"<h1>Common Scepter Fragment</h1>Reduces Sun Ray Cooldown by %value%%%."
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second_Description"						"<h1>Common Scepter Fragment</h1>Increases Sun Ray Health Percentage Cost by %value%%%."
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_base_damage_Description"									"<h1>Common Scepter Fragment</h1>Increases Sun Ray Base Damage by %value%."
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_perc_heal_Description"									"<h1>Common Scepter Fragment</h1>Increases Sun Ray Initial Health Percentage Heal by %value%."
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_beam_range_Description"									"<h1>Common Scepter Fragment</h1>Increases Sun Ray Beam Range by %value%."
+
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_cooldown_Description"									"<h1>Common Scepter Fragment</h1>Reduces Supernova Cooldown by %value%%%."
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_damage_per_sec_Description"								"<h1>Common Scepter Fragment</h1>Increases Supernova Damage per Second by %value%."
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_max_health_for_egg_Description"							"<h1>Common Scepter Fragment</h1>Increases Supernova Max Health as Egg Health by %value%%%."
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_stun_duration_Description"								"<h1>Common Scepter Fragment</h1>Increases Supernova Stun Duration by %value% seconds."
+
+
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+
+
+	"DOTA_Tooltip_Ability_special_bonus_pathfinder_phoenix_icarus_dive_pf+burn_duration"			"+{s:burn_duration}s Icarus Dive Debuff Duration"
+	"DOTA_Tooltip_Ability_special_bonus_pathfinder_phoenix_supernova_pf+max_health_for_egg"			"+{s:max_health_for_egg}% Max Health for Supernova Egg"
+	"DOTA_Tooltip_Ability_special_bonus_pathfinder_phoenix_icarus_dive_pf+dash_length"				"+{s:dash_length} Icarus Dive Flight Distance"
+	"DOTA_Tooltip_Ability_special_bonus_pathfinder_phoenix_launch_fire_spirit_pf+damage_per_second"	"+{s:damage_per_second} Fire Spirits DPS"
+	"DOTA_Tooltip_Ability_special_bonus_unique_phoenix_egg_bkb"										"Supernova Egg gains Spell Immunity"
+
+
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+
+	"DOTA_Tooltip_modifier_phoenix_icarus_dive_slow_debuff_pf"							"Icarus Dive Burn"
+	"DOTA_Tooltip_modifier_phoenix_icarus_dive_slow_debuff_pf_Description"				"Taking %dMODIFIER_PROPERTY_TOOLTIP% damage per second and movement slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+	"DOTA_Tooltip_modifier_phoenix_fire_spirits_burn_pf"								"Fire Spirit Burn"
+	"DOTA_Tooltip_modifier_phoenix_fire_spirits_burn_pf_Description"					"Taking %dMODIFIER_PROPERTY_TOOLTIP% damage every second and attack speed slowed by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+	"DOTA_Tooltip_modifier_phoenix_fire_spirits_pf_count"								"Fire Spirits"
+	"DOTA_Tooltip_modifier_phoenix_fire_spirits_pf_count_Description"					"Fire Spirits ready to launch."
+
+	"DOTA_Tooltip_modifier_phoenix_supernova_pf_caster_dummy"							"Sun Form"
+	"DOTA_Tooltip_modifier_phoenix_supernova_pf_caster_dummy_Description"				"Burning enemies before being reborn."
+
+	"DOTA_Tooltip_modifier_phoenix_supernova_pf_dmg"									"Sun Burn"
+	"DOTA_Tooltip_modifier_phoenix_supernova_pf_dmg_Description"						"Taking %dMODIFIER_PROPERTY_TOOLTIP% damage per second."	
+
+	"DOTA_Tooltip_modifier_phoenix_fire_spirit_shell"									"Galileo's Revenge"
+	"DOTA_Tooltip_modifier_phoenix_fire_spirit_shell_Description"						"If the amount of damage taken pass a threshold, receives a strong dispel and automaticall launch a free fire spirit unto a nearby enemy"
+
+	"DOTA_Tooltip_modifier_phoenix_fire_spirit_baby"									"Lux Memento Mori"
+	"DOTA_Tooltip_modifier_phoenix_fire_spirit_baby_Description"						"Being healed by baby phoenix. If you take lethal damage, the baby birb will die instead of you. You monster"	
+
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO END-------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

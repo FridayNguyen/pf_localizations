@@ -59,7 +59,7 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows"	                                        		"Overwhelmingly Overwhelming Odds"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Description"	                            		"Герой может в течение %channel_time% сек. каждые %interval% сек. применять Overwhelming Odds текущего уровня на случайного видимого врага в любой точке карты.
+"DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Description"	                            		"Герой может в течение %channel_time% сек. каждые %interval% сек. применять Overwhelming Odds текущего уровня на случайного видимого врага в любой точке карты."
 "DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_Lore"		                                    	"Any experienced archer will tell you how irritating it is when your targets keep moving around. The question is how to stop these wankers from magically wind-sprinting around like they own the place. And the answer is to pin them to the grounds. How? With arrows! How many arrows? Yes."
 
 
