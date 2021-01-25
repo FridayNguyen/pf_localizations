@@ -50,7 +50,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal_Description"             	"Теперь Macropyre также лечит всех союзных героев в зоне действия на %heal_percent%%  от общего урона способности."
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal"	                        "Darling It's Cold Outside"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "Огненная тропа Macropyre никогда не исчезнет, пока Jakiro находится на ней, но на время действия этого эффекта перезарядка способности останавливается."
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "Огненная тропа Macropyre никогда не исчезнет, пока Jakiro находится на ней."
 
 
 >---------------------------------------
