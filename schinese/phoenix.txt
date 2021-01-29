@@ -26,7 +26,7 @@
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell_Description"						"当凤凰在 %reset_time% s内受到超过 %threshold% 点伤害时，强驱散绝大部分负面效果并对周围的敌人释放一个烈火精灵。"
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_baby"									"青鸟殷勤"
-	"DOTA_Tooltip_ability_pathfinder_fire_spirit_baby_Description"						"友方英雄被烈火精灵击中时在其身后召唤一只青鸟，每秒回复被寄宿友军 %heal_percent%%% 最大生命值。若期间宿主受到致死伤害，青鸟消失，眩晕周围的敌人 %stun_duration% s，并回复其宿主 %survive_threshold%%% 的生命值。青鸟寄宿 %duration% 秒。"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_baby_Description"						"友方英雄被烈火精灵击中时在其身后召唤一只青鸟，每秒回复被寄宿友军 %heal_percent%%% 的最大生命值。若期间宿主受到致死伤害，青鸟代为牺牲，眩晕周围的敌人 %stun_duration% s，并回复其宿主 %survive_threshold%%% 的生命值。青鸟最多寄宿 %duration% 秒。"
 
 
 	"DOTA_Tooltip_ability_pathfinder_sun_ray_star"										"光芒万丈"
