@@ -22,7 +22,7 @@
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "密林奔走激活以及结束时森海飞霞会在原地创造一颗橡树，并立刻在橡树周围释放一次野地奇袭。"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "接骨木果香"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "一箭穿心会在弹道上持续创造橡树，在一箭穿心充能时，森海飞霞所受伤害减少 %damage_reduction%%。"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "一箭穿心会在弹道上持续创造橡树，在一箭穿心充能时，森海飞霞所受伤害减少 %damage_reduction%% 。"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce"                                           "自然之力"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "一箭穿心会对第弹道上的非首领单位造成半额伤害并减速。"
