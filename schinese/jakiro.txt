@@ -47,7 +47,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_burning_man_Description"      	"释放烈焰焚身时在目标周围额外释放5个小型的烈焰焚身"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal"	                            "拔火罐"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal_Description"             	"烈焰焚身治疗路径上的友方英雄，治疗量为烈焰焚身伤害量的 %heal_percent%%。"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_heal_Description"             	"烈焰焚身治疗路径上的友方英雄，治疗量为烈焰焚身伤害量的 %heal_percent%% 。"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal"	                        "火中做自己"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_eternal_Description"	            "杰奇洛身处烈焰焚身路径中时，烈焰焚身路径不会消失。"
