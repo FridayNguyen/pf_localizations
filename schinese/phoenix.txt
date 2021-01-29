@@ -13,14 +13,14 @@
 
 
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop"									"轮回"
-	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop_Description"						"凤凰冲击会连续飞行 %loop% 轮。如果提前终止飞行，冷却时间会减少剩余飞行轮数 * %loop_cdr%%%。"
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop_Description"						"凤凰冲击会连续飞行 %loop% 轮。如果提前终止飞行，冷却时间会减少剩余飞行轮数 * %loop_cdr%%% 。"
 
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby"									"草长莺飞二月天"
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby_Description"						"释放凤凰冲击的飞行过程中，凤凰每 %interval% s对 %radius% 范围内的敌人进行攻击，攻击继承攻击特效。"
 
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike"							"阳炎精灵"
-	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike_Description"				"烈火精灵落地后会在落点召唤一道天火，造成%stun_duration%s眩晕和%burst_mult%%% 烈火精灵的满额伤害。"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike_Description"				"烈火精灵落地后会在落点召唤一道天火，造成 %stun_duration% s眩晕和%burst_mult%%% 烈火精灵的满额伤害。"
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell"									"伽利略的复仇"
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell_Description"						"当凤凰在 %reset_time% s内受到超过 %threshold% 点伤害时，强驱散绝大部分负面效果并对周围的敌人释放一个烈火精灵。"
@@ -33,7 +33,7 @@
 	"DOTA_Tooltip_ability_pathfinder_sun_ray_star_Description"							"烈日炙烤在周围额外释放 %side_rays% 道激光。"
 
 	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite"									"神鸟守卫"
-	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite_Description"						"释放烈日炙烤时不可移动，同时生命消耗为原技能的 %hp_cost_mult%%% ，移除最大持续时间，大幅提升凤凰的转身速率，并且不会被眩晕。"
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite_Description"						"释放烈日炙烤时不可移动，同时生命消耗为原技能的 %hp_cost_mult%%%  ，移除最大持续时间，大幅提升凤凰的转身速率，并且不会被眩晕。"
 
 
 	"DOTA_Tooltip_ability_pathfinder_supernova_blackhole"								"恒星奇点"
@@ -162,27 +162,27 @@
 	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_stun_duration"									"超新星 - 眩晕时间"
 
 	
-	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_cooldown_Description"									"<h1>普通神杖碎片</h1>-%value%%%凤凰冲击冷却时间"
-   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_dash_length_Description"								"<h1>普通神杖碎片</h1>+%value%凤凰冲击距离"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_cooldown_Description"									"<h1>普通神杖碎片</h1>- %value%%% 凤凰冲击冷却时间"
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_dash_length_Description"								"<h1>普通神杖碎片</h1>+ %value% 凤凰冲击距离"
    	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_burn_duration_Description"							"<h1>普通神杖碎片</h1>+%value% s凤凰冲击灼烧时间"
-	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_damage_per_second_Description"						"<h1>普通神杖碎片</h1>+%value%凤凰冲击每秒灼烧伤害"
-	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_slow_movement_speed_pct_Description"					"<h1>普通神杖碎片</h1>+%value%%%凤凰冲击移动速度减缓"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_damage_per_second_Description"						"<h1>普通神杖碎片</h1>+ %value% 凤凰冲击每秒灼烧伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_slow_movement_speed_pct_Description"					"<h1>普通神杖碎片</h1>+ %value%%% 凤凰冲击移动速度减缓"
 
-	"DOTA_Tooltip_Ability_item_phoenix_fire_spirits_pf_cooldown_Description"								"<h1>普通神杖碎片</h1>-%value%%%烈火精灵冷却时间"
-	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_duration_Description"							"<h1>普通神杖碎片</h1>+%value% s烈火精灵灼烧时间"
-	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_damage_per_second_Description"					"<h1>普通神杖碎片</h1>+%value%烈火精灵每秒伤害"
-	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_attackspeed_slow_Description"					"<h1>普通神杖碎片</h1>+%value%烈火精灵攻击速度降低"
+	"DOTA_Tooltip_Ability_item_phoenix_fire_spirits_pf_cooldown_Description"								"<h1>普通神杖碎片</h1>- %value%%% 烈火精灵冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_duration_Description"							"<h1>普通神杖碎片</h1>+ %value% s烈火精灵灼烧时间"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_damage_per_second_Description"					"<h1>普通神杖碎片</h1>+ %value% 烈火精灵每秒伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_attackspeed_slow_Description"					"<h1>普通神杖碎片</h1>+ %value% 烈火精灵攻击速度降低"
 
-	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_cooldown_Description"										"<h1>普通神杖碎片</h1>-%value%%%烈日炙烤冷却时间"
-	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second_Description"						"<h1>普通神杖碎片</h1>+%value%%%烈日炙烤每秒当前生命值消耗"
-	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_base_damage_Description"									"<h1>普通神杖碎片</h1>+%value%烈日炙烤基础伤害"
-	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_perc_heal_Description"									"<h1>普通神杖碎片</h1>+%value%烈日炙烤基础最大生命治疗% "
-	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_beam_range_Description"									"<h1>普通神杖碎片</h1>+%value%烈日炙烤光线长度"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_cooldown_Description"										"<h1>普通神杖碎片</h1>- %value%%% 烈日炙烤冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second_Description"						"<h1>普通神杖碎片</h1>+ %value%%% 烈日炙烤每秒当前生命值消耗"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_base_damage_Description"									"<h1>普通神杖碎片</h1>+ %value% 烈日炙烤基础伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_perc_heal_Description"									"<h1>普通神杖碎片</h1>+ %value% 烈日炙烤基础最大生命治疗% "
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_beam_range_Description"									"<h1>普通神杖碎片</h1>+ %value% 烈日炙烤光线长度"
 
-	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_cooldown_Description"									"<h1>普通神杖碎片</h1>-%value%%%超新星冷却时间"
-	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_damage_per_sec_Description"								"<h1>普通神杖碎片</h1>+%value%超新星烧灼伤害"
-	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_max_health_for_egg_Description"							"<h1>普通神杖碎片</h1>+%value%%%超新星继承最大生命"
-	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_stun_duration_Description"								"<h1>普通神杖碎片</h1>+%value% s超新星眩晕时间"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_cooldown_Description"									"<h1>普通神杖碎片</h1>- %value%%% 超新星冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_damage_per_sec_Description"								"<h1>普通神杖碎片</h1>+ %value% 超新星烧灼伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_max_health_for_egg_Description"							"<h1>普通神杖碎片</h1>+ %value%%% 超新星继承最大生命"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_stun_duration_Description"								"<h1>普通神杖碎片</h1>+ %value%  s超新星眩晕时间"
 
 
 
