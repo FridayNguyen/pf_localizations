@@ -1,0 +1,237 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO START-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+
+
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop"									"轮回"
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop_Description"						"凤凰冲击会连续飞行 %loop% 轮。如果提前终止飞行，冷却时间会减少剩余飞行轮数 * %loop_cdr%%%。"
+
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby"									"草长莺飞二月天"
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby_Description"						"释放凤凰冲击的飞行过程中，凤凰每 %interval% s对 %radius% 范围内的敌人进行攻击，攻击继承攻击特效。"
+
+
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike"							"阳炎精灵"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike_Description"				"烈火精灵落地后会在落点召唤一道天火，造成%stun_duration%s眩晕和%burst_mult%%% 烈火精灵的满额伤害。"
+
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell"									"伽利略的复仇"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell_Description"						"当凤凰在 %reset_time% s内受到超过 %threshold% 点伤害时，强驱散绝大部分负面效果并对周围的敌人释放一个烈火精灵。"
+
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_baby"									"青鸟殷勤"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_baby_Description"						"友方英雄被烈火精灵击中时在其身后召唤一只青鸟，每秒回复被寄宿友军 %heal_percent%%% 最大生命值。若期间宿主受到致死伤害，青鸟消失，眩晕周围的敌人 %stun_duration% s，并回复其宿主 %survive_threshold%%% 的生命值。青鸟寄宿 %duration% 秒。"
+
+
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_star"										"光芒万丈"
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_star_Description"							"烈日炙烤在周围额外释放 %side_rays% 道激光。"
+
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite"									"神鸟守卫"
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite_Description"						"释放烈日炙烤时不可移动，同时生命消耗为原技能的 %hp_cost_mult%%% ，移除最大持续时间，大幅提升凤凰的转身速率，并且不会被眩晕。"
+
+
+	"DOTA_Tooltip_ability_pathfinder_supernova_blackhole"								"恒星奇点"
+	"DOTA_Tooltip_ability_pathfinder_supernova_blackhole_Description"					"释放超新星时在周围释放一个黑洞，眩晕周围的敌人，每秒造成 %self_max_hp_dps%%% 凤凰最大生命值的伤害。"
+
+	"DOTA_Tooltip_ability_pathfinder_supernova_allies"									"赞美太阳"
+	"DOTA_Tooltip_ability_pathfinder_supernova_allies_Description"						"超新星成为指向性技能，额外获得一点充能，可以对队友释放，使其变成一颗燃烧的恒星，若持续时间内恒星未被打破，队友将重生。"
+
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf"										"凤凰冲击"
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_Description"							"凤凰向目标方向进行圆弧状飞行，飞行距离固定，对沿途的敌人造成持续伤害并减缓其移动速度，然后返回初始位置。飞行过程中如果施放超新星将停止飞行。"
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_Lore"									"尽管没少在宇宙虚空之间遨游，但在大气里振翅高飞还是有不同的快感。"		
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_hp_cost_perc"							"当前生命值消耗%: "
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_dash_length"							"冲击距离: "
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_burn_duration"							"烧灼持续时间: "
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_damage_per_second"						"每秒烧灼伤害: "
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_slow_movement_speed_pct"				"移动速度减缓%: "
+	
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_stop"									"终止凤凰冲击"
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_stop_Description"						"马上停止冲击。"
+	"DOTA_Tooltip_ability_phoenix_icarus_dive_pf_stop_Lore"								"停！"
+	
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf"										"烈火精灵"
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_Description"							"召唤4只围绕凤凰飞行的烈火精灵。每一只烈火精灵都能被单独发射到指定区域。对敌人持续造成伤害并大幅降低他们的攻击速度。"
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_Lore"									"凤凰那不断坍塌重生的内核经常释放出具有意识的霎那光流。"
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_hp_cost_perc"							"当前生命值消耗%: "
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_spirit_duration"						"精灵持续时间: "
+	
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf"								"发动烈火精灵"
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_Description"					"每一只烈火精灵都能被单独发射到指定区域。对敌人持续造成伤害并大幅降低他们的攻击速度。"
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_Lore"							"轰！嘣！"
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_radius"							"效果范围: "
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_duration"						"烧灼持续时间: "
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_damage_per_second"				"每秒伤害: "
+	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_attackspeed_slow"				"攻击速度降低: "
+	
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf"											"烈日炙烤"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_Description"								"凤凰以损失生命能量为代价，向前射出一束炽热的光线炙烤敌人。光线对敌人造成伤害，并且能治疗友军，治疗的数值为基础数值加上目标生命值的一定百分比。随着光线不断炙烤，造成的伤害也会不断增加。"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_Lore"										"星体能量的这般释放对凤凰来说仅仅是打开了原子大小的豁口。"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_hp_cost_perc_per_second"					"每秒当前生命值消耗%: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_base_damage"								"每秒基础伤害: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_base_heal"									"每秒基础治疗: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_hp_perc_heal"								"基础最大生命治疗%: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_duration"									"最大持续时间: "
+	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_beam_range"								"光线长度: "
+	
+	"DOTA_Tooltip_ability_phoenix_sun_ray_stop_pf"										"终止烈日炙烤"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_stop_pf_Description"							"马上停止烈日炙烤。"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_stop_pf_Lore"									"吱吱！"
+	
+	"DOTA_Tooltip_ability_phoenix_sun_ray_toggle_move_pf"								"切换移动状态"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_toggle_move_pf_Description"					"在烈日炙烤时切换为缓慢前行状态。"
+	"DOTA_Tooltip_ability_phoenix_sun_ray_toggle_move_pf_Lore"							"&￥……% "
+	
+	"DOTA_Tooltip_ability_phoenix_supernova_pf"											"超新星"
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_Description"								"凤凰十分乐意终结自己现在的生命来换取重生。将自己变为一颗燃烧的恒星，灼烧附近一大片区域内的敌人。经过%abilityduration%秒后恒星将会爆炸，眩晕周围所有敌人。而凤凰的生命和魔法值都会回到满状态，并且所有技能的冷却时间都会刷新。恒星受到敌方英雄一定次数的攻击后将会被摧毁。恒星继承凤凰一定比例的生命，受到一定伤害后将会被摧毁。\n\n驱散类型: 强驱散"
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_Lore"									"超新星的烈日试炼致命非常，而从烈焰中，永生的凤吟将再一次升起。"
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_aura_radius"								"范围: "
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_abilityduration"							"新星持续时间: "
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_damage_per_sec"							"每秒伤害: "
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_stun_duration"							"眩晕时间: "
+	"DOTA_Tooltip_ability_phoenix_supernova_pf_max_health_for_egg"						"超新星继承生命%: "
+		
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+	"phoenix_icarus_dive_pf_cooldown"													"-{s:value}% {s:ability_name} 冷却时间"
+	"phoenix_icarus_dive_pf_dash_length"												"+{s:value} {s:ability_name} 冲击距离"
+	"phoenix_icarus_dive_pf_burn_duration"												"+{s:value}s {s:ability_name} 烧灼持续时间"
+	"phoenix_icarus_dive_pf_damage_per_second"											"+{s:value} {s:ability_name} 每秒烧灼伤害"
+	"phoenix_icarus_dive_pf_slow_movement_speed_pct"									"+{s:value}% {s:ability_name} 移动速度减缓"
+
+	"phoenix_fire_spirits_pf_cooldown"													"-{s:value}% {s:ability_name} 冷却时间"
+	
+	"phoenix_launch_fire_spirit_pf_duration"											"+{s:value}s {s:ability_name} 烧灼持续时间"
+	"phoenix_launch_fire_spirit_pf_damage_per_second"									"+{s:value} {s:ability_name} 每秒烧灼伤害"
+	"phoenix_launch_fire_spirit_pf_attackspeed_slow"									"-{s:value} {s:ability_name} 攻击速度降低"
+
+	"phoenix_sun_ray_pf_cooldown"														"-{s:value}% {s:ability_name} 冷却时间"
+	"phoenix_sun_ray_pf_hp_cost_perc_per_second"										"{s:value}% {s:ability_name} 每秒当前生命值消耗% "
+	"phoenix_sun_ray_pf_hp_perc_heal"													"+{s:value}% {s:ability_name} 基础最大生命治疗% "
+	"phoenix_sun_ray_pf_base_damage"													"+{s:value} {s:ability_name} 每秒基础伤害"
+	"phoenix_sun_ray_pf_beam_range"														"+{s:value} {s:ability_name} 光线长度"
+
+	"phoenix_supernova_pf_cooldown"														"-{s:value}% {s:ability_name} 冷却时间"
+	"phoenix_supernova_pf_damage_per_sec"												"+{s:value} {s:ability_name} 每秒伤害"
+	"phoenix_supernova_pf_max_health_for_egg"											"+{s:value}% {s:ability_name} 超新星继承生命% "
+	"phoenix_supernova_pf_stun_duration"												"+{s:value}s {s:ability_name} 眩晕时间"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_cooldown"										"凤凰冲击 - 冷却时间"
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_dash_length"									"凤凰冲击 - 冲击距离"
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_burn_duration"								"凤凰冲击 - 烧灼时间"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_damage_per_second"							"凤凰冲击 - 每秒烧灼伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_slow_movement_speed_pct"						"凤凰冲击 - 移动速度减缓"
+
+	"DOTA_Tooltip_Ability_item_phoenix_fire_spirits_pf_cooldown"									"烈火精灵 - 冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_duration"								"烈火精灵 - 烧灼时间"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_damage_per_second"						"烈火精灵 - 每秒烧灼伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_attackspeed_slow"						"烈火精灵 - 攻击速度降低"
+
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_cooldown"											"烈日炙烤 - 冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second"							"烈日炙烤 - 每秒当前生命值消耗"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_base_damage"										"烈日炙烤 - 基础伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_perc_heal"										"烈日炙烤 - 基础最大生命治疗"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_beam_range"										"烈日炙烤 - 光线长度"
+
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_cooldown"										"超新星 - 冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_damage_per_sec"									"超新星 - 每秒伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_max_health_for_egg"								"超新星 - 超新星继承生命% "
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_stun_duration"									"超新星 - 眩晕时间"
+
+	
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_cooldown_Description"									"<h1>普通神杖碎片</h1>-%value%%%凤凰冲击冷却时间"
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_dash_length_Description"								"<h1>普通神杖碎片</h1>+%value%凤凰冲击距离"
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_burn_duration_Description"							"<h1>普通神杖碎片</h1>+%value% s凤凰冲击灼烧时间"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_damage_per_second_Description"						"<h1>普通神杖碎片</h1>+%value%凤凰冲击每秒灼烧伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_slow_movement_speed_pct_Description"					"<h1>普通神杖碎片</h1>+%value%%%凤凰冲击移动速度减缓"
+
+	"DOTA_Tooltip_Ability_item_phoenix_fire_spirits_pf_cooldown_Description"								"<h1>普通神杖碎片</h1>-%value%%%烈火精灵冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_duration_Description"							"<h1>普通神杖碎片</h1>+%value% s烈火精灵灼烧时间"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_damage_per_second_Description"					"<h1>普通神杖碎片</h1>+%value%烈火精灵每秒伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_attackspeed_slow_Description"					"<h1>普通神杖碎片</h1>+%value%烈火精灵攻击速度降低"
+
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_cooldown_Description"										"<h1>普通神杖碎片</h1>-%value%%%烈日炙烤冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second_Description"						"<h1>普通神杖碎片</h1>+%value%%%烈日炙烤每秒当前生命值消耗"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_base_damage_Description"									"<h1>普通神杖碎片</h1>+%value%烈日炙烤基础伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_perc_heal_Description"									"<h1>普通神杖碎片</h1>+%value%烈日炙烤基础最大生命治疗% "
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_beam_range_Description"									"<h1>普通神杖碎片</h1>+%value%烈日炙烤光线长度"
+
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_cooldown_Description"									"<h1>普通神杖碎片</h1>-%value%%%超新星冷却时间"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_damage_per_sec_Description"								"<h1>普通神杖碎片</h1>+%value%超新星烧灼伤害"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_max_health_for_egg_Description"							"<h1>普通神杖碎片</h1>+%value%%%超新星继承最大生命"
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_stun_duration_Description"								"<h1>普通神杖碎片</h1>+%value% s超新星眩晕时间"
+
+
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+
+
+	"DOTA_Tooltip_Ability_special_bonus_pathfinder_phoenix_icarus_dive_pf+burn_duration"			"+{s:burn_duration}s 凤凰冲击灼烧时间"
+	"DOTA_Tooltip_Ability_special_bonus_pathfinder_phoenix_supernova_pf+max_health_for_egg"			"+{s:max_health_for_egg}% 超新星继承生命"
+	"DOTA_Tooltip_Ability_special_bonus_pathfinder_phoenix_icarus_dive_pf+dash_length"				"+{s:dash_length} 凤凰冲击冲击距离"
+	"DOTA_Tooltip_Ability_special_bonus_pathfinder_phoenix_launch_fire_spirit_pf+damage_per_second"	"+{s:damage_per_second} 烈火精灵每秒伤害"
+	"DOTA_Tooltip_Ability_special_bonus_unique_phoenix_egg_bkb"										"超新星魔免"
+
+
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+
+	"DOTA_Tooltip_modifier_phoenix_icarus_dive_slow_debuff_pf"							"凤凰冲击烧灼"
+	"DOTA_Tooltip_modifier_phoenix_icarus_dive_slow_debuff_pf_Description"				"每秒受到 %dMODIFIER_PROPERTY_TOOLTIP% 点伤害并且移动速度被减缓 %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%。"
+
+	"DOTA_Tooltip_modifier_phoenix_fire_spirits_burn_pf"								"烈火精灵烧灼"
+	"DOTA_Tooltip_modifier_phoenix_fire_spirits_burn_pf_Description"					"每秒受到 %dMODIFIER_PROPERTY_TOOLTIP% 点伤害并且攻击速度被减缓 %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%。"
+
+	"DOTA_Tooltip_modifier_phoenix_fire_spirits_pf_count"								"烈火精灵"
+	"DOTA_Tooltip_modifier_phoenix_fire_spirits_pf_count_Description"					"烈火精灵已经可以发动。"
+
+	"DOTA_Tooltip_modifier_phoenix_supernova_pf_caster_dummy"							"恒星形态"
+	"DOTA_Tooltip_modifier_phoenix_supernova_pf_caster_dummy_Description"				"重生前炙烤敌人。"
+
+	"DOTA_Tooltip_modifier_phoenix_supernova_pf_dmg"									"恒星灼烧"
+	"DOTA_Tooltip_modifier_phoenix_supernova_pf_dmg_Description"						"每秒受到 %dMODIFIER_PROPERTY_TOOLTIP% 点伤害。"	
+
+	"DOTA_Tooltip_modifier_phoenix_fire_spirit_shell"									"伽利略的复仇"
+	"DOTA_Tooltip_modifier_phoenix_fire_spirit_shell_Description"						"当受到的伤害达到临界，移除绝大多数负面效果并对周围的敌人自动释放一个烈火精灵。"
+
+	"DOTA_Tooltip_modifier_phoenix_fire_spirit_baby"									"烛光"
+	"DOTA_Tooltip_modifier_phoenix_fire_spirit_baby_Description"						"被青鸟的光芒治疗，受到致死伤害时青鸟会代为牺牲。"	
+
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO END-------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
