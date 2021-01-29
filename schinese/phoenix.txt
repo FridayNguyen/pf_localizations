@@ -164,7 +164,7 @@
 	
 	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_cooldown_Description"									"<h1>普通神杖碎片</h1>- %value%%% 凤凰冲击冷却时间"
    	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_dash_length_Description"								"<h1>普通神杖碎片</h1>+ %value% 凤凰冲击距离"
-   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_burn_duration_Description"							"<h1>普通神杖碎片</h1>+%value% s凤凰冲击灼烧时间"
+   	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_burn_duration_Description"							"<h1>普通神杖碎片</h1>+ %value% s凤凰冲击灼烧时间"
 	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_damage_per_second_Description"						"<h1>普通神杖碎片</h1>+ %value% 凤凰冲击每秒灼烧伤害"
 	"DOTA_Tooltip_Ability_item_phoenix_icarus_dive_pf_slow_movement_speed_pct_Description"					"<h1>普通神杖碎片</h1>+ %value%%% 凤凰冲击移动速度减缓"
 
