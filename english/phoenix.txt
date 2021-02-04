@@ -45,8 +45,8 @@
 	"DOTA_Tooltip_ability_pathfinder_supernova_allies"									"Fortunate Sun"
 	"DOTA_Tooltip_ability_pathfinder_supernova_allies_Description"						"Supernova gains an additional charge and becomes a unit target ability, allowing Phoenix to apply the effect unto an ally instead of itself"
 
-	"DOTA_Tooltip_ability_pathfinder_supernova_allies"									"From Dusk Til Dawn"
-	"DOTA_Tooltip_ability_pathfinder_supernova_allies_Description"						"Supernova grants spell immunity to any allied hero within its radius, and continous heals them for the burn damage. If Phoenix is successfully reborn, nearby allies are also healed for %final_heal_percent%%% of their max health"
+	"DOTA_Tooltip_ability_pathfinder_supernova_heal_bkb"										"From Dusk Til Dawn"
+	"DOTA_Tooltip_ability_pathfinder_supernova_heal_bkb_Description"							"Supernova grants spell immunity to all allied heroes within its radius, and continous heals them for the burn damage. If Phoenix is successfully reborn, nearby allies are also healed for %final_heal_percent%%% of their max health"
 
 
 
