@@ -144,7 +144,7 @@
 "DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_duration_Description"			                "<h1>普通神杖碎片</h1>+ %value% 秒主动释放时魅影无形持续时间。"
 
 "DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_cooldown"			                            "魅影无形: 冷却时间"
-"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_cooldown_Description"			                "<h1>普通神杖碎片</h1>- %value% 秒冷却时间。"
+"DOTA_Tooltip_Ability_item_phantom_assassin_blur_lua_cooldown_Description"			                "<h1>普通神杖碎片</h1>- %value% %冷却时间。"
 
 
 >---------------------------------------
