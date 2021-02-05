@@ -75,7 +75,7 @@
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua"	                                                        "狂战士之吼"
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua_Description"	                                            "斧王嘲讽附近的敌方单位，强迫他们攻击自己，同时获得伤害减免"
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua_radius"		                                            "范围:"
-"DOTA_Tooltip_Ability_axe_berserkers_call_lua_bonus_armor"		                                        "额外伤害减免:"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_bonus_armor"		                                        "额外伤害减免%:"
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua_duration"	                                                "持续时间:"
 
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua"	                                                        "战斗饥渴"
