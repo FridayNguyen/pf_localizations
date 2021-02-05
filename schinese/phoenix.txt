@@ -15,12 +15,15 @@
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop"									"轮回"
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_loop_Description"						"凤凰冲击会连续飞行 %loop% 轮。如果提前终止飞行，冷却时间会减少剩余飞行轮数 * %loop_cdr%%% 。"
 
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_bkb"									"芜湖起飞"
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_bkb_Description"						"凤凰冲击时魔免，落地后 %duration% 内移动速度提升 %speed_bonus_pct%%% 且无视地形。"
+
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby"									"草长莺飞二月天"
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby_Description"						"释放凤凰冲击的飞行过程中，凤凰每 %interval% s对 %radius% 范围内的敌人进行攻击，攻击继承攻击特效。"
 
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike"							"阳炎精灵"
-	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike_Description"				"烈火精灵落地后会在落点召唤一道天火，造成 %stun_duration% s眩晕和%burst_mult%%% 烈火精灵的满额伤害。"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike_Description"				"烈火精灵飞行速度加倍，落地后会在落点召唤一道天火，造成 %stun_duration% s眩晕和%burst_mult%%% 烈火精灵的满额伤害。"
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell"									"伽利略的复仇"
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell_Description"						"当凤凰在 %reset_time% s内受到超过 %threshold% 点伤害时，强驱散绝大部分负面效果并对周围的敌人释放一个烈火精灵。"
@@ -42,8 +45,11 @@
 	"DOTA_Tooltip_ability_pathfinder_supernova_allies"									"赞美太阳"
 	"DOTA_Tooltip_ability_pathfinder_supernova_allies_Description"						"超新星成为指向性技能，额外获得一点充能，可以对队友释放，使其变成一颗燃烧的恒星，若持续时间内恒星未被打破，队友将重生。"
 
-
-
+	"DOTA_Tooltip_ability_pathfinder_supernova_heal_bkb"										"杀出个黎明"
+	"DOTA_Tooltip_ability_pathfinder_supernova_heal_bkb_Description"							"释放超新星时，作用范围内的友方英雄魔法免疫，并每秒获得等同于当前等级灼烧伤害的治疗。超新星重生后周围的友军额外获得 %final_heal_percent%%% 最大生命值的治疗。"
+	
+	
+	
 >---------------------------------------
 >--- ABILITY ---------------------------
 >---------------------------------------
