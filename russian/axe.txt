@@ -29,22 +29,22 @@
 "DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_allies_Description"	                        "Counter Helix becomes an aura ability that grants its benefit to all allied heroes within a %radius% radius"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury"	                                    "Huge Pain in the Axe"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury_Description"	                        "Counter Helix can now be toggled, causing Axe to continously deals the ability's damage to nearby enemies every second. This effect does not require mana, but drain 45 health per second, and is fully independent from the ability's passive components"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury_Description"	                        "Counter Helix can now be toggled, causing Axe to continously deals the ability's damage to nearby enemies every second. This effect does not require mana, but drain 51 health per second, and is fully independent from the ability's passive components"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal"	                                "Axe-cellent Camaraderie"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal_Description"	                    "Battle Hunger now heals all nearby allied heroes within a %radius% radius for %percent%%  of its damage"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr"	                                "Axe-citing Developments"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr_Description"	                    "Each time an enemy unit afflicted with Battle Hunger is attacked, the cooldown of Culling Blade is reduced by %cdr% seconds. These attacks do not need to come from Axe himself"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_culling_cdr_Description"	                    "Each time an enemy unit afflicted with Battle Hunger is attacked, the cooldowns of Axe's abilities are reduced by %cdr% seconds. These attacks do not need to come from Axe himself"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh"	                                    "Axe-quisite Allure"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "Each time a unit afflicted with Battle Hunger attacks Axe, the duration of the debuff is fully refreshed"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "Each time a unit afflicted with Battle Hunger attacks Axe, they gain an additional stack of Battle Hunger. This effect fully ignores the ability's max stack count"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health"	                                    "Cardiovascular Axercises"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health_Description"	                        "Axe gains %stack_health% bonus max health every time an enemy unit dies while affected by Berserker's Call. This bonus is lost on death"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger"	                            "Axe-troverted Personality"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "Berserker's Call also automatically applies Battle Hunger unto all affected enemy units"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "Berserker's Call also automatically applies Battle Hunger unto all affected enemy units. Axe is healed for %heal_pct%%  of his max health for each unit taunted"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies"	                                    "Come Axe Me A Question"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_allies_Description"	                        "Berserker's Call also triggers on allied heroes, granting them the armour bonus and drawing the aggro of nearby enemy units unto Axe instead"
@@ -73,13 +73,13 @@
 "DOTA_Tooltip_Ability_axe_counter_helix_lua_damage"		                                                "Damage:"
 
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua"	                                                        "Berserker's Call"
-"DOTA_Tooltip_Ability_axe_berserkers_call_lua_Description"	                                            "Axe taunts nearby enemy units, forcing them to attack him, while he gains bonus armor during the duration."
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_Description"	                                            "Axe taunts nearby enemy units, forcing them to attack him, while he takes reduced damage during the duration."
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua_radius"		                                            "Radius:"
-"DOTA_Tooltip_Ability_axe_berserkers_call_lua_bonus_armor"		                                        "Bonus Armour:"
+"DOTA_Tooltip_Ability_axe_berserkers_call_lua_bonus_armor"		                                        "%Damage Reduction:"
 "DOTA_Tooltip_Ability_axe_berserkers_call_lua_duration"	                                                "Duration:"
 
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua"	                                                        "Battle Hunger"
-"DOTA_Tooltip_Ability_axe_battle_hunger_lua_Description"	                                            "Enrages enemy units within an area, causing them to be slowed and take damage over time until they kills another unit or the duration ends. Axe gains movement speed for each unit affected with Battle Hunger. Stacks up to %max_stacks% times."
+"DOTA_Tooltip_Ability_axe_battle_hunger_lua_Description"	                                            "Enrages enemy units within an area, causing them to be slowed and take damage over time until they kills another unit or the duration ends. Axe gains movement speed for each unit affected with Battle Hunger. Stacks up to %max_stacks% times"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_radius"		                                                "Radius:"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_damage_per_second"		                                    "Damage per Second:"
 "DOTA_Tooltip_Ability_axe_battle_hunger_lua_duration"		                                            "Duration:"
@@ -99,7 +99,7 @@
 "axe_battle_hunger_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
 
 "axe_berserkers_call_lua_radius"			                                                            "+{s:value} {s:ability_name} Radius"
-"axe_berserkers_call_lua_bonus_armor"			                                                        "+{s:value} {s:ability_name} Bonus Armour"
+"axe_berserkers_call_lua_bonus_armor"			                                                        "+{s:value}% {s:ability_name} Damage Reduction"
 "axe_berserkers_call_lua_duration"			                                                            "+{s:value}s {s:ability_name} Duration"		
 "axe_berserkers_call_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
 
@@ -135,12 +135,12 @@
 
 
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_radius"		                                        "Berserker's Call - Radius"
-"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor"		                                    "Berserker's Call - Bonus Armour"
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor"		                                    "Berserker's Call - Damage Reduction"
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_duration"		                                    "Berserker's Call - Duration"
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_pct_cooldown"		                                "Berserker's Call - Cooldown"
 
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_radius_Description"		                            "<h1>Common Scepter Fragment</h1>Increases Berserker's Call Radius by %value%."
-"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor_Description"		                        "<h1>Common Scepter Fragment</h1>Increases Berserker's Call Bonus Armour by %value%."
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor_Description"		                        "<h1>Common Scepter Fragment</h1>Increases Berserker's Call Damage Reduction by %value%%%."
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_duration_Description"		                        "<h1>Common Scepter Fragment</h1>Increases Berserker's Call Duration by %value% seconds."
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_pct_cooldown_Description"		                    "<h1>Common Scepter Fragment</h1>Decreases Berserker's Call Cooldown by %value%%."
 

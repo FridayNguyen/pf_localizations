@@ -23,7 +23,7 @@
 
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike"							"Aggressive Tanning"
-	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike_Description"				"Briefly after a Fire Spirit's impact, a sun strike is called down upon the location. Any enemy unit hit is stunned for %stun_duration% seconds and dealt burst damage equals to %burst_mult%%% of Fire Spirits' total damage over time. This sun strike also applies the Fire Spirits debuff"
+	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike_Description"				"Fire Spirits' speed is increased by %speed_mult%%%. Briefly after a Fire Spirit's impact, a sun strike is called down upon the location. Any enemy unit hit is stunned for %stun_duration% seconds and dealt burst damage equals to %burst_mult%%% of Fire Spirits' total damage over time. This sun strike also applies the Fire Spirits debuff"
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell"									"Galileo's Revenge"
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_shell_Description"						"If Phoenix takes more than %threshold% damage, it will receive a strong dispel and automatically launch a free fire spirit of the current level unto a nearby enemy. The damage counter reset after %reset_time% seconds of not taking damage"
@@ -181,7 +181,7 @@
 	"DOTA_Tooltip_Ability_item_phoenix_fire_spirits_pf_attackspeed_slow_Description"						"<h1>Common Scepter Fragment</h1>Increases Fire Spirits Attack Speed Reduction by %value%."
 
 	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_cooldown_Description"										"<h1>Common Scepter Fragment</h1>Reduces Sun Ray Cooldown by %value%%%."
-	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second_Description"						"<h1>Common Scepter Fragment</h1>Increases Sun Ray Health Percentage Cost by %value%%%."
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second_Description"						"<h1>Common Scepter Fragment</h1>Decreases Sun Ray Health Percentage Cost by %value%%%."
 	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_base_damage_Description"									"<h1>Common Scepter Fragment</h1>Increases Sun Ray Base Damage by %value%."
 	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_perc_heal_Description"									"<h1>Common Scepter Fragment</h1>Increases Sun Ray Initial Health Percentage Heal by %value%."
 	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_beam_range_Description"									"<h1>Common Scepter Fragment</h1>Increases Sun Ray Beam Range by %value%."
