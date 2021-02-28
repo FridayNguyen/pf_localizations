@@ -1,0 +1,185 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-DK START-------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun"	                                    "Morning Breaths"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun_Description"	                        "Each unit hit by Breathe Fire has a %chance%%% chance to be stunned and damaged by the current level of Dragon Tail"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_macropyre"	                                "Dracarys"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_macropyre_Description"	                    "Breathe Fire leaves behind a trail of fiery flames. The fire lasts %duration% seconds and deals %damage_percent%%% of the ability's damage every %interval% second"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_crit_lifesteal"	                        "Flame Buffet"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_crit_lifesteal_Description"	            "While attacking a unit currently afflicted with the Breathe Fire debuff, Dragon Knight has %chance%%% chance to critical strike for %crit_mult%%% damage. These critical attacks heals Dragon Knight for %lifesteal%%% of damage dealt"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_passive"	                                "Blade Scales"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_passive_Description"	                    "When attacked, Dragon Knight has a %chance%%% chance to immediately retaliate with the current level of Dragon Tail"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_bounce"	                                    "Swift Saphira"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_bounce_Description"	                        "Dragon Tail gain %bonus_range% bonus cast range. Upon impact, it bounces %bounces% additional times to nearby enemies. After its final bounce, the projectile returns to Dragon Knight, stunning all foes around him"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain"	                                    "Soul Feast"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain_Description"	                        "Dragon Tail tethers Dragon Knight to the primary target. While linked, he drains %hp_drain%%% of his max health from the target every second. During this time, %reflect_percentage%%% of the damage taken by Dragon Knight is reflected back unto the target. The tether lasts %duration% seconds, and has a maximum length of %max_distance% "
+
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage"	                                "Boiling Veins"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage_Description"	                    "Dragon Blood passively charges up every seconds, empowering Dragon Knight's next strike with bonus magical damage. The amount of bonus damage gained every second is equals to Dragon Knight's total health regeneration. The bonus damage is maxed after %max_stack% seconds, and is reset after every attack. If proc at maximum damage, the attack also heals Dragon Knight for %heal%%% of damage dealt"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold"	                                    "Hoard of Babylon"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold_Description"	                        "For every %gold_per_armor% gold unspent, Dragon Knight gains 1 bonus armor. For every %gold_per_magic_resist% gold unspent, he also gain 1% magic resistance"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_active"	                                "Pyroclastic Conflagration"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_active_Description"	                    "Dragon Blood can be activated to grant Dragon Knight %duration% seconds of magic immunity. When activated, it creates a fiery blast that knocks back enemies within a %radius% radius. Affected units are stunned for %stun_duration% seconds and dealt damage equals to %regen_damage_mult%%% of Dragon Knight's total health regeneration"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_attack"	                            "Fang of Galakrond"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_attack_Description"	                "After every %attack% attacks in human form, Dragon Knight's next attack is empowered by the current level of Elder Dragon Form. While transformed, Dragon Knight's attack projectile bounce to an additional nearby target, dealing full damage and applies the attack's debuff"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_fear"	                                "Beneath The Shadow of My Wings"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_fear_Description"	                    "Upon transforming into Dragon Form, Dragon Knight casts the current level of Breathe Fire in all direction around himself, and applies fear to all enemies within a %radius% radius for %duration% seconds"
+
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_cdr"	                                "Blessing of Ancalagon"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_cdr_Description"	                    "The cooldown of Elder Dragon Form is reduced by %cdr% seconds everytime Dragon Knight takes damage. If he received lethal damage while Elder Dragon Form is off cooldown, the ability is instantly activated and he is healed to %heal%%% of his max health"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire"	                                                        "Breathe Fire"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_Description"	                                            "Unleashes a breath of fire in front of Dragon Knight that burns enemies and reduces the damage their attacks deal."
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_range"		                                                "Distance: "
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_reduction"		                                            "%Attack Damage Reduction: "
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_duration"		                                            "Debuff Duration: "
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_damage"		                                            "Damage: "
+
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail"	                                                        "Dragon Tail"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_Description"	                                            "Dragon Knight smites an enemy unit in melee range with his shield, stunning and performing an instant attack upon the target along with any nearby foe. When in Elder Dragon Form, the cast range and effect radius are increased. Instant attacks performed by Dragon Tail can proc on-hit effects."
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_stun_duration"	                                            "Stun Duration: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_dragon_cast_range"	                                        "Bonus Dragon Form Cast Range: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_attack_damage"	                                            "%Instant Attack Damage: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_radius"	                                                    "Radius: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_dragon_radius_mult"	                                        "%Bonus Dragon Form Radius: "
+
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood"	                                                        "Dragon Blood"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_Description"                                               "The life blood of the Dragon improves health regeneration and strengthens armor."
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_bonus_health_regen"	                                    "Health Regen Bonus: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_bonus_armor"	                                            "Armor Bonus: "
+
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form"	                                                    "Elder Dragon Form"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_Description"	                                        "Dragon Knight takes the form of one of three powerful elder dragons, increasing his speed, and Dragon Tail's range, while granting him new powers. \n<font color=\"#9acd32\">LEVEL 1 Green Dragon</font> - Corrosive Breath: attacks deal poison damage over time.\n<font color=\"#ff0000\">LEVEL 2 Red Dragon</font> - Splash Attack: attacks affect all enemies near the primary target.\n<font color=\"#34a8eb\">LEVEL 3 Blue Dragon</font> - Frost Breath: slows movement speed and attack speed of affected units."
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_duration"	                                            "Duration: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_movement_speed"	                                "Bonus Movement Speed: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_attack_range"	                                "Bonus Attack Range: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_attack_damage"	                                "Bonus Attack Damage: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_corrosive_breath_damage"	                            "Corrosive Damage per Second: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_corrosive_breath_duration"	                        "Corrosive Debuff Duration: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_splash_radius"	                                    "Splash Attack Radius: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_splash_damage_percent"	                            "%Splash Damage: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_bonus_movement_speed"	                        "Frost Movement Speed Reduction: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_bonus_attack_speed"	                            "Frost Attack Speed Reduction: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_duration"	                                    "Frost Debuff Duration: "
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+"pathfinder_dk_breathe_fire_range"			                                                                "+{s:value} {s:ability_name} Distance"
+"pathfinder_dk_breathe_fire_reduction"			                                                            "+{s:value}% {s:ability_name} Attack Damage Reduction"
+"pathfinder_dk_breathe_fire_duration"			                                                            "+{s:value}s {s:ability_name} Debuff Duration"
+"pathfinder_dk_breathe_fire_damage"			                                                                "+{s:value} {s:ability_name} Damage"
+"pathfinder_dk_breathe_fire_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+
+"pathfinder_dk_dragon_tail_stun_duration"			                                                        "+{s:value}s {s:ability_name} Stun Duration"
+"pathfinder_dk_dragon_tail_attack_damage"			                                                        "+{s:value}% {s:ability_name} Instant Attack Damage"
+"pathfinder_dk_dragon_tail_radius"			                                                                "+{s:value} {s:ability_name} Effect Radius"
+"pathfinder_dk_dragon_tail_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+
+"pathfinder_dk_dragon_blood_bonus_health_regen"			                                                    "+{s:value} {s:ability_name} Health Regeneration Bonus"
+"pathfinder_dk_dragon_blood_bonus_armor"			                                                        "+{s:value} {s:ability_name} Armour Bonus"
+
+"pathfinder_dk_elder_dragon_form_duration"			                                                        "+{s:value}s {s:ability_name} Duration"
+"pathfinder_dk_elder_dragon_form_bonus_movement_speed"			                                            "+{s:value} {s:ability_name} Bonus Movement Speed"
+"pathfinder_dk_elder_dragon_form_bonus_attack_range"			                                            "+{s:value} {s:ability_name} Bonus Attack Range"
+"pathfinder_dk_elder_dragon_form_bonus_attack_damage"			                                            "+{s:value} {s:ability_name} Bonus Attack Damage"
+"pathfinder_dk_elder_dragon_form_pct_cooldown"			                                                    "-{s:value}% {s:ability_name} Cooldown"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_range"				                                "Breathe Fire - Distance"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_reduction"				                            "Breathe Fire - Attack Damage Reduction"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_duration"			    	                            "Breathe Fire - Debuff Duration"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_damage"		    		                            "Breathe Fire - Damage"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_pct_cooldown" 				                        "Breathe Fire - Cooldown"
+
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_range_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Breathe Fire Distance by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_reduction_Description"	                            "<h1>Common Scepter Fragment</h1>Increases Breathe Fire Attack Damage Reduction by %value%%% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_duration_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Breathe Fire Debuff Duration by %value% seconds"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_damage_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Breathe Fire Damage by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_pct_cooldown_Description"				                "<h1>Common Scepter Fragment</h1>Decreases Breathe Fire Cooldown by %value%%% "
+
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_stun_duration"				                            "Dragon Tail - Stun Duration"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_attack_damage"				                            "Dragon Tail - Instant Attack Damage"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_radius"				                                "Dragon Tail - Effect Radius"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_pct_cooldown"				                            "Dragon Tail - Cooldown"
+
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_stun_duration_Description"				                "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Stun Duration by %value% seconds"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_attack_damage_Description"				                "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Instant Attack Damage by %value%%% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_radius_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Effect Raduys by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_pct_cooldown_Description"				                "<h1>Common Scepter Fragment</h1>Decreases Dragon Tail Cooldown by %value%%%"
+
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_health_regen"				                    "Dragon Blood - Bonus Health Regeneration"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_armor"				                            "Dragon Blood - Bonus Armor"
+
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_health_regen_Description"				        "<h1>Common Scepter Fragment</h1>Increases Dragon Blood Health Regeneration Bonus by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_armor_Description"				                "<h1>Common Scepter Fragment</h1>Increases Dragon Blood Armor Bonus by %value% "
+
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_duration"				                        "Elder Dragon Form - Duration"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_movement_speed"				            "Elder Dragon Form - Bonus Movement Speed"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_range"				                "Elder Dragon Form - Bonus Attack Range"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_damage"				                "Elder Dragon Form - Bonus Attack Damage"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_pct_cooldown"				                    "Elder Dragon Form - Cooldown"
+
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_duration_Description"				            "<h1>Common Scepter Fragment</h1>Increases Elder Dragon Form Duration by %value% seconds"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_movement_speed_Description"				"<h1>Common Scepter Fragment</h1>Increases Elder Dragon Form Bonus Movement Speed by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_range_Description"				    "<h1>Common Scepter Fragment</h1>Increases Elder Dragon Form Bonus Attack Range by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_damage_Description"				    "<h1>Common Scepter Fragment</h1>Increases Elder Dragon Form Bonus Attack Damage by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_pct_cooldown_Description"				        "<h1>Common Scepter Fragment</h1>Decreases Elder Dragon Form Cooldown by %value%%% "
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_dk_dragon_tail+radius"	                    "+{s:radius}  Dragon Tail Radius"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_dk_elder_dragon_form+bonus_attack_range"	    "+{s:bonus_attack_range} Dragon Form Bonus Attack Range"
+"DOTA_Tooltip_Ability_special_bonus_unique_pathfinder_dk_breathe_fire"	                                "Breathe Fire Reduces All Damage Types"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_modifier_pathfinder_dk_breathe_fire"                                                      "Breathed Fire"
+"DOTA_Tooltip_modifier_pathfinder_dk_breathe_fire_Description"                                          "Damage currently reduced."
+
+"DOTA_Tooltip_modifier_pathfinder_dk_dragon_tail_chain"                                                 "Bound by Blood"
+"DOTA_Tooltip_modifier_pathfinder_dk_dragon_tail_chain_Description"                                     "Health is being drained, while receiving a portion of damage taken by Dragon Knight."
+
+"DOTA_Tooltip_modifier_pathfinder_dk_dragon_blood_damage"                                               "Draconic Fury"
+"DOTA_Tooltip_modifier_pathfinder_dk_dragon_blood_damage_Description"                                   "Empowering Dragon Knight's next attack with bonus damage equal to number of stacks. If proc'd at max stacks, also heals Dragon Knight for damage dealt"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-DK END---------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
