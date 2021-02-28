@@ -180,7 +180,7 @@
 	"DOTA_Tooltip_Ability_item_phoenix_launch_fire_spirit_pf_attackspeed_slow_Description"					"<h1>普通神杖碎片</h1>+ %value% 烈火精灵攻击速度降低"
 
 	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_cooldown_Description"										"<h1>普通神杖碎片</h1>- %value%%% 烈日炙烤冷却时间"
-	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second_Description"						"<h1>普通神杖碎片</h1>+ %value%%% 烈日炙烤每秒当前生命值消耗"
+	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_cost_perc_per_second_Description"						"<h1>普通神杖碎片</h1>- %value%%% 烈日炙烤每秒当前生命值消耗"
 	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_base_damage_Description"									"<h1>普通神杖碎片</h1>+ %value% 烈日炙烤基础伤害"
 	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_hp_perc_heal_Description"									"<h1>普通神杖碎片</h1>+ %value% 烈日炙烤基础最大生命治疗% "
 	"DOTA_Tooltip_Ability_item_phoenix_sun_ray_pf_beam_range_Description"									"<h1>普通神杖碎片</h1>+ %value% 烈日炙烤光线长度"

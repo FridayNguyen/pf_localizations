@@ -29,7 +29,7 @@
 "DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_allies_Description"	                        "反击螺旋成为光环技能，斧王周围 %radius% 范围内的友方英雄会同时获得反击螺旋的效果。"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury"	                                    "飞斧风暴"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury_Description"	                        "反击螺旋成为开关技能，开启时每秒消耗45点生命并强制触发反击螺旋。强制触发的反击螺旋不影响技能本身的反击螺旋触发。"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury_Description"	                        "反击螺旋成为开关技能，开启时每秒消耗51点生命并强制触发反击螺旋。强制触发的反击螺旋不影响技能本身的反击螺旋触发。"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal"	                                "战斗激素"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal_Description"	                    "战斗饥渴以 %percent%% 的伤害量治疗 %radius% 范围内的友方英雄。"
@@ -99,7 +99,7 @@
 "axe_battle_hunger_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
 
 "axe_berserkers_call_lua_radius"			                                                            "+{s:value} {s:ability_name} 范围"
-"axe_berserkers_call_lua_bonus_armor"			                                                        "+{s:value} {s:ability_name} 护甲加成"
+"axe_berserkers_call_lua_bonus_armor"			                                                        "+{s:value}% {s:ability_name} 伤害减免"
 "axe_berserkers_call_lua_duration"			                                                            "+{s:value}s {s:ability_name} 持续时间"		
 "axe_berserkers_call_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
 
@@ -135,12 +135,12 @@
 
 
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_radius"		                                        "狂战士之吼 - 范围"
-"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor"		                                    "狂战士之吼 - 护甲加成"
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor"		                                    "狂战士之吼 - 伤害减免"
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_duration"		                                    "狂战士之吼 - 持续时间"
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_pct_cooldown"		                                "狂战士之吼 - 冷却时间"
 
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_radius_Description"		                            "<h1>普通神杖碎片</h1>+ %value% 狂战士之吼范围."
-"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor_Description"		                        "<h1>普通神杖碎片</h1>+ %value% 狂战士之吼护甲加成."
+"DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_bonus_armor_Description"		                        "<h1>普通神杖碎片</h1>+ %value%%% 狂战士之吼伤害减免."
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_duration_Description"		                        "<h1>普通神杖碎片</h1>+ %value% s 狂战士之吼持续时间."
 "DOTA_Tooltip_Ability_item_axe_berserkers_call_lua_pct_cooldown_Description"		                    "<h1>普通神杖碎片</h1>- %value%% 狂战士之吼冷却时间."
 
