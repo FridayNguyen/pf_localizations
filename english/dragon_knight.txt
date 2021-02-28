@@ -26,10 +26,10 @@
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_bounce_Description"	                        "Dragon Tail gain %bonus_range% bonus cast range. Upon impact, it bounces %bounces% additional times to nearby enemies. After its final bounce, the projectile returns to Dragon Knight, stunning all foes around him"
 
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain"	                                    "Soul Feast"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain_Description"	                        "Dragon Tail tethers Dragon Knight to the primary target. While linked, he drains %hp_drain%%% of his max health from the target every second. During this time, %reflect_percentage%%% of the damage taken by Dragon Knight is reflected back unto the target. The tether lasts %duration% seconds, and has a maximum length of %max_distance% "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain_Description"	                        "Dragon Tail tethers Dragon Knight to the primary target. While linked, Dragon Knight can never be killed by the target, and %reflect_percentage%%% of the damage he takes is reflected back unto the tethered opponent. The tether lasts %duration% seconds, and has a maximum length of %max_distance% "
 
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage"	                                "Boiling Veins"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage_Description"	                    "Dragon Blood passively charges up every seconds, empowering Dragon Knight's next strike with bonus magical damage. The amount of bonus damage gained every second is equals to Dragon Knight's total health regeneration. The bonus damage is maxed after %max_stack% seconds, and is reset after every attack. If proc at maximum damage, the attack also heals Dragon Knight for %heal%%% of damage dealt"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage_Description"	                    "Dragon Blood passively charges up every second, empowering Dragon Knight's next strike with bonus magical damage. The amount of bonus damage gained every second is equals to Dragon Knight's total health regeneration. The bonus damage is maxed after %max_stack% seconds, and is reset after every attack. If proc at maximum damage, the attack also heals Dragon Knight for %heal%%% of damage dealt"
 
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold"	                                    "Hoard of Babylon"
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold_Description"	                        "For every %gold_per_armor% gold unspent, Dragon Knight gains 1 bonus armor. For every %gold_per_magic_resist% gold unspent, he also gain 1% magic resistance"
@@ -167,6 +167,10 @@
 >---------------------------------------
 >--- MODIFIER --------------------------
 >---------------------------------------
+
+
+"DOTA_Tooltip_modifier_pathfinder_dk_elder_dragon_form"                                                 "Big Scary Dragon"
+"DOTA_Tooltip_modifier_pathfinder_dk_elder_dragon_form_Description"                                     "Look at me I'm a big strong lizard, rawr!"
 
 "DOTA_Tooltip_modifier_pathfinder_dk_breathe_fire"                                                      "Breathed Fire"
 "DOTA_Tooltip_modifier_pathfinder_dk_breathe_fire_Description"                                          "Damage currently reduced."
