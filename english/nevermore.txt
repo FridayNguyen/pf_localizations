@@ -195,7 +195,7 @@
 "DOTA_Tooltip_modifier_pathfinder_dark_lord_debuff_Description"	                                            "Just look at those souls of yours! Wasting away in those big, stupid bodies! Oh the things I could do with them! The only thing I can't do is pay off the Japanese Yakuza with them. Ha ha! They made that very explicit...American currency only."		
 
 "DOTA_Tooltip_modifier_pathfinder_requiem_attack"	                                                        "Choo Choo Soul"
-"DOTA_Tooltip_modifier_pathfinder_requiem_attack_Description"	                                            "At 50 stacks, release a free Requiem of Souls"
+"DOTA_Tooltip_modifier_pathfinder_requiem_attack_Description"	                                            "At max stacks, release a free Requiem of Souls"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------

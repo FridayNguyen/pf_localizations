@@ -5,6 +5,9 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
+"DOTA_Tooltip_modifier_minotaur_horn_immune"                            "Magic Immune"
+"DOTA_Tooltip_modifier_minotaur_horn_immune_Description"                "Possessing complete immunity to magic"
+
 "DOTA_Tooltip_modifier_generic_2_charges"                               "Ability Charges"
 "DOTA_Tooltip_modifier_generic_2_charges_Description"                   "Once a charge is spent, it will passively replenish in the background."
 
@@ -154,6 +157,8 @@
 "npc_dota_hero_jakiro_full_title"					            "Jakiro, Twin Head Dragon"
 "npc_dota_hero_tidehunter_full_title"				            "Leviathan, Hunter of the Tide"
 "npc_dota_hero_hoodwink_full_title"				                "Hoodwink, Bandit of Tomo'kan"
+"npc_dota_hero_phoenix_full_title"				                "Phoenix, Offspring of the First Sun"
+"npc_dota_hero_dragon_knight_full_title"				        "Davion, Dragon Knight"
 
 "npc_dota_hero_venomancer_full_title_intro"				        "Within the master of Jidi Isles once beat the heart of a herbalist"
 "npc_dota_hero_disruptor_full_title_intro"				        "Within his glowing coils courses the power of Druudian skies"
@@ -171,16 +176,18 @@
 "npc_dota_hero_templar_assassin_full_title_intro"	        	"By blood or tomes no secret shall escape the thief-scholar"
 "npc_dota_hero_slark_full_title_intro"				        	"the nightcrawler survives knowing neither kin nor kindness"
 "npc_dota_hero_queenofpain_full_title_intro"		        	"The ashes of Elze still sing of a rune-bound demoness"
-"npc_dota_hero_windrunner_full_title_intro"                     "the master ranger commands the very gale that orphaned her"	
-"npc_dota_hero_phantom_assassin_full_title_intro"		        "she dares utter the forbidden whisper of her very own name"
-"npc_dota_hero_legion_commander_full_title_intro"	        	"from ruins of stonehall marched forth the bronze legion"	
-"npc_dota_hero_juggernaut_full_title_intro"				        "the rites of the faceless ones carry forth in the unstoppable visage"
-"npc_dota_hero_ogre_magi_full_title_intro"				        "no blade nor sorcery shall triumph over Lady Luck's pity"
+"npc_dota_hero_windrunner_full_title_intro"                     "The master ranger commands the very gale that orphaned her"	
+"npc_dota_hero_phantom_assassin_full_title_intro"		        "She dares utter the forbidden whisper of her very own name"
+"npc_dota_hero_legion_commander_full_title_intro"	        	"From ruins of stonehall marched forth the bronze legion"	
+"npc_dota_hero_juggernaut_full_title_intro"				        "The rites of the faceless ones carry forth in the unstoppable visage"
+"npc_dota_hero_ogre_magi_full_title_intro"				        "No blade nor sorcery shall triumph over Lady Luck's pity"
 "npc_dota_hero_nevermore_full_title_intro"			        	"Beggars and kings are devoured as equals before Nevermore"
 "npc_dota_hero_axe_full_title_intro"				        	"The Red Mist calls, and all shall answer"
-"npc_dota_hero_jakiro_full_title_intro"				        	"on wings of ice and fire soar two sides of the same coin"
+"npc_dota_hero_jakiro_full_title_intro"				        	"On wings of ice and fire soar two sides of the same coin"
 "npc_dota_hero_tidehunter_full_title_intro"				        "He hunts an admiral for reasons already lost beneath the sea"
 "npc_dota_hero_hoodwink_full_title_intro"				        "She calls home the misty dark woods where few dare tread"
+"npc_dota_hero_phoenix_full_title_intro"				        "From the Keeper's first lights, its solar destiny coalesced"
+"npc_dota_hero_dragon_knight_full_title_intro"				        "Within the veins of a Knight flows the blood of an Eldwurm"
 
 "DOTA_Subshop_npc_dota_hero_venomancer_full_title"				            "Lesale Deathbringer"
 "DOTA_Subshop_npc_dota_hero_disruptor_full_title"				            "Crafter of Storms"
@@ -208,6 +215,8 @@
 "DOTA_Subshop_npc_dota_hero_jakiro_full_title"					            "Freak of Pyrexae"
 "DOTA_Subshop_npc_dota_hero_tidehunter_full_title"				            "Hunter of Maelrawn"
 "DOTA_Subshop_npc_dota_hero_hoodwink_full_title"				            "Bandit of Tomo'kan"
+"DOTA_Subshop_npc_dota_hero_phoenix_full_title"				                "Child of the First Light"
+"DOTA_Subshop_npc_dota_hero_dragon_knight_full_title"				        "Slayer of Slyrak"
 
 
 "DOTA_Tooltip_Ability_item_blink_bootleg"			            "Bootleg Blink"
