@@ -10,172 +10,176 @@
 >--- LEGENDARY -------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun"	                                    "Morning Breaths"
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun_Description"	                        "Each unit hit by Breathe Fire has a %chance%%% chance to be stunned and damaged by the current level of Dragon Tail"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun"	                                    "日之呼吸"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun_Description"	                        "被火焰气息命中的单位有 %chance%%% 的概率遭受一次当前等级的神龙摆尾。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_macropyre"	                                "Dracarys"
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_macropyre_Description"	                    "Breathe Fire leaves behind a trail of fiery flames. The fire lasts %duration% seconds and deals %damage_percent%%% of the ability's damage every %interval% second"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_macropyre"	                                "龙炎"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_macropyre_Description"	                    "火焰气息留下一道燃烧的尾迹，每 %interval% s造成当前等级火焰气息 %damage_percent%%% 的伤害，持续 %duration% s。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_crit_lifesteal"	                        "Flame Buffet"
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_crit_lifesteal_Description"	            "While attacking a unit currently afflicted with the Breathe Fire debuff, Dragon Knight has %chance%%% chance to critical strike for %crit_mult%%% damage. These critical attacks heals Dragon Knight for %lifesteal%%% of damage dealt"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_crit_lifesteal"	                        "烈焰打击"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_crit_lifesteal_Description"	            "攻击被火焰气息Debuff影响的单位时, 龙骑士有 %chance%%% 的几率造成 %crit_mult%%% 的致命一击，并回复造成伤害 %lifesteal%%% 的生命。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_passive"	                                "Blade Scales"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_passive_Description"	                    "When attacked, Dragon Knight has a %chance%%% chance to immediately retaliate with the current level of Dragon Tail"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_passive"	                                "万鳞甲"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_passive_Description"	                    "受到攻击时, 龙骑士有 %chance%%% 的概率向攻击者释放当前等级的神龙摆尾。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_bounce"	                                    "Swift Saphira"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_bounce_Description"	                        "Dragon Tail gain %bonus_range% bonus cast range. Upon impact, it bounces %bounces% additional times to nearby enemies. After its final bounce, the projectile returns to Dragon Knight, stunning all foes around him"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_bounce"	                                    "蓝电霸王龙"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_bounce_Description"	                        "神龙摆尾获得 %bonus_range% 额外施法距离，且飞出的盾牌可以在敌人之间弹射 %bounces% 次，之后盾牌会返回龙骑士手中并眩晕周围的敌人。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain"	                                    "Soul Feast"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain_Description"	                        "Dragon Tail tethers Dragon Knight to the primary target. While linked, he drains %hp_drain%%% of his max health from the target every second. During this time, %reflect_percentage%%% of the damage taken by Dragon Knight is reflected back unto the target. The tether lasts %duration% seconds, and has a maximum length of %max_distance% "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain"	                                    "灵魂盛宴"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain_Description"	                        "神龙摆尾将龙骑士和主目标的灵魂相连，被连接的目标将无法杀死龙骑士，龙骑士承受伤害的 %reflect_percentage%%% 将会折射给被连接的目标。连接超过 %max_distance% 时会断开，最多持续 %duration% 秒。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage"	                                "Boiling Veins"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage_Description"	                    "Dragon Blood passively charges up every seconds, empowering Dragon Knight's next strike with bonus magical damage. The amount of bonus damage gained every second is equals to Dragon Knight's total health regeneration. The bonus damage is maxed after %max_stack% seconds, and is reset after every attack. If proc at maximum damage, the attack also heals Dragon Knight for %heal%%% of damage dealt"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage"	                                "龙血沸腾"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage_Description"	                    "龙族血统每秒获得充能，并根据充能点数在下次攻击造成额外的魔法伤害。每秒的充能点数等于龙骑士的生命恢复，最多充能 %max_stack% 秒，达到最大充能后，下次攻击会额外回复造成伤害 %heal%%% 的生命，攻击后充能刷新。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold"	                                    "Hoard of Babylon"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold_Description"	                        "For every %gold_per_armor% gold unspent, Dragon Knight gains 1 bonus armor. For every %gold_per_magic_resist% gold unspent, he also gain 1% magic resistance"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold"	                                    "巴比伦的珍藏"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold_Description"	                        "未使用的金币中，每 %gold_per_armor% 金币获得1护甲，每 %gold_per_magic_resist% 金币获得1%魔抗。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_active"	                                "Pyroclastic Conflagration"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_active_Description"	                    "Dragon Blood can be activated to grant Dragon Knight %duration% seconds of magic immunity. When activated, it creates a fiery blast that knocks back enemies within a %radius% radius. Affected units are stunned for %stun_duration% seconds and dealt damage equals to %regen_damage_mult%%% of Dragon Knight's total health regeneration"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_active"	                                "大灾变"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_active_Description"	                    "可以主动释放龙族血统，释放时获得 %duration% 秒魔法免疫，击退并眩晕 %radius% 范围内的敌人 %stun_duration% 秒，造成龙骑士 %regen_damage_mult%%% 每秒生命恢复的伤害。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_attack"	                            "Fang of Galakrond"
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_attack_Description"	                "After every %attack% attacks in human form, Dragon Knight's next attack is empowered by the current level of Elder Dragon Form. While transformed, Dragon Knight's attack projectile bounce to an additional nearby target, dealing full damage and applies the attack's debuff"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_attack"	                            "迦拉克隆之牙"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_attack_Description"	                "人形态攻击 %attack% 次后，下次攻击获得古龙形态的攻击效果。古龙形态下的攻击会额外弹射一次，造成满额伤害并继承所有攻击特效。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_fear"	                                "Beneath The Shadow of My Wings"
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_fear_Description"	                    "Upon transforming into Dragon Form, Dragon Knight casts the current level of Breathe Fire in all direction around himself, and applies fear to all enemies within a %radius% radius for %duration% seconds"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_fear"	                                "死亡之翼"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_fear_Description"	                    "变身古龙形态时朝所有方向释放火焰气息，使 %radius% 范围内的敌人恐惧 %duration% 秒。"
 
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_cdr"	                                "Blessing of Ancalagon"
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_cdr_Description"	                    "The cooldown of Elder Dragon Form is reduced by %cdr% seconds everytime Dragon Knight takes damage. If he received lethal damage while Elder Dragon Form is off cooldown, the ability is instantly activated and he is healed to %heal%%% of his max health"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_cdr"	                                "安卡拉刚的祝福"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_cdr_Description"	                    "龙骑士每次受到伤害时会降低古龙形态 %cdr% 秒的冷却时间。龙骑士受到致死伤害时，若古龙形态未进入冷却，则立刻变身古龙形态并回复 %heal%%% 最大生命。"
 
 
 >---------------------------------------
 >--- ABILITY ---------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire"	                                                        "Breathe Fire"
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_Description"	                                            "Unleashes a breath of fire in front of Dragon Knight that burns enemies and reduces the damage their attacks deal."
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_range"		                                                "Distance: "
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_reduction"		                                            "%Attack Damage Reduction: "
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_duration"		                                            "Debuff Duration: "
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_damage"		                                            "Damage: "
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire"	                                                        "火焰气息"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_Description"	                                            "向龙骑士的前方喷射出一团火焰，烧灼碰到的敌人，并使其攻击力降低。"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_range"		                                                "距离: "
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_reduction"		                                            "攻击力降低%: "
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_duration"		                                            "降低持续时间: "
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_damage"		                                            "伤害: "
 
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail"	                                                        "Dragon Tail"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_Description"	                                            "Dragon Knight smites an enemy unit in melee range with his shield, stunning and performing an instant attack upon the target along with any nearby foe. When in Elder Dragon Form, the cast range and effect radius are increased. Instant attacks performed by Dragon Tail can proc on-hit effects."
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_stun_duration"	                                            "Stun Duration: "
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_dragon_cast_range"	                                        "Bonus Dragon Form Cast Range: "
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_attack_damage"	                                            "%Instant Attack Damage: "
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_radius"	                                                    "Radius: "
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_dragon_radius_mult"	                                        "%Bonus Dragon Form Radius: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail"	                                                        "神龙摆尾"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_Description"	                                            "龙骑士用盾对身边的一个敌方单位进行打击，造成眩晕并冲击其周围的敌人，造成一定百分比的攻击伤害，继承物品和技能的攻击效果。在古龙形态下施法距离和冲击范围提高。"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_stun_duration"	                                            "眩晕时间: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_dragon_cast_range"	                                        "古龙形态施法距离加成: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_attack_damage"	                                            "攻击伤害%: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_radius"	                                                    "冲击范围: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_dragon_radius_mult"	                                        "古龙形态攻击范围加成%: "
 
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood"	                                                        "Dragon Blood"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_Description"                                               "The life blood of the Dragon improves health regeneration and strengthens armor."
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_bonus_health_regen"	                                    "Health Regen Bonus: "
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_bonus_armor"	                                            "Armor Bonus: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood"	                                                        "龙族血统"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_Description"                                               "龙族的鲜血能提高龙骑士的生命恢复速度以及护甲。"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_bonus_health_regen"	                                    "生命恢复加成: "
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_bonus_armor"	                                            "护甲加成: "
 
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form"	                                                    "Elder Dragon Form"
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_Description"	                                        "Dragon Knight takes the form of one of three powerful elder dragons, increasing his speed, and Dragon Tail's range, while granting him new powers. \n<font color=\"#9acd32\">LEVEL 1 Green Dragon</font> - Corrosive Breath: attacks deal poison damage over time.\n<font color=\"#ff0000\">LEVEL 2 Red Dragon</font> - Splash Attack: attacks affect all enemies near the primary target.\n<font color=\"#34a8eb\">LEVEL 3 Blue Dragon</font> - Frost Breath: slows movement speed and attack speed of affected units."
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_duration"	                                            "Duration: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_movement_speed"	                                "Bonus Movement Speed: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_attack_range"	                                "Bonus Attack Range: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_attack_damage"	                                "Bonus Attack Damage: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_corrosive_breath_damage"	                            "Corrosive Damage per Second: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_corrosive_breath_duration"	                        "Corrosive Debuff Duration: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_splash_radius"	                                    "Splash Attack Radius: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_splash_damage_percent"	                            "%Splash Damage: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_bonus_movement_speed"	                        "Frost Movement Speed Reduction: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_bonus_attack_speed"	                            "Frost Attack Speed Reduction: "
-"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_duration"	                                    "Frost Debuff Duration: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form"	                                                    "古龙形态"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_Description"	                                        "龙骑士能够变身成为三种古龙形态之一，同时提升移动速度，攻击力以及神龙摆尾的施法距离，并且获得新的能力。 \n<font color=\"#9acd32\">等级1 碧龙</font> - 腐蚀吐息: 攻击时附带毒素。\n<font color=\"#ff0000\">等级2 赤龙</font> - 溅射攻击: 攻击溅射敌人，并且全部受到腐蚀吐息的作用。\n<font color=\"#34a8eb\">等级3 苍龙</font> - 冰霜吐息: 冰霜吐息: 降低攻击溅射到的敌人移动速度和攻击速度，并且全部受到腐蚀吐息的作用。"
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_duration"	                                            "古龙形态持续时间: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_movement_speed"	                                "移动速度加成: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_attack_range"	                                "攻击距离加成: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_bonus_attack_damage"	                                "攻击力加成: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_corrosive_breath_damage"	                            "腐蚀吐息每秒伤害: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_corrosive_breath_duration"	                        "腐蚀吐息debuff持续时间: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_splash_radius"	                                    "溅射攻击距离: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_splash_damage_percent"	                            "溅射攻击伤害%: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_bonus_movement_speed"	                        "冰霜吐息移动速度减缓: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_bonus_attack_speed"	                            "冰霜吐息攻击速度降低: "
+"DOTA_Tooltip_Ability_pathfinder_dk_elder_dragon_form_frost_duration"	                                    "冰霜吐息Debuff持续时间: "
 
 
 >---------------------------------------
 >--- MINOR SHARD -----------------------
 >---------------------------------------
 
-"pathfinder_dk_breathe_fire_range"			                                                                "+{s:value} {s:ability_name} Distance"
-"pathfinder_dk_breathe_fire_reduction"			                                                            "+{s:value}% {s:ability_name} Attack Damage Reduction"
-"pathfinder_dk_breathe_fire_duration"			                                                            "+{s:value}s {s:ability_name} Debuff Duration"
-"pathfinder_dk_breathe_fire_damage"			                                                                "+{s:value} {s:ability_name} Damage"
-"pathfinder_dk_breathe_fire_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+"pathfinder_dk_breathe_fire_range"			                                                                "+{s:value} {s:ability_name} 距离"
+"pathfinder_dk_breathe_fire_reduction"			                                                            "+{s:value}% {s:ability_name} 攻击力降低"
+"pathfinder_dk_breathe_fire_duration"			                                                            "+{s:value}s {s:ability_name} 攻击降低持续时间"
+"pathfinder_dk_breathe_fire_damage"			                                                                "+{s:value} {s:ability_name} 伤害"
+"pathfinder_dk_breathe_fire_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
 
-"pathfinder_dk_dragon_tail_stun_duration"			                                                        "+{s:value}s {s:ability_name} Stun Duration"
-"pathfinder_dk_dragon_tail_attack_damage"			                                                        "+{s:value}% {s:ability_name} Instant Attack Damage"
-"pathfinder_dk_dragon_tail_radius"			                                                                "+{s:value} {s:ability_name} Effect Radius"
-"pathfinder_dk_dragon_tail_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+"pathfinder_dk_dragon_tail_stun_duration"			                                                        "+{s:value}s {s:ability_name} 眩晕时间"
+"pathfinder_dk_dragon_tail_attack_damage"			                                                        "+{s:value}% {s:ability_name} 攻击伤害继承"
+"pathfinder_dk_dragon_tail_radius"			                                                                "+{s:value} {s:ability_name} 冲击范围"
+"pathfinder_dk_dragon_tail_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
 
-"pathfinder_dk_dragon_blood_bonus_health_regen"			                                                    "+{s:value} {s:ability_name} Health Regeneration Bonus"
-"pathfinder_dk_dragon_blood_bonus_armor"			                                                        "+{s:value} {s:ability_name} Armour Bonus"
+"pathfinder_dk_dragon_blood_bonus_health_regen"			                                                    "+{s:value} {s:ability_name} 生命恢复加成"
+"pathfinder_dk_dragon_blood_bonus_armor"			                                                        "+{s:value} {s:ability_name} 护甲加成"
 
-"pathfinder_dk_elder_dragon_form_duration"			                                                        "+{s:value}s {s:ability_name} Duration"
-"pathfinder_dk_elder_dragon_form_bonus_movement_speed"			                                            "+{s:value} {s:ability_name} Bonus Movement Speed"
-"pathfinder_dk_elder_dragon_form_bonus_attack_range"			                                            "+{s:value} {s:ability_name} Bonus Attack Range"
-"pathfinder_dk_elder_dragon_form_bonus_attack_damage"			                                            "+{s:value} {s:ability_name} Bonus Attack Damage"
-"pathfinder_dk_elder_dragon_form_pct_cooldown"			                                                    "-{s:value}% {s:ability_name} Cooldown"
+"pathfinder_dk_elder_dragon_form_duration"			                                                        "+{s:value}s {s:ability_name} 持续时间"
+"pathfinder_dk_elder_dragon_form_bonus_movement_speed"			                                            "+{s:value} {s:ability_name} 移动速度加成"
+"pathfinder_dk_elder_dragon_form_bonus_attack_range"			                                            "+{s:value} {s:ability_name} 攻击距离加成"
+"pathfinder_dk_elder_dragon_form_bonus_attack_damage"			                                            "+{s:value} {s:ability_name} 攻击力加成"
+"pathfinder_dk_elder_dragon_form_pct_cooldown"			                                                    "-{s:value}% {s:ability_name} 冷却时间"
 
 
 >---------------------------------------
 >--- BRISTLE SHARD ---------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_range"				                                "Breathe Fire - Distance"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_reduction"				                            "Breathe Fire - Attack Damage Reduction"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_duration"			    	                            "Breathe Fire - Debuff Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_damage"		    		                            "Breathe Fire - Damage"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_pct_cooldown" 				                        "Breathe Fire - Cooldown"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_range"				                                "火焰气息 - 距离"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_reduction"				                            "火焰气息 - 攻击力降低"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_duration"			    	                            "火焰气息 - Debuff持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_damage"		    		                            "火焰气息 - 伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_pct_cooldown" 				                        "火焰气息 - 冷却时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_range_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Breathe Fire Distance by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_reduction_Description"	                            "<h1>Common Scepter Fragment</h1>Increases Breathe Fire Attack Damage Reduction by %value%%% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_duration_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Breathe Fire Debuff Duration by %value% seconds"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_damage_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Breathe Fire Damage by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_pct_cooldown_Description"				                "<h1>Common Scepter Fragment</h1>Decreases Breathe Fire Cooldown by %value%%% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_range_Description"				                    "<h1>普通神杖碎片</h1>+ %value% 火焰气息距离"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_reduction_Description"	                            "<h1>普通神杖碎片</h1>+ %value%%% 火焰气息攻击力降低"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_duration_Description"				                    "<h1>普通神杖碎片</h1>+ %value% s火焰气息Debuff持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_damage_Description"				                    "<h1>普通神杖碎片</h1>+ %value% 火焰气息伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_breathe_fire_pct_cooldown_Description"				                "<h1>普通神杖碎片</h1>- %value%%% 火焰气息冷却时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_stun_duration"				                            "Dragon Tail - Stun Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_attack_damage"				                            "Dragon Tail - Instant Attack Damage"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_radius"				                                "Dragon Tail - Effect Radius"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_pct_cooldown"				                            "Dragon Tail - Cooldown"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_stun_duration"				                            "神龙摆尾 - 眩晕时间"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_attack_damage"				                            "神龙摆尾 - 冲击伤害"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_radius"				                                "神龙摆尾 - 冲击范围"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_pct_cooldown"				                            "神龙摆尾 - 冷却时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_stun_duration_Description"				                "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Stun Duration by %value% seconds"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_attack_damage_Description"				                "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Instant Attack Damage by %value%%% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_radius_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Effect Raduys by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_pct_cooldown_Description"				                "<h1>Common Scepter Fragment</h1>Decreases Dragon Tail Cooldown by %value%%%"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_stun_duration_Description"				                "<h1>普通神杖碎片</h1>+ %value% s神龙摆尾眩晕时间"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_attack_damage_Description"				                "<h1>普通神杖碎片</h1>+ %value%%% 神龙摆尾攻击力继承"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_radius_Description"				                    "<h1>普通神杖碎片</h1>+ %value% 神龙摆尾冲击范围"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_pct_cooldown_Description"				                "<h1>普通神杖碎片</h1>- %value%%% 神龙摆尾冷却时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_health_regen"				                    "Dragon Blood - Bonus Health Regeneration"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_armor"				                            "Dragon Blood - Bonus Armor"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_health_regen"				                    "龙族血统 - 生命恢复加成"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_armor"				                            "龙族血统 - 护甲加成"
 
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_health_regen_Description"				        "<h1>Common Scepter Fragment</h1>Increases Dragon Blood Health Regeneration Bonus by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_armor_Description"				                "<h1>Common Scepter Fragment</h1>Increases Dragon Blood Armor Bonus by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_health_regen_Description"				        "<h1>普通神杖碎片</h1>+ %value% 龙族血统生命恢复加成"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_armor_Description"				                "<h1>普通神杖碎片</h1>+ %value% 龙族血统护甲加成"
 
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_duration"				                        "Elder Dragon Form - Duration"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_movement_speed"				            "Elder Dragon Form - Bonus Movement Speed"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_range"				                "Elder Dragon Form - Bonus Attack Range"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_damage"				                "Elder Dragon Form - Bonus Attack Damage"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_pct_cooldown"				                    "Elder Dragon Form - Cooldown"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_duration"				                        "古龙形态 - 持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_movement_speed"				            "古龙形态 - 移动速度加成"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_range"				                "古龙形态 - 攻击距离加成"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_damage"				                "古龙形态 - 攻击力加成"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_pct_cooldown"				                    "古龙形态 - 冷却时间"
 
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_duration_Description"				            "<h1>Common Scepter Fragment</h1>Increases Elder Dragon Form Duration by %value% seconds"
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_movement_speed_Description"				"<h1>Common Scepter Fragment</h1>Increases Elder Dragon Form Bonus Movement Speed by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_range_Description"				    "<h1>Common Scepter Fragment</h1>Increases Elder Dragon Form Bonus Attack Range by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_damage_Description"				    "<h1>Common Scepter Fragment</h1>Increases Elder Dragon Form Bonus Attack Damage by %value% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_pct_cooldown_Description"				        "<h1>Common Scepter Fragment</h1>Decreases Elder Dragon Form Cooldown by %value%%% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_duration_Description"				            "<h1>普通神杖碎片</h1>+ %value% s古龙形态持续时间"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_movement_speed_Description"				"<h1>普通神杖碎片</h1>+ %value% 古龙形态移动速度加成"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_range_Description"				    "<h1>普通神杖碎片</h1>+ %value% 古龙形态攻击距离加成"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_bonus_attack_damage_Description"				    "<h1>普通神杖碎片</h1>+ %value% 古龙形态攻击力加成"
+"DOTA_Tooltip_Ability_item_pathfinder_dk_elder_dragon_form_pct_cooldown_Description"				        "<h1>普通神杖碎片</h1>- %value%%% 古龙形态冷却时间"
 
 >---------------------------------------
 >--- TALENT TREE -----------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_dk_dragon_tail+radius"	                    "+{s:radius}  Dragon Tail Radius"
-"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_dk_elder_dragon_form+bonus_attack_range"	    "+{s:bonus_attack_range} Dragon Form Bonus Attack Range"
-"DOTA_Tooltip_Ability_special_bonus_unique_pathfinder_dk_breathe_fire"	                                "Breathe Fire Reduces All Damage Types"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_dk_dragon_tail+radius"	                    "+{s:radius}  神龙摆尾冲击范围"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pathfinder_dk_elder_dragon_form+bonus_attack_range"	    "+{s:bonus_attack_range} 古龙形态攻击距离加成"
+"DOTA_Tooltip_Ability_special_bonus_unique_pathfinder_dk_breathe_fire"	                                "火焰气息debuff降低敌人造成的所有伤害"
 
 
 >---------------------------------------
 >--- MODIFIER --------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_modifier_pathfinder_dk_breathe_fire"                                                      "Breathed Fire"
-"DOTA_Tooltip_modifier_pathfinder_dk_breathe_fire_Description"                                          "Damage currently reduced."
 
-"DOTA_Tooltip_modifier_pathfinder_dk_dragon_tail_chain"                                                 "Bound by Blood"
-"DOTA_Tooltip_modifier_pathfinder_dk_dragon_tail_chain_Description"                                     "Health is being drained, while receiving a portion of damage taken by Dragon Knight."
+"DOTA_Tooltip_modifier_pathfinder_dk_elder_dragon_form"                                                 "古龙形态"
+"DOTA_Tooltip_modifier_pathfinder_dk_elder_dragon_form_Description"                                     "山河移动填平裂缝，日出东方调整时空"
 
-"DOTA_Tooltip_modifier_pathfinder_dk_dragon_blood_damage"                                               "Draconic Fury"
-"DOTA_Tooltip_modifier_pathfinder_dk_dragon_blood_damage_Description"                                   "Empowering Dragon Knight's next attack with bonus damage equal to number of stacks. If proc'd at max stacks, also heals Dragon Knight for damage dealt"
+"DOTA_Tooltip_modifier_pathfinder_dk_breathe_fire"                                                      "火焰气息"
+"DOTA_Tooltip_modifier_pathfinder_dk_breathe_fire_Description"                                          "攻击力降低。"
+
+"DOTA_Tooltip_modifier_pathfinder_dk_dragon_tail_chain"                                                 "灵魂盛宴"
+"DOTA_Tooltip_modifier_pathfinder_dk_dragon_tail_chain_Description"                                     "与龙骑士相连，无法杀死龙骑士并分担一部分龙骑士承受的伤害"
+
+"DOTA_Tooltip_modifier_pathfinder_dk_dragon_blood_damage"                                               "蓄积怒火"
+"DOTA_Tooltip_modifier_pathfinder_dk_dragon_blood_damage_Description"                                   "龙骑士的下次攻击额外造成与怒火层数相当的魔法伤害，若蓄积至最大层数，则下次攻击还会额外回复生命。"
 
 
 >----------------------------------------------------------------------------------------------------------------------------------------------
