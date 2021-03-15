@@ -28,6 +28,12 @@
 "DOTA_Tooltip_modifier_ascension_pathfinder_dilation"                        "膨胀力场"
 "DOTA_Tooltip_modifier_ascension_pathfinder_dilation_Description"            "冷却时间延长"
 
+"ascension_solo_player"                                                 "独行之路"
+"ascension_solo_player_Description"                                     "首领生命值降低40%"
+
+"DOTA_Tooltip_modifier_ascension_solo_player"                           "独行之路"
+"DOTA_Tooltip_modifier_ascension_solo_player_Description"               "首领降低40%% 最大生命值"
+
 "DOTA_Tooltip_Ability_item_feet_of_midas"			            "萨迪姆之爪"         // Midas name and description
 "DOTA_Tooltip_Ability_item_feet_of_midas_Lore"			        "星空中的迈达斯被冒险家崇高的精神感动，并对孤独的英雄致以祝福.。"
 "DOTA_Tooltip_Ability_item_feet_of_midas_Description"			"魔挲\n 召唤一个迈达斯的信使，信使会带来 %bonus_gold% 金币后消失。每层充能一次。"
