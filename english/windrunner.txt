@@ -26,7 +26,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet_Description"				"Upon hitting an enemy unit, Powershot ricochets toward the furthest enemy within a %search_radius% radius. This effect can occur up to %bounce% times"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"Semiautomatic Assault Archery"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"Powershot now fires 17 non-piercing shots, each dealing %damage_percent%%  damage"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"Powershot now fires 9 non-piercing shots, each dealing %damage_percent%%  damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe"	                            "Picnic in The Park"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "Casting Windrun also grants the effect to friendly heroes within a %radius% radius"

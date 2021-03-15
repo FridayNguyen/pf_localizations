@@ -13,7 +13,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_wind_breathing_dummy_Description"	                            "使主宰领悟风之呼吸。使用风之呼吸可以向一个目标突进并攻击沿途的敌人。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward"                                                "送葬"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward_Description"                                    "释放剑刃风暴时 %radius% 范围内的友方单位也会同时释放一个独立的剑刃旋风。剑刃旋风造成主宰剑刃风暴 %dmg_pct%% 的伤害。"
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward_Description"                                    "Casting Bladefury also causes any allied hero and healing ward in a %radius% radius to cast their own lesser Bladefury that for %duration_pct%%  duration"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying"	                                        	"直升机"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying_Description"                                  "释放剑刃风暴时主宰获得飞行能力和 %damage_reduction%% 的伤害减免。"

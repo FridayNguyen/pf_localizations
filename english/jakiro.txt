@@ -11,7 +11,7 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart"                           "Tacobellian Indigestion"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart_Description"	            "Every second, Jakiro has a %chance%%  chance of releasing either component of Dual Breath in a cone directly behind itself"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart_Description"	            "Every second, Jakiro has a %chance%%  chance of releasing either component of Dual Breath in a cone directly behind itself. Jakiro does not need to be alive for this effect to occur"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_liquid_fire"	                "Through the Fire and Flames"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_liquid_fire_Description"	    "The fire component of Dual Breath has a %chance%%  chance of also launching a Liquid Fire projectile of the current level unto each enemy hit. Liquid Fire will always has its cooldown refreshed when this effect ocurrs"

@@ -13,7 +13,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_wind_breathing_dummy_Description"	                            "Герой получает новую способность Wind's Breath, с помощью которой может быстро прыгнуть к выбранному врагу, атаковав всех противников по пути."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward"                                                "Let It Rip"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward_Description"                                    "Применение Bladefury также накладывает эффект способности на целительный тотем и союзных героев в радиусе %radius%. Bladefury союзников наносит врагам %dmg_pct%%  обычного урона способности."
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward_Description"                                    "Casting Bladefury also causes any allied hero and healing ward in a %radius% radius to cast their own lesser Bladefury that for %duration_pct%%  duration."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying"	                                        	"Helicopter"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying_Description"                                  "Во время действия Bladefury герой получает беспрепятственное передвижение и сопротивление урону в размере %damage_reduction%%."
