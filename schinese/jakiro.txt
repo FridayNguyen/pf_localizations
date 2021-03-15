@@ -11,7 +11,7 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart"                           "彩虹屁"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart_Description"	            "杰奇洛每秒有 %chance%% 的几率向身后释放冰霜吐息或火焰吐息。"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_dual_breath_fart_Description"	            "杰奇洛每秒有 %chance%% 的几率向身后释放冰霜吐息或火焰吐息。杰奇洛死亡时此效果也可以触发。"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_liquid_fire"	                "凤仙火"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_duel_breath_liquid_fire_Description"	    "冰火交加的火焰吐息有 %chance%% 的概率对所有命中的敌人释放当前等级的液态火。凤仙火触发时刷新液态火冷却。"
