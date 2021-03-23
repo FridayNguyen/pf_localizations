@@ -13,7 +13,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_wind_breathing_dummy_Description"	                            "Grant Juggernaut the Wind's Breath Ability, allowing him to quickly dash to a target location, attacking any enemy in the way."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward"                                                "Let It Rip"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward_Description"                                    "Casting Bladefury also causes any allied hero and healing ward in a %radius% radius to cast their own lesser Bladefury that for %duration_pct%%  duration"
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_ward_Description"                                    "Casting Bladefury also causes any allied hero and healing ward in a %radius% radius to cast their own lesser Bladefury for %duration_pct%%  duration"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying"	                                        	"Helicopter"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying_Description"                                  "Juggernaut gains flying movement during Bladefury and %damage_reduction%%  damage reduction"

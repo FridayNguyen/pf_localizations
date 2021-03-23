@@ -226,7 +226,7 @@
 
 
 "DOTA_Tooltip_Ability_item_blink_bootleg"			            "Bootleg Blink"
-"DOTA_Tooltip_Ability_item_blink_bootleg_Description"			"<font color='#70EA72'>Let me out!<\font> \n Encounter a bug? Doors aren't opening? Somehow got stuck? Let me know on the mod's workshop page. In the meantime use this bootleg dagger to get out of your sticky situation :)"
+"DOTA_Tooltip_Ability_item_blink_bootleg_Description"			"<font color='#70EA72'>Let me out!<\font> \n type 'suicide' in chat to kill yourself \n Encounter a bug? Doors aren't opening? Somehow got stuck? Let me know on the mod's workshop page. In the meantime use this bootleg dagger to get out of your sticky situation :)"
 
 
 
