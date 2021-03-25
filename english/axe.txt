@@ -41,7 +41,7 @@
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_refresh_Description"	                        "Each time a unit afflicted with Battle Hunger attacks Axe, they gain an additional stack of Battle Hunger. This effect fully ignores the ability's max stack count"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health"	                                    "Cardiovascular Axercises"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health_Description"	                        "Axe gains %stack_health% bonus max health every time an enemy unit dies while affected by Berserker's Call. This bonus is lost on death"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_health_Description"	                        "Axe gains %stack_health% bonus max health every time an enemy unit dies while affected by Berserker's Call. Half of this bonus is lost on death"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger"	                            "Axe-troverted Personality"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_berseker_call_battle_hunger_Description"	                "Berserker's Call also automatically applies Battle Hunger unto all affected enemy units. Axe is healed for %heal_pct%%  of his max health for each unit taunted"
