@@ -10,7 +10,7 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing"			                            "Golden Eye"
-"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing_Description"		                	"Upon hitting an enemy, Stifling Dagger will bounce up to %bounces% times to other enemy unit within a %range% radius"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing_Description"		                	"Upon hitting an enemy, Stifling Dagger will bounce up to %bounces% times to other enemy unit within a %range% radius. Stifling Dagger no longer slows"
 
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze"		                                	"A View To A Kill"
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze_Description"	                    		"Enemy units struck by Stifling Dagger are hexed into a harmless critter for up to %duration% seconds"

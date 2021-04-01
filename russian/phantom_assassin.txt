@@ -10,7 +10,7 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing"			                            "Golden Eye"
-"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing_Description"		                	"Поразив цель, Stifling Dagger до %bounces% раз может отскочить в другого врага в радиусе %range%."
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing_Description"		                	"Поразив цель, Stifling Dagger до %bounces% раз может отскочить в другого врага в радиусе %range%. Stifling Dagger no longer slows"
 
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze"		                                	"A View To A Kill"
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze_Description"	                    		"Каждый враг, задетый Stifling Dagger, превращается в безобидную зверушку на %duration% сек."

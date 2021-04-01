@@ -10,7 +10,7 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing"			                            "黄金眼"
-"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing_Description"		                	"窒碍短匕命中目标时会在 %range% 范围内弹射 %bounces% 次。"
+"DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_bouncing_Description"		                	"窒碍短匕不再具有减速效果，但命中时会在目标 %range% 范围内弹射 %bounces% 次。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze"		                                	"雷霆杀机"
 "DOTA_Tooltip_Ability_pathfinder_special_pa_dagger_freeze_Description"	                    		"窒碍短匕会将击中的目标变成小动物，持续 %duration% 秒。"

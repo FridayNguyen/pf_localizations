@@ -13,13 +13,13 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_ground"                                              "Wookie Doctrine"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground_Description"                                  "Bushwhack now always creates a tree at the target location. If there is no enemy units within the radius, the net trap will remain on the ground for up to %duration% seconds. Any unsuspecting enemy stepping into the trap area will trigger the current level of Bushwhack after a brief delay"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground_Description"                                  "Bushwhack now has 4 charges and always creates a tree at the target location. If there is no enemy units within the radius, the net trap will remain on the ground for up to %duration% seconds. Any unsuspecting enemy stepping into the trap area will trigger the current level of Bushwhack after a brief delay"
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack"                                        "Ain't No Fortunate Ones"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "Attacking any unit stunned by Bushwhack also cause Hoodwink to launches additional attacks unto all nearby affected enemy. These extra attacks deal %dmg_percent%%  damage and can fully proc any on-hit effect"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "While attacking, Hoodwink also launches additional attacks unto all enemies affected by Bushwhack, and refreshes the stun duration. These extra attacks deal %dmg_percent%%  damage"
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry"                                              "Sapper of Tomo'kan"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "Activating Scurry will create a tree behind Hookwink, and immediate cast the current level of Bushwhack at its location. This effect is repeated again once the buff expires"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "For every second during Scurry's active buff, a tree will be created behind Hookwink, who will immediate cast the current level of Bushwhack toward its location"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "Smelt of Elderberries"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "Sharpshooter projectils now continuously creates trees in its path. While charging up Sharpshoopter, Hoodwink takes %damage_reduction%%  less damage from all sources"
@@ -28,7 +28,7 @@
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "Sharpshooter projectile now pierces through the first enemy captain hit, while dealing half damage and slowing any non-captain unit in the way"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset"                                            "There's A Mouse With A Bow Over There"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy captain, its cooldown will be immediately reset. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy unit, its cooldown will be immediately reset. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "Get Nutted"
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "Each of Hoodwink's attacks now has a %chance%%  chance of launching the current level of Acorn Shot at the targeted unit"
@@ -40,13 +40,13 @@
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "Acorn Shot now intially stuns for %base_stun% seconds and deals %base_damage% magical damage. Each additional bounce increases the stun duration by %base_stun% seconds and the damage by %base_damage%. Hoodwink is healed for 100% of the damage dealt this way"
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_allies"                                                 "We’ve Gotta Get Out of this Place"
-"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Casting Scurry grants its active buff to all allies within a %radius% radius. The duration of the buff is extended by %extend_time% seconds for each ally affected"
+"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Scurry's active buff grants persistent invisibility, and the benefits are shared to all allies within a %radius% radius. The duration of the buff is extended by %extend_time% seconds for each ally affected"
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap"                                                   "Over the River and Through the Woods"
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap_Description"                                       "Casting Scurry now also causes Hoodwink to leap forward %leap_distance% units. Upon landing, Hoodwink immediately attacks any nearby enemy within a %knock_radius% radius, knocking them away and stunning them for %stun_duration% seconds"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree"                                               "And I Speak For The Trees"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "The tree summoned by Acorn Shot becomes imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree has a %acorn_chance%%  chance to be struck with the current level of Acorn Shot every second"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically mini-stunned. Healing from multiple trees will stack"
 
 
 

@@ -36,7 +36,7 @@
 	"DOTA_Tooltip_ability_pathfinder_sun_ray_star_Description"							"Sun Ray also produces %side_rays% additional rays in all directions around Phoenix"
 
 	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite"									"Eternal Sunshine Of The Spotless Mind"
-	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite_Description"						"Sun Ray can be channeled indefinitely and costs %hp_cost_mult%%% less health to channel. While the ability is active, Phoenix is immune to stuns and has increased turn rate, but can no longer toggle movements"
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite_Description"						"Sun Ray can be channeled indefinitely. While the ability is active, Phoenix is immune to stuns and has increased turn rate, but can no longer toggle movements"
 
 
 	"DOTA_Tooltip_ability_pathfinder_supernova_blackhole"								"Black Hole Sun"
@@ -137,7 +137,7 @@
 
 	"phoenix_supernova_pf_cooldown"														"-{s:value}% {s:ability_name} Cooldown"
 	"phoenix_supernova_pf_damage_per_sec"												"+{s:value} {s:ability_name} Damage per Second"
-	"phoenix_supernova_pf_max_health_for_egg"											"+{s:value}% {s:ability_name} Max Health as Egg Health"
+	"phoenix_supernova_pf_max_health_for_egg"											"+{s:value}% Max Health as {s:ability_name} Egg Health"
 	"phoenix_supernova_pf_stun_duration"												"+{s:value}s {s:ability_name} Stun Duration"
 
 
@@ -188,7 +188,7 @@
 
 	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_cooldown_Description"									"<h1>Common Scepter Fragment</h1>Reduces Supernova Cooldown by %value%%%."
 	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_damage_per_sec_Description"								"<h1>Common Scepter Fragment</h1>Increases Supernova Damage per Second by %value%."
-	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_max_health_for_egg_Description"							"<h1>Common Scepter Fragment</h1>Increases Supernova Max Health as Egg Health by %value%%%."
+	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_max_health_for_egg_Description"							"<h1>Common Scepter Fragment</h1>Increases Max Health as Supernova Egg Health by %value%%%."
 	"DOTA_Tooltip_Ability_item_phoenix_supernova_pf_stun_duration_Description"								"<h1>Common Scepter Fragment</h1>Increases Supernova Stun Duration by %value% seconds."
 
 

@@ -36,7 +36,7 @@
 	"DOTA_Tooltip_ability_pathfinder_sun_ray_star_Description"							"烈日炙烤在周围额外释放 %side_rays% 道激光。"
 
 	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite"									"神鸟守卫"
-	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite_Description"						"释放烈日炙烤时不可移动，同时生命消耗为原技能的 %hp_cost_mult%%%  ，移除最大持续时间，大幅提升凤凰的转身速率，并且不会被眩晕。"
+	"DOTA_Tooltip_ability_pathfinder_sun_ray_infinite_Description"						"释放烈日炙烤时不可移动 ，移除最大持续时间，大幅提升凤凰的转身速率，并且不会被眩晕。"
 
 
 	"DOTA_Tooltip_ability_pathfinder_supernova_blackhole"								"恒星奇点"

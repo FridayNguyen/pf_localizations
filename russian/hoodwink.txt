@@ -13,13 +13,13 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_ground"                                              "Wookie Doctrine"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground_Description"                                  "Bushwhack теперь всегда создает дерево в указаном месте. Если в радиусе нет врагов для притягивания, ловушка останется на земле в течении %duration% секунд. При наступлении противника на ловушку срабатывает текущий уровень Bushwhack в попавшегося уровня после короткой задержки."
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground_Description"                                  "Bushwhack now has 4 charges and always creates a tree at the target location. If there is no enemy units within the radius, the net trap will remain on the ground for up to %duration% seconds. Any unsuspecting enemy stepping into the trap area will trigger the current level of Bushwhack after a brief delay"
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack"                                        "Ain't No Fortunate Ones"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "Атаки против противников под контролем Bushwhack, запускают снаряды во всех противников под контролем Bushwhack. Снаряды наносят %dmg_percent%% урона и приминяют все on-hit эффекты."
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "While attacking, Hoodwink also launches additional attacks unto all enemies affected by Bushwhack, and refreshes the stun duration. These extra attacks deal %dmg_percent%%  damage"
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry"                                              "Sapper of Tomo'kan"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "Активация Scurry создаст дерево на такущей позиции и отправят текущий уровень Bushwhack в это дерево. Этот эффект срабатывает по окончании Scurry."
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "For every second during Scurry's active buff, a tree will be created behind Hookwink, who will immediate cast the current level of Bushwhack toward its location"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "Smelt of Elderberries"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "Sharpshooter снаряд создает много деревье на своем пути. Пока заряжается Sharpshooter, весь урон по заклинателю уменьшен на %damage_reduction%%."
@@ -28,7 +28,7 @@
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "Sharpshooter снаряд пробивает первого капитана на своем пути, нанося 50% урона и замедляя цели за капитаном."
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset"                                            "There's A Mouse With A Bow Over There"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "Если Sharpshooter убивает капитана, перезарядка умения Sharpshooter сбрасывается, а так же убийца получает бафф текущего уровня Scurry."
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy unit, its cooldown will be immediately reset. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "Get Nutted"
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "Каждая атака Hoodwink имеет шанс %chance%%  запустить текущий уровень Acorn Shot по атакованной цели."
@@ -46,7 +46,7 @@
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap_Description"                                       "При использовании Scurry, Hoowdink прыгает вперед %leap_distance% единиц. По приземлению, Hoowdink атакует всех противников в радиусе %knock_radius%, а так же отбрасывает и станит на  %stun_duration% секунд"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree"                                               "And I Speak For The Trees"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Древо созданное Acorn Shot становится пронизано древним духом. Каждую секунду, древо исцеляет всех союзников в радиусе %radius% на %heal_percent%% их максимального здоровья, так же существует %acorn_chance%% шанс запустить текущий уровень Acorn Shot в противников в этой области."
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically mini-stunned. Healing from multiple trees will stack"
 
 
 
