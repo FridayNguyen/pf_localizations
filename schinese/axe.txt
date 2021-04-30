@@ -29,7 +29,7 @@
 "DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_allies_Description"	                        "反击螺旋成为光环技能，斧王周围 %radius% 范围内的友方英雄会同时获得反击螺旋的效果。"
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury"	                                    "飞斧风暴"
-"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury_Description"	                        "反击螺旋成为开关技能，开启时每秒消耗1%点生命并强制触发反击螺旋。强制触发的反击螺旋不影响技能本身的反击螺旋触发。"
+"DOTA_Tooltip_Ability_pathfinder_axe_special_counter_helix_fury_Description"	                        "Counter Helix can now be toggled, causing Axe to continously deals the ability's damage to nearby enemies every second. This effect does not require mana, but drain 3% health per second. Axe moves %self_slow%%% slower while the effect is active "
 
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal"	                                "战斗激素"
 "DOTA_Tooltip_Ability_pathfinder_axe_special_battle_hunger_lifesteal_Description"	                    "战斗饥渴以 %percent%% 的伤害量治疗 %radius% 范围内的友方英雄。"

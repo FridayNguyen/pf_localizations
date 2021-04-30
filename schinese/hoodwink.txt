@@ -37,16 +37,16 @@
 "DOTA_Tooltip_Ability_pathfinder_scurry_canadian_Description"                                   "密林奔走激活时，森海飞霞会摧毁碰到的树木。每摧毁一棵树木治疗 %heal_percent%% 的最大生命，并延长 %extend_time% 秒激活时间。摧毁自然生长的树木时，被摧毁的树木会在 %regrow_time% 秒后重新生长。"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun"                                               "目送"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "爆栗出击对第一个目标造成 %base_damage% 伤害和 %base_stun% 秒眩晕。在后续的弹射中，每次弹射增加 %base_damage% 魔法伤害，眩晕时间增加 %base_stun% 秒。森海飞霞获得等同于总伤害量的治疗。"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "爆栗出击对第一个目标造成 %base_damage% 伤害和 %base_stun% 秒眩晕。在后续的弹射中，每次弹射增加 %base_damage% 魔法伤害，眩晕时间增加 %base_stun% 秒。"
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_allies"                                                 "出森林记"
-"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "激活密林奔走时，%radius% 范围内的友军获得相同增益。每个获得增益的友军延长 %extend_time% 秒密林奔走持续时间。"
+"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Scurry's active buff grants invisibility, and the benefits are shared to all allies within a %radius% radius. The duration of the buff is extended by %extend_time% seconds for each ally affected "
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap"                                                   "轻功树上飞"
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap_Description"                                       "密林奔走释放时会向前跳跃 %leap_distance% 距离，落地时对自身 %knock_radius% 范围内的敌方单位施加一次普通攻击，同时击退并眩晕 %stun_duration% 秒。"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree"                                               "生命之树"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically mini-stunned. Healing from multiple trees will stack"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically rooted. Healing from multiple trees will stack"
 
 
 

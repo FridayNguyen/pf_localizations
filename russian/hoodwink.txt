@@ -37,16 +37,16 @@
 "DOTA_Tooltip_Ability_pathfinder_scurry_canadian_Description"                                   "Пока активно Scurry, Hoowdink уничтожает все деревья и коробки которые она пробегает, каждое уничтоженное таким образом дерево, восполняет %heal_percent%% от максимального здоровья и продлевает длительность Scurry на %extend_time%. Любое непризванное дерево срубленное таким образом вырастет заново через %regrow_time% секунд."
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun"                                               "Look At It Go"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "Acorn Shot теперь станит на %base_stun% секунд и наносит дополнительно %base_damage% магического урона. Каждый отскок желудя увеличивает длительность стана на %base_stun% секунд и урон на %base_damage%. 100% урона нанесенного таким образом исцеляет Hoodwink."
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "Acorn Shot теперь станит на %base_stun% секунд и наносит дополнительно %base_damage% магического урона. Каждый отскок желудя увеличивает длительность стана на %base_stun% секунд и урон на %base_damage%. "
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_allies"                                                 "We’ve Gotta Get Out of this Place"
-"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Использование Scurry применяет бафф всем героям в радиусе %radius%. Длительность баффа так же увеличивается на %extend_time% секунд за каждого союзника под действием Scurry."
+"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Scurry's active buff grants invisibility, and the benefits are shared to all allies within a %radius% radius. The duration of the buff is extended by %extend_time% seconds for each ally affected "
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap"                                                   "Over the River and Through the Woods"
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap_Description"                                       "При использовании Scurry, Hoowdink прыгает вперед %leap_distance% единиц. По приземлению, Hoowdink атакует всех противников в радиусе %knock_radius%, а так же отбрасывает и станит на  %stun_duration% секунд"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree"                                               "And I Speak For The Trees"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically mini-stunned. Healing from multiple trees will stack"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically rooted. Healing from multiple trees will stack"
 
 
 

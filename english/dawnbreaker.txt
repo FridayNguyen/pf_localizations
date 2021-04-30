@@ -1,0 +1,223 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-DAWNBREAKER START-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_solar_pulse"                                                      "Starburst"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_solar_pulse_Description"                                          "Starbreaker periodically emits Solar Guardian pulses of the current level throughout its duration. Dawnbreaker receives %damage_reduction%%% less damage while performing Starbreaker"
+
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_max_luminosity"                                                   "Whispers of Ezalor"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_max_luminosity_Description"                                       "Starbreaker procs Luminosity on every hit, and Luminosity will always be set at max stacks after the ability ends"
+
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_sleep"                                                      "Stop, Hammer Time!"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_sleep_Description"                                          "The radius of Starbreaker's final smash is increased by %bonus_radius_mult%%%. All enemies hit by this final strike, including CC-immune units, take %magic_damage% additional magic damage and are put to sleep for %sleep_duration% seconds. Sleep cannot be resisted by status resistance, but it also does not affect bosses"
+
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_skewer"                                                      "Righteous Momentum"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_skewer_Description"                                          "Celestrial Hammer drags along any enemy unit in its path. Upon hitting the ground, all units within a %radius% radius of Celestrial Hammer are instantly damaged by an attack from Dawnbreaker, then stunned for %attack_stun% seconds"
+
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion"                                                    "Echoes of the First Light"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion_Description"                                        "Celestrial Hammer creates an illusion of Dawnbreaker each time it hits an enemy unit. These illusions deal %illusion_damage_pct%%% damage, take %illusion_incoming_dmg%%% damage, and are fully capable of proccing Luminosity"
+
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_trail_heal"                                                  "Road to Eden"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_trail_heal_Description"                                      "Celestrial Hammer's fire trail now heals and increases the movement speed of allied heroes. Any friendly hero healed by Luminosity will also leave a fire trail of their own for %duration% seconds"
+
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_charge"                                                            "Rogue Knight's Pursuit"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_charge_Description"                                                "Dawnbreaker can now activate Luminosity to launch herself toward any enemy unit within a %range% radius. Upon arriving at the target, Dawnbreaker stuns all enemies within a %aoe% radius for %stun_duration% seconds. While charging, Dawnbreaker is invulnerable and leaves behind a trail of Celestrial Hammer fire"
+
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking"                                                          "Lux Immortalis"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking_Description"                                              "Each time Dawnbreaker attacks, she gain a stack of Lux Immortalis. Each stack grants Dawnbreaker %damage_reduction%%% damage reduction, %status_resist%%% status resistance, %health_regen% health regeneration, and %attack_damage% bonus attack damage, up to a maximum of %max_stacks% stacks. If Dawnbreaker stops attacking for %reset_time% seconds, the stack count is immediately reset, unless she is channeling Solar Guardian"
+
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion"                                                         "Confessions in the Dark"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion_Description"                                             "If an enemy unit dies within %duration% seconds of being hit by a Luminosity critical strike, it will explodes in a %aoe% radius, damaging enemies and healing allied heroes for %health_pct%%% of its max health. Affected enemies are also stunned for %stun_duration% seconds"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_charges"                                                       "Beam Me Up, Scotty!"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_charges_Description"                                           "Solar Guardian now has 3 independent charges. Upon landing, Dawnbreaker reset the cooldown of all of her other abilities"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_dummy"                                                "Solar Sanctuary"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_dummy_Description"                                    "Consume 100% of Dawnbreaker's current mana to permanently bless a location, causing it to radiates lesser Solar Guardian pulses of the current level, damaging and healing for %value_mult%%% of the ability's values. Can only be used once per room, but the effect will last until the end of the encounter"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent"                                                     "Solar Sanctuary"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_Description"                                         "Consume 100% of Dawnbreaker's current mana to permanently bless a location, causing it to radiates lesser Solar Guardian pulses of the current level, damaging and healing for %value_mult%%% of the ability's values. Can only be used once per room, but the effect will last until the end of the encounter"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture"                                                       "Stairway to Heaven"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture_Description"                                           "Solar Guardian now captures all nearby enemies, taking them unto the sky with Dawnbreaker. Upon landing, Dawnbreaker gains complete immunity against physical and magical damage for %buff_duration% seconds. All enemies within the capture radius are stunned while Solar Guardian is channeling "
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua"                                                                  "Starbreaker"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_Description"                                                      "Dawnbreaker whirls her hammer around %total_attacks% times, damaging enemies with her attack plus bonus damage. On the final strike, she smashes her hammer down, stunning and damaging enemies in front of her."
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_duration"                                                         "Combo Duration:"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_swipe_radius"                                                     "Swipe Radius:"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_swipe_damage"                                                     "Swipe Bonus Damage:"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_radius"                                                     "Smash Radius:"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_damage"                                                     "Smash Bonus Damage:"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_stun_duration"                                              "Smash Stun Duration:"
+
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua"                                                             "Celestial Hammer"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_Description"                                                 "Dawnbreaker hurls her weapon at a location, damaging enemies struck along the way. The hammer pauses briefly at the destination before flying back to her, leaving a trail of fire that slows enemies. Dawnbreaker can recall the hammer at any time, pulling her towards it so they meet in the middle."
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_hammer_damage"                                               "Hammer Damage:"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_flare_debuff_duration"                                       "Fire Trail Duration:"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_flare_radius"                                                "Fire Trail Radius:"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_move_slow"                                                   "%Fire Trail Movement Slow:"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_burn_damage"                                                 "Fire Trail Burn DPS:"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_range"                                                       "Cast Range:"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_pause_duration"                                              "Hammer Return Delay:"
+
+"DOTA_Tooltip_Ability_dawnbreaker_converge_lua"                                                                     "Converge"
+"DOTA_Tooltip_Ability_dawnbreaker_converge_lua_Description"                                                         "Dawnbreaker recalls her hammer, pulling them together so they meet in the middle."
+
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua"                                                                   "Luminosity"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_Description"                                                       "After %attack_count% attacks, Dawnbreaker powers up, charging her next attack with a critical hit that heals all allied heroes nearby for a portion of attack damage dealt. Creeps and neutral enemies provide less healing. Allies are healed for a lesser amount."
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_heal_radius"                                                       "Heal Radius:"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_heal_pct"                                                          "%Healing From Captains:"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_allied_healing_pct"                                                "%Healing For Allies:"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_bonus_damage"                                                      "%Critial Strike Damage:"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_heal_from_creeps"                                                  "%Non-Captain Heal Penalty:"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua"                                                               "Solar Guardian"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_Description"                                                   "Dawnbreaker creates a pulsing effect at a location, damaging enemies and healing allies with each pulse. After a short duration, she flies to the target location, dealing additional damage and stunning enemies upon landing. Once channeled, Dawnbreaker cannot stop the ability."
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_radius"                                                        "Effect Radius:"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_channel_time"                                                  "Channel Time:"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_base_damage"                                                   "Damage Per Pulse:"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_base_heal"                                                     "Heal Per Pulse:"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_land_damage"                                                   "Landing Damage:"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_land_stun_duration"                                            "Landing Stun Duration:"
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+"dawnbreaker_starbreaker_lua_swipe_damage"			                                                            "+{s:value} {s:ability_name} Swipe Damage"
+"dawnbreaker_starbreaker_lua_smash_damage"			                                                            "+{s:value} {s:ability_name} Smash Damage"
+"dawnbreaker_starbreaker_lua_smash_radius"			                                                            "+{s:value} {s:ability_name} Smash Radius"
+"dawnbreaker_starbreaker_lua_smash_stun_duration"			                                                    "+{s:value}s {s:ability_name} Stun Duration"
+"dawnbreaker_starbreaker_lua_smash_pct_cooldown"			                                                    "-{s:value}% {s:ability_name} Cooldown"
+
+"dawnbreaker_celestial_hammer_lua_hammer_damage"			                                                    "+{s:value} {s:ability_name} Throw Damage"
+"dawnbreaker_celestial_hammer_lua_flare_burn_damage"			                                                "+{s:value} {s:ability_name} Fire Burn DPS"
+"dawnbreaker_celestial_hammer_lua_range"			                                                            "+{s:value} {s:ability_name} Throw Range"
+"dawnbreaker_celestial_hammer_lua_flare_debuff_duration"			                                            "+{s:value}s {s:ability_name} Fire Trail Duration"
+"dawnbreaker_celestial_hammer_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+
+"dawnbreaker_luminosity_lua_heal_pct"			                                                                "+{s:value}% {s:ability_name} Healing"
+"dawnbreaker_luminosity_lua_bonus_damage"			                                                            "+{s:value}% {s:ability_name} Critical Damage"
+"dawnbreaker_luminosity_lua_heal_radius"			                                                            "+{s:value} {s:ability_name} Heal Radius"
+
+"dawnbreaker_solar_guardian_lua_airtime_duration"			                                                    "+{s:value}s {s:ability_name} Flight Duration"
+"dawnbreaker_solar_guardian_lua_radius"			                                                                "+{s:value} {s:ability_name} Effect Radius"
+"dawnbreaker_solar_guardian_lua_base_damage"			                                                        "+{s:value} {s:ability_name} Damage per Second"
+"dawnbreaker_solar_guardian_lua_base_heal"			                                                            "+{s:value} {s:ability_name} Heal per Second"
+"dawnbreaker_solar_guardian_lua_land_stun_duration"			                                                    "+{s:value}s {s:ability_name} Stun Duration"
+"dawnbreaker_solar_guardian_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} Cooldown"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_swipe_damage"				                                                    "Starbreaker - Swipe Damage"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_damage"				                                                    "Starbreaker - Smash Damage"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_radius"				                                                    "Starbreaker - Smash Radius"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_stun_duration"				                                                "Starbreaker - Smash Stun Duration"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_pct_cooldown"				                                                "Starbreaker - Cooldown"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_hammer_damage"				                                                "Celestrial Hammer - Throw Damage"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_flare_burn_damage"				                                            "Celestrial Hammer - Fire Trail DPS"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_range"				                                                        "Celestrial Hammer - Throw Range"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_flare_debuff_duration"				                                        "Celestrial Hammer - Fire Trail Duration"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_pct_cooldown"				                                                "Celestrial Hammer - Cooldown"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_heal_pct"				                                                            "Luminosity - Healing"
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_bonus_damage"				                                                        "Luminosity - Critical Strike Damage"
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_heal_radius"				                                                        "Luminosity - Heal Radius"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_airtime_duration"				                                                "Solar Guardian - Flight Duration"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_radius"				                                                        "Solar Guardian - Effect Radius"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_base_damage"				                                                    "Solar Guardian - Damage per Second"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_base_heal"				                                                    "Solar Guardian - Heal per Second"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_land_stun_duration"				                                            "Solar Guardian - Stun Duration"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_pct_cooldown"				                                                    "Solar Guardian - Cooldown"
+
+
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_swipe_damage_Description"				                                                    "<h1>Common Scepter Fragment</h1>Increases Starbreaker Swipe Damage by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_damage_Description"				                                                    "<h1>Common Scepter Fragment</h1>Increases Starbreaker Smash Damage by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_radius_Description"				                                                    "<h1>Common Scepter Fragment</h1>Increases Starbreaker Smash Radius by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_stun_duration_Description"				                                                "<h1>Common Scepter Fragment</h1>Increases Starbreaker Smash Stun Duration by %value%s."
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_pct_cooldown_Description"				                                                "<h1>Common Scepter Fragment</h1>Decreases Starbreaker Cooldown by %value%%%."
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_hammer_damage_Description"				                                                "<h1>Common Scepter Fragment</h1>Increases Celestrial Hammer Throw Damage by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_flare_burn_damage_Description"				                                            "<h1>Common Scepter Fragment</h1>Increases Celestrial Hammer Fire Trail DPS by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_range_Description"				                                                        "<h1>Common Scepter Fragment</h1>Increases Celestrial Hammer Throw Range by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_flare_debuff_duration_Description"				                                        "<h1>Common Scepter Fragment</h1>Increases Celestrial Hammer Fire Trail Duration by %value%s."
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_pct_cooldown_Description"				                                                "<h1>Common Scepter Fragment</h1>Decreases Celestrial Hammer Cooldown by %value%%%."
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_heal_pct_Description"				                                                            "<h1>Common Scepter Fragment</h1>Increases Luminosity Healing by %value%%%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_bonus_damage_Description"				                                                        "<h1>Common Scepter Fragment</h1>Increases Luminosity Critical Strike Damage by %value%%%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_heal_radius_Description"				                                                        "<h1>Common Scepter Fragment</h1>Increases Luminosity Heal Radius by %value%."
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_airtime_duration_Description"				                                                "<h1>Common Scepter Fragment</h1>Increases Solar Guardian Flight Duration by %value%s."
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_radius_Description"				                                                        "<h1>Common Scepter Fragment</h1>Increases Solar Guardian Effect Radius by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_base_damage_Description"				                                                    "<h1>Common Scepter Fragment</h1>Increases Solar Guardian Damage per Second by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_base_heal_Description"				                                                    "<h1>Common Scepter Fragment</h1>Increases Solar Guardian Heal per Second by %value%."
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_land_stun_duration_Description"				                                            "<h1>Common Scepter Fragment</h1>Increases Solar Guardian Stun Duration by %value%s."
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_pct_cooldown_Description"				                                                    "<h1>Common Scepter Fragment</h1>Decreases Solar Guardian Cooldown by %value%%%."
+
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_dawnbreaker_celestial_hammer_lua+pause_duration"     "+{s:pause_duration}s Celestial Hammer Return Delay"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_dawnbreaker_luminosity_lua+bonus_damage"             "+{s:bonus_damage}% Luminosity Critical Damage"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_dawnbreaker_solar_guardian_lua+cooldown"             "-{s:cooldown}% Solar Guardian Cooldown"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_dawnbreaker_celestial_hammer_lua+range"              "+{s:range} Celestial Hammer Range"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_modifier_dawnbreaker_celestial_hammer_lua_debuff"                                         "Celestrial Fire"
+"DOTA_Tooltip_modifier_dawnbreaker_celestial_hammer_lua_debuff_Description"                             "Basking in solar fire"
+
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua"                                                      "Luminosity Attack Count"
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_Description"                                          "Attacks are periodically empowered"
+
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_buff"                                                 "Luminosity Critical Strike"
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_buff_Description"                                     "The next attack will deals bonus damage and heals nearby allies"
+
+"DOTA_Tooltip_modifier_dawnbreaker_solar_guardian_lua"                                                  "Channeling Solar Guardian"
+"DOTA_Tooltip_modifier_dawnbreaker_solar_guardian_lua_Description"                                      "BEAM ME UP, SCOTTY!"
+
+"dota_hud_error_nohammer"                                                                               "NO HAMMER!"
+"dota_hud_error_outofbound"                                                                             "NOPE"
+
+"DOTA_Tooltip_modifier_universal_sleep"                                                                 "Bedtime"
+"DOTA_Tooltip_modifier_universal_sleep_Description"                                                     "Sleep tight!"
+
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_stacking"                                             "Lux Immortalis"
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_stacking_Description"                                 "Sun's out, guns' out!"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-DAWNBREAKER END-------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

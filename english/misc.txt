@@ -11,6 +11,9 @@
 "DOTA_Tooltip_modifier_generic_2_charges"                               "Ability Charges"
 "DOTA_Tooltip_modifier_generic_2_charges_Description"                   "Once a charge is spent, it will passively replenish in the background."
 
+"DOTA_Tooltip_modifier_generic_3_charges"                               "Ability Charges"
+"DOTA_Tooltip_modifier_generic_3_charges_Description"                   "Once a charge is spent, it will passively replenish in the background."
+
 "DOTA_Tooltip_modifier_generic_4_charges"                               "Ability Charges"
 "DOTA_Tooltip_modifier_generic_4_charges_Description"                   "Once a charge is spent, it will passively replenish in the background."
 
@@ -168,6 +171,7 @@
 "npc_dota_hero_hoodwink_full_title"				                "Hoodwink, Bandit of Tomo'kan"
 "npc_dota_hero_phoenix_full_title"				                "Phoenix, Offspring of the First Sun"
 "npc_dota_hero_dragon_knight_full_title"				        "Davion, Dragon Knight"
+"npc_dota_hero_dawnbreaker_full_title"				            "Valora, Bringer of Dawn"
 
 "npc_dota_hero_venomancer_full_title_intro"				        "Within the master of Jidi Isles once beat the heart of a herbalist"
 "npc_dota_hero_disruptor_full_title_intro"				        "Within his glowing coils courses the power of Druudian skies"
@@ -196,7 +200,8 @@
 "npc_dota_hero_tidehunter_full_title_intro"				        "He hunts an admiral for reasons already lost beneath the sea"
 "npc_dota_hero_hoodwink_full_title_intro"				        "She calls home the misty dark woods where few dare tread"
 "npc_dota_hero_phoenix_full_title_intro"				        "From the Keeper's first lights, its solar destiny coalesced"
-"npc_dota_hero_dragon_knight_full_title_intro"				        "Within the veins of a Knight flows the blood of an Eldwurm"
+"npc_dota_hero_dragon_knight_full_title_intro"				    "Within the veins of a Knight flows the blood of an Eldwurm"
+"npc_dota_hero_dawnbreaker_full_title_intro"				    "Waning star lights simmer in the heart of this ancient golem"
 
 "DOTA_Subshop_npc_dota_hero_venomancer_full_title"				            "Lesale Deathbringer"
 "DOTA_Subshop_npc_dota_hero_disruptor_full_title"				            "Crafter of Storms"
@@ -226,6 +231,7 @@
 "DOTA_Subshop_npc_dota_hero_hoodwink_full_title"				            "Bandit of Tomo'kan"
 "DOTA_Subshop_npc_dota_hero_phoenix_full_title"				                "Child of the First Light"
 "DOTA_Subshop_npc_dota_hero_dragon_knight_full_title"				        "Slayer of Slyrak"
+"DOTA_Subshop_npc_dota_hero_dawnbreaker_full_title"				            "Warrior of Light"
 
 
 "DOTA_Tooltip_Ability_item_blink_bootleg"			            "Bootleg Blink"

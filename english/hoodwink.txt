@@ -19,7 +19,7 @@
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "While attacking, Hoodwink also launches additional attacks unto all enemies affected by Bushwhack, and refreshes the stun duration. These extra attacks deal %dmg_percent%%  damage"
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry"                                              "Sapper of Tomo'kan"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "For every second during Scurry's active buff, a tree will be created behind Hookwink, who will immediate cast the current level of Bushwhack toward its location"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "For every %interval% seconds during Scurry's active buff, a tree will be created behind Hookwink, who will immediate cast the current level of Bushwhack toward its location"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "Smelt of Elderberries"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "Sharpshooter projectils now continuously creates trees in its path. While charging up Sharpshoopter, Hoodwink takes %damage_reduction%%  less damage from all sources"
@@ -37,16 +37,16 @@
 "DOTA_Tooltip_Ability_pathfinder_scurry_canadian_Description"                                   "While Scurry is active, Hoodwink will immediately destroys any tree or wooden crate she comes into contact with, healing for %heal_percent%%  of her max health and extend the buff duration by %extend_time% seconds for each tree destroyed. Any natural tree cut down this way will regrow after %regrow_time% seconds"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun"                                               "Look At It Go"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "Acorn Shot now intially stuns for %base_stun% seconds and deals %base_damage% magical damage. Each additional bounce increases the stun duration by %base_stun% seconds and the damage by %base_damage%. Hoodwink is healed for 100% of the damage dealt this way"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "Acorn Shot now intially stuns for %base_stun% seconds and deals %base_damage% magical damage. Each additional bounce increases the stun duration by %base_stun% seconds and the damage by %base_damage% "
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_allies"                                                 "We’ve Gotta Get Out of this Place"
-"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Scurry's active buff grants persistent invisibility, and the benefits are shared to all allies within a %radius% radius. The duration of the buff is extended by %extend_time% seconds for each ally affected"
+"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Scurry's active buff grants invisibility, and the benefits are shared to all allies within a %radius% radius. The duration of the buff is extended by %extend_time% seconds for each ally affected"
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap"                                                   "Over the River and Through the Woods"
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap_Description"                                       "Casting Scurry now also causes Hoodwink to leap forward %leap_distance% units. Upon landing, Hoodwink immediately attacks any nearby enemy within a %knock_radius% radius, knocking them away and stunning them for %stun_duration% seconds"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree"                                               "And I Speak For The Trees"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically mini-stunned. Healing from multiple trees will stack"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically rooted. Healing from multiple trees will stack"
 
 
 
