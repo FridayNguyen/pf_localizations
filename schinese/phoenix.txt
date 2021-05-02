@@ -78,9 +78,10 @@
 	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_Description"					"每一只烈火精灵都能被单独发射到指定区域。对敌人持续造成伤害并大幅降低他们的攻击速度。"
 	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_Lore"							"轰！嘣！"
 	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_radius"							"效果范围: "
-	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_duration"						"烧灼持续时间: "
-	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_damage_per_second"				"每秒伤害: "
-	"DOTA_Tooltip_ability_phoenix_launch_fire_spirit_pf_attackspeed_slow"				"攻击速度降低: "
+	
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_duration"								"烧灼持续时间: "
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_damage_per_second"					"每秒伤害: "
+	"DOTA_Tooltip_ability_phoenix_fire_spirits_pf_attackspeed_slow"						"攻击速度降低: "
 	
 	"DOTA_Tooltip_ability_phoenix_sun_ray_pf"											"烈日炙烤"
 	"DOTA_Tooltip_ability_phoenix_sun_ray_pf_Description"								"凤凰以损失生命能量为代价，向前射出一束炽热的光线炙烤敌人。光线对敌人造成伤害，并且能治疗友军，治疗的数值为基础数值加上目标生命值的一定百分比。随着光线不断炙烤，造成的伤害也会不断增加。"
@@ -221,6 +222,9 @@
 
 	"DOTA_Tooltip_modifier_phoenix_fire_spirits_pf_count"								"烈火精灵"
 	"DOTA_Tooltip_modifier_phoenix_fire_spirits_pf_count_Description"					"烈火精灵已经可以发动。"
+	
+	"DOTA_Tooltip_modifier_phoenix_icarus_dive_speed"									"芜湖起飞"
+	"DOTA_Tooltip_modifier_phoenix_icarus_dive_speed_Description"						"移动速度提升且无视地形"
 
 	"DOTA_Tooltip_modifier_phoenix_supernova_pf_caster_dummy"							"恒星形态"
 	"DOTA_Tooltip_modifier_phoenix_supernova_pf_caster_dummy_Description"				"重生前炙烤敌人。"
