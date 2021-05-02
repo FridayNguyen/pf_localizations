@@ -13,22 +13,22 @@
 
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_ground"                                              "新手道"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground_Description"                                  "Bushwhack now has 4 charges and always creates a tree at the target location. If there is no enemy units within the radius, the net trap will remain on the ground for up to %duration% seconds. Any unsuspecting enemy stepping into the trap area will trigger the current level of Bushwhack after a brief delay"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_ground_Description"                                  "野地奇袭获得4点能量点数并会在落点种出一棵橡树。若区域内没有敌方单位，则会在落点留下一个持续 %duration% 秒的陷阱。当有敌方单位靠近时陷阱会在短暂延迟后触发，并释放一个当前等级的野地奇袭。"
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack"                                        "雨露均沾"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "While attacking, Hoodwink also launches additional attacks unto all enemies affected by Bushwhack, and refreshes the stun duration. These extra attacks deal %dmg_percent%%  damage"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_multi_attack_Description"                            "森海飞霞的攻击会弹射到被野地奇袭网住的敌人身上，刷新眩晕时间并造成 %dmg_percent%% 的攻击伤害。"
 
 "DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry"                                              "托莫干工兵"
-"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "For every second during Scurry's active buff, a tree will be created behind Hookwink, who will immediate cast the current level of Bushwhack toward its location"
+"DOTA_Tooltip_Ability_pathfinder_bushwhack_scurry_Description"                                  "主动激活密林奔走状态生效时每秒在身后产生一棵橡树并对橡树释放一个当前等级的野地奇袭。"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "接骨木果香"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "一箭穿心会在弹道上持续创造橡树，在一箭穿心充能时，森海飞霞所受伤害减少 %damage_reduction%% 。"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "一箭穿心会在弹道上持续创造橡树，在一箭穿心充能时，森海飞霞减少 %damage_reduction%% 承受伤害。"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce"                                           "自然之力"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "一箭穿心会对第弹道上的非首领单位造成半额伤害并减速。"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset"                                            "森海魅影"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy unit, its cooldown will be immediately reset. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "一箭穿心击杀敌人时不进入冷却，同时对自己施加一个当前等级的密林奔走状态。"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "脑子进橡子"
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "森海飞霞的攻击有 %chance%% 几率对目标施放当前等级的爆栗出击。"
@@ -40,13 +40,13 @@
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_stun_Description"                                   "爆栗出击对第一个目标造成 %base_damage% 伤害和 %base_stun% 秒眩晕。在后续的弹射中，每次弹射增加 %base_damage% 魔法伤害，眩晕时间增加 %base_stun% 秒。"
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_allies"                                                 "出森林记"
-"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "Scurry's active buff grants invisibility, and the benefits are shared to all allies within a %radius% radius. The duration of the buff is extended by %extend_time% seconds for each ally affected "
+"DOTA_Tooltip_Ability_pathfinder_scurry_allies_Description"                                     "主动激活密林奔走时隐身， %radius% 范围内的友军也会获得加成。每个获得加成的友军延长 %extend_time% 秒密林奔走的持续时间。"
 
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap"                                                   "轻功树上飞"
 "DOTA_Tooltip_Ability_pathfinder_scurry_leap_Description"                                       "密林奔走释放时会向前跳跃 %leap_distance% 距离，落地时对自身 %knock_radius% 范围内的敌方单位施加一次普通攻击，同时击退并眩晕 %stun_duration% 秒。"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree"                                               "生命之树"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "Any tree created by Hoodwink is imbued with an ancient spirit, healing any friendly hero within a %radius% radius for %heal_percent%%  of their max health each second. Enemy units that remain too close to the tree are periodically rooted. Healing from multiple trees will stack"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_tree_Description"                                   "森海飞霞种出的所有橡树都会获得古神的眷顾，每秒回复橡树 %radius% 范围内的友方英雄 %heal_percent%% 最大生命值，多颗橡树的治疗效果可以叠加。靠近橡树的敌人会被缠绕。"
 
 
 
