@@ -134,7 +134,7 @@
 
 
 "ascension_pathfinder_blademail"					                    "You've Got Mail!"
-"ascension_pathfinder_blademail_Description"		                    "Enemy captains occasionally use Blademail, reflecting a large percentage of all damage received"
+"ascension_pathfinder_blademail_Description"		                    "Enemy captains occasionally use Blademail, reflecting a small percentage of all damage received"
 
 
 "DOTA_Chat_NoBattlePoints_WrongLobby"		                            "Welcomes, Pathfinders! Enjoy your stay and please consider supporting the mod on Patreon!"

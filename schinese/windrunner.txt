@@ -13,8 +13,11 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone"				        	"乘风而行"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone_Description"				"风行状态下每 %duration% 秒对最近的敌人释放一次当前等级的束缚击。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "黄金脆皮风"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "被束缚击眩晕的敌人护甲降低 10。"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis"                              "Wind Chimes of Zaru'Kina"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis_Description"                  "Windrun now grants Windranger invisibility and create a decoy illusion at her location. The illusion deals and receives %illusion_dmg_mult%%% less damage. If Windranger performs an attack, both her invisibility and the decoy will instantly be dispelled"
+
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "Fair-Weather Friends"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "All attacks by Windranger now also multi-shot unto all enemy units currently stunned by Shackleshot"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep"					        "萧瑟"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "束缚击眩晕结束后敌人会陷入 %duration% s的沉睡。"
@@ -25,14 +28,15 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet"				            "箭斗术"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet_Description"				"强力击命中第一个敌人后向 %search_radius% 范围内最远的目标折射，最多折射 %bounce% 次。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"诸葛连弩"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"强力击向前方连续射出9只弩箭，但弩箭仅造成原技能 %damage_percent%% 的伤害。弩箭只对碰到的第一个敌人造成伤害。"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"Semiautomatic Assault Archery"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"If Powershot is casted while auto-cast is toggled on, its fires 9 non-piercing shots, each dealing %damage_percent%%  damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe"	                            "路边野餐"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "释放风行为 %radius% 范围内友军提供风行的加成效果。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe"	                        "酒肉朋友"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "束缚击最多捆绑 %targets% 个敌方单位。"
+
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe"	                        "Aeolian Forecast"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "If Shackleshot is successfully, a free Powershot will instantly be casted in the target's direction"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot"		                    "魅惑之瞳"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "集中火力对目标施加破坏效果，且集中火力持续期间下风行者的攻击会对目标施加一个短暂的缠绕。"
@@ -40,6 +44,11 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global"	                        "箭雨"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "集中火力攻击获得 %range_mult%% 攻击距离加成。"
 
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_lifesteal"	                    "Smiles and Murders"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_lifesteal_Description"	        "Focus Fire now grants the %lifesteal%%% lifesteal against the target. While Focus Fire is active, Windranger will continuously benefit from the current level of Windrun"
+
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_attacks"                          "Razor Squalls"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_attacks_Description"              "Any enemy unit that comes within a %radius% radius of the Powershot projectile will be hit with an attack from Windranger. These attacks can fully proc any on-hit effect from items and abilities"
 
 
 >---------------------------------------

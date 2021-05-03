@@ -19,7 +19,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying_Description"                                  "Во время действия Bladefury герой получает беспрепятственное передвижение и сопротивление урону в размере %damage_reduction%%."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_strength"		                                    "Meat Spin"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_strength_Description"		                        "Bladefury дает герою %bonus_strength% силы за каждого задетого врага на %strength_duration% сек. Дополнительные стаки продлевают эффект."
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_strength_Description"		                        "Bladefury will never stop spinning as long as there is an enemy within its radius. While spinning, Juggernaut is disarmed and move %slow_pct%%% slower"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_earthshock"                                        "Wrath of Gaia"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_earthshock_Description"                            "Каждые три секунды целительный тотем выпускает ударную волну, которая приковывает врагов к месту на 1,5 секунды. Радиус действия эффекта совпадает с радиусом действия тотема."
@@ -34,7 +34,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_reduce_omnislash_cooldown_Description"          	"Каждый критический удар от Blade Dance уменьшает перезарядку Omnislash на %seconds% сек."
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep"	                                            "Timmothy the Brave"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep_Description"	                                "Целительный тотем превращается в союзное существо с ближним типом боя и высокой броней, которое наносит %dmg_percent%%  общего урона Juggernaut. Также в качестве бонусного здоровья тотем получает %health_multiplier%%  максимального здоровья героя."
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep_Description"	                                "Healing Ward becomes a melee unit with high armor and a burning aura, damaging all enemies in its heal radius every second. The burn damage is equals to Juggernaut's total Attack Damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_radiance"	                                    	"Bad Omen"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_radiance_Description"	                            "Теперь аура Healing Ward каждую секунду обжигает врагов в радиусе действия, нанося им урон, соответствующий общему урону Juggernaut."

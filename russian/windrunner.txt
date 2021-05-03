@@ -13,8 +13,11 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone"				        	"Windward Haze"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone_Description"				"Под действием Windrun герой автоматически применяет способность Shackleshot на ближайшего врага каждые %duration% сек."
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "Kentucky Windage"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "Броня любого врага, оглушенного Shackleshot, снижается на 10."
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis"                              "Wind Chimes of Zaru'Kina"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis_Description"                  "Windrun now grants Windranger invisibility and create a decoy illusion at her location. The illusion deals and receives %illusion_dmg_mult%%% less damage. If Windranger performs an attack, both her invisibility and the decoy will instantly be dispelled"
+
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "Fair-Weather Friends"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "All attacks by Windranger now also multi-shot unto all enemy units currently stunned by Shackleshot"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep"					        "Autumn Chill"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "Враги погружаются в сон на %duration% сек. после окончания оглушения от Shackleshot."
@@ -26,13 +29,14 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet_Description"				"Поразив цель, Powershot до %bounce% раз отскакивает в другого врага, который находится дальше всего в радиусе %search_radius%. "
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"Semiautomatic Assault Archery"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"Теперь Powershot выпускает 9 стрел, но каждая из них не пробивает цель насквозь и наносит %damage_percent%%  урона."
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"If Powershot is casted while auto-cast is toggled on, its fires 9 non-piercing shots, each dealing %damage_percent%%  damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe"	                            "Picnic in The Park"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "Использование Windrun также накладывает эффект способности на союзных героев в радиусе %radius%."
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe"	                        "Fair-Weather Friends"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "Теперь Shackleshot может связать до %targets% врагов."
+
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe"	                        "Aeolian Forecast"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "If Shackleshot is successfully, a free Powershot will instantly be casted in the target's direction"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot"		                    "Feel the Breeze"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "Под действием Focus Fire каждая атака Windranger обездвиживает цель и на время действия эффекта отключает все ее пассивные способности"
@@ -40,6 +44,11 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global"	                        "Arrow Rain"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "Windranger может атаковать выбранную цель Focus Fire с расстояния, равного %range_mult%% обычной дальности атаки героя. Дальность применения способности при этом остается прежней."
 
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_lifesteal"	                    "Smiles and Murders"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_lifesteal_Description"	        "Focus Fire now grants the %lifesteal%%% lifesteal against the target. While Focus Fire is active, Windranger will continuously benefit from the current level of Windrun"
+
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_attacks"                          "Razor Squalls"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_attacks_Description"              "Any enemy unit that comes within a %radius% radius of the Powershot projectile will be hit with an attack from Windranger. These attacks can fully proc any on-hit effect from items and abilities"
 
 
 >---------------------------------------
