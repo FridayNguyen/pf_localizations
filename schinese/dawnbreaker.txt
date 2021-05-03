@@ -1,0 +1,223 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-DAWNBREAKER START-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_solar_pulse"                                                      "星爆"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_solar_pulse_Description"                                          "释放星破天惊时持续产生当前等级的天光现世脉冲，同时获得 %damage_reduction%%% 伤害减免。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_max_luminosity"                                                   "伊扎洛的低语"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_max_luminosity_Description"                                       "星破天惊每次挥击和撞击都会触发熠熠生辉的攻击效果，期间熠熠生辉的层数维持最大不变。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_sleep"                                                      "一锤定音！"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_sleep_Description"                                          "星破天惊的撞击范围增加 %bonus_radius_mult%%%，造成 %magic_damage% 额外魔法伤害，被击中的非boss单位会陷入 %sleep_duration% 秒的睡眠状态。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_skewer"                                                      "动量正义"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_skewer_Description"                                          "上界重锤抛出的战锤拖拽掠过的敌人，落地时攻击 %radius% 范围内的敌人并造成 %attack_stun% 秒眩晕。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion"                                                    "初光回响"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion_Description"                                        "上界重锤命中敌人时会创造幻象。幻象造成 %illusion_damage_pct%%% 伤害，承受 %illusion_incoming_dmg%%% 伤害，拥有当前等级的熠熠生辉。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_trail_heal"                                                  "伊甸之路"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_trail_heal_Description"                                      "上界重锤创造的炽烈之径治疗路径上的友方英雄并提升他们移动速度。受到熠熠生辉技能治疗的友方英雄会在 %duration% 秒内在身后留下炽烈之径。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_charge"                                                            "骑士冲击"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_charge_Description"                                                "熠熠生辉现在可以主动释放，短暂吟唱后冲向 %range% 范围内的一个目标，命中后眩晕附近 %aoe% 范围内的敌人 %stun_duration% 秒。吟唱期间无敌，冲击时在身后留下上界重锤的炽烈之径。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking"                                                          "永恒光辉"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking_Description"                                              "攻击时获得可以叠加的光辉。光辉最多叠加 %max_stacks% 层，每层光辉赋予破晓辰星 %damage_reduction%%% 伤害减免和 %status_resist%%% 状态抗性。若破晓辰星在短时间内没有攻击，光辉会逐渐衰减。释放天光现世时光辉不会衰减。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion"                                                         "暗影独白"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion_Description"                                             "现在熠熠生辉触发时会造成短暂的击晕。被熠熠生辉的致命一击命中的敌人若在 %duration% 秒内死亡，会对 %aoe% 范围内的敌人造成伤害，并治疗相同范围内的友军；伤害/治疗量为此敌人 %health_pct%%% 最大生命。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_charges"                                                       "斯科提，传送我！"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_charges_Description"                                           "天光现世具有3点能量点数，落地时刷新大招以外技能的冷却时间。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_dummy"                                                "恒星圣所"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_dummy_Description"                                    "消耗当前所有魔法在指定区域创造一个不会消失的恒星圣所，圣所内持续释放当前等级的天光现世脉冲，造成 %value_mult%%% 的伤害和治疗。每个房间中最多释放一次恒星圣所。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent"                                                     "恒星圣所"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_Description"                                         "消耗当前所有魔法在指定区域创造一个不会消失的恒星圣所，圣所内持续释放当前等级的天光现世脉冲，造成 %value_mult%%% 的伤害和治疗。每个房间中最多释放一次恒星圣所。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture"                                                       "天国阶梯"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture_Description"                                           "天光现世吟唱时魔免并眩晕周围的敌人，上天时会抓起他们一起飞行，落地后 %buff_duration% 秒内免疫物理和魔法伤害。"
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua"                                                                  "星破天惊"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_Description"                                                      "破晓辰星将她的战锤旋转 %total_attacks% 次，对敌人造成攻击伤害以及额外伤害。最后一次打击时，她将战锤撞向地面，对她前方的敌人造成眩晕和伤害。"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_duration"                                                         "连击持续时间："
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_swipe_radius"                                                     "挥击作用范围："
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_swipe_damage"                                                     "挥击额外伤害："
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_radius"                                                     "撞击作用范围："
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_damage"                                                     "撞击额外伤害："
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_stun_duration"                                              "撞击眩晕时间："
+
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua"                                                             "上界重锤"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_Description"                                                 "破晓辰星向一个目标扔出她的武器，对沿途的敌人造成伤害。战锤会在目的地短暂停留，再飞回她的手中，期间留下一道炽烈之径，减缓敌人的移动速度。破晓辰星可以随时召回战锤，将自身朝战锤牵引，使二者在中点相遇。"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_hammer_damage"                                               "战锤伤害："
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_flare_debuff_duration"                                       "炽烈之径持续时间："
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_flare_radius"                                                "炽烈之径作用范围："
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_move_slow"                                                   "炽烈之径减速%："
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_burn_damage"                                                 "炽烈之径每秒灼烧："
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_range"                                                       "施法距离："
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_pause_duration"                                              "战锤最大停留时间："
+
+"DOTA_Tooltip_Ability_dawnbreaker_converge_lua"                                                                     "会合"
+"DOTA_Tooltip_Ability_dawnbreaker_converge_lua_Description"                                                         "破晓辰星召回她的战锤，使二者在中点相遇。"
+
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua"                                                                   "熠熠生辉"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_Description"                                                       "攻击命中 %attack_count% 次后，破晓辰星提升了力量，她的下一次攻击会造成致命一击，并治疗自己和附近的友方英雄，治疗量为伤害量的一定比例，对友方英雄治疗量减少。攻击非首领单位产生的治疗量有所减少。"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_heal_radius"                                                       "治疗范围："
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_heal_pct"                                                          "攻击首领治疗%："
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_allied_healing_pct"                                                "对友军治疗%："
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_bonus_damage"                                                      "致命一击伤害%："
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_heal_from_creeps"                                                  "攻击小兵治疗减少%："
+
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua"                                                               "天光现世"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_Description"                                                   "破晓辰星在指定地点创造一个脉冲效果，每次脉冲都会对敌人造成伤害，并治疗友军。经过一段短暂时间后，她飞向目标地点，落地时造成额外伤害并眩晕敌人。开始持续施法后，破晓辰星无法中止此技能，飞天时无敌。"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_radius"                                                        "落地作用范围："
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_channel_time"                                                  "吟唱时间："
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_base_damage"                                                   "每次脉冲伤害："
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_base_heal"                                                     "每次脉冲治疗："
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_land_damage"                                                   "落地伤害："
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_land_stun_duration"                                            "落地眩晕时间："
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+"dawnbreaker_starbreaker_lua_swipe_damage"			                                                            "+{s:value} {s:ability_name} 挥击伤害"
+"dawnbreaker_starbreaker_lua_smash_damage"			                                                            "+{s:value} {s:ability_name} 撞击额外伤害"
+"dawnbreaker_starbreaker_lua_smash_radius"			                                                            "+{s:value} {s:ability_name} 撞击作用范围"
+"dawnbreaker_starbreaker_lua_smash_stun_duration"			                                                    "+{s:value}s {s:ability_name} 撞击眩晕时间"
+"dawnbreaker_starbreaker_lua_smash_pct_cooldown"			                                                    "-{s:value}% {s:ability_name} 冷却时间"
+
+"dawnbreaker_celestial_hammer_lua_hammer_damage"			                                                    "+{s:value} {s:ability_name} 战锤伤害"
+"dawnbreaker_celestial_hammer_lua_flare_burn_damage"			                                                "+{s:value} {s:ability_name} 炽烈之径每秒灼烧"
+"dawnbreaker_celestial_hammer_lua_range"			                                                            "+{s:value} {s:ability_name} 战锤施法距离"
+"dawnbreaker_celestial_hammer_lua_flare_debuff_duration"			                                            "+{s:value}s {s:ability_name} 炽烈之径持续时间"
+"dawnbreaker_celestial_hammer_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
+
+"dawnbreaker_luminosity_lua_heal_pct"			                                                                "+{s:value}% {s:ability_name} 治疗量"
+"dawnbreaker_luminosity_lua_bonus_damage"			                                                            "+{s:value}% {s:ability_name} 致命一击伤害"
+"dawnbreaker_luminosity_lua_heal_radius"			                                                            "+{s:value} {s:ability_name} 治疗范围"
+
+"dawnbreaker_solar_guardian_lua_airtime_duration"			                                                    "+{s:value}s {s:ability_name} 飞行时间"
+"dawnbreaker_solar_guardian_lua_radius"			                                                                "+{s:value} {s:ability_name} 落地作用范围"
+"dawnbreaker_solar_guardian_lua_base_damage"			                                                        "+{s:value} {s:ability_name} 每道脉冲伤害"
+"dawnbreaker_solar_guardian_lua_base_heal"			                                                            "+{s:value} {s:ability_name} 每道脉冲治疗"
+"dawnbreaker_solar_guardian_lua_land_stun_duration"			                                                    "+{s:value}s {s:ability_name} 落地眩晕时间"
+"dawnbreaker_solar_guardian_lua_pct_cooldown"			                                                        "-{s:value}% {s:ability_name} 冷却时间"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_swipe_damage"				                                                    "星破天惊 - 挥击伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_damage"				                                                    "星破天惊 - 撞击伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_radius"				                                                    "星破天惊 - 撞击范围"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_stun_duration"				                                                "星破天惊 - 撞击眩晕时间"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_pct_cooldown"				                                                "星破天惊 - 冷却时间"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_hammer_damage"				                                                "上界重锤 - 战锤伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_flare_burn_damage"				                                            "上界重锤 - 炽烈之径每秒灼烧"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_range"				                                                        "上界重锤 - 炽烈之径作用范围"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_flare_debuff_duration"				                                        "上界重锤 - 炽烈之径持续时间"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_pct_cooldown"				                                                "上界重锤 - 冷却时间"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_heal_pct"				                                                            "熠熠生辉 - 治疗量"
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_bonus_damage"				                                                        "熠熠生辉 - 致命一击伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_heal_radius"				                                                        "熠熠生辉 - 治疗范围"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_airtime_duration"				                                                "天光现世 - 飞行时间"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_radius"				                                                        "天光现世 - 落地作用范围"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_base_damage"				                                                    "天光现世 - 每道脉冲伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_base_heal"				                                                    "天光现世 - 每道脉冲治疗"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_land_stun_duration"				                                            "天光现世 - 落地眩晕时间"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_pct_cooldown"				                                                    "天光现世 - 冷却时间"
+
+
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_swipe_damage_Description"				                                                    "<h1>普通神杖碎片</h1>+ %value% 星破天惊挥击额外伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_damage_Description"				                                                    "<h1>普通神杖碎片</h1>+ %value% 星破天惊撞击额外伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_radius_Description"				                                                    "<h1>普通神杖碎片</h1>+ %value% 星破天惊撞击作用范围"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_stun_duration_Description"				                                                "<h1>普通神杖碎片</h1>+ %value%s 星破天惊撞击眩晕时间"
+"DOTA_Tooltip_Ability_item_dawnbreaker_starbreaker_lua_smash_pct_cooldown_Description"				                                                "<h1>普通神杖碎片</h1>- %value%%% 星破天惊冷却时间"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_hammer_damage_Description"				                                                "<h1>普通神杖碎片</h1>+ %value% 上界重锤战锤伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_flare_burn_damage_Description"				                                            "<h1>普通神杖碎片</h1>+ %value% 上界重锤的炽烈之径每秒灼烧"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_range_Description"				                                                        "<h1>普通神杖碎片</h1>+ %value% 上界重锤施法距离"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_flare_debuff_duration_Description"				                                        "<h1>普通神杖碎片</h1>+ %value%s 上界重锤的炽烈之径持续时间"
+"DOTA_Tooltip_Ability_item_dawnbreaker_celestial_hammer_lua_pct_cooldown_Description"				                                                "<h1>普通神杖碎片</h1>- %value%%% 上界重锤冷却时间"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_heal_pct_Description"				                                                            "<h1>普通神杖碎片</h1>+ %value%%% 熠熠生辉治疗"
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_bonus_damage_Description"				                                                        "<h1>普通神杖碎片</h1>+ %value%%% 熠熠生辉致命一击伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_luminosity_lua_heal_radius_Description"				                                                        "<h1>普通神杖碎片</h1>+ %value% 熠熠生辉治疗范围"
+
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_airtime_duration_Description"				                                                "<h1>普通神杖碎片</h1>+ %value%s 天光现世飞行时间"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_radius_Description"				                                                        "<h1>普通神杖碎片</h1>+ %value% 天光现世落地作用范围"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_base_damage_Description"				                                                    "<h1>普通神杖碎片</h1>+ %value% 天光现世每道脉冲伤害"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_base_heal_Description"				                                                    "<h1>普通神杖碎片</h1>+ %value% 天光现世每道脉冲治疗"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_land_stun_duration_Description"				                                            "<h1>普通神杖碎片</h1>+ %value%s 天光现世落地眩晕时间"
+"DOTA_Tooltip_Ability_item_dawnbreaker_solar_guardian_lua_pct_cooldown_Description"				                                                    "<h1>普通神杖碎片</h1>- %value%%% 天光现世冷却时间"
+
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_dawnbreaker_celestial_hammer_lua+pause_duration"     "+{s:pause_duration}s 上界重锤最大停留时间"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_dawnbreaker_luminosity_lua+bonus_damage"             "+{s:bonus_damage}% 熠熠生辉致命一击伤害"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_dawnbreaker_solar_guardian_lua+cooldown"             "-{s:cooldown}% 天光现世冷却时间"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_dawnbreaker_celestial_hammer_lua+range"              "+{s:range} 上界重锤范围"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_modifier_dawnbreaker_celestial_hammer_lua_debuff"                                         "炽烈之径"
+"DOTA_Tooltip_modifier_dawnbreaker_celestial_hammer_lua_debuff_Description"                             "被减速并且受到伤害"
+
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua"                                                      "熠熠生辉"
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_Description"                                          "因熠熠生辉而增强了力量"
+
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_buff"                                                 "熠熠生辉攻击效果"
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_buff_Description"                                     "下一次攻击会治疗破晓辰星并造成致命一击"
+
+"DOTA_Tooltip_modifier_dawnbreaker_solar_guardian_lua"                                                  "天光现世"
+"DOTA_Tooltip_modifier_dawnbreaker_solar_guardian_lua_Description"                                      "天光现世期间无法行动"
+
+"dota_hud_error_nohammer"                                                                               "没有战锤"
+"dota_hud_error_outofbound"                                                                             "无法在没有战锤时施放"
+
+"DOTA_Tooltip_modifier_universal_sleep"                                                                 "睡眠"
+"DOTA_Tooltip_modifier_universal_sleep_Description"                                                     "短暂陷入昏迷"
+
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_stacking"                                             "光辉"
+"DOTA_Tooltip_modifier_dawnbreaker_luminosity_lua_stacking_Description"                                 "获得额外的状态抗性和伤害减免"
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-DAWNBREAKER END-------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
