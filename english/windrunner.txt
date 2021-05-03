@@ -14,7 +14,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone_Description"				"While under the effect of Windrun, Windranger automatically launch the current level of Shackleshot toward the closest nearby enemy unit every %duration% seconds"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis"                              "Wind Chimes of Zaru'Kina"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis_Description"                  "Windrun now grants Windranger invisibility and create a decoy illusion at her location. The illusion deals and receives %illusion_dmg_mult%%% less damage. If Windranger performs an attack, both her invisibility and the decoy will instantly be dispelled"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis_Description"                  "Windrun now grants Windranger invisibility and create a decoy illusion at her location. The illusion deals and receives %illusion_dmg_mult%%% less damage. If Windranger performs an attack, her invisibility will instantly be dispelled"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "Fair-Weather Friends"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "All attacks by Windranger now also multi-shot unto all enemy units currently stunned by Shackleshot"
@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "Casting Windrun also grants the effect to friendly heroes within a %radius% radius"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe"	                        "Aeolian Forecast"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "If Shackleshot is successfully, a free Powershot will instantly be casted in the target's direction"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "If Shackleshot is successful, a free Powershot will instantly be casted in the target's direction"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot"		                    "Feel the Breeze"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "While under the effect of Focus Fire, each of Windranger's attack mini-stun the targeted enemy unit. All of the target's passives are disabled for the duration of the ability"
