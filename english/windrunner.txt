@@ -89,6 +89,7 @@
 "windranger_shackleshot_lua_stun_duration"			                                            "+{s:value}s {s:ability_name} Stun Duration"
 "windranger_shackleshot_lua_shackle_distance"		                                        	"+{s:value} {s:ability_name} Latching Distance"
 "windranger_shackleshot_lua_shackle_angle"		                                            	"+{s:value} degrees {s:ability_name} Latching Angle"
+"windranger_shackleshot_lua_shackle_shackle_count"		                                        "+{s:value} degrees {s:ability_name} Targets Count"
 "windranger_windrun_lua_duration"				                                        		"+{s:value}s {s:ability_name} Duration"
 "windranger_windrun_lua_movespeed_bonus_pct"		                                        	"+{s:value}% {s:ability_name} Movespeed Bonus"
 "windranger_powershot_lua_powershot_damage"			                                            "+{s:value} {s:ability_name} Damage"
@@ -114,11 +115,17 @@
 "DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle"	                    	"Shackleshot: Angle"
 "DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_angle_Description"		    	"<h1>Common Scepter Fragment</h1>Increases Shackleshot Latching Angle by %value% ."
 
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_count"	                    	"Shackleshot: Targets Count"
+"DOTA_Tooltip_Ability_item_windranger_shackleshot_lua_shackle_count_Description"		    	"<h1>Common Scepter Fragment</h1>Increases Shackleshot Targets Count by %value% ."
+
 "DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration"		                                "Windrune: Duration"
 "DOTA_Tooltip_Ability_item_windranger_windrun_lua_duration_Description"			                "<h1>Common Scepter Fragment</h1>Increases Windrun Duration by %value% ."
 
 "DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct"		                    "Windrun: Movespeed Percentage Bonus"
 "DOTA_Tooltip_Ability_item_windranger_windrun_lua_movespeed_bonus_pct_Description"	    		"<h1>Common Scepter Fragment</h1>Increases Windrun Movespeed Percentage Bonus by %value% ."
+
+"DOTA_Tooltip_Ability_item_windranger_windrun_lua_enemy_slow"		                    "Windrun: Enemy Movement Slow"
+"DOTA_Tooltip_Ability_item_windranger_windrun_lua_enemy_slow_Description"	    		"<h1>Common Scepter Fragment</h1>Increases Windrun Enemy Slow by %value% ."
 
 "DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage"	                    	"Powershot: Damage"
 "DOTA_Tooltip_Ability_item_windranger_powershot_lua_powershot_damage_Description"		    	"<h1>Common Scepter Fragment</h1>Increases Powershot Damage by %value% ."
