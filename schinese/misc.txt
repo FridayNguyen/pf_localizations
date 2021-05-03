@@ -5,10 +5,17 @@
 >----------------------------------------------------------------------------------------------------------------------------------------------
 >----------------------------------------------------------------------------------------------------------------------------------------------
 
+"DOTA_Tooltip_modifier_minotaur_horn_immune"                            "魔法免疫"
+"DOTA_Tooltip_modifier_minotaur_horn_immune_Description"                "免疫大部分技能"
+
 "DOTA_Tooltip_modifier_generic_2_charges"                               "技能充能"
 "DOTA_Tooltip_modifier_generic_2_charges_Description"                   "消耗能量点数后会自动充能。"
 
+"DOTA_Tooltip_modifier_generic_4_charges"                               "技能充能。"
+"DOTA_Tooltip_modifier_generic_4_charges_Description"                   "消耗能量点数后会自动充能"
+
 "dota_hud_error_already_has_buff"                                       "增益已启用"
+
 "defeat_boss_pathfinder_frost_boss"		                                     "击败假面骑士巴拉纳"
 "pathfinder_frost_boss"                                                      "巴拉纳"                      
 "frost_boss_summon"                                                          "契约兽：暗之圣甲虫"
