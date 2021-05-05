@@ -13,14 +13,14 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone"				        	"乘风而行"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_cyclone_Description"				"风行状态下每 %duration% 秒对最近的敌人释放一次当前等级的束缚击。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis"                              "Wind Chimes of Zaru'Kina"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis_Description"                  "Windrun now grants Windranger invisibility and create a decoy illusion at her location. The illusion deals and receives %illusion_dmg_mult%%% less damage. If Windranger performs an attack, her invisibility will instantly be dispelled"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis"                              "神鹰与风铃"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_invis_Description"                  "风行状态下隐身，攻击后显形。释放风行时产生一个幻象，造成 %illusion_dmg_mult%%% 伤害。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "Fair-Weather Friends"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "All attacks by Windranger now also multi-shot unto all enemy units currently stunned by Shackleshot"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor"					        "酒肉朋友"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "风行者的攻击也会传递到被束缚击捆绑的单位身上。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep"					        "萧瑟"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "束缚击眩晕结束后敌人会陷入 %duration% s的沉睡。"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "束缚击眩晕结束后敌人会陷入 %duration% 秒的沉睡。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot"				        "风卷残云"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot_Description"			"强力击可以射出三根独立的箭矢。"
@@ -28,27 +28,26 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet"				            "箭斗术"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet_Description"				"强力击命中第一个敌人后向 %search_radius% 范围内最远的目标折射，最多折射 %bounce% 次。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"Semiautomatic Assault Archery"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"If Powershot is casted while auto-cast is toggled on, its fires 9 non-piercing shots, each dealing %damage_percent%%  damage"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"诸葛连弩"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"强力击成为开关技能，开启时强力击可以射出9个造成 %damage_percent%% 伤害的弩箭，但弩箭只对碰到的第一个敌人造成伤害。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe"	                            "路边野餐"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "释放风行为 %radius% 范围内友军提供风行的加成效果。"
 
-
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe"	                        "Aeolian Forecast"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "If Shackleshot is successful, a free Powershot will instantly be casted in the target's direction"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe"	                        "风兆"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_aoe_Description"	            "束缚击成功捆绑时，会沿弹道方向追加一次强力击。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot"		                    "魅惑之瞳"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "集中火力对目标施加破坏效果，且集中火力持续期间下风行者的攻击会对目标施加一个短暂的缠绕。"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_trueshot_Description"		        "集中火力对目标施加破坏效果，且集中火力持续期间下风行者的攻击会对目标施加一个短暂的眩晕。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global"	                        "箭雨"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_global_Description"	            "集中火力攻击获得 %range_mult%% 攻击距离加成。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_lifesteal"	                    "Smiles and Murders"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_lifesteal_Description"	        "Focus Fire now grants the %lifesteal%%% lifesteal against the target. While Focus Fire is active, Windranger will continuously benefit from the current level of Windrun"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_lifesteal"	                    "微笑杀手"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_focusfire_lifesteal_Description"	        "集中火力获得 %lifesteal%%% 吸血和当前等级的风行增益。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_attacks"                          "Razor Squalls"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_attacks_Description"              "Any enemy unit that comes within a %radius% radius of the Powershot projectile will be hit with an attack from Windranger. These attacks can fully proc any on-hit effect from items and abilities"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_attacks"                          "风遁·大镰鼬"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_attacks_Description"              "强力击会对靠近弹道 %radius% 范围内的敌人造成风行者的攻击伤害，继承物品和技能的攻击效果。"
 
 
 >---------------------------------------
@@ -72,7 +71,7 @@
 
 "DOTA_Tooltip_Ability_windranger_powershot_lua"					                                "强力击"
 "DOTA_Tooltip_Ability_windranger_powershot_lua_Lore"			                                "在早年的训练生涯，莱瑞蕾学会了射出足以破开树木击中目标的强力箭矢。"
-"DOTA_Tooltip_Ability_windranger_powershot_lua_Description"					                    "风行者为她的弓蓄力，射出一支强力的箭矢，最长可蓄力0.75秒，其间可以打断蓄力，蓄力时间越长箭矢伤害越高。这支箭会对穿过的所有敌方单位造成<font color='#70EA72'>相同伤害</font> ，并破坏树木。<font color='#70EA72'>若蓄力被打断箭矢的伤害降低60%。</font>"
+"DOTA_Tooltip_Ability_windranger_powershot_lua_Description"					                    "风行者为她的弓蓄力，射出一支强力的箭矢，最长可蓄力0.75秒，其间可以打断蓄力，蓄力时间越长箭矢伤害越高。这支箭会对穿过的所有敌方单位造成相同伤害，并破坏树木。<font color='#70EA72'>若蓄力被打断箭矢的伤害降低60%。</font>"
 "DOTA_Tooltip_Ability_windranger_powershot_lua_powershot_damage"			                    "最高伤害:"		
 "DOTA_Tooltip_Ability_windranger_powershot_lua_arrow_range"			                            "射程:"
 
