@@ -32,7 +32,7 @@
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_charge_Description"                                                "熠熠生辉现在可以主动释放，短暂吟唱后冲向 %range% 范围内的一个目标，命中后眩晕附近 %aoe% 范围内的敌人 %stun_duration% 秒。吟唱期间无敌，冲击时在身后留下上界重锤的炽烈之径。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking"                                                          "永恒光辉"
-"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking_Description"                                              "攻击时获得可以叠加的光辉。光辉最多叠加 %max_stacks% 层，每层光辉赋予破晓辰星 %damage_reduction%%% 伤害减免和 %status_resist%%% 状态抗性。若破晓辰星在短时间内没有攻击，光辉会逐渐衰减。释放天光现世时光辉不会衰减。"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking_Description"                                              "攻击时获得可以叠加的光辉。光辉最多叠加 %max_stacks% 层，每层光辉赋予破晓辰星 %damage_reduction%%% 伤害减免。若破晓辰星在短时间内没有攻击，光辉会逐渐衰减。释放天光现世时光辉不会衰减。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion"                                                         "暗影独白"
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion_Description"                                             "现在熠熠生辉触发时会造成短暂的击晕。被熠熠生辉的致命一击命中的敌人若在 %duration% 秒内死亡，会对 %aoe% 范围内的敌人造成伤害，并治疗相同范围内的友军；伤害/治疗量为此敌人 %health_pct%%% 最大生命。"
