@@ -35,16 +35,16 @@
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking_Description"                                              "攻击时获得可以叠加的光辉。光辉最多叠加 %max_stacks% 层，每层光辉赋予破晓辰星 %damage_reduction%%% 伤害减免。若破晓辰星在短时间内没有攻击，光辉会逐渐衰减。释放天光现世时光辉不会衰减。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion"                                                         "暗影独白"
-"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion_Description"                                             "现在熠熠生辉触发时会造成短暂的击晕。被熠熠生辉的致命一击命中的敌人若在 %duration% 秒内死亡，会对 %aoe% 范围内的敌人造成伤害，并治疗相同范围内的友军；伤害/治疗量为此敌人 %health_pct%%% 最大生命。"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion_Description"                                             "现在熠熠生辉触发时会造成 %stun_duration% 秒的击晕。被熠熠生辉的致命一击命中的敌人若在 %duration% 秒内死亡，会对 %aoe% 范围内的敌人造成伤害，并治疗相同范围内的友军；伤害/治疗量为此敌人 %health_pct%%% 最大生命。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_charges"                                                       "斯科提，传送我！"
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_charges_Description"                                           "天光现世具有3点能量点数，落地时刷新大招以外技能的冷却时间。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_dummy"                                                "恒星圣所"
-"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_dummy_Description"                                    "消耗当前所有魔法在指定区域创造一个不会消失的恒星圣所，圣所内持续释放当前等级的天光现世脉冲，造成 %value_mult%%% 的伤害和治疗。每个房间中最多释放一次恒星圣所。"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_dummy_Description"                                    " \n<font color=\"#9acd32\">学习天光现世后</font>破晓辰星可以消耗当前所有魔法在指定区域创造一个不会消失的恒星圣所，圣所内持续释放当前等级的天光现世脉冲，造成 %value_mult%%% 的伤害和治疗。每个房间中最多释放一次恒星圣所。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent"                                                     "恒星圣所"
-"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_Description"                                         "消耗当前所有魔法在指定区域创造一个不会消失的恒星圣所，圣所内持续释放当前等级的天光现世脉冲，造成 %value_mult%%% 的伤害和治疗。每个房间中最多释放一次恒星圣所。"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_Description"                                         "\n<font color=\"#9acd32\">学习天光现世后</font>破晓辰星可以消耗当前所有魔法在指定区域创造一个不会消失的恒星圣所，圣所内持续释放当前等级的天光现世脉冲，造成 %value_mult%%% 的伤害和治疗。每个房间中最多释放一次恒星圣所。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture"                                                       "天国阶梯"
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture_Description"                                           "天光现世吟唱时魔免并眩晕周围的敌人，上天时会抓起他们一起飞行，落地后 %buff_duration% 秒内免疫物理和魔法伤害。"
