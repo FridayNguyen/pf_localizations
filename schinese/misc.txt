@@ -111,7 +111,7 @@
 
 
 "ascension_pathfinder_blademail"					            "以牙还牙"
-"ascension_pathfinder_blademail_Description"		            "敌方首领在受到攻击时有一定概率触发刃甲"
+"ascension_pathfinder_blademail_Description"		            "敌方首领在受到攻击时有一定概率触发刃甲，反弹部分伤害"
 
 
 "DOTA_Chat_NoBattlePoints_WrongLobby"		                    "欢迎你，勇敢的旅人，祝您玩的开心。如果您愿意支持我们，欢迎去Patreon上赞助!"
