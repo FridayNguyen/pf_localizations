@@ -10,7 +10,7 @@
 >--- LEGENDARY -------------------------
 >---------------------------------------
 
-"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun"	                                    "日之呼吸"
+"DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun"	                                    "日之呼吸·十之型"
 "DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_stun_Description"	                        "被火焰气息命中的单位有 %chance%%% 的概率遭受一次当前等级的神龙摆尾。"
 
 "DOTA_Tooltip_Ability_pathfinder_dk_breathe_fire_macropyre"	                                "龙炎"
