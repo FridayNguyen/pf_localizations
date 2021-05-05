@@ -18,8 +18,8 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying"	                                        	"直升机"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_flying_Description"                                  "释放剑刃风暴时主宰获得飞行能力和 %damage_reduction%% 的伤害减免。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_strength"		                                    "Meat Spin"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_strength_Description"		                        "Bladefury will never stop spinning as long as there is an enemy within its radius. While spinning, Juggernaut is disarmed and move %slow_pct%%% slower"
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_strength"		                                    "滚刀肉"
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_fury_strength_Description"		                        "释放剑刃风暴时被缴械并被减速 %slow_pct%%% ，但剑刃风暴的持续时间变为永久，直到范围内没有敌人为止。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_earthshock"                                        "盖亚之怒"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_earthshock_Description"                            "治疗守卫每3秒向周围释放一张地网，地网捕捉治疗半径内的敌人1.5秒。"
@@ -33,8 +33,8 @@
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_reduce_omnislash_cooldown"                          "剑术精研"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_blade_dance_reduce_omnislash_cooldown_Description"          	"每次触发剑舞减少无敌斩 %seconds% 秒冷却时间。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep"	                                            "Timmothy the Brave"
-"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep_Description"	                                "Healing Ward becomes a melee unit with high armor and a burning aura, damaging all enemies in its heal radius every second. The burn damage is equals to Juggernaut's total Attack Damage"
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep"	                                            "远古支援"
+"DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_creep_Description"	                                "赋予治疗守卫作战能力，拥有高额护甲和灼烧光环，每秒对治疗范围内的敌人造成等同于主宰最大攻击力的伤害。 "
 
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_radiance"	                                    	"凶兆"
 "DOTA_Tooltip_Ability_pathfinder_special_juggernaut_healing_ward_radiance_Description"	                            "治疗守卫每秒对治疗半径内的敌人造成主宰满额的攻击伤害"
