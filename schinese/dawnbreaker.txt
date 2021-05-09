@@ -23,7 +23,7 @@
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_skewer_Description"                                          "上界重锤抛出的战锤拖拽掠过的敌人，落地时攻击 %radius% 范围内的敌人并造成 %attack_stun% 秒眩晕。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion"                                                    "初光回响"
-"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion_Description"                                        "Celestrial Hammer has a %chance%%% chance to create an illusion of Dawnbreaker each time it hits an enemy unit. These illusions deal %illusion_damage_pct%%% damage, take %illusion_incoming_dmg%%% damage, and are fully capable of proccing Luminosity"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion_Description"                                        "上界重锤命中敌人时有 %chance%%% 几率创造幻象。幻象造成 %illusion_damage_pct%%% 伤害，承受 %illusion_incoming_dmg%%% 伤害，拥有当前等级的熠熠生辉。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_trail_heal"                                                  "伊甸之路"
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_trail_heal_Description"                                      "上界重锤创造的炽烈之径治疗路径上的友方英雄并提升他们移动速度。受到熠熠生辉技能治疗的友方英雄会在 %duration% 秒内在身后留下炽烈之径。"
@@ -47,7 +47,7 @@
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_Description"                                         "\n<font color=\"#9acd32\">学习天光现世后</font>破晓辰星可以消耗当前所有魔法在指定区域创造一个不会消失的恒星圣所，圣所内持续释放当前等级的天光现世脉冲，造成 %value_mult%%% 的伤害和治疗。每个房间中最多释放一次恒星圣所。"
 
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture"                                                       "天国阶梯"
-"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture_Description"                                           "Solar Guardian now captures all nearby enemies, taking them unto the sky with Dawnbreaker. Upon landing, Dawnbreaker gains complete immunity against physical and magical damage for %buff_duration% seconds"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture_Description"                                           "天光现世上天时会抓起周围的敌人一起飞行，落地后 %buff_duration% 秒内免疫物理和魔法伤害。"
 
 
 >---------------------------------------
