@@ -16,23 +16,32 @@
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast"			                            "It's All Ogre Now"
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast_Description"			                "Multicast passively grants Ogre Magi a %chance%%  chance every second to automatically cast a random single-targeted ability or item unto an enemy unit within a %radius% radius. This effect can proc Multicast, and fully ignores any cooldown or cast range limitation. Ogre Magi does not need to be alive for this effect to proc"
 
-"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust"			                        "Hymn of the Giants"
-"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust_Description"			            "Bloodlust now also grants the affected unit %status_resistant%%  status resistant and %physical_armor% additional physcial armour."
+"DOTA_Tooltip_Ability_pathfinder_special_om_alive_multicast"			                        "Hey Now, You're an Ogre Star"
+"DOTA_Tooltip_Ability_pathfinder_special_om_alive_multicast_Description"			            "Multicast reduces Ogre Magi's max health by %health_penalty%%%, but passively grants him a chance to survive lethal damage. Upon escaping death, nearby enemies are knocked away and Ogre Magi is healed for %heal% health. This effect shares the same proc chance as Multicast, and can be multicasted to increase the healing amount"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_shield_bloodlust"			                        "Ogres Has Layers"
+"DOTA_Tooltip_Ability_pathfinder_special_om_shield_bloodlust_Description"			            "Bloodlust now grant the targeted ally a fire shield with %layers% layers, each preventing a single instance of damage. Whenever the bloodlusted unit is damaged, the shield will immediately release the ranged version of Ogre Magi's attacks toward %targets% nearby enemies. These attacks can proc any on-hit effect from abilities and items"
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming"			                                "That'll do Donkey, that'll do"
-"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_Description"			                    "Ogre Magi can now channel for up to %channel_time% seconds to continuously summon explosive donkeys that last up to %lifetime% seconds. These innocent creatures will automatically seek out nearby enemies and cast the current level of Fireblast unto all nearby hostile units when killed"
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_Description"			                    "Ogre Magi can now channel for up to %channel_time% seconds to continuously summon explosive donkeys that last up to %lifetime% seconds. These innocent creatures will automatically seek out nearby enemies and cast the current level of Fireblast unto the closest enemy unit when killed"
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_interval"			                        "Summon Interval: "
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_channel_time"			                    "Max Channel Time: "
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_lifetime"			                        "Donkey lifespan in seconds: "
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast"		                            	"Get Outta My Swamp"
-"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "If Ogre Magi himself directly casts Fireblast, the effect also applies unto every single enemy unit within the cast range."
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "Fireblast also applies its effect unto every single enemy unit within a %aeo% radius of the main target"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_gold_fireblast"		                            	"All That Glitters Is Gold"
+"DOTA_Tooltip_Ability_pathfinder_special_om_gold_fireblast_Description"			                "Enemies killed by Fireblast will drop bonus gold for Ogre Magi and his allies. Enemy captains drop %captain_gold% gold, while non-captains drop %creep_gold% gold"
 
 "DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite"			                            "Ogre is Love, Ogre is Life"
 "DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite_Description"			                "After hitting their target, Ignite projectiles will additionally bounce to a nearby friendly hero, healing them and increasing their movement speed for the value of the ability"
 
-"DOTA_Tooltip_Ability_pathfinder_special_stunned_ignite"			                            "Too Hot to Handle"
-"DOTA_Tooltip_Ability_pathfinder_special_stunned_ignite_Description"			                "While a unit is stunned, silenced, or rooted while under the effect of Ignite, it will continuously cast Ogre Magi's current level of ignite unto another random unit within the range of the ability"
+"DOTA_Tooltip_Ability_pathfinder_special_ignite_multismash"			                            "Multi-Smash"
+"DOTA_Tooltip_Ability_pathfinder_special_ignite_multismash_Description"			                "Attacks against Ignited enemies now have a chance to proc Multicast, causing the target to be hit multiple times in quick succession. These extra attacks can fully proc any on-hit effect from abilities and items"
+
+"DOTA_Tooltip_Ability_pathfinder_special_bloodlust_fear"			                            "The Part Where You Run Away"
+"DOTA_Tooltip_Ability_pathfinder_special_bloodlust_fear_Description"			                "Applying Bloodlust unto an allied hero will also fear all enemies within a %radius% around them for %duration% seconds. With the exception of bosses, this effect works even on stun-immune units"
 
 "DOTA_Tooltip_Ability_pathfinder_special_ignite_fireblast"			                            "Concussion Therapy"
 "DOTA_Tooltip_Ability_pathfinder_special_ignite_fireblast_Description"			                "Enemy units struck by Ignite projectiles also have a %chance%%  chance to be smited by Ogre Magi's current level of Fireblast. This effect can proc Multicast"
@@ -61,8 +70,8 @@
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_Description"                          			"Incites a frenzy in a friendly unit, increasing its movement speed and attack speed. Gives bonus attack speed if cast on Ogre himself."
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_Lore"		                                    	"So much to do, so much to see\nSo what's wrong with taking the backstreets?\nYou'll never know if you don't go\nYou'll never shine if you don't glow"
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_movement_speed"		                    	"%Move Speed Bonus:"
-"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_attack_speed"		                    	"Allies Attack Speed Bonus:"
-"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_self_bonus"		                                "Self Attack Speed Bonus:"		
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_attack_speed"		                    	"Attack Speed Bonus:"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_self_bonus"		                                "Extra Self-Cast Bonus:"		
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_duration"			                                "Duration:"	
 
 "DOTA_Tooltip_Ability_ogre_magi_multicast_lua"			                                        "Multicast"
@@ -89,7 +98,7 @@
 
 "ogre_magi_bloodlust_lua_pct_cooldown"	                                                		"-{s:value}% {s:ability_name} Cooldown"  
 "ogre_magi_bloodlust_lua_bonus_movement_speed"		                                        	"+{s:value}% {s:ability_name} Bonus Movement Speed"
-"ogre_magi_bloodlust_lua_bonus_attack_speed"	                                        		"+{s:value} {s:ability_name} Bonus Allies Attack Speed"
+"ogre_magi_bloodlust_lua_bonus_attack_speed"	                                        		"+{s:value} {s:ability_name} Bonus Attack Speed"
 "ogre_magi_bloodlust_lua_self_bonus"	                                                		"+{s:value} {s:ability_name} Bonus Self Attack Speed"
 "ogre_magi_bloodlust_lua_duration"	                                                    		"+{s:value}s {s:ability_name} Duration"
 
@@ -116,7 +125,7 @@
 "DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_pct_cooldown"                                "Bloodlust: Cooldown"
 "DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_movement_speed"                        "Bloodlust: Bonus Movement Speed"
 
-"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_attack_speed"                          "Bloodlust: Allies Bonus Attack Speed"
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_attack_speed"                          "Bloodlust: Bonus Attack Speed"
 "DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_self_bonus"                                  "Bloodlust: Self Bonus Attack Speed"
 "DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_duration"                                    "Bloodlust: Buff Duration"
 

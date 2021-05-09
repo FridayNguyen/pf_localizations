@@ -16,28 +16,35 @@
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast"			                            "洪流爆轰"
 "DOTA_Tooltip_Ability_pathfinder_special_om_aoe_multicast_Description"			                "多重施法具有额外的被动效果，使食人魔法师每秒有 %chance%% 的概率，对周围 %radius% 范围内的一个敌方单位随机释放一个指向性技能，或使用一个指向性的物品。通过此天赋随机释放的技能/使用的物品无视冷却时间和施法距离，且可以触发多重施法。食人魔法师死后也可以触发。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust"			                        "血色狂暴"
-"DOTA_Tooltip_Ability_pathfinder_special_om_giant_bloodlust_Description"			            "嗜血术额外提供 %status_resistant%% 的状态抗性和 %physical_armor% 点护甲。"
+"DOTA_Tooltip_Ability_pathfinder_special_om_shield_bloodlust"			                        "Ogres Has Layers"
+"DOTA_Tooltip_Ability_pathfinder_special_om_shield_bloodlust_Description"			            "Bloodlust now grant the targeted ally a fire shield with %layers% layers, each preventing a single instance of damage. Whenever the bloodlusted unit is damaged, the shield will immediately release the ranged version of Ogre Magi's attacks toward %targets% nearby enemies. These attacks can proc any on-hit effect from abilities and items"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_alive_multicast"			                        "Hey Now, You're an Ogre Star"
+"DOTA_Tooltip_Ability_pathfinder_special_om_alive_multicast_Description"			            "Multicast reduces Ogre Magi's max health by %health_penalty%%%, but passively grants him a chance to survive lethal damage. Upon escaping death, nearby enemies are knocked away and Ogre Magi is healed for %heal% health. This effect shares the same proc chance as Multicast, and can be multicasted to increase the healing amount"
 
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming"			                                "玉（驴）碎"
-"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_Description"			                    "食人魔法师可以吟唱至多 %channel_time% 秒，期间持续召唤能追踪敌人的自爆小驴。小驴持续 %lifetime% 秒，死亡时会对周围的敌人释放一次当前等级的火焰爆轰。"
+"DOTA_Tooltip_Ability_pathfinder_special_om_summoming_Description"			                    "Ogre Magi can now channel for up to %channel_time% seconds to continuously summon explosive donkeys that last up to %lifetime% seconds. These innocent creatures will automatically seek out nearby enemies and cast the current level of Fireblast unto the closest enemy unit when killed"
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_interval"			                        "召唤间隔: "
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_channel_time"			                    "最大吟唱时间: "
 "DOTA_Tooltip_Ability_pathfinder_special_om_summoming_lifetime"			                        "小驴持续时间: "
 
-"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast"		                            	"群体轰炸"
-"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "火焰爆轰会在施放时同时轰炸施法距离内的所有敌方单位，多重施法触发的火焰爆轰不会触发该效果。"
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast"		                            	"Get Outta My Swamp"
+"DOTA_Tooltip_Ability_pathfinder_special_om_aoe_fireblast_Description"			                "Fireblast also applies its effect unto every single enemy unit within a %aeo% radius of the main target"
+
+"DOTA_Tooltip_Ability_pathfinder_special_om_gold_fireblast"		                            	"All That Glitters Is Gold"
+"DOTA_Tooltip_Ability_pathfinder_special_om_gold_fireblast_Description"			                "Enemies killed by Fireblast will drop bonus gold for Ogre Magi and his allies. Enemy captains drop %captain_gold% gold, while non-captains drop %creep_gold% gold"
 
 "DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite"			                            "吞噬火焰"
 "DOTA_Tooltip_Ability_pathfinder_special_friendly_ignite_Description"			                "引燃命中时会折射给目标周围的一个友方英雄，提供与伤害量相同的治疗，并且以相同的减速数值提供移动速度加成。"
 
-"DOTA_Tooltip_Ability_pathfinder_special_stunned_ignite"			                            "火焰穿行"
-"DOTA_Tooltip_Ability_pathfinder_special_stunned_ignite_Description"			                "当引燃效果作用于被眩晕，沉默，或缠绕的单位时，有 %chance%% 的概率对周围随机敌方单位连续释放当前等级的引燃"
+"DOTA_Tooltip_Ability_pathfinder_special_bloodlust_fear"			                            "The Part Where You Run Away"
+"DOTA_Tooltip_Ability_pathfinder_special_bloodlust_fear_Description"			                "Applying Bloodlust unto an allied hero will also fear all enemies within a %radius% around them for %duration% seconds. With the exception of bosses, this effect works even on stun-immune units"
 
 "DOTA_Tooltip_Ability_pathfinder_special_ignite_fireblast"			                            "爆轰突袭"
 "DOTA_Tooltip_Ability_pathfinder_special_ignite_fireblast_Description"			                "敌方单位处于引燃的弹道中时，有 %chance%% 的概率遭受一次当前等级的火焰爆轰。该天赋触发的火焰爆轰亦可以触发多重施法。"
 
-
+"DOTA_Tooltip_Ability_pathfinder_special_ignite_multismash"			                            "Multi-Smash"
+"DOTA_Tooltip_Ability_pathfinder_special_ignite_multismash_Description"			                "Attacks against Ignited enemies now have a chance to proc Multicast, causing the target to be hit multiple times in quick succession. These extra attacks can fully proc any on-hit effect from abilities and items"
 
 
 >---------------------------------------
@@ -61,7 +68,7 @@
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_Description"                          			"激起一个友方单位的狂暴，增加其移动和攻击速度。对食人魔魔法师自身施放的攻击速度加成更多。"
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_Lore"		                                    	"跑来跑去可没有打人爽……太无聊了。"
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_movement_speed"		                    	"移动速度减缓百分比:"
-"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_attack_speed"		                    	"队友攻击速度加成:"
+"DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_bonus_attack_speed"		                    	"Bloodlust: Bonus Attack Speed:"
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_self_bonus"		                                "自身攻击速度加成:"		
 "DOTA_Tooltip_Ability_ogre_magi_bloodlust_lua_duration"			                                "持续时间:"	
 
@@ -89,7 +96,7 @@
 
 "ogre_magi_bloodlust_lua_pct_cooldown"	                                                		"-{s:value}% {s:ability_name} 冷却时间"  
 "ogre_magi_bloodlust_lua_bonus_movement_speed"		                                        	"+{s:value}% {s:ability_name} 移动速度加成"
-"ogre_magi_bloodlust_lua_bonus_attack_speed"	                                        		"+{s:value} {s:ability_name} 队友攻击速度加成"
+"ogre_magi_bloodlust_lua_bonus_attack_speed"	                                        		"+{s:value} {s:ability_name} Bonus Attack Speed"
 "ogre_magi_bloodlust_lua_self_bonus"	                                                		"+{s:value} {s:ability_name} 自身攻击速度加成"
 "ogre_magi_bloodlust_lua_duration"	                                                    		"+{s:value}s {s:ability_name} 持续时间"
 
@@ -116,7 +123,7 @@
 "DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_pct_cooldown"                                "嗜血术: 冷却时间"
 "DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_movement_speed"                        "嗜血术: 移动速度加成"
 
-"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_attack_speed"                          "嗜血术: 队友攻击速度加成"
+"DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_bonus_attack_speed"                          "嗜血术: Bonus Attack Speed"
 "DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_self_bonus"                                  "嗜血术: 自身攻击速度加成"
 "DOTA_Tooltip_Ability_item_ogre_magi_bloodlust_lua_duration"                                    "嗜血术: 持续时间"
 

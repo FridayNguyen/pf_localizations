@@ -17,13 +17,13 @@
 "DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_max_luminosity_Description"                                       "Starbreaker procs Luminosity on every hit, and Luminosity will always be set at max stacks after the ability ends"
 
 "DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_sleep"                                                      "Stop, Hammer Time!"
-"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_sleep_Description"                                          "The radius of Starbreaker's final smash is increased by %bonus_radius_mult%%%. All enemies hit by this final strike, including CC-immune units, take %magic_damage% additional magic damage and are put to sleep for %sleep_duration% seconds. Sleep cannot be resisted by status resistance, but it also does not affect bosses"
+"DOTA_Tooltip_Ability_dawnbreaker_starbreaker_lua_smash_sleep_Description"                                          "The radius of Starbreaker's final smash is increased by %bonus_radius_mult%%%. All enemies hit by this final strike, including stun-immune units, take %magic_damage% additional magic damage and are put to sleep for %sleep_duration% seconds. Sleep cannot be resisted by status resistance, but it also does not affect bosses"
 
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_skewer"                                                      "Righteous Momentum"
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_skewer_Description"                                          "Celestrial Hammer drags along any enemy unit in its path. Upon hitting the ground, all units within a %radius% radius of Celestrial Hammer are instantly damaged by an attack from Dawnbreaker, then stunned for %attack_stun% seconds"
 
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion"                                                    "Echoes of the First Light"
-"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion_Description"                                        "Celestrial Hammer creates an illusion of Dawnbreaker each time it hits an enemy unit. These illusions deal %illusion_damage_pct%%% damage, take %illusion_incoming_dmg%%% damage, and are fully capable of proccing Luminosity"
+"DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_illusion_Description"                                        "Celestrial Hammer has a %chance%%% chance to create an illusion of Dawnbreaker each time it hits an enemy unit. These illusions deal %illusion_damage_pct%%% damage, take %illusion_incoming_dmg%%% damage, and are fully capable of proccing Luminosity"
 
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_trail_heal"                                                  "Road to Eden"
 "DOTA_Tooltip_Ability_dawnbreaker_celestial_hammer_lua_trail_heal_Description"                                      "Celestrial Hammer's fire trail now heals and increases the movement speed of allied heroes. Any friendly hero healed by Luminosity will also leave a fire trail of their own for %duration% seconds"
@@ -32,7 +32,7 @@
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_charge_Description"                                                "Dawnbreaker can now activate Luminosity to launch herself toward any enemy unit within a %range% radius. Upon arriving at the target, Dawnbreaker stuns all enemies within a %aoe% radius for %stun_duration% seconds. While charging, Dawnbreaker is invulnerable and leaves behind a trail of Celestrial Hammer fire ( 10 seconds cooldown, 25 mana )"
 
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking"                                                          "Lux Immortalis"
-"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking_Description"                                              "Each time Dawnbreaker attacks, she gain a stack of Lux Immortalis. Each stack grants Dawnbreaker %damage_reduction%%% damage reduction and %status_resist%%% status resistance, up to a maximum of %max_stacks% stacks. If Dawnbreaker stops attacking for %reset_time% seconds, the stack count immediately decays, unless she is channeling Solar Guardian"
+"DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_stacking_Description"                                              "Each time Dawnbreaker attacks, she gain a stack of Lux Immortalis. Each stack grants Dawnbreaker %damage_reduction%%% damage reduction, up to a maximum of %max_stacks% stacks. If Dawnbreaker stops attacking for %reset_time% seconds, the stack count immediately decays, unless she is channeling Solar Guardian"
 
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion"                                                         "Confessions in the Dark"
 "DOTA_Tooltip_Ability_dawnbreaker_luminosity_lua_explosion_Description"                                             "If an enemy unit dies within %duration% seconds of being hit by a Luminosity critical strike, it will explodes in a %aoe% radius, damaging enemies and healing allied heroes for %health_pct%%% of its max health. Luminosity critical strike also bash the target, stunning them for %stun_duration% seconds"
@@ -47,7 +47,7 @@
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_permanent_Description"                                         "Consume 100% of Dawnbreaker's current mana to permanently bless a location, causing it to radiates lesser Solar Guardian pulses of the current level, damaging and healing for %value_mult%%% of the ability's values. Can only be used once per room, but the effect will last until the end of the encounter \n<font color=\"#9acd32\">Requires a level in Solar Guardian</font>"
 
 "DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture"                                                       "Stairway to Heaven"
-"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture_Description"                                           "Solar Guardian now captures all nearby enemies, taking them unto the sky with Dawnbreaker. Upon landing, Dawnbreaker gains complete immunity against physical and magical damage for %buff_duration% seconds. While Solar Guardian is channeling, Dawnbreaker is spell-immune and stuns all enemies within the capture radius"
+"DOTA_Tooltip_Ability_dawnbreaker_solar_guardian_lua_capture_Description"                                           "Solar Guardian now captures all nearby enemies, taking them unto the sky with Dawnbreaker. Upon landing, Dawnbreaker gains complete immunity against physical and magical damage for %buff_duration% seconds"
 
 
 >---------------------------------------
