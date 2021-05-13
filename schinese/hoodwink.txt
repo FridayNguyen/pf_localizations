@@ -24,6 +24,9 @@
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "接骨木果香"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "一箭穿心会在弹道上持续创造橡树，在一箭穿心充能时，森海飞霞减少 %damage_reduction%% 承受伤害。"
 
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_spread"                                           "万箭穿心"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_spread_Description"                               "一箭穿心在森海飞霞前方扇形区域内的射出 %extra_shots% 支弩箭"
+
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce"                                           "自然之力"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "一箭穿心会对第弹道上的非首领单位造成半额伤害并减速。"
 
