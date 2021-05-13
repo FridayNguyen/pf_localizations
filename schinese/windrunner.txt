@@ -20,7 +20,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "风行者的攻击也会传递到被束缚击捆绑的单位身上。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep"					        "萧瑟"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "束缚击眩晕结束后敌人会陷入 %duration% 秒的沉睡。"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "束缚击眩晕结束后敌人会陷入 %duration% 秒的沉睡。The sleep effect can disable even stun-immune enemies, excluding bosses"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot"				        "风卷残云"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot_Description"			"强力击可以射出三根独立的箭矢。"

@@ -20,7 +20,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_armor_Description"		        "All attacks by Windranger now also multi-shot unto all enemy units currently stunned by Shackleshot"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep"					        "Autumn Chill"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "Враги погружаются в сон на %duration% сек. после окончания оглушения от Shackleshot."
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_shackleshot_sleep_Description"		        "Враги погружаются в сон на %duration% сек. после окончания оглушения от Shackleshot. The sleep effect can disable even stun-immune enemies, excluding bosses"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot"				        "Sweeping Gale"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_multishot_Description"			"Теперь Powershot выпускает три стрелы, каждая из которых наносит полный урон способности."

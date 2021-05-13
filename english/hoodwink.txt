@@ -24,6 +24,9 @@
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving"                                           "Smelt of Elderberries"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_moving_Description"                               "Sharpshooter projectils now continuously creates trees in its path. While charging up Sharpshoopter, Hoodwink takes %damage_reduction%%  less damage from all sources"
 
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_spread"                                           "Furryan Rejection Mechanism"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_spread_Description"                               "Sharpshooter now fires %extra_shots% extra projectiles spreaded in a cone in front of Hoodwink"
+
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce"                                           "Force A' Nature"
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "Sharpshooter projectile now pierces through the first enemy captain hit, while dealing half damage and slowing any non-captain unit in the way"
 
