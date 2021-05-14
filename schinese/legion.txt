@@ -17,7 +17,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows_Description"	                            		"决斗过程中每秒对决斗目标释放一次当前等级的压倒性优势"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion"		                                        	"保安在哪？！"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"Duel passively summons %soldier_count% permanent immortal squid to fight for Legion Commander, each dealing %stat_percent%%% of her total attack damage. If any of these creature successfully kills an enemy, Legion Command gain %reward_percent%%% of Duel reward damage"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"Duel passively summons %soldier_count% permanent immortal squid to fight for Legion Commander, each dealing %stat_percent%%% of her total attack damage. If any of these creature successfully kills an enemy, Legion Command gains %reward_percent%%% of Duel reward damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge"		                                            	"醒了醒了！"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"决斗时军团指挥官对 %radius% 范围内的友方英雄释放当前等级的强攻。同时强攻会为友方英雄额外回复军团指挥官最大生命值 %max_health_heal%% 的生命。"
