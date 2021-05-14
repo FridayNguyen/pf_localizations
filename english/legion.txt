@@ -17,7 +17,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows_Description"	                            		"While under the effect of Duel, Legion Commander's opponent is hit with the current level of Overwhelming Odds every second"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion"		                                        	"Tonight, Dine in Hell"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"Upon casting Duel, Legion Commander summons the Ashen Legion to battle all other nearby enemy units within a large 1000 radius. These Ashen warriors possess %stat_percent%%  of Legion Commander's attack damage, and would last for the duration of the ability."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"Duel passively summons %soldier_count% permanent immortal squid to fight for Legion Commander, each dealing %stat_percent%%% of her total attack damage. If any of these creature successfully kills an enemy, Legion Command gain %reward_percent%%% of Duel reward damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge"		                                            	"So You're Finally Awake"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"While dueling an enemy, Legion Commander will cast the current level of Press the Attack on all friendly heroes within a %radius% radius. Each cast will additionally heal the affected units for %max_health_heal%%  of Legion Commander's max health"

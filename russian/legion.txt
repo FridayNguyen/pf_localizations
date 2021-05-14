@@ -17,7 +17,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows_Description"	                            		"Во время дуэли на противника Legion Commander каждую секунду применяется Overwhelming Odds текущего уровня."
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion"		                                        	"Tonight, Dine in Hell"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"На время дуэли Legion Commander призывает легион воинов, которые сражаются с врагами в радиусе 1000. Воины наносят %stat_percent%%  урона героя и существуют до окончания дуэли."
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"Duel passively summons %soldier_count% permanent immortal squid to fight for Legion Commander, each dealing %stat_percent%%% of her total attack damage. If any of these creature successfully kills an enemy, Legion Command gain %reward_percent%%% of Duel reward damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge"		                                            	"So You're Finally Awake"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"Во время дуэли герой применяет Press the Attack текущего уровня на всех союзников в радиусе %radius%. Каждое применение также исцеляет их на %max_health_heal%%  максимального здоровья Legion Commander."
