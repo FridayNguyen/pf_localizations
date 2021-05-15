@@ -14,10 +14,10 @@
 "DOTA_Tooltip_Ability_pathfinder_special_lc_global_arrows_dummy_Description"		                    	"军团指挥官获得全新技能：箭雨远征。在原地引导石堂城的弓箭手释放箭雨，每0.8秒对全图视野内的随机敌人释放一次压倒性优势，最多引导8秒。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows"		                                        	"清场"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows_Description"	                            		"决斗过程中每秒对决斗目标释放一次当前等级的压倒性优势"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_arrows_Description"	                            		"决斗过程中每秒对决斗目标释放一次当前等级的压倒性优势。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion"		                                        	"保安在哪？！"
-"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"Duel passively summons %soldier_count% permanent immortal squid to fight for Legion Commander, each dealing %stat_percent%%% of her total attack damage. If any of these creature successfully kills an enemy, Legion Command gains %reward_percent%%% of Duel reward damage"
+"DOTA_Tooltip_Ability_pathfinder_special_lc_duel_legion_Description"                            			"释放决斗时召唤 %soldier_count% 个古铜军团士兵，古铜军团士兵继承军团指挥官 %stat_percent%%% 的攻击力。古铜军团士兵击杀敌人时军团指挥官获得 %reward_percent%%% 当前等级决斗胜利攻击力加成。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge"		                                            	"醒了醒了！"
 "DOTA_Tooltip_Ability_pathfinder_special_lc_duel_purge_Description"		                                	"决斗时军团指挥官对 %radius% 范围内的友方英雄释放当前等级的强攻。同时强攻会为友方英雄额外回复军团指挥官最大生命值 %max_health_heal%% 的生命。"
