@@ -89,7 +89,7 @@
 "windranger_shackleshot_lua_stun_duration"			                                            "+{s:value}s {s:ability_name} Stun Duration"
 "windranger_shackleshot_lua_shackle_distance"		                                        	"+{s:value} {s:ability_name} Latching Distance"
 "windranger_shackleshot_lua_shackle_angle"		                                            	"+{s:value} degrees {s:ability_name} Latching Angle"
-"windranger_shackleshot_lua_shackle_shackle_count"		                                        "+{s:value} degrees {s:ability_name} Targets Count"
+"windranger_shackleshot_lua_shackle_shackle_count"		                                        "+{s:value} {s:ability_name} Targets Count"
 "windranger_windrun_lua_duration"				                                        		"+{s:value}s {s:ability_name} Duration"
 "windranger_windrun_lua_movespeed_bonus_pct"		                                        	"+{s:value}% {s:ability_name} Movespeed Bonus"
 "windranger_powershot_lua_powershot_damage"			                                            "+{s:value} {s:ability_name} Damage"

@@ -91,6 +91,7 @@
 "windranger_shackleshot_lua_stun_duration"			                                            "+{s:value} сек. к длительности оглушения {s:ability_name}"
 "windranger_shackleshot_lua_shackle_distance"		                                        	"+{s:value} к дальности связки {s:ability_name}"
 "windranger_shackleshot_lua_shackle_angle"		                                            	"+{s:value} градусов к углу связки {s:ability_name}"
+"windranger_shackleshot_lua_shackle_shackle_count"		                                        "+{s:value} {s:ability_name} Targets Count"
 "windranger_windrun_lua_duration"				                                        		"+{s:value} сек. к длительности {s:ability_name}"
 "windranger_windrun_lua_movespeed_bonus_pct"		                                        	"+{s:value}% к скорости от {s:ability_name}"
 "windranger_powershot_lua_powershot_damage"			                                            "+{s:value} к урону от {s:ability_name}"
