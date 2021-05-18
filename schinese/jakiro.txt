@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction_Description"	"被烈焰焚身焚烧的敌人死亡时会减少烈焰焚身 %cd_percent%% 冷却时间。"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies"	                        "融核熔炉"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"液态火可以对友方英雄释放，治疗友军液态火伤害量的200%，并提供额外的攻击速度。"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"Liquid Fire can now target and affect allied heroes, healing them for 150% of the ability's damage"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre"                  	"火毒术"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre_Description"      	"被液态火灼烧的敌人死亡时有 %chance%% 的几率在身后释放一个小范围的烈焰焚身，持续时间为烈焰焚身的一半。"

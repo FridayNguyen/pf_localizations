@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction_Description"	"Каждый враг, погибший под воздействием Macropyre, уменьшает перезарядку этой способности на %cd_percent%%."
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies"	                        "Molten Blood Transfusion"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"Теперь Liquid Fire можно направить и применить на союзников, исцелив их на 200% урона способности и наделив дополнительной скоростью атаки."
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"Liquid Fire can now target and affect allied heroes, healing them for 150% of the ability's damage"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre"                  	"Warm Personality"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre_Description"      	"Если враг умрет под действием Liquid Fire, он с вероятностью в %chance%%  может оставить на своем месте лужицу Macropyre текущего уровня. Время существования лужицы равняется половине общей длительности способности Macropyre."

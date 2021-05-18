@@ -19,7 +19,7 @@
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_bkb_Description"						"Phoenix gains spell immunity during Icarus Dive. For %duration% seconds after the flight ends, Phoenix has flying movement and %speed_bonus_pct%%% bonus movement speed"
 
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby"									"Grass Grows, Bird Flies, Sun Shines"
-	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby_Description"						"During Icarus Dive, Phoenix continuously attacks all enemies within a %radius% radius every %interval% seconds. These attacks can proc on-hit effects"
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby_Description"						"Any enemy unit hit by Icarus Dive will additionally be attacked %attack_count% times by Phoenix. These attacks can proc on-hit effects from abilities and items"
 
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike"							"Aggressive Tanning"

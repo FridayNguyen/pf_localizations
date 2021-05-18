@@ -35,7 +35,7 @@
 "DOTA_Tooltip_Ability_pathfinder_jakiro_macropyre_cooldown_reduction_Description"	"Any enemy units that dies while affected by Macropyre will reduce the cooldown of the ability by %cd_percent%% "
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies"	                        "Molten Blood Transfusion"
-"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"Liquid Fire can now target and affect allied heroes, healing them for 200% of the ability's damage as well as granting them bonus attack speed"
+"DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_allies_Description"         	"Liquid Fire can now target and affect allied heroes, healing them for 150% of the ability's damage"
 
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre"                  	"Warm Personality"
 "DOTA_Tooltip_Ability_pathfinder_jakiro_liquid_fire_macropyre_Description"      	"Any enemy units that dies while affected by Liquid Fire has a %chance%%  chance to leave behind a Macropyre puddle of the current level. The puddle's lifetime equals to half the duration of the Ultimate ability"

@@ -19,7 +19,7 @@
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_bkb_Description"						"凤凰冲击时魔免，落地后 %duration% 内移动速度提升 %speed_bonus_pct%%% 且无视地形。"
 
 	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby"									"草长莺飞二月天"
-	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby_Description"						"释放凤凰冲击的飞行过程中，凤凰每 %interval% s对 %radius% 范围内的敌人进行攻击，攻击继承攻击特效。"
+	"DOTA_Tooltip_ability_pathfinder_icarus_dive_flyby_Description"						"Any enemy unit hit by Icarus Dive will additionally be attacked %attack_count% times by Phoenix. These attacks can proc on-hit effects from abilities and items"
 
 
 	"DOTA_Tooltip_ability_pathfinder_fire_spirit_sun_strike"							"阳炎精灵"
