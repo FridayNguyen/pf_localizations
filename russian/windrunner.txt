@@ -29,7 +29,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet_Description"				"Поразив цель, Powershot до %bounce% раз отскакивает в другого врага, который находится дальше всего в радиусе %search_radius%. "
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"Semiautomatic Assault Archery"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"If Powershot is casted while auto-cast is toggled on, its fires 9 non-piercing shots, each dealing %damage_percent%%  damage"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"If Powershot is casted while auto-cast is toggled on, its fires 8 non-piercing shots, each dealing %damage_percent%%  damage"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe"	                            "Picnic in The Park"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "Использование Windrun также накладывает эффект способности на союзных героев в радиусе %radius%."

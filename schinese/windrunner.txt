@@ -29,7 +29,7 @@
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_ricochet_Description"				"强力击命中第一个敌人后向 %search_radius% 范围内最远的目标折射，最多折射 %bounce% 次。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating"						"诸葛连弩"
-"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"强力击成为开关技能，开启时强力击可以射出9个造成 %damage_percent%% 伤害的弩箭，但弩箭只对碰到的第一个敌人造成伤害。"
+"DOTA_Tooltip_Ability_pathfinder_special_windranger_powershot_repeating_Description"			"强力击成为开关技能，开启时强力击可以射出8个造成 %damage_percent%% 伤害的弩箭，但弩箭只对碰到的第一个敌人造成伤害。"
 
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe"	                            "路边野餐"
 "DOTA_Tooltip_Ability_pathfinder_special_windranger_windrun_aoe_Description"	                "释放风行为 %radius% 范围内友军提供风行的加成效果。"
