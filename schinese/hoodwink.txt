@@ -31,7 +31,7 @@
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "一箭穿心会对第弹道上的非首领单位造成半额伤害并减速。"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset"                                            "森海魅影"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "一箭穿心击杀敌人时不进入冷却，同时对自己施加一个当前等级的密林奔走状态。"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy unit, its cooldown will be reduced by %reduction% seconds. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "脑子进橡子"
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "森海飞霞的攻击有 %chance%% 几率对目标施放当前等级的爆栗出击。"
@@ -58,7 +58,7 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot"                                                    "爆栗出击"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Description"                                        "森海飞霞向目标发射一颗橡栗，可以弹射至附近敌人，造成减速和额外伤害。可以对地面施放，种出一棵树，而橡栗会弹射至附近目标。"
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Description"                                        "Hoodwink attacks with an acorn at the target unit. The acorn bounces to nearby targets, slowing them and dealing bonus damage. If ground-targeted or autocast is enabled, a tree is created at the target position and the acorn will bounce to nearby targets."
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_range"                                        "额外攻击距离: "
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_damage"                                       "额外伤害: "
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bounce_count"                                       "弹射次数: "

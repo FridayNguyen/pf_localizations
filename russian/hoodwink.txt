@@ -28,7 +28,7 @@
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "Sharpshooter снаряд пробивает первого капитана на своем пути, нанося 50% урона и замедляя цели за капитаном."
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset"                                            "There's A Mouse With A Bow Over There"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy unit, its cooldown will be immediately reset. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy unit, its cooldown will be reduced by %reduction% seconds. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "Get Nutted"
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "Каждая атака Hoodwink имеет шанс %chance%%  запустить текущий уровень Acorn Shot по атакованной цели."
@@ -55,7 +55,7 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot"                                                    "Acorn Shot"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Description"                                        "Hoodwink кидает желудь в указанную цель. Желудь отскакивает к целям рядом, замедляя цели и нанося урон, как если бы Hoowdink сама атаковала противников. Если указана земля, выращивает дерево от которого отскакивает желудь в ближайших врагов."
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Description"                                        "Hoodwink attacks with an acorn at the target unit. The acorn bounces to nearby targets, slowing them and dealing bonus damage. If ground-targeted or autocast is enabled, a tree is created at the target position and the acorn will bounce to nearby targets."
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_range"                                        "Бонусная дельность: "
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_damage"                                       "Бонусный урон: "
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bounce_count"                                       "Количество отскоков: "

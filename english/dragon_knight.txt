@@ -29,7 +29,7 @@
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_tail_chain_Description"	                        "Dragon Tail tethers Dragon Knight to the primary target. While linked, Dragon Knight can never be killed by the target, and %reflect_percentage%%% of the damage he takes is reflected back unto the tethered opponent. The tether lasts %duration% seconds, and has a maximum length of %max_distance% "
 
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage"	                                "Boiling Veins"
-"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage_Description"	                    "Dragon Blood passively charges up every second, empowering Dragon Knight's next strike with bonus magical damage. The amount of bonus damage gained every second is equals to Dragon Knight's total health regeneration. The bonus damage is maxed after %max_stack% seconds, and is reset after every attack. If proc at maximum damage, the attack also heals Dragon Knight for %heal%%% of damage dealt"
+"DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_damage_Description"	                    "Dragon Blood passively charges up over %max_stack% seconds, empowering Dragon Knight's next strike with bonus magical damage. The amount of bonus damage gained every second is equals to Dragon Knight's total health regeneration. If proc at maximum damage, the attack also heals Dragon Knight for %heal%%% of damage dealt"
 
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold"	                                    "Hoard of Babylon"
 "DOTA_Tooltip_Ability_pathfinder_dk_dragon_blood_gold_Description"	                        "For every %gold_per_armor% gold unspent, Dragon Knight gains 1 bonus armor. For every %gold_per_magic_resist% gold unspent, he also gain 1% magic resistance"
@@ -134,7 +134,7 @@
 
 "DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_stun_duration_Description"				                "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Stun Duration by %value% seconds"
 "DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_attack_damage_Description"				                "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Instant Attack Damage by %value%%% "
-"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_radius_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Effect Raduys by %value% "
+"DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_radius_Description"				                    "<h1>Common Scepter Fragment</h1>Increases Dragon Tail Effect Radius by %value% "
 "DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_tail_pct_cooldown_Description"				                "<h1>Common Scepter Fragment</h1>Decreases Dragon Tail Cooldown by %value%%%"
 
 "DOTA_Tooltip_Ability_item_pathfinder_dk_dragon_blood_bonus_health_regen"				                    "Dragon Blood - Bonus Health Regeneration"

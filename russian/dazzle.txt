@@ -1,0 +1,210 @@
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO START-----------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>---------------------------------------
+>--- LEGENDARY -------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_pf_poison_touch_spread"                           "Infection Mandate"
+"DOTA_Tooltip_Ability_pf_poison_touch_spread_Description"               "Poison Touch projectiles now mini-stun on impact. If a unit debuffed by Poison Touch is attacked by Dazzle, it will spread the debuff to %targets% nearby units"
+
+"DOTA_Tooltip_Ability_pf_poison_touch_ward"                             "Prince Bongo"
+"DOTA_Tooltip_Ability_pf_poison_touch_ward_Description"                 "Enemies dying while debuffed by Poison Touch has a %chance%%% chance to spawn a ward that pulse %pulse% times with the current level of Shadow Wave"
+
+"DOTA_Tooltip_Ability_pf_poison_touch_chain"                            "Communal Discharge"
+"DOTA_Tooltip_Ability_pf_poison_touch_chain_Description"                "Poison Touch launches a single bouncing projectile, dealing physical impact damage equals to %int_damage%%% of Dazzle's total intelligence while splashing for %splash_percent%%% in a small radius. The number of bounces is equal to the ability's max targets, and the impact applies twice as many Poison Touch stacks"
+
+
+"DOTA_Tooltip_Ability_pf_shallow_grave_invis"                           "Weaversong Lullaby"
+"DOTA_Tooltip_Ability_pf_shallow_grave_invis_Description"               "Shallow Grave causes the affected units to become invisible while granting them %speed_bonus% bonus movement speed and %regen_bonus% bonus health regeneration"
+
+"DOTA_Tooltip_Ability_pf_shallow_grave_aoe"                             "Mass Burial"
+"DOTA_Tooltip_Ability_pf_shallow_grave_aoe_Description"                 "Shallow Graves applies to all friendly heroes within a %radius% radius of the target. Any enemy caught within this radius is hexed for %hex_duration%%% of Shallow Grave's duration"
+
+"DOTA_Tooltip_Ability_pf_shallow_grave_ground"                          "Hallowed Ground"
+"DOTA_Tooltip_Ability_pf_shallow_grave_ground_Description"              "Shallow Grave can be ground targeted to create a shadow pool. Any friendly unit standing within the radius receives %heal_amp%%% healing amplification. If a friendly hero takes lethal damage within the area, they will be instantly blessed with Shallow Grave. The pool lasts indefinitely until its effect is proc'd or Dazzle casts Shallow Grave again"
+
+
+"DOTA_Tooltip_Ability_pf_shadow_wave_enemy"                             "Chapel of Woe"
+"DOTA_Tooltip_Ability_pf_shadow_wave_enemy_Description"                 "Shadow Wave can now be cast on enemies, causing it to bounce between enemy units, dealing damage while healing nearby friendly heroes for %heal_mult%%% of the amount. When used this way there are %bounce_mult% times as many bounces"
+
+"DOTA_Tooltip_Ability_pf_shadow_wave_proc"                              "Heal of a Deal"
+"DOTA_Tooltip_Ability_pf_shadow_wave_proc_Description"                  "While attacking an enemy afflicted with Poison Touch, Dazzle has a %chance%%% chance to cause a Shadow Wave of the current level to bounce to a nearby valid target. This can proc Bad Juju"
+
+"DOTA_Tooltip_Ability_pf_shadow_wave_dispel"                            "Disco Sermon"
+"DOTA_Tooltip_Ability_pf_shadow_wave_dispel_Description"                "The first bounce of Shadow Wave has global range. Any friendly hero healed by Shadow Wave also receives a strong dispel that cleanses stuns and most debuffs"
+
+
+"DOTA_Tooltip_Ability_pf_bad_juju_attacks"                              "Sacred Fondling"
+"DOTA_Tooltip_Ability_pf_bad_juju_attacks_Description"                  "Any time Dazzle casts a spell, he automatically launches %targets% attacks toward nearby enemies within the effect radius of Bad Juju"
+
+"DOTA_Tooltip_Ability_pf_bad_juju_heal"                                 "Purple Rain"
+"DOTA_Tooltip_Ability_pf_bad_juju_heal_Description"                     "Each time Dazzle casts a spell, all allies within the Bad Juju effect radius is blessed with a purple mist that restore %heal_percent%%% of their max health and mana every second. The duration is the same as Bad Juju's debuff duration, and is refreshed when reapplied"
+
+"DOTA_Tooltip_Ability_pf_bad_juju_raze"                                 "Never More Blessed"
+"DOTA_Tooltip_Ability_pf_bad_juju_raze_Description"                     "Bad Juju gains a stack each time Dazzle successfully casts a spell. At %max_stack% stacks, the counter is reset, and a shadow raze is summoned under every single enemy unit within Bad Juju's radius, dealing %int_damage%%% of Dazzle's intelligence as physical damage"
+
+
+
+>---------------------------------------
+>--- ABILITY ---------------------------
+>---------------------------------------
+
+			
+"DOTA_Tooltip_Ability_pf_poison_touch"                                      "Poison Touch"
+"DOTA_Tooltip_Ability_pf_poison_touch_Description"                          "Releases a cone of poison that strikes multiple enemy units. Deals damage over time and slows the targets. Anytime the targets get attacked by Dazzle, the debuff duration is refreshed. Poison can stack multiple times, dealing increased damage"
+"DOTA_Tooltip_Ability_pf_poison_touch_targets"                              "TARGETS: "
+"DOTA_Tooltip_Ability_pf_poison_touch_damage"                               "DAMAGE PER SECOND: "
+"DOTA_Tooltip_Ability_pf_poison_touch_max_stack"                            "MAX STACKS: "
+"DOTA_Tooltip_Ability_pf_poison_touch_slow"                                 "%SLOW: "
+"DOTA_Tooltip_Ability_pf_poison_touch_duration"                             "DURATION: "
+"DOTA_Tooltip_Ability_pf_poison_touch_end_distance"                         "RANGE: "
+
+"DOTA_Tooltip_Ability_pf_shallow_grave"                                      "Shallow Grave"
+"DOTA_Tooltip_Ability_pf_shallow_grave_Description"                          "An ally blessed with Shallow Grave, no matter how close to death, cannot die while under its protection."
+"DOTA_Tooltip_Ability_pf_shallow_grave_duration"                             "DURATION: "
+"DOTA_Tooltip_Ability_pf_shallow_grave_cast_range"                           "RANGE: "
+
+"DOTA_Tooltip_Ability_pf_shadow_wave"                                      "Shadow Wave"
+"DOTA_Tooltip_Ability_pf_shadow_wave_Description"                          "Sends out a bolt of power that arcs between allies, healing and granting them mana while damaging any units standing nearby. Dazzle is always healed by Shadow Wave, but does not gain any mana from it."
+"DOTA_Tooltip_Ability_pf_shadow_wave_damage_radius"                        "DAMAGE RADIUS: "
+"DOTA_Tooltip_Ability_pf_shadow_wave_bounce_radius"                        "BOUNCE DISTANCE: "
+"DOTA_Tooltip_Ability_pf_shadow_wave_max_targets"                          "TARGETS: "
+"DOTA_Tooltip_Ability_pf_shadow_wave_damage"                               "DAMAGE/HEAL: "
+"DOTA_Tooltip_Ability_pf_shadow_wave_mana"                                 "MANA GRANTED: "
+
+"DOTA_Tooltip_Ability_pf_bad_juju"                                          "Bad Juju"
+"DOTA_Tooltip_Ability_pf_bad_juju_Description"                              "Passively reduces cooldowns on your abilities and items. Anytime you cast a spell, all nearby enemies will have their armor reduced. Debuff stacks, up to a certain amount."
+"DOTA_Tooltip_Ability_pf_bad_juju_cooldown_reduction"                       "%COOLDOWN REDUCTION: "
+"DOTA_Tooltip_Ability_pf_bad_juju_armor_reduction"                          "ARMOR REDUCTION PER STACK: "
+"DOTA_Tooltip_Ability_pf_bad_juju_max_reduction"                            "MAXIMUM ARMOR REDUCTION: "
+"DOTA_Tooltip_Ability_pf_bad_juju_radius"                                   "EFFECT RADIUS: "
+"DOTA_Tooltip_Ability_pf_bad_juju_duration"                                 "DEBUFF DURATION: "
+
+
+>---------------------------------------
+>--- MINOR SHARD -----------------------
+>---------------------------------------
+
+
+"pf_poison_touch_end_distance"			                        "+{s:value} {s:ability_name} Range"
+"pf_poison_touch_targets"			                            "+{s:value} {s:ability_name} Targets"
+"pf_poison_touch_damage"			                            "+{s:value} {s:ability_name} Damage"
+"pf_poison_touch_slow"			                                "+{s:value}% {s:ability_name} Slow"
+"pf_poison_touch_duration"			                            "+{s:value}s {s:ability_name} Duration"
+"pf_poison_touch_pct_cooldown"			                        "-{s:value}% {s:ability_name} Cooldown"
+
+"pf_shadow_wave_damage_radius"			                        "+{s:value} {s:ability_name} Damage Radius"
+"pf_shadow_wave_damage"			                                "+{s:value} {s:ability_name} Damage / Heal"
+"pf_shadow_wave_mana"			                                "+{s:value} {s:ability_name} Mana Granted"
+"pf_shadow_wave_pct_cooldown"			                        "-{s:value}% {s:ability_name} Cooldown"
+
+"pf_shallow_grave_duration"			                            "+{s:value}s {s:ability_name} Duration"
+"pf_shallow_grave_cast_range"			                        "+{s:value} {s:ability_name} Cast Range"
+"pf_shallow_grave_pct_cooldown"			                        "-{s:value}% {s:ability_name} Cooldown"
+
+"pf_bad_juju_cooldown_reduction"			                    "+{s:value}% {s:ability_name} Cooldown Reduction"
+"pf_bad_juju_armor_reduction"			                        "+{s:value} {s:ability_name} Armour Reduction"
+"pf_bad_juju_max_reduction"			                            "+{s:value} {s:ability_name} Max Armour Reduction"
+"pf_bad_juju_radius"			                                "+{s:value} {s:ability_name} Effect Radius"
+"pf_bad_juju_duration"			                                "+{s:value} {s:ability_name} Debuff Duration"
+
+
+>---------------------------------------
+>--- BRISTLE SHARD ---------------------
+>---------------------------------------
+
+
+
+"DOTA_Tooltip_Ability_item_pf_poison_touch_end_distance"			                        "Poison Touch - Range"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_targets"			                                "Poison Touch - Targets"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_damage"			                                "Poison Touch - Damage"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_slow"			                                "Poison Touch - Slow"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_duration"			                            "Poison Touch - Duration"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_pct_cooldown"			                        "Poison Touch - Cooldown"
+
+"DOTA_Tooltip_Ability_item_pf_shadow_wave_damage_radius"			                        "Shadow Wave - Damage Radius"
+"DOTA_Tooltip_Ability_item_pf_shadow_wave_damage"			                                "Shadow Wave - Damage / Heal"
+"DOTA_Tooltip_Ability_item_pf_shadow_wave_mana"			                                    "Shadow Wave - Mana Granted"
+"DOTA_Tooltip_Ability_item_pf_shadow_wave_pct_cooldown"			                            "Shadow Wave - Cooldown"
+
+"DOTA_Tooltip_Ability_item_pf_shallow_grave_duration"			                            "Shallow Grave - Duration"
+"DOTA_Tooltip_Ability_item_pf_shallow_grave_cast_range"			                            "Shallow Grave - Cast Range"
+"DOTA_Tooltip_Ability_item_pf_shallow_grave_pct_cooldown"			                        "Shallow Grave - Cooldown"
+
+"DOTA_Tooltip_Ability_item_pf_bad_juju_cooldown_reduction"			                        "Bad Juju - Cooldown Reduction"
+"DOTA_Tooltip_Ability_item_pf_bad_juju_armor_reduction"			                            "Bad Juju - Armour Reduction"
+"DOTA_Tooltip_Ability_item_pf_bad_juju_max_reduction"			                            "Bad Juju - Max Armour Reduction"
+"DOTA_Tooltip_Ability_item_pf_bad_juju_radius"			                                    "Bad Juju - Effect Radius"
+"DOTA_Tooltip_Ability_item_pf_bad_juju_duration"			                                "Bad Juju - Debuff Duration"
+
+
+
+"DOTA_Tooltip_Ability_item_pf_poison_touch_end_distance_Description"			                        "<h1>Common Scepter Fragment</h1>Increases Poison Touch Range by %value%"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_targets_Description"			                                "<h1>Common Scepter Fragment</h1>Increases Poison Touch Targets by %value%"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_damage_Description"			                                "<h1>Common Scepter Fragment</h1>Increases Poison Touch Damage by %value%"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_slow_Description"			                                "<h1>Common Scepter Fragment</h1>Increases Poison Touch Slow by %value%%%"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_duration_Description"			                            "<h1>Common Scepter Fragment</h1>Increases Poison Touch Duration by %value% seconds"
+"DOTA_Tooltip_Ability_item_pf_poison_touch_pct_cooldown_Description"			                        "<h1>Common Scepter Fragment</h1>Decreases Poison Touch Cooldown by %value%%%"
+
+"DOTA_Tooltip_Ability_item_pf_shadow_wave_damage_radius_Description"			                        "<h1>Common Scepter Fragment</h1>Increases Shadow Wave Damage Radius by %value%"
+"DOTA_Tooltip_Ability_item_pf_shadow_wave_damage_Description"			                                "<h1>Common Scepter Fragment</h1>Increases Shadow Wave Damage / Heal by %value%"
+"DOTA_Tooltip_Ability_item_pf_shadow_wave_mana_Description"			                                    "<h1>Common Scepter Fragment</h1>Increases Shadow Wave Mana Granted by %value%"
+"DOTA_Tooltip_Ability_item_pf_shadow_wave_pct_cooldown_Description"			                            "<h1>Common Scepter Fragment</h1>Decreases Shadow Wave Cooldown by %value%%%"
+
+"DOTA_Tooltip_Ability_item_pf_shallow_grave_duration_Description"			                            "<h1>Common Scepter Fragment</h1>Increases Shallow Grave Duration by %value% seconds"
+"DOTA_Tooltip_Ability_item_pf_shallow_grave_cast_range_Description"			                            "<h1>Common Scepter Fragment</h1>Increases Shallow Grave Cast Range by %value%"
+"DOTA_Tooltip_Ability_item_pf_shallow_grave_pct_cooldown_Description"			                        "<h1>Common Scepter Fragment</h1>Decreases Shallow Grave Cooldown by %value%%%"
+
+"DOTA_Tooltip_Ability_item_pf_bad_juju_cooldown_reduction_Description"			                        "<h1>Common Scepter Fragment</h1>Increases Bad Juju Cooldown Reduction by %value%%%"
+"DOTA_Tooltip_Ability_item_pf_bad_juju_armor_reduction_Description"			                            "<h1>Common Scepter Fragment</h1>Increases Bad Juju Armour Reduction by %value%"
+"DOTA_Tooltip_Ability_item_pf_bad_juju_max_reduction_Description"			                            "<h1>Common Scepter Fragment</h1>Increases Bad Juju Max Armour Reduction by %value%"
+"DOTA_Tooltip_Ability_item_pf_bad_juju_radius_Description"			                                    "<h1>Common Scepter Fragment</h1>Increases Bad Juju Effect Radius by %value%"
+"DOTA_Tooltip_Ability_item_pf_bad_juju_duration_Description"			                                "<h1>Common Scepter Fragment</h1>Increases Bad Juju Debuff Duration by %value% seconds"
+
+
+
+>---------------------------------------
+>--- TALENT TREE -----------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pf_bad_juju+cooldown_reduction"                      "+{s:cooldown_reduction}% Bad Juju Cooldown Reduction"
+"DOTA_Tooltip_Ability_special_bonus_unique_pf_shallow_grave_duplicate"		            "Shallow Grave is always recasted on Dazzle"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pf_poison_touch+max_stack"                           "+{s:max_stack} Poison Touch Max Stacks"
+"DOTA_Tooltip_Ability_special_bonus_pathfinder_pf_shadow_wave+damage"                            "+{s:damage} Shadow Wave Damage and Heal"
+
+
+>---------------------------------------
+>--- MODIFIER --------------------------
+>---------------------------------------
+
+
+"DOTA_Tooltip_modifier_pf_bad_juju_passive"                                                         "Bad Juju"
+"DOTA_Tooltip_modifier_pf_bad_juju_passive_Description"                                             "The only good juju is a bad juju"
+
+"DOTA_Tooltip_modifier_pf_bad_juju_heal"                                                            "Purple Rain"
+"DOTA_Tooltip_modifier_pf_bad_juju_heal_Description"                                                "Purple rain, purple rain. I only wanted to see you. Underneath the purple rain"
+
+"DOTA_Tooltip_modifier_pf_bad_juju_debuff"                                                          "Armour Reduced"
+"DOTA_Tooltip_modifier_pf_bad_juju_debuff_Description"                                              "By the juju"
+
+"DOTA_Tooltip_modifier_pf_poison_touch"                                                             "Poison Touched"
+"DOTA_Tooltip_modifier_pf_poison_touch_Description"                                                 "inappropriately"
+
+"DOTA_Tooltip_modifier_pf_shallow_grave_buff"                                                       "Shallow Graved"
+"DOTA_Tooltip_modifier_pf_shallow_grave_buff_Description"                                           "If you or someone you know is contemplating suicide, please reach out. You can find help at a National Suicide Prevention Lifeline"
+
+
+
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>-HERO END-------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------
+>----------------------------------------------------------------------------------------------------------------------------------------------

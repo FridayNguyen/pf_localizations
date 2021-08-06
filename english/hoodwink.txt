@@ -31,7 +31,7 @@
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_pierce_Description"                               "Sharpshooter projectile now pierces through the first enemy captain hit, while dealing half damage and slowing any non-captain unit in the way"
 
 "DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset"                                            "There's A Mouse With A Bow Over There"
-"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy unit, its cooldown will be immediately reset. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
+"DOTA_Tooltip_Ability_pathfinder_sharpshooter_reset_Description"                                "If Sharpshoopter kills an enemy unit, its cooldown will be reduced by %reduction% seconds. Hoodwink will be buffed with the current level of Scurry when this effect occurs"
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack"                                             "Get Nutted"
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_attack_Description"                                 "Each of Hoodwink's attacks now has a %chance%%  chance of launching the current level of Acorn Shot at the targeted unit"
@@ -58,7 +58,7 @@
 >---------------------------------------
 
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot"                                                    "Acorn Shot"
-"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Description"                                        "Hoodwink attacks with an acorn at the target unit. The acorn bounces to nearby targets, slowing them and dealing bonus damage. If point targeted, a tree is created at the target position and the acorn will bounce to nearby targets."
+"DOTA_Tooltip_Ability_pathfinder_acorn_shot_Description"                                        "Hoodwink attacks with an acorn at the target unit. The acorn bounces to nearby targets, slowing them and dealing bonus damage. If ground-targeted or autocast is enabled, a tree is created at the target position and the acorn will bounce to nearby targets."
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_range"                                        "Bonus Range: "
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bonus_damage"                                       "Bonus Damage: "
 "DOTA_Tooltip_Ability_pathfinder_acorn_shot_bounce_count"                                       "Number of Bounces: "
