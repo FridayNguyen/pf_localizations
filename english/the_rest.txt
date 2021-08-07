@@ -10,7 +10,7 @@
 "DOTA_GameMode_19"													"Aghanim's Pathfinders"
 
 "aghanim_bonus_round_time_left"										"TIME LEFT"
-"aghanim_bonus_round_total_gold"									"Total Gold"
+"aghanim_bonus_round_total_gold"									"Total Bags"
 "DOTA_Defeated"														"Your team has perished!"
 
 "dota_game_end_victory_title_radiant"	"Thank you for playing Aghanim's Pathfinders!"
@@ -145,7 +145,7 @@
 "navigate_the_traps"						"Navigate the Traps and Reach the Goal"
 "kill_scarab_priests"						"Defeat the Scarab Priests"
 "defeat_the_alchemists"						"Defeat the Alchemists"
-"defeat_boss_npc_dota_boss_void_spirit"		"Defeat the Universally Hated Half-Naked Dude"
+"defeat_boss_npc_dota_boss_void_spirit"		"Defeat the Purple Dude"
 "defeat_boss_npc_dota_creature_temple_guardian"		"Crash Omniknight's Family Reunion"
 "defeat_boss_npc_dota_creature_storegga"	"Defeat Aghanim's Ex"
 "defeat_boss_npc_dota_boss_aghanim"			"Defeat Rubick's Dad"
@@ -330,7 +330,7 @@
 
 "npc_dota_boss_timbersaw"					"Rizzrick"
 "npc_dota_creature_timbersaw_treant"		"Little Ent"
-"npc_dota_boss_void_spirit"					"Universally Hated Half-Naked Purple Man"
+"npc_dota_boss_void_spirit"					"Universally Hated Purple Man"
 "npc_dota_earth_spirit_statue"				"an inanimated object"
 "npc_dota_earth_spirit_boss"				"Kaolin Guardian"
 "npc_dota_boss_visage"						"Warden of the Narrow Maze"
